@@ -1,0 +1,5 @@
+# Build the base project
+run file dengueBaseProject.glue
+
+# Build the extension project
+run file dengueExtensionProject.glue

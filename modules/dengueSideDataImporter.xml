@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<textFilePopulator>
+
+    <columnDelimiterRegex>\t</columnDelimiterRegex>
+    
+    <textFileColumn>
+        <identifier>true</identifier>
+        <header>id</header>
+        <property>sequenceID</property>
+    </textFileColumn>
+
+    <textFileColumn>
+        <header>serotype</header>
+        <property>serotype</property>
+    </textFileColumn>
+
+    <textFileColumn>
+        <header>genotype</header>
+        <property>genotype</property>
+    </textFileColumn>
+
+    <textFileColumn>
+        <header>isolate</header>
+        <property>isolate_data.isolate</property>
+    </textFileColumn>
+
+    <textFileColumn>
+        <header>country</header>
+        <property>isolate_data.country</property>
+		<overwriteExistingNonNull>true</overwriteExistingNonNull> <!-- will not update to NULL --> 
+    </textFileColumn>
+
+    <textFileColumn>
+        <header>place_sampled</header>
+        <property>isolate_data.place_sampled</property>
+    </textFileColumn>
+
+    <textFileColumn>
+        <header>collection_year</header>
+        <property>isolate_data.collection_year</property>
+    </textFileColumn>
+
+    <textFileColumn>
+        <header>collection_month</header>
+        <property>isolate_data.collection_month</property>
+    </textFileColumn>
+
+    <textFileColumn>
+        <header>collection_month_day</header>
+        <property>isolate_data.collection_month_day</property>
+    </textFileColumn>
+
+    <textFileColumn>
+        <header>sampled_host_sci_name</header>
+        <property>isolate_data.sampled_host_sci_name</property>
+    </textFileColumn>
+
+    <skipMissing>true</skipMissing>
+
+</textFilePopulator>
+

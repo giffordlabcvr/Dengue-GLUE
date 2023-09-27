@@ -1,0 +1,126 @@
+  create feature whole_genome "Whole genome"
+  feature whole_genome set field displayName "Whole genome"
+  feature whole_genome set metatag INCLUDE_IN_SUMMARY true
+
+
+  ### Coding features
+
+  create feature precursor_polyprotein -p whole_genome "Precursor polyprotein"
+  feature precursor_polyprotein set field displayName "Precursor polyprotein"
+  feature precursor_polyprotein set metatag OWN_CODON_NUMBERING true
+  feature precursor_polyprotein set metatag CODES_AMINO_ACIDS true
+
+  create feature structural_proteins -p precursor_polyprotein "Structural proteins"
+  feature structural_proteins set field displayName "Structural proteins"
+  feature structural_proteins set metatag OWN_CODON_NUMBERING true
+  feature structural_proteins set metatag CODES_AMINO_ACIDS true
+
+  create feature non_structural_proteins -p precursor_polyprotein "Non-structural proteins"
+  feature non_structural_proteins set field displayName "Non-structural proteins"
+  feature non_structural_proteins set metatag OWN_CODON_NUMBERING true
+  feature non_structural_proteins set metatag CODES_AMINO_ACIDS true
+
+
+  ### Structural proteins
+
+  ## Capsid
+
+  create feature ancC -p structural_proteins "Anchored capsid"
+  feature ancC set metatag OWN_CODON_NUMBERING true
+  feature ancC set metatag INCLUDE_IN_SUMMARY true
+  feature ancC set metatag CODES_AMINO_ACIDS true
+
+  create feature capsid -p structural_proteins "Capsid protein C"
+  feature capsid set metatag OWN_CODON_NUMBERING true
+  feature capsid set metatag INCLUDE_IN_SUMMARY true
+  feature capsid set metatag CODES_AMINO_ACIDS true
+
+
+  ## Premembrane
+
+  create feature prM -p structural_proteins "premembrane"
+  feature prM set metatag OWN_CODON_NUMBERING true
+  feature prM set metatag INCLUDE_IN_SUMMARY true
+  feature prM set metatag CODES_AMINO_ACIDS true
+
+  create feature pr -p structural_proteins "protein pr"
+  feature pr set metatag OWN_CODON_NUMBERING true
+  feature pr set metatag INCLUDE_IN_SUMMARY true
+  feature pr set metatag CODES_AMINO_ACIDS true
+
+
+  ## Membrane
+
+  create feature M -p structural_proteins "membrane"
+  feature M set metatag OWN_CODON_NUMBERING true
+  feature M set metatag INCLUDE_IN_SUMMARY true
+  feature M set metatag CODES_AMINO_ACIDS true
+
+
+  ## Envelope
+
+  create feature envelope -p structural_proteins "envelope"
+  feature envelope set metatag OWN_CODON_NUMBERING true
+  feature envelope set metatag INCLUDE_IN_SUMMARY true
+  feature envelope set metatag CODES_AMINO_ACIDS true
+
+
+  ### Non-structural proteins
+  
+  ## Non-structural protein NS1
+
+  create feature NS1 -p non_structural_proteins "NS1"
+  feature NS1 set metatag OWN_CODON_NUMBERING true
+  feature NS1 set metatag INCLUDE_IN_SUMMARY true
+  feature NS1 set metatag CODES_AMINO_ACIDS true
+
+  ## Non-structural protein NS2
+
+  create feature NS2A -p non_structural_proteins "NS2A"
+  feature NS2A set metatag OWN_CODON_NUMBERING true
+  feature NS2A set metatag INCLUDE_IN_SUMMARY true
+  feature NS2A set metatag CODES_AMINO_ACIDS true
+
+  create feature NS2B -p non_structural_proteins "NS2B"
+  feature NS2B set metatag OWN_CODON_NUMBERING true
+  feature NS2B set metatag INCLUDE_IN_SUMMARY true
+  feature NS2B set metatag CODES_AMINO_ACIDS true
+
+  ## Non-structural protein NS3
+
+  create feature NS3 -p non_structural_proteins "NS3"
+  feature NS3 set metatag OWN_CODON_NUMBERING true
+  feature NS3 set metatag INCLUDE_IN_SUMMARY true
+  feature NS3 set metatag CODES_AMINO_ACIDS true
+
+  ## Non-structural protein NS4
+
+  create feature NS4A -p non_structural_proteins "NS4A"
+  feature NS4A  set metatag OWN_CODON_NUMBERING true
+  feature NS4A  set metatag INCLUDE_IN_SUMMARY true
+  feature NS4A  set metatag CODES_AMINO_ACIDS true
+
+  create feature NS4B -p non_structural_proteins "NS4B"
+  feature NS4B  set metatag OWN_CODON_NUMBERING true
+  feature NS4B  set metatag INCLUDE_IN_SUMMARY true
+  feature NS4B  set metatag CODES_AMINO_ACIDS true
+
+  create feature 2K -p non_structural_proteins "2K"
+  feature 2K set metatag OWN_CODON_NUMBERING true
+  feature 2K set metatag INCLUDE_IN_SUMMARY true
+  feature 2K set metatag CODES_AMINO_ACIDS true
+
+  ## Non-structural protein NS5
+
+  create feature NS5 -p non_structural_proteins "NS5"
+  feature NS5 set metatag OWN_CODON_NUMBERING true
+  feature NS5 set metatag INCLUDE_IN_SUMMARY true
+  feature NS5 set metatag CODES_AMINO_ACIDS true
+
+  create feature 5UTR -p whole_genome "5' untranslated region"
+  feature 5UTR set field displayName "5' UTR"
+
+  create feature 3UTR -p whole_genome "3' untranslated region"
+  feature 3UTR set field displayName "3' UTR"
+
+

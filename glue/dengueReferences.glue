@@ -1,0 +1,161 @@
+#### Dengue serotype master reference sequences
+
+create reference  REF_MASTER_DENV1 ncbi-refseqs NC_001477 # Dengue virus 1  
+create reference  REF_MASTER_DENV2 ncbi-refseqs NC_001474 # Dengue virus 2
+create reference  REF_MASTER_DENV3 ncbi-refseqs NC_001475 # Dengue virus 3
+create reference  REF_MASTER_DENV4 ncbi-refseqs NC_002640 # Dengue virus 4
+
+#### Dengue genotype reference sequences
+
+# Genotype 1
+create reference  REF_DENV1I_AB608786    ncbi-refseqs AB608786
+create reference  REF_DENV1I_AF298808    ncbi-refseqs AF298808
+create reference  REF_DENV1I_AF350498    ncbi-refseqs AF350498
+create reference  REF_DENV1I_AY726552    ncbi-refseqs AY726552
+create reference  REF_DENV1I_AY732478    ncbi-refseqs AY732478
+create reference  REF_DENV1I_AY732480    ncbi-refseqs AY732480
+create reference  REF_DENV1I_AY732482    ncbi-refseqs AY732482
+create reference  REF_DENV1I_FJ176779    ncbi-refseqs FJ176779
+create reference  REF_DENV1I_FJ196847    ncbi-refseqs FJ196847
+create reference  REF_DENV1I_FJ469907    ncbi-refseqs FJ469907
+create reference  REF_DENV1I_GQ199835    ncbi-refseqs GQ199835
+create reference  REF_DENV1I_GQ868637    ncbi-refseqs GQ868637
+create reference  REF_DENV1I_GU131895    ncbi-refseqs GU131895
+create reference  REF_DENV1I_HQ891316    ncbi-refseqs HQ891316
+create reference  REF_DENV1II_AF180817   ncbi-refseqs AF180817
+create reference  REF_DENV1III_AY713473  ncbi-refseqs AY713473
+create reference  REF_DENV1III_AY722801  ncbi-refseqs AY722801
+create reference  REF_DENV1III_AY722802  ncbi-refseqs AY722802
+create reference  REF_DENV1III_AY722803  ncbi-refseqs AY722803
+create reference  REF_DENV1IV_AB074761   ncbi-refseqs AB074761
+create reference  REF_DENV1IV_AB189120   ncbi-refseqs AB189120
+create reference  REF_DENV1IV_AB189121   ncbi-refseqs AB189121
+create reference  REF_DENV1IV_AB204803   ncbi-refseqs AB204803
+create reference  REF_DENV1IV_DQ672561   ncbi-refseqs DQ672561
+create reference  REF_DENV1IV_DQ672564   ncbi-refseqs DQ672564
+create reference  REF_DENV1IV_EF032590   ncbi-refseqs EF032590
+create reference  REF_DENV1IV_FJ196842   ncbi-refseqs FJ196842
+create reference  REF_DENV1IV_GQ868602   ncbi-refseqs GQ868602
+create reference  REF_DENV1IV_JN697056   ncbi-refseqs JN697056
+create reference  REF_DENV1IV_NC_001477  ncbi-refseqs NC_001477
+create reference  REF_DENV1IV_U88535     ncbi-refseqs U88535
+create reference  REF_DENV1V_AB519681    ncbi-refseqs AB519681
+create reference  REF_DENV1V_AF311956    ncbi-refseqs AF311956
+create reference  REF_DENV1V_AY206457    ncbi-refseqs AY206457
+create reference  REF_DENV1V_AY277665    ncbi-refseqs AY277665
+create reference  REF_DENV1V_AY277666    ncbi-refseqs AY277666
+create reference  REF_DENV1V_DQ285559    ncbi-refseqs DQ285559
+create reference  REF_DENV1V_EU482567    ncbi-refseqs EU482567
+create reference  REF_DENV1V_FJ205875    ncbi-refseqs FJ205875
+create reference  REF_DENV1V_HQ166037    ncbi-refseqs HQ166037
+create reference  REF_DENV1V_KJ189351    ncbi-refseqs KJ189351
+
+# Genotype 2
+create reference  REF_DENV2I_AF100469    ncbi-refseqs AF100469
+create reference  REF_DENV2I_EU056811    ncbi-refseqs EU056811
+create reference  REF_DENV2I_EU056812    ncbi-refseqs EU056812
+create reference  REF_DENV2II_EU056810   ncbi-refseqs EU056810
+create reference  REF_DENV2II_EU081177   ncbi-refseqs EU081177
+create reference  REF_DENV2II_EU081179   ncbi-refseqs EU081179
+create reference  REF_DENV2II_EU081180   ncbi-refseqs EU081180
+create reference  REF_DENV2II_EU179859   ncbi-refseqs EU179859
+create reference  REF_DENV2II_FJ898454   ncbi-refseqs FJ898454
+create reference  REF_DENV2II_KC762660   ncbi-refseqs KC762660
+create reference  REF_DENV2II_KC762669   ncbi-refseqs KC762669
+create reference  REF_DENV2II_KC762680   ncbi-refseqs KC762680
+create reference  REF_DENV2II_KF041233   ncbi-refseqs KF041233
+create reference  REF_DENV2II_KJ830750   ncbi-refseqs KJ830750
+create reference  REF_DENV2II_KM279597   ncbi-refseqs KM279597
+create reference  REF_DENV2III_AB122020  ncbi-refseqs AB122020
+create reference  REF_DENV2III_AF489932  ncbi-refseqs AF489932
+create reference  REF_DENV2III_AY702036  ncbi-refseqs AY702036
+create reference  REF_DENV2III_EU482582  ncbi-refseqs EU482582
+create reference  REF_DENV2III_EU687216  ncbi-refseqs EU687216
+create reference  REF_DENV2III_EU687217  ncbi-refseqs EU687217
+create reference  REF_DENV2III_FJ898461  ncbi-refseqs FJ898461
+create reference  REF_DENV2III_GQ199868  ncbi-refseqs GQ199868
+create reference  REF_DENV2III_GQ398290  ncbi-refseqs GQ398290
+create reference  REF_DENV2III_GQ868540  ncbi-refseqs GQ868540
+create reference  REF_DENV2III_HQ999999  ncbi-refseqs HQ999999
+create reference  REF_DENV2III_M20558    ncbi-refseqs M20558
+create reference  REF_DENV2IV_AF038403   ncbi-refseqs AF038403
+create reference  REF_DENV2IV_AF204177   ncbi-refseqs AF204177
+create reference  REF_DENV2IV_HQ891023   ncbi-refseqs HQ891023
+create reference  REF_DENV2IV_KF744406   ncbi-refseqs KF744406
+create reference  REF_DENV2IV_KF744407   ncbi-refseqs KF744407
+create reference  REF_DENV2V_DQ181797    ncbi-refseqs DQ181797
+create reference  REF_DENV2V_DQ181798    ncbi-refseqs DQ181798
+create reference  REF_DENV2V_DQ181802    ncbi-refseqs DQ181802
+create reference  REF_DENV2V_DQ181804    ncbi-refseqs DQ181804
+create reference  REF_DENV2V_DQ181805    ncbi-refseqs DQ181805
+create reference  REF_DENV2V_DQ181806    ncbi-refseqs DQ181806
+create reference  REF_DENV2V_FM210211    ncbi-refseqs FM210211
+create reference  REF_DENV2V_GQ868545    ncbi-refseqs GQ868545
+create reference  REF_DENV2V_GU131896    ncbi-refseqs GU131896
+create reference  REF_DENV2V_NC_001474   ncbi-refseqs NC_001474
+create reference  REF_DENV2VI_EF105379   ncbi-refseqs EF105379
+create reference  REF_DENV2VI_EF105382   ncbi-refseqs EF105382
+create reference  REF_DENV2VI_EF105387   ncbi-refseqs EF105387
+create reference  REF_DENV2VI_EF105389   ncbi-refseqs EF105389
+create reference  REF_DENV2VI_FJ467493   ncbi-refseqs FJ467493
+
+# Genotype 3
+create reference  REF_DENV3I_AY858037    ncbi-refseqs AY858037
+create reference  REF_DENV3I_AY858039    ncbi-refseqs AY858039
+create reference  REF_DENV3I_KC762681    ncbi-refseqs KC762681
+create reference  REF_DENV3I_KC762682    ncbi-refseqs KC762682
+create reference  REF_DENV3I_KC762684    ncbi-refseqs KC762684
+create reference  REF_DENV3I_KC762685    ncbi-refseqs KC762685
+create reference  REF_DENV3I_KC762686    ncbi-refseqs KC762686
+create reference  REF_DENV3I_KC762687    ncbi-refseqs KC762687
+create reference  REF_DENV3I_KC762688    ncbi-refseqs KC762688
+create reference  REF_DENV3I_KC762689    ncbi-refseqs KC762689
+create reference  REF_DENV3I_KC762690    ncbi-refseqs KC762690
+create reference  REF_DENV3I_KC762691    ncbi-refseqs KC762691
+create reference  REF_DENV3II_AY496871   ncbi-refseqs AY496871
+create reference  REF_DENV3II_AY496873   ncbi-refseqs AY496873
+create reference  REF_DENV3II_AY496874   ncbi-refseqs AY496874
+create reference  REF_DENV3II_AY496877   ncbi-refseqs AY496877
+create reference  REF_DENV3II_AY766104   ncbi-refseqs AY766104
+create reference  REF_DENV3II_AY876494   ncbi-refseqs AY876494
+create reference  REF_DENV3II_AY923865   ncbi-refseqs AY923865
+create reference  REF_DENV3II_DQ675525   ncbi-refseqs DQ675525
+create reference  REF_DENV3II_DQ675528   ncbi-refseqs DQ675528
+create reference  REF_DENV3II_DQ675532   ncbi-refseqs DQ675532
+create reference  REF_DENV3III_AY099336  ncbi-refseqs AY099336
+create reference  REF_DENV3III_AY099337  ncbi-refseqs AY099337
+create reference  REF_DENV3III_AY679147  ncbi-refseqs AY679147
+create reference  REF_DENV3III_AY770511  ncbi-refseqs AY770511
+create reference  REF_DENV3III_EU529702  ncbi-refseqs EU529702
+create reference  REF_DENV3III_FJ547071  ncbi-refseqs FJ547071
+create reference  REF_DENV3III_FJ639747  ncbi-refseqs FJ639747
+create reference  REF_DENV3III_FJ898442  ncbi-refseqs FJ898442
+create reference  REF_DENV3III_FJ898458  ncbi-refseqs FJ898458
+create reference  REF_DENV3III_GQ868578  ncbi-refseqs GQ868578
+create reference  REF_DENV3III_JQ411814  ncbi-refseqs JQ411814
+create reference  REF_DENV3III_NC_001475 ncbi-refseqs NC_001475
+create reference  REF_DENV3V_AF317645    ncbi-refseqs AF317645
+create reference  REF_DENV3V_EF629370    ncbi-refseqs EF629370
+
+# Genotype 4
+create reference  REF_DENV4I_AY618991    ncbi-refseqs AY618991
+create reference  REF_DENV4I_AY618992    ncbi-refseqs AY618992
+create reference  REF_DENV4I_FJ196850    ncbi-refseqs FJ196850
+create reference  REF_DENV4I_GQ868594    ncbi-refseqs GQ868594
+create reference  REF_DENV4I_JQ513345    ncbi-refseqs JQ513345
+create reference  REF_DENV4I_KF041260    ncbi-refseqs KF041260
+create reference  REF_DENV4II_AF326573   ncbi-refseqs AF326573
+create reference  REF_DENV4II_AY762085   ncbi-refseqs AY762085
+create reference  REF_DENV4II_FJ024476   ncbi-refseqs FJ024476
+create reference  REF_DENV4II_FJ882581   ncbi-refseqs FJ882581
+create reference  REF_DENV4II_GQ252675   ncbi-refseqs GQ252675
+create reference  REF_DENV4II_GU289913   ncbi-refseqs GU289913
+create reference  REF_DENV4II_JF262781   ncbi-refseqs JF262781
+create reference  REF_DENV4II_JF262782   ncbi-refseqs JF262782
+create reference  REF_DENV4II_JN983813   ncbi-refseqs JN983813
+create reference  REF_DENV4II_NC_002640  ncbi-refseqs NC_002640
+create reference  REF_DENV4III_AY618988  ncbi-refseqs AY618988
+create reference  REF_DENV4III_AY618989  ncbi-refseqs AY618989
+create reference  REF_DENV4IV_EF457906   ncbi-refseqs EF457906
+create reference  REF_DENV4IV_JF262780   ncbi-refseqs JF262780
+

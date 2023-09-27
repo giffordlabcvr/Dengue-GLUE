@@ -1,0 +1,234 @@
+<blastSequenceRecogniser>
+	<blastRunner/>
+  
+	<!-- Dengue serotype 1 reference declarations -->
+	<referenceSequence>REF_MASTER_DENV1</referenceSequence>
+	<referenceSequence>REF_DENV1II_AF180817</referenceSequence>
+	<referenceSequence>REF_DENV1III_AY713473</referenceSequence>
+	<referenceSequence>REF_DENV1IV_AB074761</referenceSequence>
+	<referenceSequence>REF_DENV1V_AB519681</referenceSequence>
+
+	<!-- Dengue serotype 2 reference declarations -->
+	<referenceSequence>REF_MASTER_DENV2</referenceSequence>	  
+	<referenceSequence>REF_DENV2I_AF100469</referenceSequence>	  
+	<referenceSequence>REF_DENV2II_EU056810</referenceSequence>	  
+	<referenceSequence>REF_DENV2III_AF489932</referenceSequence>	  
+	<referenceSequence>REF_DENV2IV_AF204177</referenceSequence>	  
+	<referenceSequence>REF_DENV2V_DQ181805</referenceSequence>	  
+	<referenceSequence>REF_DENV2VI_EF105382</referenceSequence>	  
+
+	<!-- Dengue serotype 3 reference declarations -->
+	<referenceSequence>REF_MASTER_DENV3</referenceSequence>	
+	<referenceSequence>REF_DENV3I_AY858037</referenceSequence>	
+	<referenceSequence>REF_DENV3II_AY496871</referenceSequence>	
+	<referenceSequence>REF_DENV3III_AY099336</referenceSequence>	
+	<referenceSequence>REF_DENV3V_AF317645</referenceSequence>	
+
+	<!-- Dengue serotype 4 reference declarations -->
+	<referenceSequence>REF_MASTER_DENV4</referenceSequence>
+	<referenceSequence>REF_DENV4I_AY618991</referenceSequence>
+	<referenceSequence>REF_DENV4II_AF326573</referenceSequence>
+	<referenceSequence>REF_DENV4III_AY618988</referenceSequence>
+	<referenceSequence>REF_DENV4IV_EF457906</referenceSequence>
+
+	<!-- Dengue serotype 1 reference declarations -->
+	<recognitionCategory>
+		<id>1</id>
+		<minimumIdentityPct>70</minimumIdentityPct>
+	  	<minimumBitScore>200</minimumBitScore>
+	  	<minimumTotalAlignLength>100</minimumTotalAlignLength>
+	  	<referenceSequence>REF_MASTER_DENV1</referenceSequence>
+	</recognitionCategory>
+
+	<recognitionCategory>
+		<id>1</id>
+		<minimumIdentityPct>70</minimumIdentityPct>
+	  	<minimumBitScore>200</minimumBitScore>
+	  	<minimumTotalAlignLength>100</minimumTotalAlignLength>
+	  	<referenceSequence>REF_DENV1II_AF180817</referenceSequence>
+	</recognitionCategory>
+
+	<recognitionCategory>
+		<id>1</id>
+		<minimumIdentityPct>70</minimumIdentityPct>
+	  	<minimumBitScore>200</minimumBitScore>
+	  	<minimumTotalAlignLength>100</minimumTotalAlignLength>
+	  	<referenceSequence>REF_DENV1III_AY713473</referenceSequence>
+	</recognitionCategory>
+
+	<recognitionCategory>
+		<id>1</id>
+		<minimumIdentityPct>70</minimumIdentityPct>
+	  	<minimumBitScore>200</minimumBitScore>
+	  	<minimumTotalAlignLength>100</minimumTotalAlignLength>
+	  	<referenceSequence>REF_DENV1IV_AB074761</referenceSequence>
+	</recognitionCategory>
+
+	<recognitionCategory>
+		<id>1</id>
+		<minimumIdentityPct>70</minimumIdentityPct>
+	  	<minimumBitScore>200</minimumBitScore>
+	  	<minimumTotalAlignLength>100</minimumTotalAlignLength>
+	  	<referenceSequence>REF_DENV1V_AB519681</referenceSequence>
+	</recognitionCategory>
+
+	<!-- Dengue serotype 2 reference declarations -->	
+	<recognitionCategory>
+		<id>2</id>
+		<minimumIdentityPct>70</minimumIdentityPct>
+	  	<minimumBitScore>200</minimumBitScore>
+	  	<minimumTotalAlignLength>100</minimumTotalAlignLength>
+	  	<referenceSequence>REF_MASTER_DENV2</referenceSequence>
+	</recognitionCategory>
+
+	<recognitionCategory>
+		<id>2</id>
+		<minimumIdentityPct>70</minimumIdentityPct>
+	  	<minimumBitScore>200</minimumBitScore>
+	  	<minimumTotalAlignLength>100</minimumTotalAlignLength>
+	  	<referenceSequence>REF_DENV2I_AF100469</referenceSequence>
+	</recognitionCategory>
+
+	<recognitionCategory>
+		<id>2</id>
+		<minimumIdentityPct>70</minimumIdentityPct>
+	  	<minimumBitScore>200</minimumBitScore>
+	  	<minimumTotalAlignLength>100</minimumTotalAlignLength>
+	  	<referenceSequence>REF_DENV2II_EU056810</referenceSequence>
+	</recognitionCategory>
+
+	<recognitionCategory>
+		<id>2</id>
+		<minimumIdentityPct>70</minimumIdentityPct>
+	  	<minimumBitScore>200</minimumBitScore>
+	  	<minimumTotalAlignLength>100</minimumTotalAlignLength>
+	  	<referenceSequence>REF_DENV2III_AF489932</referenceSequence>
+	</recognitionCategory>
+
+	<recognitionCategory>
+		<id>2</id>
+		<minimumIdentityPct>70</minimumIdentityPct>
+	  	<minimumBitScore>200</minimumBitScore>
+	  	<minimumTotalAlignLength>100</minimumTotalAlignLength>
+	  	<referenceSequence>REF_DENV2IV_AF204177</referenceSequence>
+	</recognitionCategory>
+
+	<recognitionCategory>
+		<id>2</id>
+		<minimumIdentityPct>70</minimumIdentityPct>
+	  	<minimumBitScore>200</minimumBitScore>
+	  	<minimumTotalAlignLength>100</minimumTotalAlignLength>
+	  	<referenceSequence>REF_DENV2V_DQ181805</referenceSequence>
+	</recognitionCategory>
+
+	<recognitionCategory>
+		<id>2</id>
+		<minimumIdentityPct>70</minimumIdentityPct>
+	  	<minimumBitScore>200</minimumBitScore>
+	  	<minimumTotalAlignLength>100</minimumTotalAlignLength>
+	  	<referenceSequence>REF_DENV2VI_EF105382</referenceSequence>
+	</recognitionCategory>
+
+
+	<!-- Dengue serotype 3 reference declarations -->		
+	<recognitionCategory>
+		<id>3</id>
+		<minimumIdentityPct>70</minimumIdentityPct>
+	  	<minimumBitScore>200</minimumBitScore>
+	  	<minimumTotalAlignLength>100</minimumTotalAlignLength>
+	  	<referenceSequence>REF_MASTER_DENV3</referenceSequence>
+	</recognitionCategory>
+
+	<recognitionCategory>
+		<id>3</id>
+		<minimumIdentityPct>70</minimumIdentityPct>
+	  	<minimumBitScore>200</minimumBitScore>
+	  	<minimumTotalAlignLength>100</minimumTotalAlignLength>
+	  	<referenceSequence>REF_DENV3I_AY858037</referenceSequence>
+	</recognitionCategory>
+
+	<recognitionCategory>
+		<id>3</id>
+		<minimumIdentityPct>70</minimumIdentityPct>
+	  	<minimumBitScore>200</minimumBitScore>
+	  	<minimumTotalAlignLength>100</minimumTotalAlignLength>
+	  	<referenceSequence>REF_DENV3II_AY496871</referenceSequence>
+	</recognitionCategory>
+
+	<recognitionCategory>
+		<id>3</id>
+		<minimumIdentityPct>70</minimumIdentityPct>
+	  	<minimumBitScore>200</minimumBitScore>
+	  	<minimumTotalAlignLength>100</minimumTotalAlignLength>
+	  	<referenceSequence>REF_DENV3III_AY099336</referenceSequence>
+	</recognitionCategory>
+
+	<recognitionCategory>
+		<id>3</id>
+		<minimumIdentityPct>70</minimumIdentityPct>
+	  	<minimumBitScore>200</minimumBitScore>
+	  	<minimumTotalAlignLength>100</minimumTotalAlignLength>
+	  	<referenceSequence>REF_DENV3V_AF317645</referenceSequence>
+	</recognitionCategory>
+
+
+	<!-- Dengue serotype 4 reference declarations -->		
+	<recognitionCategory>
+		<id>4</id>
+		<minimumIdentityPct>70</minimumIdentityPct>
+	  	<minimumBitScore>200</minimumBitScore>
+	  	<minimumTotalAlignLength>100</minimumTotalAlignLength>
+	  	<referenceSequence>REF_MASTER_DENV4</referenceSequence>
+	</recognitionCategory>
+
+	<recognitionCategory>
+		<id>4</id>
+		<minimumIdentityPct>70</minimumIdentityPct>
+	  	<minimumBitScore>200</minimumBitScore>
+	  	<minimumTotalAlignLength>100</minimumTotalAlignLength>
+	  	<referenceSequence>REF_DENV4I_AY618991</referenceSequence>
+	</recognitionCategory>
+
+	<recognitionCategory>
+		<id>4</id>
+		<minimumIdentityPct>70</minimumIdentityPct>
+	  	<minimumBitScore>200</minimumBitScore>
+	  	<minimumTotalAlignLength>100</minimumTotalAlignLength>
+	  	<referenceSequence>REF_DENV4II_AF326573</referenceSequence>
+	</recognitionCategory>
+
+	<recognitionCategory>
+		<id>4</id>
+		<minimumIdentityPct>70</minimumIdentityPct>
+	  	<minimumBitScore>200</minimumBitScore>
+	  	<minimumTotalAlignLength>100</minimumTotalAlignLength>
+	  	<referenceSequence>REF_DENV4III_AY618988</referenceSequence>
+	</recognitionCategory>
+
+	<recognitionCategory>
+		<id>4</id>
+		<minimumIdentityPct>70</minimumIdentityPct>
+	  	<minimumBitScore>200</minimumBitScore>
+	  	<minimumTotalAlignLength>100</minimumTotalAlignLength>
+	  	<referenceSequence>REF_DENV4IV_EF457906</referenceSequence>
+	</recognitionCategory>
+
+
+	<!-- if one category result has an HSP with an identity percent more than 1.5 higher than the highest identity percent 
+         score in a second category result, the second category result is discarded -->
+	<maxIdentityPctCategoryResultResolver>
+		<minDifference>1.5</minDifference>
+	</maxIdentityPctCategoryResultResolver>
+	<!-- if one category result has an HSP with a bit score more than 15 higher than the highest bit score in a second category result, 
+		 the second category result is discarded -->
+	<maxBitScoreCategoryResultResolver>
+		<minDifference>15</minDifference>
+	</maxBitScoreCategoryResultResolver>
+	<!-- if one category result has an HSP with a total alignment length more 50 higher than the total alignment length in a second category result, 
+		 the second category result is discarded -->
+	<totalAlignLengthCategoryResultResolver>
+		<minDifference>50</minDifference>
+	</totalAlignLengthCategoryResultResolver>
+	
+</blastSequenceRecogniser>
+

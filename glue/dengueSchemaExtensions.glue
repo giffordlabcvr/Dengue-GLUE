@@ -1,0 +1,53 @@
+schema-project dengue
+
+  #~# Extensions to sequence table
+
+  table sequence
+
+    create field serotype VARCHAR 50
+    create field genotype VARCHAR 50
+    create field length INTEGER
+    create field pubmed_id INTEGER
+    create field gb_create_date DATE
+    create field gb_update_date DATE
+
+    exit
+
+
+  table alignment
+  
+    create field clade_category VARCHAR 20
+    create field phylogeny CLOB
+    
+    exit 
+
+
+  table member_floc_note
+  
+    create field ref_nt_coverage_pct DOUBLE
+    
+    exit
+
+
+  #~# Create schema extension for virus isolates
+  
+  create custom-table isolate_data
+
+  table isolate_data
+  
+    create field isolate VARCHAR 100
+    create field isolation_source VARCHAR 200
+    create field molecule_type VARCHAR
+    create field country_iso VARCHAR
+    create field country VARCHAR 200
+    create field place_sampled VARCHAR 100        
+    create field sampled_host_sci_name VARCHAR 150
+    create field collection_year INTEGER 
+    create field collection_month VARCHAR
+    create field collection_month_day INTEGER
+    exit
+
+  create link sequence isolate_data
+  
+  
+  exit

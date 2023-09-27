@@ -1,0 +1,11 @@
+# Clean-up
+delete module dengueNcbiImporterReferences
+
+# Create modules
+create module -f modules/dengueNcbiImporterReferences.xml dengueNcbiImporterReferences
+
+# Download NCBI sequences 
+module dengueNcbiImporterReferences import
+
+# Export sources
+export source ncbi-refseqs

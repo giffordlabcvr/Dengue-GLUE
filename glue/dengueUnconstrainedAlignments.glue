@@ -1,0 +1,17 @@
+delete alignment AL_UNC_DENV_ROOT
+delete alignment AL_UNC_DENV1
+delete alignment AL_UNC_DENV2
+delete alignment AL_UNC_DENV3
+delete alignment AL_UNC_DENV4
+
+module unconstrainedAlignmentImporter
+
+  import AL_UNC_DENV_ROOT -f alignments/dengue-root.aln.fna
+
+  import AL_UNC_DENV1 -f alignments/dengue1.aln.fna
+  import AL_UNC_DENV2 -f alignments/dengue2.aln.fna
+  import AL_UNC_DENV3 -f alignments/dengue3.aln.fna
+  import AL_UNC_DENV4 -f alignments/dengue4.aln.fna
+  
+  exit
+

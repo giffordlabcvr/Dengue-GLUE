@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<raxmlPhylogenyGenerator>
+    <raxmlPhylogenyRunner>
+        <substitutionModel>GTRCAT</substitutionModel>
+        <bootstrapReplicates>100</bootstrapReplicates>
+    </raxmlPhylogenyRunner>
+</raxmlPhylogenyGenerator>

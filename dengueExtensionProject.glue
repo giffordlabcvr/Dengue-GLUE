@@ -1,0 +1,27 @@
+project dengue
+
+  delete source ncbi-curated
+
+  # Define extension modules
+  run file glue/dengueExtensionModules.glue
+
+  # NCBI refseqs -- taxa in the reference phylogeny, plus the RefSeq master reference and a numbering reference
+  import source sources/ncbi-curated
+
+  # Link sequence table entries to isolate table
+  run script glue/dengueLoadIsolateDataCurated.js 
+
+  # Populate refseq + outgroup metadata from GenBank XML
+  module dengueGenbankXmlPopulator populate -w "source.name = 'ncbi-curated'"
+
+  # Run script
+  run script glue/dengueRecogniseCuratedSeqs.js
+
+  # Run script
+  run script glue/dengueGenotypeCuratedSeqs.js
+
+  # Validate
+  validate
+
+  exit
+

@@ -1,0 +1,21 @@
+taxon	sequenceID	genotype	isolate	country	collection_year
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/AF326573	AF326573	4II	814669	Dominican Republic	1981
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/AY618988	AY618988	4III	ThD4_0476_97	Thailand	1997
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/AY618989	AY618989	4III	ThD4_0017_97	Thailand	1997
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/AY618991	AY618991	4I	ThD4_0087_77	Thailand	1977
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/AY618992	AY618992	4I	ThD4_0485_01	Thailand	2001
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/AY762085	AY762085	4II	Singapore 8976/95	Singapore	-
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/EF457906	EF457906	4IV	P75-215	Malaysia	1975
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/FJ024476	FJ024476	4II	DENV-4/CO/BID-V1600/1997	Colombia	1997
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/FJ196850	FJ196850	4I	GD09/90	China	1990
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/FJ882581	FJ882581	4II	DENV-4/VE/BID-V2490/2007	Venezuela	2007
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/GQ252675	GQ252675	4II	DENV-4/US/BID-V2432/1995	USA	1995
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/GQ868594	GQ868594	4I	DENV-4/PH/BID-V3361/1956	Philippines	1956
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/GU289913	GU289913	4II	341750	Colombia	1982
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/JF262780	JF262780	4IV	P73-1120	Malaysia	1973
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/JF262781	JF262781	4II	INH6412	Venezuela	1995
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/JF262782	JF262782	4II	Haiti73	Haiti	1994
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/JN983813	JN983813	4II	Br246RR/10	Brazil	2010
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/JQ513345	JQ513345	4I	DENV-4/BHI3581	Brazil	2011
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/KF041260	KF041260	4I	D4/Pakistan/150/2009	Pakistan	2009
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/NC_002640	NC_002640	4II	rDEN4	-	-

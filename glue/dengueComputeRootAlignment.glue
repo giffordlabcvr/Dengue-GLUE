@@ -1,0 +1,18 @@
+delete module dengueCompoundAligner
+delete alignment AL_ROOT_Dengue
+
+create module -f modules/dengueCompoundAligner.xml
+
+create alignment AL_ROOT_Dengue -r REF_MASTER_DENV1
+
+alignment AL_ROOT_Dengue
+
+	add member -w "sequenceID = 'NC_001477'"
+	add member -w "sequenceID = 'NC_001474'"
+	add member -w "sequenceID = 'NC_001475'"
+	add member -w "sequenceID = 'NC_002640'"
+	
+	exit
+	
+compute alignment AL_ROOT_Dengue  dengueCompoundAligner
+

@@ -1,0 +1,7 @@
+  set setting ignore-nt-sequence-hyphens true
+  set setting translate-beyond-possible-stop true
+  set setting translate-beyond-definite-stop true
+  set setting sequence-reverse-complement-boolean-field reverse_complement
+  set setting sequence-rotation-integer-field rotation
+  set setting project-version 0.1.11
+  

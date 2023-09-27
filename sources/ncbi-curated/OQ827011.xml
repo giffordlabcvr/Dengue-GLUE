@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>OQ827011</GBSeq_locus>
+    <GBSeq_length>1479</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>12-JUN-2023</GBSeq_update-date>
+    <GBSeq_create-date>12-JUN-2023</GBSeq_create-date>
+    <GBSeq_definition>Dengue virus type 3 isolate D3-22-31 polyprotein, envelope protein E region, (POLY) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>OQ827011</GBSeq_primary-accession>
+    <GBSeq_accession-version>OQ827011.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|OQ827011.1|</GBSeqid>
+      <GBSeqid>gi|2489074440</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>dengue virus type 3</GBSeq_source>
+    <GBSeq_organism>dengue virus type 3</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1479</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Rahim,R.</GBAuthor>
+          <GBAuthor>Hasan,A.</GBAuthor>
+          <GBAuthor>Phadungsombat,J.</GBAuthor>
+          <GBAuthor>Hasan,N.</GBAuthor>
+          <GBAuthor>Ara,N.</GBAuthor>
+          <GBAuthor>Biswas,S.M.</GBAuthor>
+          <GBAuthor>Nakayama,E.E.</GBAuthor>
+          <GBAuthor>Rahman,M.</GBAuthor>
+          <GBAuthor>Shioda,T.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Genetic Analysis of Dengue Virus in Severe and Non-Severe Cases in Dhaka, Bangladesh, in 2018-2022</GBReference_title>
+        <GBReference_journal>Viruses 15 (5), 1144 (2023)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.3390/v15051144</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>37243230</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1479</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Rahim,R.</GBAuthor>
+          <GBAuthor>Hasan,A.</GBAuthor>
+          <GBAuthor>Phadungsombat,J.</GBAuthor>
+          <GBAuthor>Hasan,N.</GBAuthor>
+          <GBAuthor>Ara,N.</GBAuthor>
+          <GBAuthor>Biswas,S.M.</GBAuthor>
+          <GBAuthor>Nakayama,E.</GBAuthor>
+          <GBAuthor>Rahman,M.</GBAuthor>
+          <GBAuthor>Shioda,T.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (17-APR-2023) Viral Infections, Research Institute for Microbial Diseases (RIMD), Osaka University, 3-1 Yamadaoka, Suita, Osaka 565-0871, Japan</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1479</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1479</GBInterval_to>
+            <GBInterval_accession>OQ827011.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>dengue virus type 3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>D3-22-31</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>patient serum</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11069</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Bangladesh</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2022</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: 3</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1479</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1479</GBInterval_to>
+            <GBInterval_accession>OQ827011.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>POLY</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1479</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1479</GBInterval_to>
+            <GBInterval_accession>OQ827011.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>POLY</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polyprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>WGE15918.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MRCVGVGNRDFVEGLSGATWVDVVLEHGGCVTTMAKNKPTLDIELQKTEATQLATLRKLCIEGKITNVTTDSRCPTQGEAILPEEQDQNYVCKHTYVDRGWGNGCGLFGKGSLVTCAKFQCLELIEGKVVQHENLKYTVIITVHTGDQHQVGNETQGVTAEITPQASTVEAILPEYGTLGLECSPRTGLDFNEMILLTMKNKAWMVHRQWFFDLPLPWTSGAITETPTWNKKELLVTFKNAHAKKQEVVVLGSQEGAMHTALTGATEIQTSGGTSIFAGHLKCRLKMDKLELKGMSYAMCSNAFVLKKEVSETQHGTILIKVEYKGEDAPCKIPFSTEDGQGKAHNGRLITANPVVTKKEELVNIEAEPPFGESNIIIGIGDKALKINWYKKGSSIGKMFEATARGARRMAILGDTAWDFGSVGGVLNSLGKMVHQIFGSAYTALFSGVSWIMKIGIGVLLTWIGLNSKNTSMSFSCIVIGIITLYLGAVVQA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>mat_peptide</GBFeature_key>
+        <GBFeature_location>1..1479</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1479</GBInterval_to>
+            <GBInterval_accession>OQ827011.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>POLY</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>envelope protein E</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>MRCVGVGNRDFVEGLSGATWVDVVLEHGGCVTTMAKNKPTLDIELQKTEATQLATLRKLCIEGKITNVTTDSRCPTQGEAILPEEQDQNYVCKHTYVDRGWGNGCGLFGKGSLVTCAKFQCLELIEGKVVQHENLKYTVIITVHTGDQHQVGNETQGVTAEITPQASTVEAILPEYGTLGLECSPRTGLDFNEMILLTMKNKAWMVHRQWFFDLPLPWTSGAITETPTWNKKELLVTFKNAHAKKQEVVVLGSQEGAMHTALTGATEIQTSGGTSIFAGHLKCRLKMDKLELKGMSYAMCSNAFVLKKEVSETQHGTILIKVEYKGEDAPCKIPFSTEDGQGKAHNGRLITANPVVTKKEELVNIEAEPPFGESNIIIGIGDKALKINWYKKGSSIGKMFEATARGARRMAILGDTAWDFGSVGGVLNSLGKMVHQIFGSAYTALFSGVSWIMKIGIGVLLTWIGLNSKNTSMSFSCIVIGIITLYLGAVVQA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgagatgtgtgggagtaggaaacagagatttcgtggaaggtctatcaggagctacatgggttgacgtggtgctcgaacatggtgggtgtgtgactaccatggctaagaacaagcctacgctggacatagagctccagaagaccgaggccacccaactggcaaccctaaggaaactatgcattgagggaaaaatcaccaacgtgacaactgactcaaggtgccctacccaaggggaagcgattctacctgaggagcaggaccagaactacgtgtgtaagcacacatacgtggacagaggctggggaaacggttgtggtttgtttggtaagggaagcttggtaacatgcgcgaaatttcaatgtctggaattaatagagggaaaagtggttcagcatgagaacctcaagtacaccgtcatcatcacagtgcatacaggggaccaacaccaggtgggaaatgaaacgcagggagtcacggctgaaataacaccccaggcatcaaccgtcgaggccatcttacctgaatatggaacccttgggctagaatgctcaccacggacaggtttggatttcaatgaaatgatcttgttgacaatgaagaacaaagcatggatggtgcatagacaatggttttttgacctacctctaccatggacatcaggggctataacagaaacaccaacctggaataagaaagagcttcttgtgacattcaaaaacgcacacgcaaaaaaacaagaagtagtagtccttggatcgcaagagggagcaatgcacacagcactgacaggagctacagagattcaaacttcaggaggcacaagtatttttgcgggacacttgaaatgcagactcaagatggacaaattagaactcaaggggatgagctatgcaatgtgctcaaatgcctttgtattgaagaaagaagtctctgaaacacaacatgggacaatactcattaaggtcgagtacaaaggggaagacgcaccttgcaagattccattctccacggaggatggacaaggaaaagcccacaatggcagactgatcacagctaacccagtggtaaccaagaaggaagagcttgtcaatattgaggcagaacccccttttggggaaagtaacataataattggaattggagacaaagccttgaaaatcaattggtacaagaaggggagctcaattgggaagatgttcgaggccactgccaggggtgcaaggcgcatggccatcttgggagacacagcctgggactttggatcagtgggtggtgttttaaattcactggggaagatggtccaccaaatatttggaagtgcttacacggccctttttagcggagtctcctggataatgaaaattggaataggtgtccttttaacttggatagggttgaattcaaaaaacacttctatgtcattttcatgtattgtgataggaatcatcacactctatctgggagccgtggtgcaagct</GBSeq_sequence>
+  </GBSeq>

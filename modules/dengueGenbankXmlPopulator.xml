@@ -1,0 +1,80 @@
+<genbankXmlPopulator>
+
+	<gbLength>
+		<propertyPopulator property="length"/>
+	</gbLength>
+	
+	<gbReference>
+		<gbRefPubmed>
+			<propertyPopulator property="pubmed_id"/>
+		</gbRefPubmed>
+	</gbReference>
+		
+	<gbCreateDate>
+		<propertyPopulator property="gb_create_date"/>
+	</gbCreateDate>
+
+	<gbUpdateDate>
+		<propertyPopulator property="gb_update_date"/>
+	</gbUpdateDate>
+	
+
+	<!-- #### ORGANISM -->				
+	<gbFeature key="source">
+	
+		<gbQualifier name="isolate">
+			<propertyPopulator property="isolate_data.isolate"/>
+		</gbQualifier>
+
+		<gbQualifier name="strain">
+			<propertyPopulator property="isolate_data.isolate"/>
+		</gbQualifier>
+		
+		<gbQualifier name="isolation_source">
+			<propertyPopulator property="isolate_data.isolation_source"/>
+		</gbQualifier>
+		
+		<gbQualifier name="mol_type">
+			<propertyPopulator property="isolate_data.molecule_type"/>
+		</gbQualifier>
+		
+		<gbQualifier name="host">
+			<propertyPopulator property="isolate_data.sampled_host_sci_name">
+				<valueConverter>
+					<matchPattern>.*^[hH]ome sapiens.*</matchPattern>
+					<matchPattern>.*^[hH]omos sapiens.*</matchPattern>
+					<matchPattern>.*^[hH]omo sapiens$.*</matchPattern>
+					<outputTemplate>Homo sapiens</outputTemplate>
+				</valueConverter>
+			</propertyPopulator>
+		</gbQualifier>
+
+		<gbQualifier name="country">
+			<propertyPopulator property="isolate_data.country"/>
+			<propertyPopulator property="isolate_data.place_sampled">
+				<matchPattern>^.*:(.*)$</matchPattern>
+				<outputTemplate>${g1?trim}</outputTemplate>
+			</propertyPopulator>
+		</gbQualifier>
+
+		
+		<gbQualifier name="collection_date">
+			<propertyPopulator property="isolate_data.collection_month_day">
+				<matchPattern>(\d{2})-[A-Za-z]{3}-\d{4}</matchPattern>
+				<outputTemplate>${g1}</outputTemplate>
+			</propertyPopulator>
+			<propertyPopulator property="isolate_data.collection_month">
+				<matchPattern>\d{2}-([A-Za-z]{3})-\d{4}</matchPattern>
+				<outputTemplate>${g1?upper_case}</outputTemplate>
+			</propertyPopulator>
+			<propertyPopulator property="isolate_data.collection_year">
+				<matchPattern>(\d{4})</matchPattern>
+				<outputTemplate>${g1}</outputTemplate>
+			</propertyPopulator>
+		</gbQualifier>		
+		
+	</gbFeature>
+	
+</genbankXmlPopulator>
+
+

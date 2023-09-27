@@ -1,0 +1,51 @@
+delete project dengue
+
+create project dengue "A GLUE project for Dengue virus (DENV)" --minVersion 1.1.107
+
+run file glue/dengueSchemaExtensions.glue
+ 
+project dengue
+
+  run file glue/dengueProjectSettings.glue
+  run file glue/dengueModules.glue
+
+  # NCBI refseqs -- taxa in the reference phylogeny, plus the RefSeq master reference and a numbering reference
+  import source sources/ncbi-refseqs
+ 
+  # Link sequence table entries to isolate table
+  run script glue/dengueLoadIsolateData.js 
+  
+  # Populate refseq + outgroup metadata from GenBank XML
+  module dengueGenbankXmlPopulator populate -w "source.name = 'ncbi-refseqs'"
+
+  # Load tabular data
+  module dengueSideDataImporter
+    populate -f tabular/denv_reference_data.tsv
+    exit
+
+  # Define references
+  run file glue/dengueReferences.glue
+
+  # Import unconstrained alignment
+  run file glue/dengueUnconstrainedAlignments.glue
+
+  # Define alignment tree
+  run file glue/dengueAlignmentTree.glue
+
+  # Define features
+  run file glue/dengueFeatures.glue
+  
+  # Define feature locations on master references
+  run file glue/dengueExplicitFeatureLocations.glue
+  
+  # inherit feature locations across other references
+  run script glue/dengueRefseqsInheritFeatureLocations.js
+  run script glue/dengueValidateRefseqFeatureLocations.js
+
+  # import the reference phylogeny into the alignment tree
+  run file glue/dengueImportPhylogenies.glue
+  
+  # Validate
+  validate
+
+exit
