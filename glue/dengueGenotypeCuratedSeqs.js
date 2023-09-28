@@ -1,7 +1,7 @@
 
 //Do serotype recognition for all ncbi curated sequences
 var ncbiCurated;
-var whereClause = "source.name = 'ncbi-curated'";
+var whereClause = "source.name = 'ncbi-curated' and serotype = '2' and genotype = null";
 ncbiCurated = glue.tableToObjects(glue.command(["list", "sequence", "sequenceID", "serotype", "-w", whereClause]));
 glue.log("INFO", "RESULT WAS ", ncbiCurated);
 

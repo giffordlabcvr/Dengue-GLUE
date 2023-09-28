@@ -6,7 +6,7 @@
 		<displayName>Serotype</displayName>	
 		<whereClause>displayName = '4'</whereClause>
 		<distanceScalingExponent>-4.5</distanceScalingExponent>
-		<distanceCutoff>0.04</distanceCutoff>
+		<distanceCutoff>0.1</distanceCutoff>
 		<finalCladeCutoff>75.0</finalCladeCutoff>
 	</cladeCategory>
 
@@ -16,7 +16,7 @@
 		<displayName>Genotype</displayName>	
 		<whereClause>displayName like '4%' and clade_category = 'genotype'</whereClause>
 		<distanceScalingExponent>-4.5</distanceScalingExponent>
-		<distanceCutoff>0.02</distanceCutoff>
+		<distanceCutoff>0.05</distanceCutoff>
 		<finalCladeCutoff>65.0</finalCladeCutoff>
 		
 	</cladeCategory>
