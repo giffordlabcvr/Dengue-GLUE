@@ -1,12 +1,13 @@
 <maxLikelihoodGenotyper>
 	<maxLikelihoodPlacerModuleName>denv2MaxLikelihoodPlacer</maxLikelihoodPlacerModuleName>
+	<useSingleReference>true</useSingleReference>
 
 	<cladeCategory>
 		<name>serotype</name>	
 		<displayName>Serotype</displayName>	
 		<whereClause>displayName = '2'</whereClause>
 		<distanceScalingExponent>-3.0</distanceScalingExponent>
-		<distanceCutoff>0.2</distanceCutoff>
+		<distanceCutoff>0.4</distanceCutoff>
 		<finalCladeCutoff>70.0</finalCladeCutoff>
 	</cladeCategory>
 	

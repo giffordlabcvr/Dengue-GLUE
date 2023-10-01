@@ -2,6 +2,10 @@
   feature whole_genome set field displayName "Whole genome"
   feature whole_genome set metatag INCLUDE_IN_SUMMARY true
 
+ ### Non-coding features 5' end
+
+  create feature 5UTR -p whole_genome "5' untranslated region"
+  feature 5UTR set field displayName "5' UTR"
 
   ### Coding features
 
@@ -117,8 +121,7 @@
   feature NS5 set metatag INCLUDE_IN_SUMMARY true
   feature NS5 set metatag CODES_AMINO_ACIDS true
 
-  create feature 5UTR -p whole_genome "5' untranslated region"
-  feature 5UTR set field displayName "5' UTR"
+  ### Non-coding features 3' end
 
   create feature 3UTR -p whole_genome "3' untranslated region"
   feature 3UTR set field displayName "3' UTR"

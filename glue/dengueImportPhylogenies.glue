@@ -1,34 +1,27 @@
-delete module denguePhyloImporter
-create module -f modules/denguePhyloImporter.xml
+delete module chikvPhyloImporter
+create module -f modules/chikvPhyloImporter.xml
 
-module denguePhyloImporter
+module chikvPhyloImporter
 
-  import phylogeny AL_DENV1 \
+  import phylogeny AL_CHIKV1 \
   --recursive \
   --anyAlignment \
   --whereClause "sequence.source.name = 'ncbi-refseqs' and referenceMember = false" \
-  --inputFile trees/denv1ReferencePhylogenyMidpointRerooted.tree NEWICK_BOOTSTRAPS \
+  --inputFile trees/chikv1ReferencePhylogenyMidpointRerooted.tree NEWICK_BOOTSTRAPS \
   --fieldName phylogeny
 
-  import phylogeny AL_DENV2 \
+  import phylogeny AL_CHIKV2 \
   --recursive \
   --anyAlignment \
   --whereClause "sequence.source.name = 'ncbi-refseqs' and referenceMember = false" \
-  --inputFile trees/denv2ReferencePhylogenyMidpointRerooted.tree NEWICK_BOOTSTRAPS \
+  --inputFile trees/chikv2ReferencePhylogenyMidpointRerooted.tree NEWICK_BOOTSTRAPS \
   --fieldName phylogeny
 
-  import phylogeny AL_DENV3 \
+  import phylogeny AL_CHIKV3 \
   --recursive \
   --anyAlignment \
   --whereClause "sequence.source.name = 'ncbi-refseqs' and referenceMember = false" \
-  --inputFile trees/denv3ReferencePhylogenyMidpointRerooted.tree NEWICK_BOOTSTRAPS \
-  --fieldName phylogeny
-
-  import phylogeny AL_DENV4 \
-  --recursive \
-  --anyAlignment \
-  --whereClause "sequence.source.name = 'ncbi-refseqs' and referenceMember = false" \
-  --inputFile trees/denv4ReferencePhylogenyMidpointRerooted.tree NEWICK_BOOTSTRAPS \
+  --inputFile trees/chikv3ReferencePhylogenyMidpointRerooted.tree NEWICK_BOOTSTRAPS \
   --fieldName phylogeny
 
   exit

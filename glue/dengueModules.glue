@@ -5,13 +5,3 @@ create module --fileName modules/unconstrainedAlignmentImporter.xml
 create module -f modules/dengueTabularUtility.xml
 create module -f modules/dengueSideDataImporter.xml
 
-create module -f modules/dengueBlastSerotypeRecogniser.xml
-
-create module -f modules/denv1MaxLikelihoodGenotyper.xml
-create module -f modules/denv1MaxLikelihoodPlacer.xml
-create module -f modules/denv2MaxLikelihoodGenotyper.xml
-create module -f modules/denv2MaxLikelihoodPlacer.xml
-create module -f modules/denv3MaxLikelihoodGenotyper.xml
-create module -f modules/denv3MaxLikelihoodPlacer.xml
-create module -f modules/denv4MaxLikelihoodGenotyper.xml
-create module -f modules/denv4MaxLikelihoodPlacer.xml
