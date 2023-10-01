@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KM087965</GBSeq_locus>
+    <GBSeq_length>1671</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>15-JAN-2015</GBSeq_update-date>
+    <GBSeq_create-date>15-JAN-2015</GBSeq_create-date>
+    <GBSeq_definition>Dengue virus 2 strain FGA-02 polyprotein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>KM087965</GBSeq_primary-accession>
+    <GBSeq_accession-version>KM087965.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KM087965.1|</GBSeqid>
+      <GBSeqid>gi|733761472</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>dengue virus type 2</GBSeq_source>
+    <GBSeq_organism>dengue virus type 2</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1671</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Rouvinski,A.</GBAuthor>
+          <GBAuthor>Guardado-Calvo,P.</GBAuthor>
+          <GBAuthor>Barba-Spaeth,G.</GBAuthor>
+          <GBAuthor>Duquerroy,S.</GBAuthor>
+          <GBAuthor>Vaney,M.C.</GBAuthor>
+          <GBAuthor>Kikuti,C.M.</GBAuthor>
+          <GBAuthor>Sanchez,M.E.</GBAuthor>
+          <GBAuthor>Dejnirattisai,W.</GBAuthor>
+          <GBAuthor>Wongwiwat,W.</GBAuthor>
+          <GBAuthor>Haouz,A.</GBAuthor>
+          <GBAuthor>Girard-Blanc,C.</GBAuthor>
+          <GBAuthor>Petres,S.</GBAuthor>
+          <GBAuthor>Shepard,W.E.</GBAuthor>
+          <GBAuthor>Despres,P.</GBAuthor>
+          <GBAuthor>Arenzana-Seisdedos,F.</GBAuthor>
+          <GBAuthor>Dussart,P.</GBAuthor>
+          <GBAuthor>Mongkolsapaya,J.</GBAuthor>
+          <GBAuthor>Screaton,G.R.</GBAuthor>
+          <GBAuthor>Rey,F.A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Recognition determinants of broadly neutralizing human antibodies against dengue viruses</GBReference_title>
+        <GBReference_journal>Nature (2015) In press</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1038/nature14130</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>25581790</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Available-Online prior to print</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1671</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Rouvinski,A.</GBAuthor>
+          <GBAuthor>Guardado-Calvo,P.</GBAuthor>
+          <GBAuthor>Barba-Spaeth,G.</GBAuthor>
+          <GBAuthor>Duquerroy,S.</GBAuthor>
+          <GBAuthor>Vaney,M.-C.</GBAuthor>
+          <GBAuthor>Kikuti,C.M.</GBAuthor>
+          <GBAuthor>Navarro-Sanchez,M.E.</GBAuthor>
+          <GBAuthor>Dejnirattisai,W.</GBAuthor>
+          <GBAuthor>Wongwiwat,W.</GBAuthor>
+          <GBAuthor>Haouz,A.</GBAuthor>
+          <GBAuthor>Girard-Blanc,C.</GBAuthor>
+          <GBAuthor>Petres,S.</GBAuthor>
+          <GBAuthor>Shepard,W.E.</GBAuthor>
+          <GBAuthor>Despres,P.</GBAuthor>
+          <GBAuthor>Arenzana-Seisdedos,F.</GBAuthor>
+          <GBAuthor>Dussart,P.</GBAuthor>
+          <GBAuthor>Mongkolsapaya,J.</GBAuthor>
+          <GBAuthor>Screaton,G.R.</GBAuthor>
+          <GBAuthor>Rey,F.A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (01-JUL-2014) Cellule d'Intervention Biologique d'Urgence (CIBU), Institut Pasteur, 25-28 rue du docteur Roux, Paris, Ile de France 75015, France</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1671</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1671</GBInterval_to>
+            <GBInterval_accession>KM087965.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>dengue virus type 2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>FGA-02</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>culture_collection</GBQualifier_name>
+            <GBQualifier_value>CNCM:I-3605</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11060</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>chromosome</GBQualifier_name>
+            <GBQualifier_value>DEN-2 virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>French Guiana</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2002</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>S2/[prM+sE]D2 FGA-02</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1671</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1671</GBInterval_to>
+            <GBInterval_accession>KM087965.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polyprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AJA01260.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>FHLTTRNGEPHMIVGRQEKGKSLLFKTEDGVNMCTLMAIDLGELCEDTITYKCPLLRQNEPEDIDCWCNSTSTWVTYGTCTTTGEHRREKRSVALVPHVGMGLETRTETWMSSEGAWKHVQRIETWILRHPGFTIMAAILAYTIGTTHFQRALIFILLTAVAPSMTMRCIGISNRDFVEGVSGGSWVDIVLEHGSCVTTMAKNKPTLDFELIKTEAKQPATLRKYCIEAKLTNTTTESRCPTQGEPSLNEEQDKRFICKHSMVDRGWGNGCGLFGKGGIVTCAKFTCKKNMEGKIVQPENLEYTIVITPHSGEEHAVGNDTGKHGKEIKITPQSSTTEAELTGYGTVTMECSPRTGLDFNEMVLLQMEDKAWLVHRQWFLDLPLPWLPGADTQGSNWIQKETLVTFKNPHAKKQDVVVLGSQEGAMHTALTGATEIQMSSGNLLFTGHLKCRLRMDKLQLKGMSYSMCTGKFKIVKEIAETQHGTIVIRVQYEGDGSPCKIPFEITDLEKRHVLGRLITVNPIVTEKDSPVNIEAEPPFGDSYIIVGVEPGQLKLNW</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>mat_peptide</GBFeature_key>
+        <GBFeature_location>&lt;1..498</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>498</GBInterval_to>
+            <GBInterval_accession>KM087965.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>prM</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>FHLTTRNGEPHMIVGRQEKGKSLLFKTEDGVNMCTLMAIDLGELCEDTITYKCPLLRQNEPEDIDCWCNSTSTWVTYGTCTTTGEHRREKRSVALVPHVGMGLETRTETWMSSEGAWKHVQRIETWILRHPGFTIMAAILAYTIGTTHFQRALIFILLTAVAPSMT</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>mat_peptide</GBFeature_key>
+        <GBFeature_location>499..&gt;1671</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>499</GBInterval_from>
+            <GBInterval_to>1671</GBInterval_to>
+            <GBInterval_accession>KM087965.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>envelope protein E</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>ectodomain</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>MRCIGISNRDFVEGVSGGSWVDIVLEHGSCVTTMAKNKPTLDFELIKTEAKQPATLRKYCIEAKLTNTTTESRCPTQGEPSLNEEQDKRFICKHSMVDRGWGNGCGLFGKGGIVTCAKFTCKKNMEGKIVQPENLEYTIVITPHSGEEHAVGNDTGKHGKEIKITPQSSTTEAELTGYGTVTMECSPRTGLDFNEMVLLQMEDKAWLVHRQWFLDLPLPWLPGADTQGSNWIQKETLVTFKNPHAKKQDVVVLGSQEGAMHTALTGATEIQMSSGNLLFTGHLKCRLRMDKLQLKGMSYSMCTGKFKIVKEIAETQHGTIVIRVQYEGDGSPCKIPFEITDLEKRHVLGRLITVNPIVTEKDSPVNIEAEPPFGDSYIIVGVEPGQLKLNW</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ttccatttaaccacacgtaacggagaaccacacatgatcgttggtaggcaggagaaagggaaaagtcttctgttcaaaacagaggatggtgttaacatgtgtaccctcatggccatagaccttggtgaattgtgtgaagatacaatcacgtacaagtgtcccctcctcagacaaaatgaaccagaagacatagattgttggtgcaactctacgtccacatgggtaacttatgggacatgtaccaccacaggagaacacagaagagaaaaaagatcagtggcgctcgttccacatgtgggtatgggactggagacacgaactgaaacatggatgtcatcagaaggggcctggaaacatgttcagagaattgaaacctggatcttgagacatccaggctttaccataatggcagcaatcctggcatacaccataggaacgacacacttccagagggccttgattttcatcttactgacagctgtcgctccttcaatgacaatgcgctgcataggaatatcaaatagagacttcgtagaaggggtatcaggaggaagctgggttgacatagttttagaacatggaagttgtgtgacgacgatggcaaaaaacaaaccaacattggattttgaactgataaaaacagaagccaaacaacctgccactctaaggaagtactgtatagaagcaaagctgaccaacacaacaacagaatcgcgttgcccaacacaaggggaacccagtctaaatgaagagcaggacaaaaggttcatctgcaaacactccatggtagacagaggatggggaaatggatgtggattatttggaaagggaggcattgtgacctgtgctaagtttacatgcaaaaagaacatggaaggaaaaatcgtacagccagaaaatttggaatacaccatcgtgataacacctcactcaggagaagagcacgctgtaggtaatgacacaggaaagcatggcaaggaaatcaaaataacaccacagagttccaccacagaagcagaactgacaggctatggcactgtcacgatggagtgctctccgagaacgggcctcgacttcaatgagatggtgctgctgcagatggaagacaaagcttggctggtgcacaggcaatggttcctagacctgccgttaccatggctacccggagcggatacacaaggatcaaattggatacagaaagagacattggtcactttcaaaaatccccacgccaagaaacaggatgtcgttgtcttagggtctcaagaaggggccatgcacacggcactcacaggggctacagaaatccagatgtcatcaggaaacttactgttcacgggacatctcaagtgcaggctgagaatggacaaactacagctcaaaggaatgtcatactctatgtgtacaggaaagtttaaaatcgtgaaggaaatagcagaaacacaacatggaacaatagttatcagagtacaatatgaaggggacggttctccatgtaagatcccttttgagataacagatttggaaaaaagacacgtcttaggacgcctgattacagttaacccaatcgtaacagaaaaagatagcccagtcaacatagaagcagaacctccattcggagacagctacatcatcgtaggagtagagccgggacaactgaaactcaattgg</GBSeq_sequence>
+  </GBSeq>

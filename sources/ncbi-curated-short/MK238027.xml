@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>MK238027</GBSeq_locus>
+    <GBSeq_length>1485</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>11-FEB-2019</GBSeq_update-date>
+    <GBSeq_create-date>11-FEB-2019</GBSeq_create-date>
+    <GBSeq_definition>Dengue virus type 4 strain D603_Vietnam:DakLak_2016 polyprotein, envelope protein E region, (POLY) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>MK238027</GBSeq_primary-accession>
+    <GBSeq_accession-version>MK238027.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|MK238027.1|</GBSeqid>
+      <GBSeqid>gi|1567433189</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>dengue virus type 4</GBSeq_source>
+    <GBSeq_organism>dengue virus type 4</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1485</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Le,T.V.</GBAuthor>
+          <GBAuthor>Nguyen,V.T.T.</GBAuthor>
+          <GBAuthor>Phan,N.T.T.</GBAuthor>
+          <GBAuthor>Le,Q.D.M.</GBAuthor>
+          <GBAuthor>Nguyen,T.V.</GBAuthor>
+          <GBAuthor>Pham,D.T.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>The molecular epidemiology of Dengue virus serotype 4 in Dak Lak, Vietnam in 2016</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1485</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Le,T.V.</GBAuthor>
+          <GBAuthor>Nguyen,V.T.T.</GBAuthor>
+          <GBAuthor>Phan,N.T.T.</GBAuthor>
+          <GBAuthor>Le,Q.D.M.</GBAuthor>
+          <GBAuthor>Nguyen,T.V.</GBAuthor>
+          <GBAuthor>Pham,D.T.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (26-NOV-2018) Virology, Tay Nguyen Institute of Hygiene and Epidemiology, 34 Pham Hung Str., Buon Ma Thuot, DakLak +84262, Vietnam</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1485</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1485</GBInterval_to>
+            <GBInterval_accession>MK238027.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>dengue virus type 4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>D603_Vietnam:DakLak_2016</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11070</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Viet Nam: Dak Lak</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>31-Jul-2016</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1485</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1485</GBInterval_to>
+            <GBInterval_accession>MK238027.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>POLY</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1485</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1485</GBInterval_to>
+            <GBInterval_accession>MK238027.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>POLY</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polyprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>QBA57658.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MRCVGVGNRDFVEGVSGGAWVDLVLEHGGCVTTMAQGKPTLDFELIKTTAKEVALLRTYCIEASISNITTATRCPTQGEPYLKEEQDQQYICRRDVVDRGWGNGCGLFGKGGVVTCAKFSCSGKITGNLVQIENLEYTVAVTVHNGDTHAVGNDTSNHGETATITPRSPSVEVKLPDYGELTLDCEPRSGIDFNEMILMKMKTKTWLVHKQWFLDLPLPWTAGADTSEVHWNHKERMVTFKVPHAKRQDVTVLGSQEGAMHSALAGATEVDSGDGNHMFAGHLKCKVRMEKLRIKGMSYTMCSGKFSIDKEMAETQHGTTVVKVKYEGTGAPCKVPIEIRDVNKEKVVGRIISSTPFAENTNSVTNIELEPPFGDSYIVIGVGDSALTLHWFRKGSSIGKMFESTYRGAKRMAILGETAWDFGSVGGLLTSLGKAVHQVFGSVYTTMFGGVSWMVRILIGLLVLWIGTNSRNTSMAMSCIAVGGITLFLGFTVRA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>mat_peptide</GBFeature_key>
+        <GBFeature_location>1..1485</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1485</GBInterval_to>
+            <GBInterval_accession>MK238027.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>POLY</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>envelope protein E</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>MRCVGVGNRDFVEGVSGGAWVDLVLEHGGCVTTMAQGKPTLDFELIKTTAKEVALLRTYCIEASISNITTATRCPTQGEPYLKEEQDQQYICRRDVVDRGWGNGCGLFGKGGVVTCAKFSCSGKITGNLVQIENLEYTVAVTVHNGDTHAVGNDTSNHGETATITPRSPSVEVKLPDYGELTLDCEPRSGIDFNEMILMKMKTKTWLVHKQWFLDLPLPWTAGADTSEVHWNHKERMVTFKVPHAKRQDVTVLGSQEGAMHSALAGATEVDSGDGNHMFAGHLKCKVRMEKLRIKGMSYTMCSGKFSIDKEMAETQHGTTVVKVKYEGTGAPCKVPIEIRDVNKEKVVGRIISSTPFAENTNSVTNIELEPPFGDSYIVIGVGDSALTLHWFRKGSSIGKMFESTYRGAKRMAILGETAWDFGSVGGLLTSLGKAVHQVFGSVYTTMFGGVSWMVRILIGLLVLWIGTNSRNTSMAMSCIAVGGITLFLGFTVRA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgcgatgcgtgggagtggggaacagagactttgtggaaggagtctcaggtggagcatgggtcgatctggtgctagaacatggaggatgtgtcacaaccatggcccagggaaagccaaccttggattttgaactgatcaagacaacagccaaggaagtggctctattaagaacctattgcattgaagcttccatatcaaacataaccacggcaacaagatgtccaacgcaaggagagccttacctcaaagaggaacaagatcaacagtacatctgccggagagatgtggtagatagagggtggggcaacggctgtggcttgtttgggaaaggaggagttgtgacatgtgcgaagttttcatgctcgggaaaaataacgggcaacttagtccaaattgaaaaccttgaatacacggtggctgtgacagtccacaatggagacacccatgctgtaggaaacgacacatccaaccacggagagacagctacaataacccctaggtcaccatcggttgaagttaaactaccagactatggagaattgacacttgactgtgaacctagatccggaattgactttaatgagatgattctgatgaaaatgaaaacgaaaacgtggctcgtgcacaagcaatggttcttggatctacctctaccatggacagccggagcagacacgtcagaagttcactggaatcacaaagagagaatggtgacattcaaggttcctcatgctaagagacaggatgtgacagtgttaggatctcaagaaggggccatgcattcagccctcgccggagccacagaagtggattccggtgatggaaaccatatgtttgcaggacacttaaaatgtaaagttcgcatggaaaagttgaggatcaagggaatgtcatacacgatgtgctcaggaaagttctcaattgataaagagatggcagaaacacagcatggaacaacagtggtaaaggtcaagtatgagggtactggagctccatgtaaagttcccatagagataagagatgtgaacaaggaaaaagtggttgggcgcatcatctcatccaccccttttgctgagaataccaacagtgtgaccaatatagaattggaacctccctttggggatagctacatagtgataggtgtgggagacagtgcattaacactccattggttcagaaaagggagctccattggtaagatgtttgagtccacatacagaggtgcaaagcgcatggccattctaggtgaaacagcttgggattttggttctgttggtggactgctcacgtcactgggaaaggctgtacaccaggtttttggcagtgtgtatacaactatgtttggaggagtctcatggatggtcagaatcctaatcgggctcttagtgttgtggattggcacgaattcaagaaacacttcaatggctatgtcgtgcatagctgttggaggaatcaccctgttcctgggcttcacagttcgtgca</GBSeq_sequence>
+  </GBSeq>

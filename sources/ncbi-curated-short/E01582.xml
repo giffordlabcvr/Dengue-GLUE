@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>E01582</GBSeq_locus>
+    <GBSeq_length>2822</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>04-NOV-2005</GBSeq_update-date>
+    <GBSeq_create-date>06-JUN-1997</GBSeq_create-date>
+    <GBSeq_definition>cDNA encoding envelop protein of dengue virus type3</GBSeq_definition>
+    <GBSeq_primary-accession>E01582</GBSeq_primary-accession>
+    <GBSeq_accession-version>E01582.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|E01582.1|</GBSeqid>
+      <GBSeqid>pat|JP|1988105682|1</GBSeqid>
+      <GBSeqid>gi|2169835</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>JP 1988105682-A/1</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Dengue virus</GBSeq_source>
+    <GBSeq_organism>Dengue virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..2822</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Sumiyoshi,H.</GBAuthor>
+          <GBAuthor>Igarashi,A.</GBAuthor>
+          <GBAuthor>Shiba,T.</GBAuthor>
+          <GBAuthor>Sakaki,Y.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>CDNA DERIVED FROM DENGUE VIRUS 3 TYPE</GBReference_title>
+        <GBReference_journal>JP1988105682-A 1 10-MAY-1988 MITSUBISHI KASEI CORP</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS Dengue virus~PN JP 1988105682-A/1~PD 10-MAY-1988~PF 23-OCT-1986 JP 1986252631~PI SUMIYOSHI HIDEO, IGARASHI AKIRA, SHIBA TADAYOSHI, PI SAKAKI YOSHIYUKI~PC C12N15/00,C07H21/04//A61K39/12;~CC strandedness: Single;~CC topology: Linear;~CC hypothetical: No;~CC anti-sense: No;~FH Key Location/Qualifiers~FH~FT CDS &gt;1..&lt;2822~FT /product='Euvelope protein of dengue virus FT type3'.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..2822</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2822</GBInterval_to>
+            <GBInterval_accession>E01582.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Dengue virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:12637</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tncgatacatgggagaagacggctgctggtatggcatggaaatcagacccattaatgagaaagaagagaacatggtaaagtctctagcctcacagggagtggaaaggtggacacttcacatgggtgtcttgtgtttggcaatcctctttgaagaggtgatgagaggnaaatttgggaaaacacacatgattnnnnnnnttctcttcacgtttgtgctcctcctctcagggcaaataacatggagagcatggcgcacacactcataatgattgggtccaacgcctctgacagaatggggatgggcgtcacttacctagctctaattgcaacatttaaaattctgccattcttggctttgggattcttcctgaggaaactgacatctagagaaaatttattgctgggagttgggttggccatggcagcaacgttacgactgccagaggacattgaacaaatggctaatggcgaatggaattgctttggnnnnnnnnnnnttgcctggagaacagccactctgattttagttggaatttcgcttttgccagtgtgccagtcttcgagtatgaggaaaacagattggctcccaatgactgtggcagctatgggannnncacccctancactttttattttcagtctcgaaagatacactcaaaaggagaagctgnccactcgaatcgagggggtcgatggcanttggacttgtgagcattatgacnnnnnnnnnnntggctgggggcttgctgatagcgtgctacgtcataactggcacgtcancagacctcactgtagaaaannnacagatgtaacatgggaggaagaggccgagcaaacaggagtgtcccacaatttaatgatcacagttgatgatgatggaacantgagaataaaagatgacgagactgagaacatcttaacagtgcttttaaaaacaccactactaatagtatcangcatctttccatactccatacccgcaacantgttggtctggcatacttggcaaaagannnnnnnnnnaagaggggcagtgttgacacacaatgggaaaagactggaaccaaactgggctagcgtgaaaaaagnnctgatttcatacggaggaggatggagattgagtgcacaatggcaannnggggaggaggtgcaggttattgccgtagagcctgggaagaacccaaagaactttgaaaccatgccaggcatttttcagacaacaacaggggaaataggagcaattgcactggatttcaagcctggaacttcaggatctcccatcataaacagagagggaaaggtagtgggactgtatggcaatggagtggttacaaagaatggaggctatgttagtggaatagcgcaaacaaatgcagaaccagatggaccgacaccagagttggaagaagagatgttcaaaaagcgaaatctaaccataatggatcttcatcctgggtcaggaaagacgcggaaatatcttccagctattgttagagaggcaatcaagagacgcttaaggactctaattttggcaccaacaagggtagttgcagctgagatggaagaagcattgaaagggctcccaataaggtatcaaacaactgcaacaaaatctgaacacacaggaagngagattggtgatctaatgtgtcacgcaacgttcacaatgcgcttgctgtcaccagtcagggttccaaactacaacttgataataatggatgaggctcatttcacagacccagccagtatagcggctagagggtacatatcaactcgtgtaggaatgggagaggcagccgcaattttcatgacagcaacaccccctggaacagtgatgcctttcctcagagcaacgctccaattcaagatgaagagagagacataccggaacgctcannnnnnnnngaattcaggcaatgaatggattactgactttgttgggaagacagtgtggtttgtccctagcatcaaagccggaaatgacatagcaaactgtttgcggaaaaatggaaaaaaggtcattcaactcagcaggaagacctttgacacagaatatcaaaagaccaaactgaatgattgggactttgtggtgacaacagacatttcagaaatgggagccaatttcanagcagatagagtgatcgacccaagaagatgtctcaagccggtgattttgacagatggacccgagcgggtgatcctggctggaccaatgccagtcaccgtagcgagcgctgcgcaaaggagagggagagttggcaggaacccacaaaaagaaaatgaccagtacatattcatgggccagcctctcaacaaagatgaagaccatgctcactggacagaagcaaaaatgctgctggacaacatcaacacaccagaagggattataccagctctctttgaaccagaaagggagaagtcagccgccatagacggcgaataccgcctgaagggtgagtccaggaagactttcgtggaactcatgannnggggtgacctcccagtttggctagcccataaagtagcatcagaagggatcaaatatacagatagaaaatggtgctttgatggagaacgtaataatcaaattttagaggagaatatggatgtggaaatctggacaaaggaaggagaaaagaaaaaactgagacctaggtggctcgatgcccgcacttattcagatcctttagcactcaaggaattcaaggattttgcagctggcagaaagtcaaacgcccttgatcttgtgacagaaataggaagagtgccttcacacttagcccacagaacgagaaacgccctggacaaaaaaaaaaaaaaaa</GBSeq_sequence>
+  </GBSeq>

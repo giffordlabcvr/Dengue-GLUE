@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>MK034360</GBSeq_locus>
+    <GBSeq_length>623</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>07-APR-2019</GBSeq_update-date>
+    <GBSeq_create-date>07-APR-2019</GBSeq_create-date>
+    <GBSeq_definition>UNVERIFIED: Dengue virus type 4 sequence</GBSeq_definition>
+    <GBSeq_primary-accession>MK034360</GBSeq_primary-accession>
+    <GBSeq_accession-version>MK034360.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|MK034360.1|</GBSeqid>
+      <GBSeqid>gi|1605170682</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>UNVERIFIED</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>dengue virus type 4</GBSeq_source>
+    <GBSeq_organism>dengue virus type 4</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..623</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Idris,F.</GBAuthor>
+          <GBAuthor>Muharram,S.H.</GBAuthor>
+          <GBAuthor>Zaini,Z.</GBAuthor>
+          <GBAuthor>Alonso,S.</GBAuthor>
+          <GBAuthor>Diah,S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Invasion of a murine in vitro blood-brain barrier co-culture model by dengue virus serotypes 1 to 4</GBReference_title>
+        <GBReference_journal>Arch. Virol. (2019) In press</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1007/s00705-019-04175-3</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>30783772</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Available-Online prior to print</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..623</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Idris,F.</GBAuthor>
+          <GBAuthor>Muharram,S.H.</GBAuthor>
+          <GBAuthor>Zaini,Z.</GBAuthor>
+          <GBAuthor>Diah,S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (10-OCT-2018) Microbiology and Immunology, Yong Loo Lin School of Medicine, National University of Singapore, 5 Science Drive 2, singapore 117545, Singapore</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>GenBank staff is unable to verify sequence and/or annotation provided by the submitter.; ##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..623</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>623</GBInterval_to>
+            <GBInterval_accession>MK034360.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>dengue virus type 4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11070</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Brunei</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2016</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: 4</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgggattggaaccaggacagagacgtggatgtcaccggagggggcatggaaacatgcccagagagtggagagctggatacaaatccaggatttgcactcttggcaggatttatggcttacatattggacagacaggaattcaacgaacagtcttctttgtcctcatatgttggtcgctccatcctatggaatgcgatgcgtgggagtggggaaagagattttgtggaaggagtctcaggaggaacatgggtcgacctggtgctggaacacggaggatgtgttacaaccatggcacagggaaagccaaccttggattttgttgtcaagacaacagcaaaggaggtgctctattgcttattgcaagaggcctcaatatcaaacaaaccacggcaacaagatgtccaacacaaggagaaccttatcttgggaacaagaccagcagtacatttgcagaagagacgtggagacagaggatggggtatggctgtggcctatttggaaaaggaggagttgtacatgcgcaaagttttcatgctcggggaaaatacaggcaacctggtccaaggaaaacctttacacagtggtttcacagttcaagcagatgtggttgcgcctttggaga</GBSeq_sequence>
+  </GBSeq>

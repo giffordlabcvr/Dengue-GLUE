@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KR919817</GBSeq_locus>
+    <GBSeq_length>1485</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>09-MAR-2016</GBSeq_update-date>
+    <GBSeq_create-date>09-MAR-2016</GBSeq_create-date>
+    <GBSeq_definition>Dengue virus isolate Van2013 envelope protein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>KR919817</GBSeq_primary-accession>
+    <GBSeq_accession-version>KR919817.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KR919817.1|</GBSeqid>
+      <GBSeqid>gi|1002824036</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Dengue virus</GBSeq_source>
+    <GBSeq_organism>Dengue virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1485</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Pyke,A.T.</GBAuthor>
+          <GBAuthor>Moore,P.R.</GBAuthor>
+          <GBAuthor>Taylor,C.T.</GBAuthor>
+          <GBAuthor>Hall-Mendelin,S.</GBAuthor>
+          <GBAuthor>Cameron,J.N.</GBAuthor>
+          <GBAuthor>Hewitson,G.R.</GBAuthor>
+          <GBAuthor>Pukallus,D.S.</GBAuthor>
+          <GBAuthor>Huang,B.</GBAuthor>
+          <GBAuthor>Warrilow,D.</GBAuthor>
+          <GBAuthor>van den Hurk,A.F.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Highly divergent dengue virus type 1 genotype sets a new distance record</GBReference_title>
+        <GBReference_journal>Sci Rep 6, 22356 (2016)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1038/srep22356</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>26924208</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1485</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Moore,P.R.</GBAuthor>
+          <GBAuthor>Pyke,A.T.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (28-MAY-2015) Public Health Virology, Queensland Health Forensic and Scientific Services, 39 Kessels Road, Coopers Plains, QLD 4108, Australia</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1485</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1485</GBInterval_to>
+            <GBInterval_accession>KR919817.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Dengue virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>Van2013</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:12637</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Vanuatu</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2013</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: I</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..&gt;1485</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1485</GBInterval_to>
+            <GBInterval_accession>KR919817.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>envelope protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AMN88553.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MRCVGIGSRDFVEGLSGATWVDVVLEHGSCVTTMAKDKPTLDIELLKTEVTNPAVLRKLCIEAKISNTTTDSRCPTQGEATLVEEQDANFVCRRTFVDRGWGNGCGLFGKGSLITCAKFKCVTKLEGKIVQYENLKYSVIVTVHTGDQHQVGNESTEHGTTATITPQAPTTEIQLTDYGALTLDCSPRTGLDFNEMVLLTMKEKSWLVHKQWFLDLPLPWTSGASTSQETWNRQDLLVTFKTAHAKKQEVVVLGSQEGAMHTALTGATEIQTSGTTTIFAGHLKCRLKMDKLTLKGMSYVMCTGSFKLEKELAETQHGTVLVQIKYEGTDAPCKIPFSTQDEKGVTQNGRLITANPIVTDKEKPVNIEAEPPFGESYIVIGAGEKALKLSWFKKGSSIGKMFEATARGARRMAILGDTAWDFGSIGGVFTSVGKLVHQIFGTAYGVLFSGVSWTMKIGIGVLLTWLGLNSRSTSLSMTCIAVGLVTLYLGVMVQA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgcgatgcgtggggataggcagcagggacttcgtggaaggactgtcaggagcaacttgggtagatgtggtactggaacatggaagttgcgtcaccaccatggcaaaagacaaaccaacactggacattgaactcttgaagacggaagtcacaaaccctgccgtcctgcgcaaactgtgcattgaagccaaaatatcaaacaccaccaccgactcaagatgtccaacacaaggagaagccacactagtggaagaacaagacgcgaactttgtgtgtcgacgaacgtttgtggacagaggctggggcaatggctgtgggctcttcggaaaaggaagcctaataacgtgtgctaagttcaagtgtgtgacaaaactggaaggaaagatagttcaatatgagaacttgaaatattcagtaatagtcaccgttcacactggagaccagcaccaagtgggaaatgaaagcacagaacatgggacaactgcaactataacacctcaagctcctacgacggaaatacagctgaccgactacggagctcttacattggattgttcacctagaacaggactagacttcaatgaaatggtgttgttgacaatgaaagaaaaatcatggttagtccataaacaatggtttttagacctaccactgccttggacctcgggagcttcaacatcacaggagacttggaacagacaagatctgctggtgacatttaagacagctcatgcaaagaagcaggaagtagtcgtgctaggatcacaagaaggagcaatgcacactgcgttgaccggagcgacagaaattcaaacgtctggaacgacaacaatttttgcaggacacttgaaatgcagactaaagatggacaaactgactctaaaagggatgtcatatgtgatgtgcacaggctcattcaagctagagaaagaattggctgagacccagcatggaaccgttctagtgcagattaaatacgaaggaacagatgcaccatgcaagatccctttttcgacccaagatgaaaaaggagtaacccagaatgggagattgataacagctaaccccatagttactgacaaagaaaaaccagtcaacattgaggcagaaccgccctttggtgagagttacatcgtaataggagcaggtgaaaaagctttgaaactaagctggttcaagaaaggaagcagcatagggaaaatgtttgaggcaactgccagaggagcacgaaggatggctatactgggagacaccgcatgggactttggttctataggaggagtgttcacgtctgttggaaaattagtacaccagatttttggaactgcatatggagttttgttcagcggtgtttcctggaccatgaaaataggaataggggttctgctgacatggctgggactaaactcaaggagcacgtccctttcgatgacgtgcattgcagttggcctagtaacactatacctaggagtcatggttcaggcg</GBSeq_sequence>
+  </GBSeq>

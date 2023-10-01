@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>MP879433</GBSeq_locus>
+    <GBSeq_length>1710</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>17-MAR-2021</GBSeq_update-date>
+    <GBSeq_create-date>17-MAR-2021</GBSeq_create-date>
+    <GBSeq_definition>Sequence 5 from Patent WO2020242388</GBSeq_definition>
+    <GBSeq_primary-accession>MP879433</GBSeq_primary-accession>
+    <GBSeq_accession-version>MP879433.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|MP879433.1|</GBSeqid>
+      <GBSeqid>pat|WO|2020242388|5</GBSeqid>
+      <GBSeqid>gi|2007482160</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Dengue virus</GBSeq_source>
+    <GBSeq_organism>Dengue virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1710</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>SITTISOMBUT,N.</GBAuthor>
+          <GBAuthor>SAE-LIM,M.</GBAuthor>
+          <GBAuthor>CHAROENSRI,N.</GBAuthor>
+          <GBAuthor>KEELAPANG,P.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>MATURE VIRUS-LIKE PARTICLES OF FLAVIVIRUSES</GBReference_title>
+        <GBReference_journal>WO2020242388-A1 5 03-DEC-2020 CHIANG MAI UNIV [TH], NATIONAL SCIENCE AND TECH DEVELOPMENT AGENCY NSTDA [TH]</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1710</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1710</GBInterval_to>
+            <GBInterval_accession>MP879433.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Dengue virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:12637</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcgtggctctggctcctgctgtgggtctgggtctggagacccgcaccgagacctggatgtcctccgagggtgcttggaagcagatccagcgcgtggagacctgggctctgcgccaccctggtttcaccgtgatcgctctgttcctggctcacgctatcggaacctccatcacccagaagggtatcatcttcatcctgctgatgctggtgaccccttccatggctatgcgctgcgtgggtatcggttcccgcgacttcgtggagggtctgtccggtgctacctgggtggacgtggtgctggagaacggttcctgcgtgaccaccatggctaaggacaagcctaccctggacatcgagctgctgaagaccgaggtgaccaaccctgctgtgctgcgcaagctgtgcatcgaggctaagatctccaacaccaccaccgactcccgctgccctacccagggtgaggctaccctggtggaggagcaggacgctaacttcgtgtgccgccgcaccttcgtggaccgcggttggggtaacggttgcggtctgttcggtaagggttccctgctgacctgcgctaagttcaagtgcgtgaccaagctggagggtaagatcgtgcagtacgagaacctgaagtactccgtgatcgtgaccgtgcacaccggtgaccagaaccaggtgggtaacgagtccaccgagcacggaaccaccgctaccatcacccctcaggctcctaccaccgagatccagctgaccgactacggtgctctgaccctggactgcttccctctgaccggtctggacttcaacgagatggtgctgctgaccatgaaggagaagtcctggctggtgaacaagcagtggttcctggacctgcctctgccttggacctccggtgcttccacctcccaggagacctggaaccgccaggacctgctggtgaccttcaagaccgctcacgctaagaagcaggaggtggtggtgctgggttcccaggagggtgctatggctaccgctctgaccggtgctaccgagatccagacctccggaaccaccaccatcttcgctggtcacctgaagtgccgcctgaagatggacaagctgaccctgaagggtatgtcctacgtgatgtgcaccggttccttcaagctggagaaggaggtggctgagacccaggctggaaccgtgctggtgcagatcaagtacgagggaaccgacgctccttgcaagatccctttctccacccaggacgagaagggtgtgacccagaacggtcgcctgatcaccgctaaccctatcgtgaccgacaaggagaagcctgtgaacatcgaggctgagcctcctttcggtgagtcctacatcgtgatcggtgctggtgagaaggctctgaagctgtcctggttcaagaagggttccaccctgggtaaggctttctccaccaccctgaagggtgctcagcgcctggctgctctgggtgacaccgcttgggacttcggttccatcggtggtgtgttcaactccatcggtaaggctgtgcaccaggtgttcggtggtgctttccgcaccctgttcggtggtatgtcctggatcacccagggtctgatgggtgctctgctgctgtggatgggtgtgaacgctcgcgaccgctccatcgctctggctttcctggctaccggtggtgtgctggtgttcctggctaccaacgtgcacgct</GBSeq_sequence>
+  </GBSeq>

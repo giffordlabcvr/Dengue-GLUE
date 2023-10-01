@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KJ939390</GBSeq_locus>
+    <GBSeq_length>1485</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>01-APR-2015</GBSeq_update-date>
+    <GBSeq_create-date>22-SEP-2014</GBSeq_create-date>
+    <GBSeq_definition>Dengue virus isolate D1-022 envelope glycoprotein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>KJ939390</GBSeq_primary-accession>
+    <GBSeq_accession-version>KJ939390.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KJ939390.1|</GBSeqid>
+      <GBSeqid>gi|685453605</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Dengue virus</GBSeq_source>
+    <GBSeq_organism>Dengue virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1485</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Wang,B.</GBAuthor>
+          <GBAuthor>Li,Y.</GBAuthor>
+          <GBAuthor>Feng,Y.</GBAuthor>
+          <GBAuthor>Zhou,H.</GBAuthor>
+          <GBAuthor>Liang,Y.</GBAuthor>
+          <GBAuthor>Dai,J.</GBAuthor>
+          <GBAuthor>Qin,W.</GBAuthor>
+          <GBAuthor>Hu,Y.</GBAuthor>
+          <GBAuthor>Wang,Y.</GBAuthor>
+          <GBAuthor>Zhang,L.</GBAuthor>
+          <GBAuthor>Baloch,Z.</GBAuthor>
+          <GBAuthor>Yang,H.</GBAuthor>
+          <GBAuthor>Xia,X.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Phylogenetic analysis of dengue virus reveals the high relatedness between imported and local strains during the 2013 dengue outbreak in Yunnan, China: a retrospective analysis</GBReference_title>
+        <GBReference_journal>BMC Infect. Dis. 15 (1), 142 (2015)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1186/s12879-015-0908-x</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>25885572</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1485</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Xia,X.</GBAuthor>
+          <GBAuthor>Wang,B.</GBAuthor>
+          <GBAuthor>Yang,H.</GBAuthor>
+          <GBAuthor>Feng,Y.</GBAuthor>
+          <GBAuthor>Dai,J.</GBAuthor>
+          <GBAuthor>Hu,Y.</GBAuthor>
+          <GBAuthor>Baloch,Z.</GBAuthor>
+          <GBAuthor>Wang,Y.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (04-JUN-2014) Faculty of Life Science and Technology, Kunming University of Science and Technology, No. 727 Jing Ming Road, Chenggong District, Kunming, Yunnan 650500, P.R. China</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Assembly Method :: MEGA v. V.6 ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1485</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1485</GBInterval_to>
+            <GBInterval_accession>KJ939390.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Dengue virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>D1-022</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:12637</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>China</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2013</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1485</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1485</GBInterval_to>
+            <GBInterval_accession>KJ939390.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>envelope glycoprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AIO09695.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MRCVGIGSRDFVEGLSGATWVDVVLEHGSCVTTMAKDKPTLDIELLKTEVTNPAVLRKLCIEAKISNTTTDSRCPTQGEATLVEEQDANFVCRRTFVDRGWGNGCGLFGKGSLLTCAKFKCVTKLEGKIVQYENLKYSVIVTVHTGDQHQVGNESTEHGTTATITPQAPTTEIQLTDYGALTLDCSPRTGLDFNEMVLLTMKEKSWLVHKQWFLDLPLPWTSGASTSQETWNRQDLLVTFKTAHAKKQEVVVLGSQEGAMHTALTGATEIQTSGTTTIFAGHLKCRLKMDKLTLKGMSYVMCTGSFKLEKEVAETQHGTVLVQIKYEGTDAPCKIPFSTQDEKGVTQNGRLITANPIVTDKEKPVNIEAEPPFGESYIVIGVGEKALKLSWFKKGSSIGKMFEATARGARRMAILGDTAWDFGSIGGVFTSVGKLVHQIFGTAYGVLFSGVSWTMKIGIGVLLTWLGLNSRSTSLSMACIAVGLVTLYLGVMVQA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgcgatgcgtgggaataggcagtagggacttcgtggaaggactgtcaggagcaacttgggtagatgtggtactggaacatggaagttgcgtcaccaccatggcaaaagacaaaccaacactggacattgaactcttgaagacggaagtcacaaaccctgccgtcctgcgcaaactgtgcattgaagctaaaatatcaaataccaccactgactcaagatgtccaacacaaggagaagccacactggtggaagagcaagacgcgaactttgtgtgtcgacgaacgtttgtggacagaggctggggcaatggctgtgggctcttcggaaaaggaagcctactaacgtgtgctaagttcaagtgtgtgacaaaactggaaggaaagatagttcaatatgaaaacttgaaatattcagtaatagtcaccgtccacactggagaccagcatcaggtgggaaatgaaagcacagaacatgggacaactgcaactataacacctcaagctcctacgacggaaatacagctgaccgactacggagctcttacattggattgttcacctagaacaggattagactttaatgaaatggtgttgttaacaatgaaagaaaaatcatggctagtccacaaacaatggtttctagacttaccactgccttggacctcgggagcttcaacatcacaagagacttggaacagacaagatttgctggtgacatttaagacagctcatgcaaagaagcaggaagtagtcgtactaggatcacaagaaggagcaatgcacactgcgttgaccggagcgacagaaatccaaacgtctggaacgacaacaatttttgcaggacacctgaaatgtagactaaagatggacaaactgactctaaaagggatgtcatatgtgatgtgcacaggctcattcaagctagagaaagaagtggctgagacccagcatggaaccgttttagtgcagattaaatacgaaggaacagatgcaccatgcaagatccctttttcgacccaagatgaaaaaggagtaacccagaatgggagattgataacagctaaccccatagtcactgacaaagaaaaaccagtcaacattgaggcagaaccgccttttggtgagagttacatcgtgataggagtaggtgaaaaagctttgaaactaagctggttcaagaaaggaagcagcatagggaaaatgtttgaggcaactgccagaggagcacgaaggatggccatactgggagacaccgcatgggactttggttctataggaggagtgttcacgtctgttggaaaattagtacaccagatttttggaactgcatatggagttttgttcagcggtgtttcctggaccatgaaaataggaataggggttctgctgacatggttaggattaaactcaaggagcacgtccctctcgatggcgtgcattgcagttggcctagtaacactatacctaggagtcatggttcaggcg</GBSeq_sequence>
+  </GBSeq>

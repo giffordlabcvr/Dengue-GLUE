@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KM031081</GBSeq_locus>
+    <GBSeq_length>515</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>18-MAR-2016</GBSeq_update-date>
+    <GBSeq_create-date>18-MAR-2016</GBSeq_create-date>
+    <GBSeq_definition>Dengue virus isolate CDCCJ3-15 nonstructural protein 5 gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>KM031081</GBSeq_primary-accession>
+    <GBSeq_accession-version>KM031081.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KM031081.1|</GBSeqid>
+      <GBSeqid>gi|770146044</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Dengue virus</GBSeq_source>
+    <GBSeq_organism>Dengue virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..515</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Hoyos-Lopez,R.</GBAuthor>
+          <GBAuthor>Suaza-Vasco,J.</GBAuthor>
+          <GBAuthor>Uribe,S.</GBAuthor>
+          <GBAuthor>Gallego-Gomez,J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Detection of Emerging and Re-emerging Arboviruses in Mosquitoes from San Bernardo del Viento (Cordoba, Colombia)</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..515</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Hoyos-Lopez,R.</GBAuthor>
+          <GBAuthor>Suaza-Vasco,J.</GBAuthor>
+          <GBAuthor>Uribe,S.</GBAuthor>
+          <GBAuthor>Gallego-Gomez,J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (19-JUN-2014) Facultad de Medicina, Universidad de Antioquia, Cra 51D #62-29, Medellin, Antioquia 05001000, Colombia</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..515</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>515</GBInterval_to>
+            <GBInterval_accession>KM031081.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Dengue virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>CDCCJ3-15</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Aedes aegypti</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:12637</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Colombia: San Bernardo del Viento, Cordoba</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>lat_lon</GBQualifier_name>
+            <GBQualifier_value>9.35 N 75.97 W</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>altitude</GBQualifier_name>
+            <GBQualifier_value>2 m</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>05-Jun-2012</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;515</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>515</GBInterval_to>
+            <GBInterval_accession>KM031081.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>RNA-dependent RNA polymerase; NS5</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>nonstructural protein 5</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AJW67488.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>TPFGQQRVFKEKVDTRTQEPKEGTKKLMKITAEWLWKELGKKKTPRMCTREEFTRKVRSNAALGAIFTDENKWKSAREAVEDSRFWDLVDKERNLHLEGKCETCVYNMMGKREKKLGEFGKAKGSRAIWYMWLGARFLEFEALGFLNEDHWFSRGNSLSGVEGEGLHRLGY</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gactccattcggacaacagcgcgtttttaaagagaaagtagacacgagaacccaagaaccgaaagaaggcactaagaagctgatgaaaatcacggcagagtggctttggaaagaactaggaaagaaaaagacccctagaatgtgtaccagagaagaattcacaagaaaagtgagaagcaatgcagccttgggggctatattcactgatgagaacaagtggaagtcggcacgtgaggctgttgaagatagtaggttttgggacctggttgacaaggaaaggaatctccatcttgaaggaaagtgtgaaacatgtgtgtataacatgatgggaaaaagagagaagaagctaggggagttcggcaaagcaaaaggtagcagagccatatggtacatgtggcttggagcacgcttcttagagtttgaagccctaggattcctgaatgaagatcactggttctccagagggaactccctgagtggagtggaaggagaagggctgcacaggctaggctaca</GBSeq_sequence>
+  </GBSeq>

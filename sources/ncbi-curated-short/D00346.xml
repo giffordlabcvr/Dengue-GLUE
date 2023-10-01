@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>DEN2NGC</GBSeq_locus>
+    <GBSeq_length>2357</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>29-MAY-2002</GBSeq_update-date>
+    <GBSeq_create-date>29-APR-1993</GBSeq_create-date>
+    <GBSeq_definition>Dengue virus type 2 gene for polyprotein, partial cds, strain:New Guinea C</GBSeq_definition>
+    <GBSeq_primary-accession>D00346</GBSeq_primary-accession>
+    <GBSeq_accession-version>D00346.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|D00346.1|DEN2NGC</GBSeqid>
+      <GBSeqid>gi|221230</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>dengue virus type 2</GBSeq_source>
+    <GBSeq_organism>dengue virus type 2</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..2357</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Gruenberg,A.</GBAuthor>
+          <GBAuthor>Woo,W.S.</GBAuthor>
+          <GBAuthor>Biedrzycka,A.</GBAuthor>
+          <GBAuthor>Wright,P.J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Partial nucleotide sequence and deduced amino acid sequence of the structural proteins of dengue virus type 2, New Guinea C and PUO-218 strains</GBReference_title>
+        <GBReference_journal>J. Gen. Virol. 69 (PT 6), 1391-1398 (1988)</GBReference_journal>
+        <GBReference_pubmed>3385407</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>Nucleotide 1 in the NGC sequence corresponds to nucleotide 77 counting from the 5'end of the DEN-2(JAM) sequence.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..2357</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2357</GBInterval_to>
+            <GBInterval_accession>D00346.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>dengue virus type 2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>New Guinea C</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11060</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>20bp upstream from the C protein amino terminal end</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>21..&gt;2357</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>21</GBInterval_from>
+            <GBInterval_to>2357</GBInterval_to>
+            <GBInterval_accession>D00346.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polyprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>BAA00255.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MNNQRKKARNTPFNMLKRERNRVSTVQQLTKRFSLGMLQGRGPLKLFMALVAFLRFLTIPPTAGILKRWGTIKKSKAINVLRGFRKEIGRMLNILNRRRRTAGMIIMLIPTVMAFHLTTRNGEPHMIVSRQEKGKSLLFKTEDGVNMCTLMAMDLGELCEDTITYKCPFLRQNEPEDIDCWCNSTSTWVTYGTCTTTGEHRREKRSVALVPHVGMGLETRTETWMSSEGAWKHAQRIETWILRHPGFTIMAAILAYTIGTTHFQRALIFILLTAVAPSMTMRCIGISNRDFVEGVSGGSWVDIVLEHGSCVTTMAKNKPTLDFELIKTEAKQPATLRKYCIEAKLTNTTTDSRCPTQGEPSLNEEQDKRFVCKHSMVDRGWGNGCGLFGKGGIVTCAMFTCKKNMKGKVVQPENLEYTIVITPHSGEEHAVGNDTGKHGKEIKITPQSSITEAELTGYGTVTMECSPRTGLDFNEMVLLQMENKAWLVHRQWFLDLPLPWLPGADTQGSNWIQKETLVTFKNPHAKKQDVVVLGSQEGAMHTALTGATEIQMSSGNLLFTGHLKCRLRMDKLQLKGMSYSMCTGKFKVVKEIAETQHGTIVIRVQYEGDGSPCKIPFEIMDLEKRHVLGRLITVNPIVTEKDSPVNIEAEPPFGDSYIIIGVEPGQLKLNWFKKGSSIGQMIETTMRGAKRMAILGDTAWDFGSLGGVFTSIGKALHQVFGAIYGAAFSGVSWTMKILIGVIITWIGMNSRSTSLSVSLVLVGVVTLYLGVMVQADSGC</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>mat_peptide</GBFeature_key>
+        <GBFeature_location>21..362</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>21</GBInterval_from>
+            <GBInterval_to>362</GBInterval_to>
+            <GBInterval_accession>D00346.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>C protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>MNNQRKKARNTPFNMLKRERNRVSTVQQLTKRFSLGMLQGRGPLKLFMALVAFLRFLTIPPTAGILKRWGTIKKSKAINVLRGFRKEIGRMLNILNRRRRTAGMIIMLIPTVMA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>mat_peptide</GBFeature_key>
+        <GBFeature_location>363..860</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>363</GBInterval_from>
+            <GBInterval_to>860</GBInterval_to>
+            <GBInterval_accession>D00346.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>prM protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>FHLTTRNGEPHMIVSRQEKGKSLLFKTEDGVNMCTLMAMDLGELCEDTITYKCPFLRQNEPEDIDCWCNSTSTWVTYGTCTTTGEHRREKRSVALVPHVGMGLETRTETWMSSEGAWKHAQRIETWILRHPGFTIMAAILAYTIGTTHFQRALIFILLTAVAPSMT</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>mat_peptide</GBFeature_key>
+        <GBFeature_location>636..860</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>636</GBInterval_from>
+            <GBInterval_to>860</GBInterval_to>
+            <GBInterval_accession>D00346.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>M protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>SVALVPHVGMGLETRTETWMSSEGAWKHAQRIETWILRHPGFTIMAAILAYTIGTTHFQRALIFILLTAVAPSMT</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>mat_peptide</GBFeature_key>
+        <GBFeature_location>861..2345</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>861</GBInterval_from>
+            <GBInterval_to>2345</GBInterval_to>
+            <GBInterval_accession>D00346.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>E protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>MRCIGISNRDFVEGVSGGSWVDIVLEHGSCVTTMAKNKPTLDFELIKTEAKQPATLRKYCIEAKLTNTTTDSRCPTQGEPSLNEEQDKRFVCKHSMVDRGWGNGCGLFGKGGIVTCAMFTCKKNMKGKVVQPENLEYTIVITPHSGEEHAVGNDTGKHGKEIKITPQSSITEAELTGYGTVTMECSPRTGLDFNEMVLLQMENKAWLVHRQWFLDLPLPWLPGADTQGSNWIQKETLVTFKNPHAKKQDVVVLGSQEGAMHTALTGATEIQMSSGNLLFTGHLKCRLRMDKLQLKGMSYSMCTGKFKVVKEIAETQHGTIVIRVQYEGDGSPCKIPFEIMDLEKRHVLGRLITVNPIVTEKDSPVNIEAEPPFGDSYIIIGVEPGQLKLNWFKKGSSIGQMIETTMRGAKRMAILGDTAWDFGSLGGVFTSIGKALHQVFGAIYGAAFSGVSWTMKILIGVIITWIGMNSRSTSLSVSLVLVGVVTLYLGVMVQA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>mat_peptide</GBFeature_key>
+        <GBFeature_location>2346..&gt;2357</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>2346</GBInterval_from>
+            <GBInterval_to>2357</GBInterval_to>
+            <GBInterval_accession>D00346.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>NS1 protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>amino end</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>DSGC</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>aattagagagcagatctctgatgaataaccaacgaaaaaaggcgagaaatacgcctttcaatatgctgaaacgcgagagaaaccgcgtgtcgactgtacaacagctgacaaagagattctcacttggaatgctgcagggacgaggaccattaaaactgttcatggccctggtggcgttccttcgtttcctaacaatcccaccaacagcagggatactgaagagatggggaacaattaaaaaatcaaaagccattaatgttttgagagggttcaggaaagagattggaaggatgctgaacatcttgaacaggagacgcagaactgcaggcatgatcattatgctgattccaacagtgatggcgttccatttaaccacacgtaacggagaaccacacatgatcgtcagtagacaagagaaagggaaaagtcttctgtttaaaacagaggatggtgtgaacatgtgtaccctcatggccatggaccttggtgaattgtgtgaagatacaatcacgtacaagtgtccttttctcaggcagaatgaaccagaagacatagattgttggtgcaactctacgtccacatgggtaacttatgggacgtgtaccaccacaggagaacacagaagagaaaaaagatcagtggcactcgttccacatgtgggaatgggactggagacacgaactgaaacatggatgtcatcagaaggggcctggaaacatgcccagagaattgaaacttggatcttgagacatccaggctttaccataatggcagcaatcctggcatacaccataggaacgacacatttccaaagagccctgattttcatcttactgacagctgtcgctccttcaatgacaatgcgttgcataggaatatcaaatagagactttgtagaaggggtttcaggaggaagctgggttgacatagtcttagaacatggaagctgtgtgacgacgatggcaaaaaacaaaccaacattggattttgaactgataaaaacagaagccaaacaacctgccactctaaggaagtactgtatagaggcaaagctgaccaacacaacaacagattctcgctgcccaacacaaggagaacccagcctaaatgaagagcaggacaaaaggttcgtctgcaaacactccatggtggacagaggatggggaaatggatgtggattatttggaaaaggaggcattgtgacctgtgctatgttcacatgcaaaaagaacatgaaaggaaaagtcgtgcaaccagaaaacttggaatacaccattgtgataacacctcactcaggggaagagcatgcagtcggaaatgacacaggaaaacatggcaaggaaatcaaaataacaccacagagttccatcacagaagcagagttgacaggctatggcactgtcacgatggagtgctctccgagaacgggcctcgacttcaatgagatggtgttgctgcaaatggaaaataaagcttggctggtgcacaggcaatggttcctagacctgccgttgccatggctgcccggagcggacacacaaggatcaaattggatacagaaagagacattggtgactttcaaaaatccccatgcgaagaaacaggatgttgttgttttgggatcccaagaaggggccatgcacacagcactcacaggggccacagaaatccagatgtcatcaggaaacttactgttcacaggacatctcaagtgcaggctgaggatggacaaactacagctcaaaggaatgtcatactctatgtgcacaggaaagtttaaagttgtgaaggaaatagcagaaacacaacatggaacaatagttatcagagtacaatatgaaggggacggttctccatgtaagatcccttttgagataatggatttggaaaaaagacatgttttaggtcgcctgattacagtcaacccaatcgtaacagaaaaagatagcccagtcaacatagaagcagaacctccattcggagacagctacatcatcataggagtagagccgggacaattgaagctcaactggtttaagaaaggaagttctatcggccaaatgattgagacaacaatgaggggagcgaagagaatggccattttaggtgacacagcttgggattttggatccctgggaggagtgtttacatctataggaaaggctctccaccaagttttcggagcaatctatggggctgccttcagtggggtctcatggactatgaaaatcctcataggagtcattatcacatggataggaatgaattcacgcagcacctcactttctgtgtcactagtattggtgggagtcgtgacgctgtatttgggagttatggtgcaggccgatagtggttgc</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>JQ993188</GBSeq_locus>
+    <GBSeq_length>1485</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>02-FEB-2013</GBSeq_update-date>
+    <GBSeq_create-date>02-FEB-2013</GBSeq_create-date>
+    <GBSeq_definition>Dengue virus 1 isolate Thailand_KPP_KDS04175_NCxx_Schol_S_11_2006 envelope protein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>JQ993188</GBSeq_primary-accession>
+    <GBSeq_accession-version>JQ993188.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|JQ993188.1|</GBSeqid>
+      <GBSeqid>gi|443927733</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>dengue virus type 1</GBSeq_source>
+    <GBSeq_organism>dengue virus type 1</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1485</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Rabaa,M.A.</GBAuthor>
+          <GBAuthor>Klungthong,C.</GBAuthor>
+          <GBAuthor>Yoon,I.K.</GBAuthor>
+          <GBAuthor>Holmes,E.C.</GBAuthor>
+          <GBAuthor>Chinnawirotpisan,P.</GBAuthor>
+          <GBAuthor>Thaisomboonsuk,B.</GBAuthor>
+          <GBAuthor>Srikiatkhachorn,A.</GBAuthor>
+          <GBAuthor>Rothman,A.L.</GBAuthor>
+          <GBAuthor>Tannitisupawong,D.</GBAuthor>
+          <GBAuthor>Aldstadt,J.</GBAuthor>
+          <GBAuthor>Nisalak,A.</GBAuthor>
+          <GBAuthor>Mammen,M.P.</GBAuthor>
+          <GBAuthor>Gibbons,R.V.</GBAuthor>
+          <GBAuthor>Endy,T.P.</GBAuthor>
+          <GBAuthor>Fansiri,T.</GBAuthor>
+          <GBAuthor>Scott,T.W.</GBAuthor>
+          <GBAuthor>Jarman,R.G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Frequent In-Migration and Highly Focal Transmission of Dengue Viruses among Children in Kamphaeng Phet, Thailand</GBReference_title>
+        <GBReference_journal>PLoS Negl Trop Dis 7 (1), E1990 (2013)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1371/journal.pntd.0001990</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>23350000</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1485</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Rabaa,M.A.</GBAuthor>
+          <GBAuthor>Klungthong,C.</GBAuthor>
+          <GBAuthor>Yoon,I.-K.</GBAuthor>
+          <GBAuthor>Holmes,E.C.</GBAuthor>
+          <GBAuthor>Chinnawirotpisan,P.</GBAuthor>
+          <GBAuthor>Thaisomboonsuk,B.</GBAuthor>
+          <GBAuthor>Srikiatkhachorn,A.</GBAuthor>
+          <GBAuthor>Rothman,A.L.</GBAuthor>
+          <GBAuthor>Tannitisupawong,D.</GBAuthor>
+          <GBAuthor>Aldstadt,J.</GBAuthor>
+          <GBAuthor>Nisalak,A.</GBAuthor>
+          <GBAuthor>Mammem,M.P. Jr.</GBAuthor>
+          <GBAuthor>Thammapalo,S.</GBAuthor>
+          <GBAuthor>Gibbons,R.V.</GBAuthor>
+          <GBAuthor>Endy,T.</GBAuthor>
+          <GBAuthor>Fansiri,T.</GBAuthor>
+          <GBAuthor>Scott,T.W.</GBAuthor>
+          <GBAuthor>Jarman,R.G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (27-APR-2012) Virology, USAMC-AFRIMS, 315/6 Rajvithi Rd, Phayathia, Bangkok 10400, Thailand</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Assembly Method :: Sequencher v. 4.2 ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1485</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1485</GBInterval_to>
+            <GBInterval_accession>JQ993188.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>dengue virus type 1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>Thailand_KPP_KDS04175_NCxx_Schol_S_11_2006</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>serum</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11053</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Thailand</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2006</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..&gt;1485</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1485</GBInterval_to>
+            <GBInterval_accession>JQ993188.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>envelope protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AGD80718.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MRCVGIGSRDFVEGLSGATWVDVVLEHGSCVTTMAKDKPTLDIELLKTEVTNPAVLRKLCIEAKISNTTTDSRCPTQGEATLVEEQDANFVCRRTFVDRGWGNGCGLFGKGSLLTCAKFKCVTKLEGKIVQYENLKYSVIVTVHTGDQHQVGNESTEHGTTATITPQAPTTEIQLTDYGALTLDCSPRTGLDFNEMVLLTMKEKSWLVHKQWFLDLPLPWTSGASTSQETWNRQDLLVTFKTAHAKKQEVVVLGSQEGAMHTALTGATEIQMSGTTTIFAGHLKCRLKMDKLTLKGMSYVMCTGSFKLEKEVAETQHGTVLVQIKYEGTDAPCKIPFSTQDEKGVTQNGRLITANPIVTDKEKPVNIEAEPPFGESYIVIGVGEKALKLSWFKKGSSIGKMFEATARGARRMAILGDTAWDFGSIGGVFTSVGKLVHQIFGTAYGVLFSGVSWTMKIGIGVLLTWLGLNSRSTSLSMTCIAVGLVTLYLGVMVQA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgcgatgcgtgggaataggcagcagggacttcgtggaaggactgtcaggagcaacttgggtagatgtggtactggaacatggaagttgcgtcaccaccatggcaaaagacaaaccaacactggacattgaactcttgaagacggaagtcacaaaccctgccgtcctgcgcaaactgtgcattgaagctaaaatatcaaacaccaccactgactcaagatgtccaacacaaggagaagccacactggtggaagaacaagacgcgaactttgtgtgtcgacgaacgtttgtggacagaggctggggcaatggctgtgggctcttcggaaaaggaagcctactaacgtgtgctaagttcaagtgtgtgacaaaactggaaggaaagatagttcaatatgaaaacttgaaatattcagtaatagtcaccgtccacactggagaccagcatcaggtgggaaatgaaagcacagaacatgggacaactgcaactataacacctcaagctcctacgacggaaatacagctgaccgactacggagctcttacattggattgttcacctagaacaggattagactttaatgaaatggtgttgttgacaatgaaagaaaaatcatggctagtccacaaacaatggtttctagacttaccactgccttggacctcgggagcttcaacatcacaagagacttggaacagacaagatttgctggtgacatttaagacagctcatgcaaagaagcaggaagtagtcgtactaggatcacaagaaggagcaatgcacactgcgttgaccggagcgacagaaatccaaatgtctggaacgacaacaatttttgcaggacacttgaaatgtagactaaagatggacaaactgactctaaaagggatgtcatatgtgatgtgcacaggctcattcaagctagagaaagaagtggctgagacccagcatggaaccgttctagtgcagattaaatacgaaggaacagatgcaccatgcaagatccctttttcgacccaagatgaaaaaggagtaacccagaatgggagattgataacagccaaccccatagtcactgacaaagaaaaaccagtcaacattgaggcagaaccgccttttggtgagagttacatcgtgataggagtaggtgaaaaagctttgaaactaagctggttcaagaaaggaagcagcatagggaaaatgtttgaggcaactgccagaggagcacgaaggatggccatactgggagacaccgcatgggactttggttctataggaggagtgttcacgtctgttggaaaattagtacaccagatttttggaactgcatatggagttttgttcagcggtgtttcctggaccatgaaaataggaataggggttctgctgacatggttaggattaaactcaaggagcacgtccctctcgatgacgtgcattgcagttggcctagtaacactatacctaggagtcatggttcaggcg</GBSeq_sequence>
+  </GBSeq>

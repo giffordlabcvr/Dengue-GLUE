@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>DI128400</GBSeq_locus>
+    <GBSeq_length>1143</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>21-FEB-2008</GBSeq_update-date>
+    <GBSeq_create-date>21-FEB-2008</GBSeq_create-date>
+    <GBSeq_definition>Flavivirus NS1 Subunit Vaccine</GBSeq_definition>
+    <GBSeq_primary-accession>DI128400</GBSeq_primary-accession>
+    <GBSeq_accession-version>DI128400.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|DI128400.1|</GBSeqid>
+      <GBSeqid>pat|KR|1020047008702|5</GBSeqid>
+      <GBSeqid>gi|168426037</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>KR 1020047008702-A/5</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>dengue virus type 2</GBSeq_source>
+    <GBSeq_organism>dengue virus type 2</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1143</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Howley,P.</GBAuthor>
+          <GBAuthor>Leyrer,S.</GBAuthor>
+          <GBAuthor>Cardosa,M.J.</GBAuthor>
+          <GBAuthor>Henrysum,M.S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Flavivirus NS1 Subunit Vaccine</GBReference_title>
+        <GBReference_journal>KR1020047008702-A 5 04-JUN-2004</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>PN KR 1020047008702-A/5~PD 2004-06-04~PA HOWLEY,P., LEYRER,S., CARDOSA,M.J., HENRYSUM,M.S. PR DK PA 2001 01804 (2001-12-04)~TY DNA~OS Dengue virus type 2~CO.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1143</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1143</GBInterval_to>
+            <GBInterval_accession>DI128400.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>dengue virus type 2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11060</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgaattcacgcagcacctcactgtctgtgtcactagtattggtgggagtcgtgacgctgtatttgggagttatggtgcaggccgatagtggttgcgttgtgagctggaaaaacaaagaactgaagtgtggcagtgggattttcatcacagacaacgtgcacacatggacagaacaatacaagttccaaccagaatccccttcaaagctagcttcagctatccagaaagctcatgaagagggcatttgtggaatccgctcagtaacaagactggaaaatctgatgtggaaacaaataacaccagaattgaatcacattctatcagaaaatgaggtgaagttgactattatgacaggagacatcaaaggaatcatgcaggcaggaaaacgatctctgcagccccagcccactgagctgaagtattcatggaaaacatggggcaaagcgaaaatgctctctacagagtctcataaccagacctttctcattgatggccccgaaacagcagaatgccccaacacaaacagagcttggaattcgctggaagttgaagactatggctttggagtattcaccaccaatatatggctaaagttgagagaaaagcaggatgtattctgcgactcaaaactcatgtcagcggccataaaagacaacagagccgtccatgccgatatgggttattggatagaaagtgcactcaatgacacatggaagatagagaaagcctctttcatcgaagttaaaagctgccactggccaaagtcacacaccctctggagtaatggagtgttagaaagtgagatgataattccaaagaatttcgctggaccagtgtcacaacacaactacagaccaggctaccatacacaaacagcaggaccatggcatctaggtaagcttgagatggactttgatttctgcgaaggaaccacagtggtggtgactgaggactgtggaaatagaggaccctctttaagaacaactactgcctctggaaaactcataacagaatggtgctgccgatcttgcacattaccaccgctaagatacagaggtgaggacggatgctggtacgggatggaaatcagaccattgaaagagaaagaagagaatttggtcaactccttggtcacagcctag</GBSeq_sequence>
+  </GBSeq>

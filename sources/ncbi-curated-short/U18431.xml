@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>DVU18431</GBSeq_locus>
+    <GBSeq_length>1637</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>19-SEP-1997</GBSeq_update-date>
+    <GBSeq_create-date>28-DEC-1994</GBSeq_create-date>
+    <GBSeq_definition>Dengue virus type 4 Mexico 1984 polyprotein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>U18431</GBSeq_primary-accession>
+    <GBSeq_accession-version>U18431.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|U18431.1|DVU18431</GBSeqid>
+      <GBSeqid>gi|604452</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>dengue virus type 4</GBSeq_source>
+    <GBSeq_organism>dengue virus type 4</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1637</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Lanciotti,R.S.</GBAuthor>
+          <GBAuthor>Gubler,D.J.</GBAuthor>
+          <GBAuthor>Trent,D.W.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Molecular evolution and phylogeny of dengue-4 viruses</GBReference_title>
+        <GBReference_journal>J. Gen. Virol. 78 (Pt 9), 2279-2284 (1997)</GBReference_journal>
+        <GBReference_pubmed>9292015</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1637</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Lanciotti,R.S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (12-DEC-1994) Robert S. Lanciotti, Centers for Disease Control &amp; Prevention, DVBID, Molecular Biology, P.O. Box 2087, Rampart Rd., Fort Collins, CO 80522, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1637</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1637</GBInterval_to>
+            <GBInterval_accession>U18431.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>dengue virus type 4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>Mexico 1984</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>1492</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11070</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1637</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1637</GBInterval_to>
+            <GBInterval_accession>U18431.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polyprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAB70682.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>WKHAQRVESWILRNPGFALLAGFMAYMIGQTGIQRTVFFVLMMLVAPSYGMRCVGVGNRDFVEGVSGGAWVDLVLEHGGCVTTMAQGKPTLDFELTKTTAKEVALLRTYCIEASISNITTATRCPTQGEPYLKEEQDQQYICRRDVVDRGWGNGCGLFGKGGVVTCAKFSCSGKITGNLVQIENLEYTVVVTVHNGDTHAVGNDTSNHGVTAMITPRSPSVEVKLPDYGELTLDCEPRSGIDFNEMILMKMKKKTWLVHKQWFLDLPLPWTAGADTSEVHWNYKERMVTFKVPHAKRQDVTVLGSQEGAMHSALAGATEVDSGDGNHMFAGHLKCKVRMEKLRIKGMSYTMCSGKFSIDKEMAETQHGTTVVKVKCEGAGAPCKVPIEIRDVNKEKVVGRIISSTPLAENTNSVTNIELEPPFGDSYIVIGVGNSALTLHWFRKGSSIGKMFESTYRGAKRMAILGETAWDFGSVGGLFTSLGKAVHQVFGSVYTTMFGGVSWMIRILIGFLVLWIGTNSRNTSMAMTCIAVGGITLFLGFTVQA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>mat_peptide</GBFeature_key>
+        <GBFeature_location>&lt;1..152</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>152</GBInterval_to>
+            <GBInterval_accession>U18431.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>membrane protein M</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>WKHAQRVESWILRNPGFALLAGFMAYMIGQTGIQRTVFFVLMMLVAPSYG</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>mat_peptide</GBFeature_key>
+        <GBFeature_location>153..1637</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>153</GBInterval_from>
+            <GBInterval_to>1637</GBInterval_to>
+            <GBInterval_accession>U18431.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>envelope protein E</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>MRCVGVGNRDFVEGVSGGAWVDLVLEHGGCVTTMAQGKPTLDFELTKTTAKEVALLRTYCIEASISNITTATRCPTQGEPYLKEEQDQQYICRRDVVDRGWGNGCGLFGKGGVVTCAKFSCSGKITGNLVQIENLEYTVVVTVHNGDTHAVGNDTSNHGVTAMITPRSPSVEVKLPDYGELTLDCEPRSGIDFNEMILMKMKKKTWLVHKQWFLDLPLPWTAGADTSEVHWNYKERMVTFKVPHAKRQDVTVLGSQEGAMHSALAGATEVDSGDGNHMFAGHLKCKVRMEKLRIKGMSYTMCSGKFSIDKEMAETQHGTTVVKVKCEGAGAPCKVPIEIRDVNKEKVVGRIISSTPLAENTNSVTNIELEPPFGDSYIVIGVGNSALTLHWFRKGSSIGKMFESTYRGAKRMAILGETAWDFGSVGGLFTSLGKAVHQVFGSVYTTMFGGVSWMIRILIGFLVLWIGTNSRNTSMAMTCIAVGGITLFLGFTVQA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>cttggaagcatgctcagagagtagagagctggatactcagaaacccaggattcgcgctcttggcaggattcatggcttatatgattgggcaaacaggaatccagcgaactgtcttctttgtcctaatgatgctggtcgccccatcctacggaatgcgatgcgtaggagtaggaaacagagactttgtggaaggagtctcaggtggagcatgggtcgacctagtgctagaacatggaggatgcgtcacaaccatggcccagggaaaaccaaccttggattttgaactgactaagacaacagccaaggaagtggctctgctaagaacctattgcattgaagcctcaatatcaaacataactacggcaacaagatgtccaacgcaaggagagccttatctgaaagaggaacaggaccaacagtacatttgccggagagatgtggtagacagagggtggggcaatggctgtggcttgtttggaaaaggaggagttgtgacatgtgcgaagttttcatgttcggggaagataacaggcaatttggtccaaattgagaaccttgaatacacagtggttgtaacagtccacaatggagacacccatgcagtaggaaatgacacatccaatcatggagttacagccatgataactcccaggtcaccatcggtggaagtcaaattgccggactatggagaactaacactcgattgtgaacccaggtctggaattgactttaatgagatgattctgatgaaaatgaaaaagaaaacatggctcgtgcataagcaatggtttttggatctgcctcttccatggacagcaggagcagacacatcagaggttcactggaattacaaagagagaatggtgacatttaaggttccccatgccaagagacaggatgtgacagtgctgggatctcaggaaggagccatgcattctgccctcgctggagccacagaagtggactccggtgatggaaatcacatgtttgcaggacatctcaagtgcaaagtccgtatggagaaattgagaatcaagggaatgtcatacacgatgtgttcaggaaagttttcaattgacaaagagatggcagaaacacagcatgggacaacagtggtgaaagtcaagtgtgaaggtgctggagctccctgtaaagtccccatagagataagagatgtaaacaaggaaaaagtggttgggcgtatcatctcatccacccctttggctgagaataccaacagtgtaaccaacatagaattagaacctccctttggggacagctacatagtgataggtgttggaaacagcgcattaacactccattggttcaggaaagggagttccattggcaagatgtttgagtccacatacagaggtgcaaaacgaatggccattctaggtgaaacagcttgggattttggttccgttggtggactgttcacatcattgggaaaggctgtgcaccaggtttttggaagtgtgtatacaaccatgtttggaggagtctcatggatgattagaatcctaattgggttcttagtgttgtggattggcacgaactcaaggaacacttcaatggctatgacgtgcatagctgttggaggaatcactctgtttctgggcttcacagttcaagca</GBSeq_sequence>
+  </GBSeq>

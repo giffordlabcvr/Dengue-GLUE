@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>EU145968</GBSeq_locus>
+    <GBSeq_length>780</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>30-SEP-2007</GBSeq_create-date>
+    <GBSeq_definition>Dengue virus type 3 isolate ROR 5473 envelope protein (E) mRNA, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>EU145968</GBSeq_primary-accession>
+    <GBSeq_accession-version>EU145968.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|EU145968.1|</GBSeqid>
+      <GBSeqid>gi|157644841</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>dengue virus type 3</GBSeq_source>
+    <GBSeq_organism>dengue virus type 3</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..780</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Nunes,M.R.T.</GBAuthor>
+          <GBAuthor>Vasconcelos,P.F.C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Dengue virus type 3 in Boa Vista, northern Brazil</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..780</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Nunes,M.R.T.</GBAuthor>
+          <GBAuthor>Vasconcelos,P.F.C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (10-SEP-2007) Arbovirology and Hemorrhagic Fevers, Instituto Evandro Chagas, Av. Almirante Barroso 490, Belem, Para 66093-020, Brazil</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..780</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>780</GBInterval_to>
+            <GBInterval_accession>EU145968.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>dengue virus type 3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>ROR 5473</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11069</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Brazil</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..&gt;780</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>780</GBInterval_to>
+            <GBInterval_accession>EU145968.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>E</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..&gt;780</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>780</GBInterval_to>
+            <GBInterval_accession>EU145968.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>E</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>envelope protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ABV59125.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MRCVGVGNRDFVEGLSGAPWVVVVLEHGGCVTTMAKNKPTLDIELQKTEATQLATLRKLCIEGKITNITTDSRCPTQGEAVLPEEQDQNYVCKHTYVDRGWGNGCGLFGKGSLVTCAKFQCLEPIEGKVVQYENLKYTVIITVHTGDQHQVGNETQGVTAEITPQASTTEAILPEYGTLGLECSPRTGLDFNEMILLTMKNKAWMVHRQWFFDLPLPWTSGATTEIPTWNRKELLVTFKNAHAKKQEVVVLGSQEGAMHT</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgagatgtgtgggagtaggaaacagagattttgtggaaggtctatcaggagctccatgggttgtggtggtgctcgagcacggagggtgtgtgactaccatggctaagaacaagccaacgttggatatagagcttcagaagaccgaggccacccaattggcgaccctgaggaagctatgcattgaggggaaaattaccaacataacaactgactcaaggtgtcccacccaaggggaagccgttttgcctgaggagcaggaccagaattacgtgtgtaagcatacatacgtagacagaggctgggggaacggatgtggtttgtttggcaagggaagcttggtaacatgtgcgaaatttcaatgcctggaaccaatagagggaaaagtggtgcaatatgagaacctcaaatacaccgtcatcatcacagtgcacacaggagatcaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacacctcaggcatcaaccactgaagccatcttgcctgaatatggaacccttgggctagaatgctcaccacggacaggtttggatttcaatgaaatgatcttgctaacaatgaagaacaaagcatggatggtacataggcaatggttttttgacctacctctaccatggacatcaggagctacaacggaaataccaacctggaacaggaaggagcttcttgtgacatttaaaaacgcacatgcgaagaaacaagaagtagttgtccttggatcgcaagagggagcaatgcatacc</GBSeq_sequence>
+  </GBSeq>

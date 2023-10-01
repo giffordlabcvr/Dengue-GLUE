@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KC848586</GBSeq_locus>
+    <GBSeq_length>1479</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>23-JUL-2013</GBSeq_update-date>
+    <GBSeq_create-date>23-JUL-2013</GBSeq_create-date>
+    <GBSeq_definition>Dengue virus 3 isolate SO/DB128/2011 envelope glycoprotein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>KC848586</GBSeq_primary-accession>
+    <GBSeq_accession-version>KC848586.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KC848586.1|</GBSeqid>
+      <GBSeqid>gi|525328357</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>dengue virus type 3</GBSeq_source>
+    <GBSeq_organism>dengue virus type 3</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1479</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Santiago,G.A.</GBAuthor>
+          <GBAuthor>Medina,J.F.</GBAuthor>
+          <GBAuthor>Colon,C.</GBAuthor>
+          <GBAuthor>Munoz-Jordan,J.L.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (01-APR-2013) Molecular Diagnostics and Research Laboratory, Centers for Disease Control and Prevention, CDC Dengue Branch, 1324 Canada St., San Juan, PR 00920, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1479</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1479</GBInterval_to>
+            <GBInterval_accession>KC848586.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>dengue virus type 3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>SO/DB128/2011</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>serum</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11069</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>lab_host</GBQualifier_name>
+            <GBQualifier_value>C6/36</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Somalia</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2011</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1479</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1479</GBInterval_to>
+            <GBInterval_accession>KC848586.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>envelope glycoprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AGR44696.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MRCVGVGNRDFVEGLSGATWVDVVLEHGGCVTTMAKNKPTLDIELQKTEATQLATLRKLCIEGKITNITTDSRCPTQGEAVLPEEQDQNYVCKHTYVDRGWGNGCGLFGKGSLVTCAKFQCLEPIEGKVVQHENLKYTVIITVHTGDQHQVGNETQGVTAEITPQASTTEAILPEYGTLGLECSPRTGLDFNEMILLTMKNKAWMVHRQWFFDLPLPWTSGATTETPTWNRKELLVTFKNAHAKKQEVVVLGSQEGAMHTALTGATEIQNSGGTSIFAGHLKCRLKMDKLELKGMSYAMCTNTFVLKKEVSETQHGTILIKVEYKGEDAPCKIPFSTEDGQGRAHNGRLITANPVVTKKEEPVNIEAEPPFGESNIVIGIGDNALKINWYKKGSSIGKMFEATARGARRMAILGDTAWDFGSVGGVLNSLGKMVHQIFGSAYTALFSGVSWVMKIGIGVLLTWIGLNSKNTSMSFSCIAIGIITLYLGAVVQA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgagatgtgtgggagtgggaaacagagattttgtggaaggtctgtcaggagctacatgggttgacgtggtgctagagcacggggggtgtgtgaccaccatggctaagaacaagcccacgctggatatagagcttcagaagaccgaggccacccaactggcgaccctaaggaagctatgcattgaggggaaaattaccaacataacaactgactcaagatgtcccacccaaggggaagcggttttgcctgaggagcaggaccagaactacgtgtgtaagcatacatacgtagacagaggctgggggaacggttgtggtttgtttggcaagggaagcttggtaacatgtgcgaaatttcaatgcctggaaccgatagagggaaaagtggtgcaacatgagaatctcaagtacaccgtcatcattacagtgcacacaggagaccaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacgcctcaggcatcaactactgaagccatcttgcctgaatatggaacccttgggctagagtgctcaccacggacaggtttggacttcaatgaaatgattttactaacaatgaagaacaaagcatggatggtacacagacaatggttttttgacctacctctaccatggacatcaggagctacaacagaaacaccaacttggaacaggaaggagctccttgtgacattcaagaatgcacatgcgaaaaaacaagaagtagttgtccttggatcgcaagaaggagcaatgcataccgcactgacaggagccacagaaatccaaaactcaggaggcacaagcatttttgcggggcacttaaagtgtagacttaagatggacaaattggaactcaaggggatgagctatgcaatgtgcacgaatacctttgtgttgaagaaagaagtctcagaaacgcagcatgggacaatactcattaaggtcgagtacaaaggggaagatgcaccttgcaagattcctttttccacagaggatggacaagggagagctcacaatggcagactgattacagccaacccagtggtgactaagaaggaggagcctgttaacattgaggctgaacctccttttggggaaagtaatatagtaattggaattggagacaatgccttgaaaatcaactggtacaagaagggaagctctattgggaagatgttcgaggccactgccagaggtgcaaggcgcatggccatcttgggagacacagcttgggactttggatcagtgggtggtgttctgaactcattaggcaagatggtgcaccaaatattcggaagtgcttacacagccctattcagtggagtctcttgggtgatgaaaattggaataggtgttctcctgacttggatagggttgaattcaaaaaacacatccatgtcattttcatgcattgcgataggaatcatcacactctatctgggagctgtggtacaagct</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>X57469</GBSeq_locus>
+    <GBSeq_length>1710</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>09-JUL-1991</GBSeq_create-date>
+    <GBSeq_definition>Dengue-2 virus NS1 and NS2a genomic RNA for non-structural proteins</GBSeq_definition>
+    <GBSeq_primary-accession>X57469</GBSeq_primary-accession>
+    <GBSeq_accession-version>X57469.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|X57469.1|</GBSeqid>
+      <GBSeqid>gi|59311</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>nonstructural protein</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>dengue virus type 2</GBSeq_source>
+    <GBSeq_organism>dengue virus type 2</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1710</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Qu,X.</GBAuthor>
+          <GBAuthor>Chen,W.</GBAuthor>
+          <GBAuthor>Maguire,T.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Nucleotide sequence of the non-structural genes NS1 and NS2a from Dengue-2 virus, strain tonga 1974</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1710</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Maguire,T.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (15-MAR-1991) T. Maguire, MRC Virus Research Unit, University of Otago, P.O Box 56, Dunedin, NEW ZEALAND</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1710</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1710</GBInterval_to>
+            <GBInterval_accession>X57469.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>dengue virus type 2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>Tonga 1974</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>1251</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11060</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>map</GBQualifier_name>
+            <GBQualifier_value>2422-4131 nucleotides</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>clone</GBQualifier_name>
+            <GBQualifier_value>P18</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>cell_line</GBQualifier_name>
+            <GBQualifier_value>viral RNA extracted from infected Aedes albopictus (C6/36) cells</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>clone_lib</GBQualifier_name>
+            <GBQualifier_value>PCR amplified gene</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1710</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1710</GBInterval_to>
+            <GBInterval_accession>X57469.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NS1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>NS2a</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1710</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1710</GBInterval_to>
+            <GBInterval_accession>X57469.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NS1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>NS2a</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>non-structural protein NS1 and NS2a</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>CAA40705.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GOA:P27914</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR000336</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR000752</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR001157</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR001650</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR001850</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR009003</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR011492</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR011998</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR011999</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR013754</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR013756</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR014001</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR014021</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR014756</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>PDB:1TG8</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>PDB:1TGE</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>UniProtKB/Swiss-Prot:P27914</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>DSGCVVSWKNKELKCGSGIFVTDNVHTWTEQYKFQPESPSKLASAIQKAHEEGICGIRSVTRLENLMWKQITSELNHILSENEVKLTIMTGDIKGIMQVGKRSLRPQPTELRYSWKTWGKAKMLSTELHNQTFLIDGPETAECPNTNRAWNSLEVEDYGFGVFTTNIWLRLREKQDVFCDSKLMSAAIKDNRAVHADMGYWIESALNDTWKIEKASFIEVKSCHWPKSHTLWSNGVLESEMVIPKNFAGPVSQHNNRPGYYTQTAGPWHLGKLEMDFDFCEGTTVVVTEDCGNRGPSLRTTTASGKLITEWCCRSCTLPPLRYRGEDGCWYGMEIRPLKEKEENLVSSLVTAGHGQIDNFSLGILGMALFLEEMLRTRVGTKHAILLVAVSFVTLITGNMSFRDLGRVMVMVGATMTDDIGMGVTYLALLAAFRVRPTFAAGLLLRKLTSKELMMTTIGIVLLSQSSIPETILELTDALALGMMVLKMVRNMEKYQLAVTIMAILCVPNAVILQNAWKVSCTILAVVSVSPLLLTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTSKKR</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gatagtggttgcgttgtgagctggaagaacaaagaactaaaatgtggcagtggaatattcgtcacagataacgtgcatacatggacagaacaatacaagttccaaccagaatccccttcaaagctggcctcagccatccagaaagcgcatgaagagggcatctgtggaatccgctcagtaacaagactggaaaatcttatgtggaaacagataacatcagaattgaatcatattctatcggaaaatgaagtgaaactgaccatcatgacaggagacatcaaaggaatcatgcaggtaggaaaacgatctctgcggcctcaacccactgagttgaggtattcatggaaaacatggggtaaagcgaaaatgctctccacagaactccacaatcagaccttcctcattgatggtcccgaaacagcagaatgccccaacacaaacagagcttggaattcactggaagttgaggactacggctttggagtattcactaccaatatatggctaagattgagagaaaagcaggatgtattttgtgactcaaaactcatgtcagcggccataaaggacaacagagccgtccatgctgatatgggttattggatagaaagcgcactcaatgatacatggaagatagagaaagcttctttcattgaagtcaaaagttgccactggccaaagtcacacaccctatggagtaatggagtgctagaaagcgagatggtcattccaaagaatttcgctggaccagtgtcacaacataataacagaccaggctattacacacaaacagcaggaccttggcatctaggcaagcttgagatggactttgatttctgcgaagggactacagtagtggtaaccgaggactgtggaaacagagggccctctttaagaacaaccactgcctcaggaaaactcataacggaatggtgttgtcgatcttgcacactaccaccactaagatacagaggtgaggatggatgttggtacgggatggaaatcagaccattgaaagagaaagaagaaaatctggtcagttctctggttacagccggacatgggcagattgacaatttctcattaggaatcttgggaatggcactgttccttgaagaaatgctcaggactcgagtaggaacaaaacatgcaatattactagtcgcagtttctttcgtgacgctaatcacagggaacatgtcttttagagacctgggaagagtgatggttatggtgggtgccaccatgacagatgacataggcatgggtgtgacttatctcgctctactagcagcttttagagtcagaccaacctttgcagctggactgctcttgagaaaactgacctccaaggaattgatgatgactaccataggaatcgttcttctctcccagagtagcataccagagaccattcttgaactaaccgatgcgttagctctaggcatgatggtcctcaagatggtgagaaacatggaaaaatatcagctggcagtgaccatcatggctattttgtgcgtcccaaatgctgtgatattacagaacgcatggaaagtgagttgcacaatattggcagtggtgtctgtttcccccctgctcttaacatcctcacaacagaaagcggactggataccattagcgttgacgatcaaaggtcttaatccaacagccatttttctaacaaccctctcaagaaccagcaagaaaagg</GBSeq_sequence>
+  </GBSeq>

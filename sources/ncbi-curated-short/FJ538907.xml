@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FJ538907</GBSeq_locus>
+    <GBSeq_length>2541</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>24-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>24-DEC-2009</GBSeq_create-date>
+    <GBSeq_definition>Dengue virus 2 strain NIV_64412 polyprotein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>FJ538907</GBSeq_primary-accession>
+    <GBSeq_accession-version>FJ538907.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|FJ538907.1|</GBSeqid>
+      <GBSeqid>gi|254575744</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>dengue virus type 2</GBSeq_source>
+    <GBSeq_organism>dengue virus type 2</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..2541</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Kumar,S.R.</GBAuthor>
+          <GBAuthor>Patil,J.A.</GBAuthor>
+          <GBAuthor>Cecilia,D.</GBAuthor>
+          <GBAuthor>Cherian,S.S.</GBAuthor>
+          <GBAuthor>Barde,P.V.</GBAuthor>
+          <GBAuthor>Walimbe,A.M.</GBAuthor>
+          <GBAuthor>Yadav,P.D.</GBAuthor>
+          <GBAuthor>Yergolkar,P.N.</GBAuthor>
+          <GBAuthor>Shah,P.S.</GBAuthor>
+          <GBAuthor>Padbidri,V.S.</GBAuthor>
+          <GBAuthor>Mishra,A.C.</GBAuthor>
+          <GBAuthor>Mourya,D.T.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Evolution, dispersal and replacement of American genotype dengue type 2 viruses in India (1956-2005): selection pressure and molecular clock analyses</GBReference_title>
+        <GBReference_journal>J. Gen. Virol. 91 (PT 3), 707-720 (2010)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1099/vir.0.017954-0</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>19923266</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..2541</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Kumar,S.R.P.</GBAuthor>
+          <GBAuthor>Barde,P.V.</GBAuthor>
+          <GBAuthor>Yergolkar,P.N.</GBAuthor>
+          <GBAuthor>Mehla,R.</GBAuthor>
+          <GBAuthor>Yadav,P.D.</GBAuthor>
+          <GBAuthor>Mourya,D.T.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Molecular evolution of Dengue 2 viruses in India</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..2541</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Kumar,S.R.P.</GBAuthor>
+          <GBAuthor>Barde,P.V.</GBAuthor>
+          <GBAuthor>Yergolkar,P.N.</GBAuthor>
+          <GBAuthor>Mehla,R.</GBAuthor>
+          <GBAuthor>Yadav,P.D.</GBAuthor>
+          <GBAuthor>Mourya,D.T.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (10-DEC-2008) Virus Repository &amp; High Containment Laboratory, Microbial Containment Complex, National Institute of Virology, 130/1 Sus Road, Pashan, Pune, Maharashtra 411021, India</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..2541</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2541</GBInterval_to>
+            <GBInterval_accession>FJ538907.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>dengue virus type 2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>NIV_64412</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11060</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>India</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>1964</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: American</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;2541</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2541</GBInterval_to>
+            <GBInterval_accession>FJ538907.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>envelope and non-structural 1 protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polyprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ACT68360.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MRCIGISNRDFVEGVSGGSWVDIVLEHGSCVTTMAKNKPTLDFELIKTEAKQPATLRKYCIEAKLTNTTTDSRCPTQGEPTLNEEQDKRFVCKHSMVDRGWGNGCGLFGKGGIVTCAMFTCKKNMKGKIVQPENLEYTVVITPHSGEEHAVGNDTGKHGKAVKITPQSSITEAELTGYGTVTMECSPRTGLDFNEMVLLQMEDKAWLVHRQWFLDLPLPWLPGADTQGSNWIQKETLVTFKNPHAKKQDVVVLGSQEGAMHTALTGATEIQMSSGNLLFTGHLKCRLRMDKLQLKGMSYSMCTGKFKVVKEIAETQHGTIVIRVQYEGDGSPCKIPFEIMDLEKRHVLGRLITVNPIVTEKDSPVNIEAEPPFGDSYIIIGVEPGQLKLDWFKKGSSIGQMLETTMRGAKRMAILGDTAWDFGSLGGVFTSIGKALHQVFGAIYGAAFNGVSWTMKILIGVIITWIGMNSRSTSLSVSLVLVGIVTLYLGVMVQADSGCVVSWKNKELKCGSGIFVTDNVHTWTEQYKFQPESPSKLASAIQKAHEEGICGIRSVTRLENLMWKQITPELNHILSENEVKLTIMTGDIKGIMQVGKRSLRPQPTELRYSWKTWGKAKMLSTELHNQTFLIDGPETAECPNTNRAWNSLEVEDYGFGVFTTNIWLRLREKQDVFCDSKLMSAAIKDNRAVHADMGYWIESALNDTWKIEKASFIEVKSCHWPKSHTLWSNGVLESEMVIPKNFAGPVSQHNNRPGYYTQTAGPWHLGKLEMDFDFCEGTTVVVTEDCGNRGPSLRTTTASGKLITEWCCRSCTLPPLRYRGEDGCWYGMEIRPLKEKEENLVSSLVTA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgcgctgcataggaatatcaaatagggactttgtggaaggagtgtcaggagggagttgggttgacatagtcttagaacatggaagttgtgtgacgacgatggcaaaaaataaaccaacactggactttgaactgataaaaacagaagccaaacaacccgccactctaaggaagtactgtatagaggctaaactgaccaacacgacaacagactcgcgctgcccaacacaaggggaacccactctgaacgaagagcaggacaaaaggtttgtctgcaaacactccatggtagacagaggatggggaaatggatgtggactatttggaaaaggaggcatcgtgacctgtgctatgttcacatgcaaaaagaacatgaaaggaaaaattgtgcagccagaaaacttggaatacactgtcgtgataacacctcactcaggggaagaacatgcagtcggaaatgacacaggaaaacatggcaaggcagtcaagataacaccacagagctctatcacagaggcggaactgacaggctatggcactgttacgatggagtgctctccgagaacgggccttgacttcaatgagatggtgttgctgcaaatggaagacaaagcttggctggtgcacagacaatggttcctagacctaccgctgccatggctgcccggagcagacacacaaggatcaaattggatacagaaagagacattggtcaccttcaaaaatccccatgcgaaaaaacaggatgttgttgtcttaggatcccaagagggggccatgcatacagcactcacaggggctacggaaatccagatgtcatcaggaaacttgctgttcacaggacatctcaaatgcaggctgagaatggacaaattacagcttaaagggatgtcatactccatgtgcacaggaaagtttaaagtcgtgaaggaaatagcagaaacacaacatggaacaatagtcattagagtacaatatgaaggagacggctctccatgcaagatcccctttgagataatggatctggaaaaaagacatgttttgggccgcctgatcacagtcaacccaattgtaacagaaaaggacagtccagtcaacatagaagcagaacctccatttggagacagctacatcatcataggagtggaaccaggacaattgaagcttgattggttcaagaaaggaagttccatcggccaaatgcttgagacaacaatgaggggagcgaaaagaatggccattttgggtgacacagcctgggattttggatctctgggaggagtgttcacatcaataggaaaggctctccaccaggtttttggagcaatctatggggctgctttcaatggggtctcatggactatgaagatcctcataggagttatcatcacatggataggaatgaactcacgtagcacatcactgtctgtgtcactagtattagtgggaatcgtgacactatacttgggagttatggtgcaggccgatagtggttgcgttgtgagctggaagaacaaagaactaaaatgtggcagtggaatatttgtcacagataacgtgcatacatggacagaacaatacaagttccaaccagaatccccttcaaaactggcctcagccatccagaaagctcatgaagagggtatttgtggaatccgttcagtaacaagactggaaaatctcatgtggaaacagataacaccagaattgaatcacattctatcagaaaatgaagtgaagctgaccatcatgacaggagacatcaaaggaatcatgcaggtaggaaaacgatctctgcggcctcaacccactgagttgaggtattcatggaaaacatggggtaaagcgaaaatgctttccacagaactccacaatcagacctttctcattgatggtcccgaaacagcagaatgccccaacacaaacagagcttggaattcactggaagttgaggactacggctttggagtattcaccaccaatatatggctaagactgagagaaaagcaggatgtattttgtgactcaaaactcatgtcagcggcaataaaggacaacagagccgtccatgccgatatgggttattggatagaaagcgcactcaatgacacatggaagatagagaaagcttctttcattgaagttaaaagttgccactggccaaagtcacacactctatggagcaatggagtactagaaagtgagatggtaattccaaagaatttcgctggaccagtgtcacaacataataacagaccaggctattacacacaaacagcaggaccttggcatctaggcaaacttgagatggactttgatttctgcgaagggactacagtggtggtaaccgaggactgtggaaacagagggccctctttaagaacaaccactgcctctggaaaactcataacggaatggtgctgtcgatcttgcacattaccaccgctaagatacagaggtgaggatggatgctggtacgggatggaaatcagaccattaaaagagaaagaagaaaacctggtcagttctctggtcacagcc</GBSeq_sequence>
+  </GBSeq>

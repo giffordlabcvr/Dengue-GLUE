@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KU550346</GBSeq_locus>
+    <GBSeq_length>2325</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>21-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>21-JUL-2016</GBSeq_create-date>
+    <GBSeq_definition>Dengue virus type 2 isolate 1018-24 polyprotein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>KU550346</GBSeq_primary-accession>
+    <GBSeq_accession-version>KU550346.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KU550346.1|</GBSeqid>
+      <GBSeqid>gi|1044891226</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>dengue virus type 2</GBSeq_source>
+    <GBSeq_organism>dengue virus type 2</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..2325</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Zhao,J.Y.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (18-JAN-2016) Yunnan Key Laboratory of Vaccine Research &amp; Development on Severe Infectious Diseases, Institute of Medical Biology, Chinese Academy of Medical Sciences, N0.935 Jiaoling Road, Kunming, Yunnan 650118, P.R. China</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..2325</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2325</GBInterval_to>
+            <GBInterval_accession>KU550346.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>dengue virus type 2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>1018-24</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11060</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>China</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2015</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..&gt;2325</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2325</GBInterval_to>
+            <GBInterval_accession>KU550346.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>structural protein; contains capsid, premembrane protein and envelope protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polyprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ANU04706.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MNNQRKKARNTPFNMLKRERNRVSTVQQLTKRFSLGMLQGRGPLKLFMALVAFLRFLTIPPTAGILKRWGTIKKSKAINVLRGFRKEIGRMLNILNRRRRTAGVIIMLIPTAMAFHLTTRNGEPHMIVSRQEKGKSLLFKTEDGVNMCTLMAMDLGELCEDTITYNCPLLRQNEPEDIDCWCNSTSTWVTYGTCTATGEHRREKRSVALVPHVGMGLETRTETWMSSEGAWKHAQRIETWILRHPGFTIMAAILAYTIGTTYFQRVLIFILLTAVAPSMTMRCIGISNRDFVEGVSGGSWVDIVLEHGSCVTTMAKNKPTLDFELIKTEAKQPATLRKYWIEAKLTNTTTASRCPTQGEPSLNEEQDKRFVCKHSMVDRGWGNGCGLFGKGGIVTCAMFTCKKNMEGKIVQPENLEYTIVVTPHSGEENAVGNDTGKHGKEIKVTPQSSITEAELTGYGTVAMECSPRTGLDFNEMVLLQMENKAWLVHRQWFLDLPLPWLPGADTQGSNWIQKETLVTFKNPHAKKQDVVVLGSQEGAMHTALTGATEIQMSSGNLLFTGHLKCRLRMDKLQLKGMSYSMCTGKFKVVKEIAETQHGTIVVRVQYEGDGSPCKIPFEIMDLEKRHVLGRLITVNPIVTEKDSPVNIEAEPPFGDSYIIIGVEPGQLKLSWFKKGSSIGQMFETTMRGAKRMAILGDTAWDFGSLGGVFTSIGKALHQVFGAIYGAAFSGVSWTMKILIGVVITWIGMNSRSTSLSVSLVLVGVVTLYLGVMVQA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgaataaccaacgaaaaaaggcgagaaatacgcctttcaatatgctgaaacgcgagagaaaccgcgtgtcgactgtacaacagctgacaaagagattctcacttggaatgctgcagggacgaggaccgttgaaactgttcatggccttggtggcattccttcgtttcctaacaatcccaccaacagcagggatactaaaaagatggggaacgatcaaaaagtcaaaagccatcaatgtcttgagagggttcaggaaagagattggaaggatgttgaacatcttgaataggagacgcagaactgcaggcgtgatcatcatgctaattccaacagcgatggcgttccatttaaccacacgcaacggagaaccacacatgatcgtcagtagacaagagaaagggaaaagtctcttgttcaaaacagaggatggtgtgaacatgtgtaccctcatggccatggaccttggtgaactatgtgaagacacaatcacttataactgtcctcttctcaggcagaatgaaccagaagacatagattgttggtgtaactccacgtccacatgggtgacttatgggacatgcactgccacaggagaacacagaagggaaaaaagatcagtggcactcgtcccacatgtgggaatgggattggaaacacgaactgaaacatggatgtcatcagaaggggcctggaaacacgcccagagaattgaaacctggatcttgagacatccaggttttaccataatggcagcaatcttggcatacaccataggaacgacatacttccaaagagtcctgatcttcatcttactgacagctgtcgccccttcaatgacaatgcgttgtattggaatatcaaatagagactttgtggaaggggtttcaggaggaagctgggttgacatagtcttagaacatggaagctgcgtgacaacgatggcaaaaaacaaaccaacattggactttgaactgataaaaacagaagccaagcaacctgccactctaaggaagtactggatagaagcaaagctgaccaacacaacaacagcatcccgatgcccaacacaaggagaacccagcctaaatgaagaacaggacaaaaggtttgtctgcaaacattccatggtagacagaggatggggaaatggatgtggattatttggaaagggaggcatcgtgacctgtgctatgttcacatgcaaaaaaaatatggaaggaaaaattgtgcaaccagaaaacctggaatacaccattgtggtaacacctcattcaggggaagagaatgcagttggaaatgacacaggaaaacatggcaaggaaatcaaagtaacaccacagagttccattacagaagcagaactgacaggctacggcactgtcgccatggagtgctctccaagaacgggcctcgacttcaatgaaatggtgttgctgcaaatggaaaataaggcttggctggtgcacaggcaatggttcttagacctgccgttaccatggttgcccggagcggacacacaaggatcaaattggatacagaaggagacgttggtcaccttcaaaaatccccatgcgaagaaacaggatgttgttgttttgggatcccaagaaggggctatgcatacagcacttacaggggccacggaaatccagatgtcatcaggaaacctactgttcacaggacatctcaagtgcaggctgagaatggataaattacagctcaaaggaatgtcatactctatgtgtacaggaaagtttaaagttgtaaaggaaatagcagagacacaacatggaacaatagttgtcagagtacaatatgaaggggatggctctccatgtaaaatcccttttgagataatggatttggaaaaaagacatgtcttaggtcgcctgattacagtcaacccaatcgtaacagaaaaagacagtccagtcaacatagaagcagaacctccatttggagacagctacatcattataggagtagaaccgggacaactgaagctcagctggtttaagaaaggaagctcaatcggccaaatgttcgagacaacaatgagaggagcgaagagaatggccattttaggtgacacagcctgggattttggatccctgggaggagtgttcacatctataggaaaggccctccaccaagtttttggagcaatctatggggctgccttcagtggggtctcatggactatgaaaatcctcataggagttgtcatcacatggataggaatgaattcacgtagcacctcactgtctgtgtcactagtattggtgggggtcgtgacattgtatttgggagttatggtgcaggct</GBSeq_sequence>
+  </GBSeq>

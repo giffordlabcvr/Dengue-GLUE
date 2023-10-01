@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AX775702</GBSeq_locus>
+    <GBSeq_length>1296</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>14-JUL-2003</GBSeq_update-date>
+    <GBSeq_create-date>14-JUL-2003</GBSeq_create-date>
+    <GBSeq_definition>Sequence 7 from Patent WO03048184</GBSeq_definition>
+    <GBSeq_primary-accession>AX775702</GBSeq_primary-accession>
+    <GBSeq_accession-version>AX775702.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|AX775702.1|</GBSeqid>
+      <GBSeqid>pat|WO|03048184|7</GBSeqid>
+      <GBSeqid>gi|32693421</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>dengue virus type 2</GBSeq_source>
+    <GBSeq_organism>dengue virus type 2</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1296</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Howley,P.</GBAuthor>
+          <GBAuthor>Leyrer,S.</GBAuthor>
+          <GBAuthor>Cardosa,M.J.</GBAuthor>
+          <GBAuthor>Henry Sum,M.S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Flavivirus NS1 subunit vaccine</GBReference_title>
+        <GBReference_journal>WO03048184-A2 7 12-JUN-2003 Bavarian Nordic A/S (DK); Venture Technologies Sdn Bhd (MY)</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1296</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1296</GBInterval_to>
+            <GBInterval_accession>AX775702.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>dengue virus type 2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11060</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>NS1 cassette within plasmid pAF7</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>primer_bind</GBFeature_key>
+        <GBFeature_location>12..32</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>12</GBInterval_from>
+            <GBInterval_to>32</GBInterval_to>
+            <GBInterval_accession>AX775702.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>50..1192</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>50</GBInterval_from>
+            <GBInterval_to>1192</GBInterval_to>
+            <GBInterval_accession>AX775702.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NS1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>50..1192</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>50</GBInterval_from>
+            <GBInterval_to>1192</GBInterval_to>
+            <GBInterval_accession>AX775702.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NS1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>CAE11558.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MNSRSTSLSVSLVLVGVVTLYLGVMVQADSGCVVSWKNKELKCGSGIFITDNVHTWTEQYKFQPESPSKLASAIQKAHEEGICGIRSVTRLENLMWKQITPELNHILSENEVKLTIMTGDIKGIMQAGKRSLQPQPTELKYSWKTWGKAKMLSTESHNQTFLIDGPETAECPNTNRAWNSLEVEDYGFGVFTTNIWLKLREKQDVFCDSKLMSAAIKDNRAVHADMGYWIESALNDTWKIEKASFIEVKSCHWPKSHTLWSNGVLESEMIIPKNFAGPVSQHNYRPGYHTQTAGPWHLGKLEMDFDFCEGTTVVVTEDCGNRGPSLRTTTASGKLITEWCCRSCTLPPLRYRGEDGCWYGMEIRPLKEKEENLVNSLVTA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>primer_bind</GBFeature_key>
+        <GBFeature_location>1243..1273</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1243</GBInterval_from>
+            <GBInterval_to>1273</GBInterval_to>
+            <GBInterval_accession>AX775702.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ttttcctttgaaaaacacgataataccatgggaattcccccgatctggaatgaattcacgcagcacctcactgtctgtgtcactagtattggtgggagtcgtgacgctgtatttgggagttatggtgcaggccgatagtggttgcgttgtgagctggaaaaacaaagaactgaagtgtggcagtgggattttcatcacagacaacgtgcacacatggacagaacaatacaagttccaaccagaatccccttcaaagctagcttcagctatccagaaagctcatgaagagggcatttgtggaatccgctcagtaacaagactggaaaatctgatgtggaaacaaataacaccagaattgaatcacattctatcagaaaatgaggtgaagttgactattatgacaggagacatcaaaggaatcatgcaggcaggaaaacgatctctgcagccccagcccactgagctgaagtattcatggaaaacatggggcaaagcgaaaatgctctctacagagtctcataaccagacctttctcattgatggccccgaaacagcagaatgccccaacacaaacagagcttggaattcgctggaagttgaagactatggctttggagtattcaccaccaatatatggctaaagttgagagaaaagcaggatgtattctgcgactcaaaactcatgtcagcggccataaaagacaacagagccgtccatgccgatatgggttattggatagaaagtgcactcaatgacacatggaagatagagaaagcctctttcatcgaagttaaaagctgccactggccaaagtcacacaccctctggagtaatggagtgttagaaagtgagatgataattccaaagaatttcgctggaccagtgtcacaacacaactacagaccaggctaccatacacaaacagcaggaccatggcatctaggtaagcttgagatggactttgatttctgcgaaggaaccacagtggtggtgactgaggactgtggaaatagaggaccctctttaagaacaactactgcctctggaaaactcataacagaatggtgctgccgatcttgcacattaccaccgctaagatacagaggtgaggacggatgctggtacgggatggaaatcagaccattgaaagagaaagaagagaatttggtcaactccttggtcacagcctagtagggatcgggggagctcactagtggatccctccagctcgagaggnctaattaattaagtctacgatccggctgctaacaaagcccgaaaggaagctgagttgg</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>DENVVB</GBSeq_locus>
+    <GBSeq_length>1929</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>25-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>02-AUG-1993</GBSeq_create-date>
+    <GBSeq_definition>Dengue virus type 2 clone pVV17 nonstructural protein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>M14970</GBSeq_primary-accession>
+    <GBSeq_accession-version>M14970.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|M14970.1|DENVVB</GBSeqid>
+      <GBSeqid>gi|323662</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>dengue virus type 2</GBSeq_source>
+    <GBSeq_organism>dengue virus type 2</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1929</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Yaegashi,T.</GBAuthor>
+          <GBAuthor>Vakharia,V.N.</GBAuthor>
+          <GBAuthor>Page,K.</GBAuthor>
+          <GBAuthor>Sasaguri,Y.</GBAuthor>
+          <GBAuthor>Feighny,R.</GBAuthor>
+          <GBAuthor>Padmanabhan,R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Partial sequence analysis of cloned dengue virus type 2 genome</GBReference_title>
+        <GBReference_journal>Gene 46 (2-3), 257-267 (1986)</GBReference_journal>
+        <GBReference_pubmed>3803928</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1929</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Feighny,R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (02-AUG-1993) Department of Virus Diseases, Walter Reed Army Institute of Research, Washington, DC 20307, USA</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..1929</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Yaegashi,T.</GBAuthor>
+          <GBAuthor>Vakharia,V.N.</GBAuthor>
+          <GBAuthor>Page,K.</GBAuthor>
+          <GBAuthor>Sasaguri,Y.</GBAuthor>
+          <GBAuthor>Padmanabhan,R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (02-AUG-1993) Department of Biochemistry, University of Kansas Medical Center, Kansas City, KS 66103, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1929</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1929</GBInterval_to>
+            <GBInterval_accession>M14970.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>dengue virus type 2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11060</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>clone</GBQualifier_name>
+            <GBQualifier_value>pVV17</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>DEN-2</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1929</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1929</GBInterval_to>
+            <GBInterval_accession>M14970.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>nonstructural protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ABL01526.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>DNLAVLHTAEAGGRAYNHALSELPETLETLLLLTLLATVTGGIFLFLMSGRGIGKMTLGMCCIITASILLWYAQIQPHWIAASIILEFFLIVLLIPEPEKQRTPQDNQLTYVVIAILTVVAATMANEMGFLEKTKKDLGLGSITTQQPESNILDIDLRPASAWTLYAVATTFVTPMLRHSIENSSVNVSLTAIANQATVLMGLGKGWPLSKMDIGVPLLAIGCYSQVNPITLTAALFLLVAHYAIIGPGLQAKATREAQKRAAAGIMKNPTVGRITVIDLDPIPYDPKFEKQLGQVMLLVLCVTQVLMMRTTWALCEALTLATGPISTLWEGNPGRFWNTTIAVSMANIFRGSYLAGAGLLFSIMKNTTNTRRGTGNIGETLGEKWKSRLNALGKSEFQIYKKSGIQEVDRTLAKEGIKRGETDHHAVSRGSAKLRWFVERNMVTPEGKVVDLGCGRGGWSYYCGGLKNVREVKGLTKGGPGHEEPIPMSTYGWNLVRLQSGVDVFFTPPEKCDTLLCDIGESSPNPTVEAGRTLRVLNLVENWLNNNTQFCIKVLNPYMPSVIEKMEALQRKYGGALVRNPLSRNSTHEMYWVSNASGNIVSSVNMISRMLINRFTMRHKKATYEPDVDLGSGTRNIGIESE</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gacaacttagcagtgctgcacacggctgaagcaggtggaagggcgtacaatcatgctctcagtgaactgccggagaccctggagacattgcttttactgacacttctggctacagtcacaggaggaatctttttattcttgatgagcggaaggggtatagggaagatgaccctgggaatgtgctgcataatcacggctagtattctcctatggtacgcacaaatacagccacactggatagcagcttcaataatactggagttttttctcatagttttgcttattccagaaccagaaaagcagagaacaccccaagataaccaattgacctacgttgtcatagccatcctcacagtggtggccgcaaccatggcaaacgagatgggtttcctggaaaaaacgaagaaagatctcggattgggaagcattacaacccagcaacccgagagcaacatcctggacatagatctacgtcccgcatcagcatggacgctgtatgctgtggccacaacatttgtcacaccaatgttgagacacagcattgaaaattcctcagtgaacgtgtccctaacagctattgccaaccaagccacagtgttaatgggtcttgggaaaggatggccattgtcaaagatggacatcggagttccccttctcgccattggatgctactcacaagtcaaccccataactctcacagcagctcttttcttactggtagcacattatgccatcatagggccaggactccaagcaaaagcaaccagagaagctcagaaaagagcagcagcgggcatcatgaaaaacccaactgtcggtagaataacagtgattgacctagatccaataccctatgatccaaagtttgaaaagcagttgggacaagtaatgctcctagtcctctgcgtgactcaagtgttgatgatgaggactacatgggctctgtgtgaggctttaaccttagcgaccgggcctatctccacattgtgggaaggaaatccagggaggttttggaacactaccattgcagtgtcaatggctaacatttttagagggagttacttggccggagctggacttctcttttccatcatgaagaacacaaccaacacgagaaggggaactggcaacataggagagacgcttggagagaaatggaaaagccgattgaacgcattggggaaaagtgaattccagatctacaagaaaagtggaatccaggaagtggatagaaccttagcaaaagaaggcattaaaagaggagaaacggaccatcacgctgtgtcgcgaggctcagcaaaactgagatggttcgtcgagagaaatatggtcacaccagaagggaaagtagtggacctcggttgcggcagaggaggctggtcatactattgtgggggactaaagaatgtaagagaagtcaaaggcctaacaaaaggaggaccaggacatgaagaacccatccccatgtcaacatatgggtggaatctagtacgtcttcaaagtggagttgacgttttcttcactccgccagaaaagtgtgacacattgttgtgtgacataggggagtcgtcaccaaatcccacggtagaagcaggacgaacactcagagtccttaacttagtggaaaattggttgaacaacaacacccaattttgcataaaggttctcaacccatacatgccctcagtcatagaaaaaatggaagcactacaaaggaaatatggaggagccttagtgaggaatccactttcacgaaactccacacatgagatgtactgggtatccaatgcctccgggaacatagtgtcatcagtgaacatgatttcaaggatgttgatcaacagattcacaatgagacacaagaaagccacttacgagccagatgtagacctcggaagcggaacccgcaacatcggaattgaaagtgag</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>MW507589</GBSeq_locus>
+    <GBSeq_length>796</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>06-JUL-2022</GBSeq_update-date>
+    <GBSeq_create-date>06-JUL-2022</GBSeq_create-date>
+    <GBSeq_definition>UNVERIFIED: Dengue virus 4 isolate 100 genomic sequence</GBSeq_definition>
+    <GBSeq_primary-accession>MW507589</GBSeq_primary-accession>
+    <GBSeq_accession-version>MW507589.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|MW507589.1|</GBSeqid>
+      <GBSeqid>gi|2263020446</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>UNVERIFIED</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>dengue virus type 4</GBSeq_source>
+    <GBSeq_organism>dengue virus type 4</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..796</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ramirez Pavon,J.A.</GBAuthor>
+          <GBAuthor>Neves,N.A.S.</GBAuthor>
+          <GBAuthor>de Azevedo,F.K.</GBAuthor>
+          <GBAuthor>de Figueiredo Junior,J.A.B.</GBAuthor>
+          <GBAuthor>Nunes,M.R.T.</GBAuthor>
+          <GBAuthor>Slhessarenko,R.D.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (14-JAN-2021) Faculty of Medicine, Virology Lab, Universidade Federal de Mato Grosso, Av. Fernando Correa da Costa, 2.367 - Bairro: Boa Esperanca. - Cuiaba, Cuiaba, MT 78060900, Brazil</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>GenBank staff is unable to verify sequence and/or annotation provided by the submitter.; ##Assembly-Data-START## ; Assembly Method :: Geneious v. 11.1.5 ; Sequencing Technology :: Illumina ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..796</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>796</GBInterval_to>
+            <GBInterval_accession>MW507589.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>dengue virus type 4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>100</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11070</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Brazil</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>Jan-2019</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: II</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;796</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>796</GBInterval_to>
+            <GBInterval_accession>MW507589.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>similar to NS5</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ttcaaggaactccacacatgagatgtactgggtgtcaggagcgtcgggaaacattgtgagctctgtgaacacaacatcaaagatgttgttgaacaggttcacaacaaggcataggaaacccacttatgagaaggacgtagatcttggggcaggaacgagaagtgtctccactgaaatagaaaaaccagacatgacaatcattgggagaaggcttcagcgattgcaagaagagcacaaagaaacatggcattatgatcaagaaaacccatacagaacctgggcgtatcatggaagctatgaagctccttcgacaggctctgcatcctccatggtgaacggggtggtgaaactgctaacaaaaccctgggatgtaattccgatggtgactcagttagccatgacagacacaaccccttttgggcaacaaagagtgttcaaagagaaggtggataccagaacaccgcaaccaaaaccaggcacacgaatggttatgaccacgacggccaattggctatgggccctccttggaaagaagaaaaatcccagactgtgcacaagggaagagttcatctcaaaagttagatcaaacgcagccataggcgcagtctttcaagaggaacagggatggacatcagccagtgaagctgtgaatgacagccggttttgggaactggttgacaaagaaagggcccttcaccaagaagggaaatgtgaatcgtgtgtctacaacatgatgggaaaacgtgagaaaaagttaggggagtttggcagagccaagggaagccgagcaatctgg</GBSeq_sequence>
+  </GBSeq>

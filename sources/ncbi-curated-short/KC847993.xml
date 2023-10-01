@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KC847993</GBSeq_locus>
+    <GBSeq_length>1485</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>15-MAY-2013</GBSeq_update-date>
+    <GBSeq_create-date>15-MAY-2013</GBSeq_create-date>
+    <GBSeq_definition>Dengue virus strain FPT0830/PER/12 envelope protein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>KC847993</GBSeq_primary-accession>
+    <GBSeq_accession-version>KC847993.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KC847993.1|</GBSeqid>
+      <GBSeqid>gi|496528964</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Dengue virus</GBSeq_source>
+    <GBSeq_organism>Dengue virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1485</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Cruz,C.D.</GBAuthor>
+          <GBAuthor>Forshey,B.M.</GBAuthor>
+          <GBAuthor>Juarez,D.S.</GBAuthor>
+          <GBAuthor>Guevara,C.</GBAuthor>
+          <GBAuthor>Leguia,M.</GBAuthor>
+          <GBAuthor>Kochel,T.J.</GBAuthor>
+          <GBAuthor>Halsey,E.S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Molecular Epidemiology of American/Asian genotype DENV-2 in Peru</GBReference_title>
+        <GBReference_journal>Infect. Genet. Evol. (2013) In press</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1016/j.meegid.2013.04.029</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>23648427</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Available-Online prior to print</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1485</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Cruz,C.D.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (01-APR-2013) Virology, NAMRU-6, Av. Venezuela, Cuadra 36, Bellavista, Callao 02, Peru</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1485</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1485</GBInterval_to>
+            <GBInterval_accession>KC847993.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Dengue virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>FPT0830/PER/12</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:12637</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Peru: Tumbes</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2012</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1485</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1485</GBInterval_to>
+            <GBInterval_accession>KC847993.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>envelope protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AGL45196.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MRCIGISNRDFVEGVSGGSWVDIVLEHGSCVTTMAKNKPTLDFELIKTEAKQPATLRKYCIEAKLTNTTTESRCPTQGEPSLNEEQDKRFICKHSMVDRGWGNGCGLFGKGGIVTCAMFTCKKNMEGKVVQPENLEYTIVITPHSGEEHAVGNDTGKHGKEIKITPQSSTTEAELTGYGTVTMECSPRTGLDFNEMVLLQMEDKAWLVHRQWFLDLPLPWLPGADTQGSNWIQKETLVTFKNPHAKKQDVVVLGSQEGAMHTALTGATEIQMSSGNLLFTGHLKCRLRMDKLQLKGMSYSMCTGKFQIVKEIAETQHGTIVIRVQYEGDGSPCKIPFEITDLEKRHVLGRLITVNPIVTEKDSPVNIEAEPPFGDSYIIIGVEPGQLKLNWFKKGSSIGQMFETTMRGAKRMAILGDTAWDFGSLGGVFTSIGKALHQVFGAIYGAAFSGVSWTMKILIGVIITWIGMNSRSTSLSVSLVLVGVVTLYLGAMVQA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgcgctgcataggaatatcaaatagagacttcgtagaaggggtttcaggaggaagctgggttgatatagtcttagaacatggaagttgtgtgacgacgatggcaaaaaacaaaccaacattggattttgaactgataaaaacagaagccaaacaacctgccactctaaggaagtactgtatagaagcaaagctgaccaacacaacaacagaatcgcgttgcccaacacaaggggaacccagtctaaatgaagagcaggacaaaaggttcatctgcaaacactccatggtagacagaggatggggaaatggatgtggattatttggaaagggaggcattgtgacctgtgctatgtttacatgcaaaaagaacatggaaggaaaagtcgtgcagccagaaaatttggaatacaccatcgtgataacacctcactcaggagaagagcacgctgtaggtaatgacacaggaaagcatggcaaggaaatcaaaataacaccacagagttccactacagaagcagaactgacaggctatggcactgtcacgatggagtgctctccgagaacgggccttgacttcaatgagatggtgctgctgcagatggaagataaagcttggctggtgcataggcaatggttcctagacctgccgttaccatggctacccggagcggacacacaaggatcaaattggatacagaaagagacattggtcactttcaaaaatccccacgcgaagaaacaggatgtcgttgttttagggtctcaagaaggggccatgcacacggcactcacaggggccacagaaatccagatgtcatcaggaaacttactgttcacaggacatctcaagtgcaggctgagaatggacaaactacagctcaaaggaatgtcatactctatgtgtacaggaaagtttcaaattgtgaaggaaatagcagaaacacaacatggaacaatagttatcagagtacaatatgaaggggacggttctccatgtaagatcccttttgagataacagatttggaaaaaagacacgtcttgggtcgcctgatcacagttaacccaatcgtaacagaaaaagatagcccagtcaacatagaagcagaacctccattcggggacagctacatcatcataggagtagagccaggacaattgaaactcaattggtttaagaaaggaagttccatcggccaaatgtttgagacaacaatgagaggagcaaagagaatggctattttaggtgacacagcctgggattttggatccctgggaggagtgtttacatctataggaaaggctctccaccaagttttcggagcaatctatggggctgcttttagcggggtctcatggactatgaaaatcctcataggagtcatcatcacatggataggaatgaattcacgtagcacctcactgtctgtgtcgctagtactggtgggagtcgtgacactgtacctgggagctatggtgcaggct</GBSeq_sequence>
+  </GBSeq>

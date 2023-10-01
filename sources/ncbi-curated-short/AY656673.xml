@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AY656673</GBSeq_locus>
+    <GBSeq_length>1479</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>15-FEB-2006</GBSeq_update-date>
+    <GBSeq_create-date>26-NOV-2005</GBSeq_create-date>
+    <GBSeq_definition>Dengue virus type 3 isolate Jacob envelope glycoprotein mRNA, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>AY656673</GBSeq_primary-accession>
+    <GBSeq_accession-version>AY656673.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AY656673.1|</GBSeqid>
+      <GBSeqid>gi|56069232</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>dengue virus type 3</GBSeq_source>
+    <GBSeq_organism>dengue virus type 3</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1479</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Podder,G.</GBAuthor>
+          <GBAuthor>Breiman,R.F.</GBAuthor>
+          <GBAuthor>Azim,T.</GBAuthor>
+          <GBAuthor>Thu,H.M.</GBAuthor>
+          <GBAuthor>Velathanthiri,N.</GBAuthor>
+          <GBAuthor>Mai le,Q.</GBAuthor>
+          <GBAuthor>Lowry,K.</GBAuthor>
+          <GBAuthor>Aaskov,J.G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Origin of dengue type 3 viruses associated with the dengue outbreak in Dhaka, Bangladesh, in 2000 and 2001</GBReference_title>
+        <GBReference_journal>Am. J. Trop. Med. Hyg. 74 (2), 263-265 (2006)</GBReference_journal>
+        <GBReference_pubmed>16474082</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1479</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Podder,G.</GBAuthor>
+          <GBAuthor>Lowry,K.S.</GBAuthor>
+          <GBAuthor>Aaskov,J.G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (17-JUN-2004) School of Life Science, Queensland University of Technology, George Street, Brisbane, QLD 4001, Australia</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1479</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1479</GBInterval_to>
+            <GBInterval_accession>AY656673.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>dengue virus type 3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>Jacob</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>Dengue patient in Bangladesh in 2001</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11069</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Bangladesh</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>type: 3</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..&gt;1479</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1479</GBInterval_to>
+            <GBInterval_accession>AY656673.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>envelope glycoprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAV70549.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MRCVGVGNRDFVEGLSGATWVDVVLEHGGCVTTMAKNKPTLDIELQKTEATQLATLRKLCIEGKITNITTDSRCPTQGEATLPEEQDQNYVCKHTYVDRGWGNGCGLFGKGSLVTCAKFQCLEPIEGKVVQHENLKYTVTITVHTGDQHQVGNDTQGVTVEITPQASTVEAVLPEYGTLGLECSPRTGLDFNEMILLTMKNKAWMVHRQWFFDLPLPWTSGATTETPTWNRKELLVTFKNAHAKKQEVVVLGSQEGAMHTALTGATEIQNSGGTSIFAGHLKCRLKMDKLELKGMSYAMCSNTFVLKKEVSETQHGTILIKVEYKGEDAPCKIPFSTEDGQGKAHNGRLITANPVVTKKEEPVNIEAEPPFGESNIVIGIGDKALKINWYKKGSSIGKMFEATARGARRMAILGDTAWDFGSVGGVLNSLGKMVHQIFGSAYTALFGGVSWIMKIGIGVLLTWIGLNSKNTSMSFSCIVIGIITLYLGTVVQA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgagatgcgtgggagtaggaaacagagattttgtggaaggtctgtcgggagcaacgtgggttgatgtggtgctcgagcacggtgggtgtgtgaccaccatggctaagaacaagcctacgctggacatagagcttcagaagaccgaggccacccaactggcgaccctaaggaagttatgcattgagggtaaaattaccaacataacaactgactcaaggtgtcctacccagggggaagcgactttacctgaggagcaggaccagaactacgtgtgtaagcacacatacgtggatagaggttggggaaacggttgtggtttgtttggaaaaggaagcttggtgacatgcgcaaaatttcaatgtctagaaccaatagagggaaaagtggtgcaacatgagaacctcaaatacactgtcaccattacagtgcacacaggagaccaacaccaggtgggaaatgacacgcagggagtcacggttgagataacaccccaggcatcaaccgttgaagctgtcttgcctgaatatggaacccttgggctagaatgttcaccacgcacaggtttggatttcaatgaaatgattctattgacaatgaagaacaaagcatggatggtacataggcaatggttctttgacctacccctaccatggacatcaggagccacaacggagacaccaacttggaacaggaaagagcttcttgtgacattcaaaaatgcacatgcaaaaaagcaagaagtagtcgtccttggatcgcaagagggagcaatgcacacagcgctgacaggagctacagagattcaaaactcaggaggtacaagcatctttgcagggcacttgaaatgtagactcaagatggacaaattggaactcaaggggatgagctatgcaatgtgctcgaatacctttgtgttgaagaaagaagtctctgaaacgcagcatgggacaatactcattaaagttgagtacaaaggggaagatgcaccttgcaagattcctttctccacagaggatggacaagggaaagctcacaatggtagactgatcacagccaacccagtggtgaccaagaaggaggagcctgtcaacattgaggctgaacctccttttggggaaagtaacatagtgatcggaattggagacaaagccttgaaaattaactggtacaagaaaggaagctcgatcgggaagatgttcgaggccactgccagaggtgcaaggcgcatggctatcttgggagacacagcctgggactttggatcagtgggtggtgttctaaattcattagggaaaatggtgcaccaaatattcggaagtgcttacacagccctgtttggtggagtctcatggataatgaaaattggaataggtgtcctcttaacctggatagggttgaattcaaaaaacacttccatgtcattttcatgcattgtgataggaattattacactctatctaggaactgtggtacaagct</GBSeq_sequence>
+  </GBSeq>

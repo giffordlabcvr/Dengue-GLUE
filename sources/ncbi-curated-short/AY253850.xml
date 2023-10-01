@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AY253850</GBSeq_locus>
+    <GBSeq_length>789</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>25-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>10-APR-2003</GBSeq_create-date>
+    <GBSeq_definition>Dengue virus type 4 strain 1036 polyprotein mRNA, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>AY253850</GBSeq_primary-accession>
+    <GBSeq_accession-version>AY253850.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AY253850.1|</GBSeqid>
+      <GBSeqid>gi|29725866</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>dengue virus type 4</GBSeq_source>
+    <GBSeq_organism>dengue virus type 4</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..789</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Iempridee,T.</GBAuthor>
+          <GBAuthor>Thongphung,R.</GBAuthor>
+          <GBAuthor>Angsuthanasombat,C.</GBAuthor>
+          <GBAuthor>Katzenmeier,G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>A comparative biochemical analysis of the NS2B(H)-NS3pro protease complex from four dengue virus serotypes</GBReference_title>
+        <GBReference_journal>Biochim. Biophys. Acta 1780 (7-8), 989-994 (2008)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1016/j.bbagen.2008.03.018</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>18439431</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..789</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Iempridee,T.</GBAuthor>
+          <GBAuthor>Niyomrattanakit,P.</GBAuthor>
+          <GBAuthor>Smith,D.R.</GBAuthor>
+          <GBAuthor>Katzenmeier,G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Cloning and characterization of NS2B(H)-to-NS3(pro) region of dengue virus type 4 strain 1036</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..789</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Iempridee,T.</GBAuthor>
+          <GBAuthor>Niyomrattanakit,P.</GBAuthor>
+          <GBAuthor>Smith,D.R.</GBAuthor>
+          <GBAuthor>Katzenmeier,G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (11-MAR-2003) Institute of Molecular Biology and Genetics, Mahidol University, Nakhon Pathom 73170, Thailand</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..789</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>789</GBInterval_to>
+            <GBInterval_accession>AY253850.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>dengue virus type 4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>1036</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11070</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;789</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>789</GBInterval_to>
+            <GBInterval_accession>AY253850.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>contains NS2B and NS3(pro)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polyprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAO83387.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>SADLSLEKAANVQWDEMADITGSSPIIEVKQDEDGSFSIRDVEETNMITLLVKLALITVSGLYPLAIPVTMTLWYMWQVKTQRSGALWDVPSPAATQKAALSEGVYRIMQRGLFGKTQVGVGIHMEGVFHTMWHVTRGSVICHETGRLEPSWADVRNDMISYGGGWRLGDKWDKEEDVQVLAIEPGKNPKHVQTKPGLFKTLTGEIGAVTLDFKPGTSGSPIINRKGKVIGLYGNGVVTKSGDYVSAITQAERIGEPDYEVDE</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tcagcagatctgtcactagagaaggccgccaatgtgcagtgggatgaaatggcagacataacaggctcaagcccaatcatagaagtgaagcaggatgaagatggctctttctccatacgggacgtcgaggaaaccaatatgataacccttttggtgaaactggcactgataacagtgtcaggtctctaccccttggcaattccagtcacaatgaccttatggtacatgtggcaagtgaaaacacaaagatcaggagccctgtgggacgtcccctcacccgctgccactcaaaaagccgcactgtctgaaggagtgtacaggatcatgcaaagagggttatttgggaaaactcaggttggagtagggatacacatggaaggtgtatttcacacaatgtggcatgtaacaagaggatcagtgatctgccatgagactgggagattggagccatcttgggctgacgtcaggaatgacatgatatcatacggtgggggatggagacttggagacaaatgggacaaagaagaagatgttcaggtcctcgccatagaaccaggaaaaaatcctaaacatgtccaaacgaaacccggccttttcaagaccctaactggagaaattggagcagtaacattagatttcaaacccggaacgtctggttctcccatcatcaacaggaaaggaaaagtcatcggactctatggaaatggagtagttaccaaatcaggtgattacgtcagtgccataacgcaagccgaaagaattggagagccagattatgaagtggatgag</GBSeq_sequence>
+  </GBSeq>

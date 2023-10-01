@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>EU303191</GBSeq_locus>
+    <GBSeq_length>648</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>05-FEB-2008</GBSeq_create-date>
+    <GBSeq_definition>Dengue virus 2 note New Guniea C nonfunctional nonstructural protein 5 (NS5) gene, partial sequence</GBSeq_definition>
+    <GBSeq_primary-accession>EU303191</GBSeq_primary-accession>
+    <GBSeq_accession-version>EU303191.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|EU303191.1|</GBSeqid>
+      <GBSeqid>gi|166343941</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>dengue virus type 2</GBSeq_source>
+    <GBSeq_organism>dengue virus type 2</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..648</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Maher-Sturgess,S.L.</GBAuthor>
+          <GBAuthor>Forrester,N.L.</GBAuthor>
+          <GBAuthor>Wayper,P.J.</GBAuthor>
+          <GBAuthor>Gould,E.A.</GBAuthor>
+          <GBAuthor>Hall,R.A.</GBAuthor>
+          <GBAuthor>Barnard,R.T.</GBAuthor>
+          <GBAuthor>Gibbs,M.J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Universal primers that amplify RNA from all three flavivirus subgroups</GBReference_title>
+        <GBReference_journal>Virol. J. 5, 16 (2008)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1186/1743-422X-5-16</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>18218114</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..648</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Maher,S.L.</GBAuthor>
+          <GBAuthor>Forrester,N.L.</GBAuthor>
+          <GBAuthor>Wayper,P.J.</GBAuthor>
+          <GBAuthor>Gould,E.A.</GBAuthor>
+          <GBAuthor>Hall,R.A.</GBAuthor>
+          <GBAuthor>Barnard,R.T.</GBAuthor>
+          <GBAuthor>Gibbs,M.J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (25-NOV-2007) Australian Biosecurity CRC, University of Queensland, Building 76, Coopers Rd, St Lucia, Queensland 4067, Australia</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..648</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>648</GBInterval_to>
+            <GBInterval_accession>EU303191.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>dengue virus type 2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11060</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>New Guniea C;
+PCR_primers=fwd_name: Flav100F, rev_name: Flav200R</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;648</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>648</GBInterval_to>
+            <GBInterval_accession>EU303191.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NS5</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;648</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>648</GBInterval_to>
+            <GBInterval_accession>EU303191.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NS5</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>nonfunctional nonstructural protein 5 due to mutation; contains methyl transferase domain and RdRp domain</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ctgggtatccaatgcctccgggaacatagtgtcatcagtgaacatgatttcaaggatgttgatcaacagattcacaatgagacacaagaagccacttacgagccagatgtagacctcggaagcggaacccgcaacatcggaattgaaagtgagataccaaacctagacataatcgggaaaagaatagaaaaaataaaacaagagcatgaaacatcatggcactatgaccaagaccacccatacaaaacgtgggcttaccatggcagctatgaaacaaaacaaactggatcagcatcatccatggtgaacggagtggtcagactgctgacaaaaccttgggacgtcgtccccatggtgacacagatggcaatgacagacacgactccatttggacaacagcgcgtttttaaagaaaaagtggacacgagaacccaagaaccgaaagaaggcacaaagaaactaatgaaaatcacggcagagtggctttggaaagaactagggaagaaaaagacacctaggatgtgcactagagaagaattcacaagaaaggtgagaagcaatgcagccttgggggccatattcactgatgagaacaagtggaagtcggcacgtgaggctgttgaagatagtaggttttgggagctggtt</GBSeq_sequence>
+  </GBSeq>

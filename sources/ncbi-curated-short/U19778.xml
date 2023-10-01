@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>DVU19778</GBSeq_locus>
+    <GBSeq_length>1056</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>27-JUL-1995</GBSeq_update-date>
+    <GBSeq_create-date>03-JUN-1995</GBSeq_create-date>
+    <GBSeq_definition>Dengue virus type 2 nonstructural protein (NS1) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>U19778</GBSeq_primary-accession>
+    <GBSeq_accession-version>U19778.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|U19778.1|DVU19778</GBSeqid>
+      <GBSeqid>gi|847733</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>dengue virus type 2</GBSeq_source>
+    <GBSeq_organism>dengue virus type 2</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1056</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Yang,P.-y.</GBAuthor>
+          <GBAuthor>Kautner,I.M.</GBAuthor>
+          <GBAuthor>Koh,C.L.</GBAuthor>
+          <GBAuthor>Lam,S.K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Nucleotide and encoded amino acid sequences of the nonstructural protein NS1 gene of a Dengue-2 virus isolated in China</GBReference_title>
+        <GBReference_journal>Chung Hua Wei Sheng Wu Hsueh Ho Mieh I Hsueh Tsa Chih 11 (No.1), 9-12 (1991)</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1056</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Xu,L.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (11-JAN-1995) Lin Xu, Dept. of Protein Engineering, Institute of Biophysics, Academia Sinica, 15 Datun Road, Chaoyang District, Beijing 100101, China</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1056</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1056</GBInterval_to>
+            <GBInterval_accession>U19778.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>dengue virus type 2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11060</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..840</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>840</GBInterval_to>
+            <GBInterval_accession>U19778.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NS1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..840</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>840</GBInterval_to>
+            <GBInterval_accession>U19778.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NS1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>encoded protein is truncated as compared to Swiss-Prot Accession Number P30026</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>nonstructural protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA73471.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>DSGCVVSWKKKELKCGSGIFITDNVHTWTEQYNFQPESPSKLGSAMRKAHEEGICGIRSVTRLENLMWKQITPELKHIQSEIELKLTIMTGDIKGIMQAGTRSLRPQPTELKFSWETWRKGKMVPTEPHNQRFLIDGPETAECPNTNRAWNSLKLKTMVFGVFTTNIWLKLREKEDLCCDSKVMSPASKDNRAVHDDMGYWIESGLNDTWKMEKPSFIEVKSCHWPKSHTLWINGGLESEMIIPKSFAGPVSQHNYRPGYYTQTAGPRHLGKLEMDFDF</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gatagtggttgcgttgtgagctggaaaaaaaaagaactgaaatgtggcagtgggatcttcataacagataacgtgcacacatggacagaacaatataacttccaaccagaatccccttcaaaactgggttcagccatgcggaaagcccatgaagagggcatctgtggaatccgctcagtaacaagactggagaatctgatgtggaaacaaataacaccagaattgaaacacattcaatcagaaattgaactaaagttgaccatcatgacaggagacattaaaggaatcatgcaggcaggaacacgatctttgcggccccagcccactgagctgaagttctcatgggaaacatggcgaaaggggaaaatggtgcccacagagcctcacaaccagaggtttctgattgatggccctgaaacagcagaatgccccaacacaaacagagcttggaactcgctgaagttgaagactatggtttttggagtttttaccaccaatatatggctaaaattgagagaaaaagaggatctgtgttgtgactcaaaagtcatgtcaccagccagtaaggacaacagagccgtccatgatgatatgggttattggatagaaagcggactcaatgatacatggaagatggagaaaccttctttcattgaagttaaaagctgccactggccaaagtcacacaccctctggatcaatggtgggttagaaagtgagatgataattccaaaaagttttgctgggccagtgtcacaacacaactacagaccagggtattatacgcagacagcaggacctaggcatctaggcaagcttgagatggactttgatttctgagaagggactacagtggtggtgactgaggactgtggaaatagaggaccctctttaagaacaaccactgcctcaggaaaactcataacggaatggtgctgccgatcctccacaataccaccactaagaattaaaggtgaggatggatgctggtatgggatggaaatcagaccattgaaagagaaagaagagaatttagtaacctccctcgtcacagcc</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>JN832538</GBSeq_locus>
+    <GBSeq_length>1485</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>15-OCT-2012</GBSeq_update-date>
+    <GBSeq_create-date>10-JAN-2012</GBSeq_create-date>
+    <GBSeq_definition>Dengue virus 4 isolate PF09/250609-14 envelope protein (E) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>JN832538</GBSeq_primary-accession>
+    <GBSeq_accession-version>JN832538.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|JN832538.1|</GBSeqid>
+      <GBSeqid>gi|369726332</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>dengue virus type 4</GBSeq_source>
+    <GBSeq_organism>dengue virus type 4</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1485</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Cao-Lormeau,V.M.</GBAuthor>
+          <GBAuthor>Roche,C.</GBAuthor>
+          <GBAuthor>Aubry,M.</GBAuthor>
+          <GBAuthor>Teissier,A.</GBAuthor>
+          <GBAuthor>Lastere,S.</GBAuthor>
+          <GBAuthor>Daudens,E.</GBAuthor>
+          <GBAuthor>Mallet,H.P.</GBAuthor>
+          <GBAuthor>Musso,D.</GBAuthor>
+          <GBAuthor>Aaskov,J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Recent emergence of dengue virus serotype 4 in French Polynesia results from multiple introductions from other South Pacific Islands</GBReference_title>
+        <GBReference_journal>PLoS ONE 6 (12), E29555 (2011)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1371/journal.pone.0029555</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>22216313</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1485</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Aubry,M.T.</GBAuthor>
+          <GBAuthor>Teissier,A.</GBAuthor>
+          <GBAuthor>Roche,C.S.</GBAuthor>
+          <GBAuthor>Cao-Lormeau,V.-M.A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (07-OCT-2011) Laboratoire de Virologie Medicale, Institut Louis Malarde, Rue des Poilus Tahitiens, Papeete, Tahiti 98713, Polynesie Francaise</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1485</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1485</GBInterval_to>
+            <GBInterval_accession>JN832538.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>dengue virus type 4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>PF09/250609-14</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>serum</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11070</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>French Polynesia: Rurutu</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>25-Jun-2009</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>type: Dengue virus; genotype: IIa</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..&gt;1485</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1485</GBInterval_to>
+            <GBInterval_accession>JN832538.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>E</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..&gt;1485</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1485</GBInterval_to>
+            <GBInterval_accession>JN832538.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>E</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>envelope protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AEX20295.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MRCVGVGNRDFVEGVSGGAWVDLVLEHGGCVTTMAQGKPTLDFELTKTTAKEVALLRTYCIEASISNITTATRCPTQGEPYLKEEQDQQYICRRDVVDRGWGNGCGLFGKGGVVTCAKFLCSGKITGNLVQIENLEYTVVVTVHNGDTHAVGNDTSNHGVTATITPRSPSVEVKLPDYGELTLDCEPRSGIDFNEMILMKMKKKTWLVHKQWFLDLPLPWTAGADTSEVHWNYKERMVTFKVPHAKRQDVTVLGSQEGAMHSALAGATEVDSGDGNHMFAGHLKCKVRMEKLRIKGMSYTMCSGKFSIDKEMAETQHGTTVVKVKYEGAGAPCKIPIEIRDVNKEKVVGRIISSTPFAENTNSVINIELEPPFGDSYIVIGVGDSALTLHWFRKGSSIGKMFESTYRGAKRMAILGETAWDFGSVGGLFTSLGKAVHQVFGSVYTTMFGGVSWMIRILIGFLVLWIGTNSRNTSMAMTCIAVGGITLFLGFTVQA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgcgatgcgtaggggtagggaacagagacttcgtggaaggagtctcgggtggagcatgggtcgacttggtgctagaacatggaggatgcgtcacaaccatggcccagggaaaaccaaccctggattttgaactgaccaagacaacagctaaggaagtggctctgttgagaacctattgtattgaagcttcgatatcaaacataaccacagcaacaagatgtccaacgcaaggagagccttatctcaaagaggaacaagaccaacagtacatttgccggagagacgtggtagacagagggtggggcaatggctgtggcttgtttggaaaaggaggagttgtgacatgtgcgaagtttttatgctcggggaagataacaggcaatctggtccaaattgaaaaccttgaatacacggtagttgtgacagtccacaatggagacacccatgcagtaggaaatgacacatccaatcatggagtgacagccacgataactcccaggtcaccatcggtagaagttaaattgccggactatggagaactaacactcgactgtgaacccaggtctggaattgatttcaatgagatgatcctgatgaaaatgaaaaagaaaacgtggcttgtgcacaagcaatggtttttggacctacctctaccttggacagcaggagcagacacatcagaagttcattggaattacaaagagagaatggtgacattcaaggttcctcatgccaaaagacaggatgtgacagtgctaggatctcaggagggagctatgcactctgccctcgccggagcaacagaagtggattctggtgatggaaatcacatgtttgcaggacatctcaagtgcaaagtccgtatggagaaattgagaattaagggaatgtcatacacgatgtgttcaggaaagttctcaattgacaaagagatggcagaaacacagcatgggacaacagtggtgaaagtcaagtatgaaggcgctggagctccgtgtaaaatccccatagagataagagatgtgaacaaggagaaagtagttgggcgcatcatctcatctaccccttttgctgagaataccaacagcgtaatcaacatagaattagaacccccttttggggacagctacatagtgataggtgtaggagatagtgcattaacactccattggttcagaaaagggagctctattggcaagatgtttgagtccacatacagaggtgcaaaacgaatggccattctaggtgaaacagcttgggattttggttctgttggtggactgtttacatcactgggaaaggctgtacaccaagtttttggaagtgtgtatacaaccatgtttggaggggtctcatggatgattagaatcctaattgggttcttggtattgtggattggcacgaattcaagaaatacttcaatggcaatgacgtgcatagctgttggaggaatcactctgtttctaggtttcacagttcaagca</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>JQ815199</GBSeq_locus>
+    <GBSeq_length>1485</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>29-MAR-2013</GBSeq_update-date>
+    <GBSeq_create-date>16-JUL-2012</GBSeq_create-date>
+    <GBSeq_definition>Dengue virus 2 strain MLDENV-09 polyprotein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>JQ815199</GBSeq_primary-accession>
+    <GBSeq_accession-version>JQ815199.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|JQ815199.1|</GBSeqid>
+      <GBSeqid>gi|394994897</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>dengue virus type 2</GBSeq_source>
+    <GBSeq_organism>dengue virus type 2</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1485</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Guo,X.</GBAuthor>
+          <GBAuthor>Zhao,Q.</GBAuthor>
+          <GBAuthor>Wu,C.</GBAuthor>
+          <GBAuthor>Zuo,S.</GBAuthor>
+          <GBAuthor>Zhang,X.</GBAuthor>
+          <GBAuthor>Jia,N.</GBAuthor>
+          <GBAuthor>Liu,J.</GBAuthor>
+          <GBAuthor>Zhou,H.</GBAuthor>
+          <GBAuthor>Zhang,J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>First isolation of dengue virus from Lao PDR in a Chinese traveler</GBReference_title>
+        <GBReference_journal>Virol. J. 10, 70 (2013)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1186/1743-422X-10-70</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>23497045</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1485</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Guo,X.F.</GBAuthor>
+          <GBAuthor>Zhao,Q.M.</GBAuthor>
+          <GBAuthor>Zuo,S.Q.</GBAuthor>
+          <GBAuthor>Wu,C.</GBAuthor>
+          <GBAuthor>Liu,J.Y.</GBAuthor>
+          <GBAuthor>Zhou,H.N.</GBAuthor>
+          <GBAuthor>Zhang,J.S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (21-MAR-2012) Epidemiology, Beijing Institute of Microbiology and Epidemiology, 20 Dong Da-Street, Fengtai District, Beijing 100071, China</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1485</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1485</GBInterval_to>
+            <GBInterval_accession>JQ815199.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>dengue virus type 2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>MLDENV-09</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>serum</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11060</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>China</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>Oct-2009</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1485</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1485</GBInterval_to>
+            <GBInterval_accession>JQ815199.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polyprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AFN42924.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MRCIGISNRDFVEGVSGGSWVDIVLEHGSCVTTMAKNKPTLDFELIKTEAKQPATLRKYCIEAKLTNTTTESRCPTQGEPSLKEEQDKRFVCKHSMVDRGWGNGCGLFGKGGIVTCAMFTCKKNMEGKIVQPENLEYTIVVTPHSGEEHAVGNDTGKHGKEIKVTPQSSITEAELTGYGTVTMECSPRTGLDFNEMVLLQMENKAWLVHRQWFLDLPLPWLPGADKQESNWIQKETLVTFKNPHAKKQDVVVLGSQEGAMHTALTGATEIQMSSGNLLFTGHLKCRLRMDKLQLKGMSYSMCTGKFKVVKEIAETQHGTIVIRVQYEGDGSPCKIPFEIMDLEKRYVLGRLITVNPIVTEKDSPVNIEAEPPFGDSYIIIGVEPGQLKLNWFKKGSSIGQMFETTMRGAKRMAILGDTAWDFGSLGGVFTSIGKALHQVFGAIYGAAFSGVSWTMKILIGVIITWIGMNSRSTSLSVSLVLVGIVTLYLGVMVQA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>mat_peptide</GBFeature_key>
+        <GBFeature_location>1..1485</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1485</GBInterval_to>
+            <GBInterval_accession>JQ815199.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>envelope protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>MRCIGISNRDFVEGVSGGSWVDIVLEHGSCVTTMAKNKPTLDFELIKTEAKQPATLRKYCIEAKLTNTTTESRCPTQGEPSLKEEQDKRFVCKHSMVDRGWGNGCGLFGKGGIVTCAMFTCKKNMEGKIVQPENLEYTIVVTPHSGEEHAVGNDTGKHGKEIKVTPQSSITEAELTGYGTVTMECSPRTGLDFNEMVLLQMENKAWLVHRQWFLDLPLPWLPGADKQESNWIQKETLVTFKNPHAKKQDVVVLGSQEGAMHTALTGATEIQMSSGNLLFTGHLKCRLRMDKLQLKGMSYSMCTGKFKVVKEIAETQHGTIVIRVQYEGDGSPCKIPFEIMDLEKRYVLGRLITVNPIVTEKDSPVNIEAEPPFGDSYIIIGVEPGQLKLNWFKKGSSIGQMFETTMRGAKRMAILGDTAWDFGSLGGVFTSIGKALHQVFGAIYGAAFSGVSWTMKILIGVIITWIGMNSRSTSLSVSLVLVGIVTLYLGVMVQA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgcgttgcataggaatatcaaatagagactttgtagaaggggtttcaggaggaagttgggttgacatagtcttagaacatggaagctgtgtgacgacgatggcaaaaaataaaccaacattggatttcgaactgataaaaacggaagccaaacagcctgccaccctaaggaagtactgcatagaagcaaaactaaccaacacaacaacagaatcccgttgcccaacacaaggggaacccagcctaaaagaagagcaggacaagaggttcgtctgcaaacactccatggtagacagaggatggggaaatggatgtggattatttggaaagggaggcattgtgacctgtgctatgttcacatgcaaaaagaacatggaagggaaaatcgtgcaaccagaaaacttggaatacaccattgtggtaacacctcactcaggggaagagcatgcggtcggaaatgacacaggaaaacacggcaaggaaatcaaagtaacaccacagagttccatcacagaagcagaattgacaggttatggcaccgtcacgatggaatgctccccgagaacaggcctcgacttcaatgagatggtgttgctgcagatggaaaataaagcttggctggtgcataggcaatggtttctagacctgccattaccatggctgcccggagcggataaacaagaatcaaattggatacagaaagaaacattggtcactttcaaaaatccccatgcgaagaaacaggatgttgttgttttaggatcccaagaaggggccatgcatacagcactcacaggagccacagaaatccaaatgtcgtcaggaaacttgctcttcactggacatctcaagtgcaggctgagaatggacaagctacagcttaaaggaatgtcatactctatgtgcacaggaaagtttaaagttgtgaaggaaatagcagaaacacaacatggaacgatagttatcagagtgcaatatgaaggggacggctctccatgtaaaattccttttgagataatggatttggaaaaaagatatgtcttaggccgcctgatcacagtcaacccaattgtaacagaaaaagatagcccagtcaacatagaagcagaacctccattcggagacagttacatcatcataggagtagagccgggacaactgaagctcaactggttcaagaaaggaagttctatcggccaaatgtttgagacaacgatgagaggggcgaagagaatggccattttgggtgacacagcctgggacttcggatccctgggaggagtgtttacatctataggaaaagctctccaccaagtctttggagcgatctatggagctgccttcagtggggtttcatggaccatgaaaatcctcataggagtcattatcacatggataggaatgaactcacgcagcacctcactgtctgtgtcactagtactggtgggaattgtgacactgtatttgggagtcatggtgcaggcc</GBSeq_sequence>
+  </GBSeq>

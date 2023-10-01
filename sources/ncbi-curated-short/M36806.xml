@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>DENAAA</GBSeq_locus>
+    <GBSeq_length>699</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>15-SEP-1990</GBSeq_update-date>
+    <GBSeq_create-date>02-AUG-1993</GBSeq_create-date>
+    <GBSeq_definition>Dengue virus type 2 RNA</GBSeq_definition>
+    <GBSeq_primary-accession>M36806</GBSeq_primary-accession>
+    <GBSeq_accession-version>M36806.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|M36806.1|DENAAA</GBSeqid>
+      <GBSeqid>gi|323467</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>dengue virus type 2</GBSeq_source>
+    <GBSeq_organism>dengue virus type 2</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..699</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Hahn,C.S.</GBAuthor>
+          <GBAuthor>Hahn,Y.S.</GBAuthor>
+          <GBAuthor>Rice,C.M.</GBAuthor>
+          <GBAuthor>Lee,E.</GBAuthor>
+          <GBAuthor>Dalgarno,L.</GBAuthor>
+          <GBAuthor>Strauss,E.G.</GBAuthor>
+          <GBAuthor>Strauss,J.H.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Conserved elements in the 3' untranslated region of flavivirus RNAs and potential cyclization sequences</GBReference_title>
+        <GBReference_journal>J. Mol. Biol. 198 (1), 33-41 (1987)</GBReference_journal>
+        <GBReference_pubmed>2828633</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>Original source text: Dengue virus type 2, cDNA to viral RNA.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..699</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>699</GBInterval_to>
+            <GBInterval_accession>M36806.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>dengue virus type 2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11060</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>cctccatcagagcatggctgtcttagggctactcttctgcctagtgacattcccaagctgtgagtgtttcagggtttcagaagagggactaggacatgtcagataggagatgtgtgacttatgttgatgttgcttgtccccaggtgtcctatcccaggtgcagctgaagcagtcaggacctggcctggtgcagccctcacagagcctgtccatcacctgcacagtctctggtttctcattaactacctatggtgtaaactgggttcgccagtctccaggaaagggtctggagtggctgggagtgatatggagtggtggaagcacagagtataatgcagctttcatatccagactgaacatcaccaaggacaattccaagaccaagttttctttaaaatgaacagtctgcaatctaatgacacagccatatattactgtgccagaagggactacgttagtaggtacgacccgtttgcttactggggccaagggactctggtcactgtctctgcaggtgagtcctaacttctcccattctagatgcatcttggggggattctgagccttcaggaccaagattctctgcaaacgaatcaagattcaacccctttgtaccaaaattgagacaggggtctgggctagggactctctgcctgctggtctgtggtggcattagaaatgaagtatgatgaaggatct</GBSeq_sequence>
+  </GBSeq>

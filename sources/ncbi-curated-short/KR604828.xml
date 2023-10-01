@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KR604828</GBSeq_locus>
+    <GBSeq_length>3892</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>24-FEB-2016</GBSeq_update-date>
+    <GBSeq_create-date>24-FEB-2016</GBSeq_create-date>
+    <GBSeq_definition>Dengue virus isolate 2007929881-BDG envelope glycoprotein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>KR604828</GBSeq_primary-accession>
+    <GBSeq_accession-version>KR604828.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KR604828.1|</GBSeqid>
+      <GBSeqid>gi|998438008</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Dengue virus</GBSeq_source>
+    <GBSeq_organism>Dengue virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..3892</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Kosasih,H.</GBAuthor>
+          <GBAuthor>Alisjahbana,B.</GBAuthor>
+          <GBAuthor>Nurhayati</GBAuthor>
+          <GBAuthor>de Mast,Q.</GBAuthor>
+          <GBAuthor>Rudiman,I.F.</GBAuthor>
+          <GBAuthor>Widjaja,S.</GBAuthor>
+          <GBAuthor>Antonjaya,U.</GBAuthor>
+          <GBAuthor>Novriani,H.</GBAuthor>
+          <GBAuthor>Susanto,N.H.</GBAuthor>
+          <GBAuthor>Jusuf,H.</GBAuthor>
+          <GBAuthor>van der Ven,A.</GBAuthor>
+          <GBAuthor>Beckett,C.G.</GBAuthor>
+          <GBAuthor>Blair,P.J.</GBAuthor>
+          <GBAuthor>Burgess,T.H.</GBAuthor>
+          <GBAuthor>Williams,M.</GBAuthor>
+          <GBAuthor>Porter,K.R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>The Epidemiology, Virology and Clinical Findings of Dengue Virus Infections in a Cohort of Indonesian Adults in Western Java</GBReference_title>
+        <GBReference_journal>PLoS Negl Trop Dis 10 (2), E0004390 (2016)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1371/journal.pntd.0004390</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>26872216</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..3892</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Riswari,S.F.</GBAuthor>
+          <GBAuthor>Antonjaya,U.</GBAuthor>
+          <GBAuthor>Djauhari,H.</GBAuthor>
+          <GBAuthor>Kosasih,H.</GBAuthor>
+          <GBAuthor>Alisjahbana,B.</GBAuthor>
+          <GBAuthor>Williams,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (06-MAY-2015) Fever Study Group - Clinical Infectious Diseases Working Group, Faculty of Medicine Padjadjaran University, Jl. Eijkman No. 38, Bandung, West Java 40161, Indonesia</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..3892</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>3892</GBInterval_to>
+            <GBInterval_accession>KR604828.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Dengue virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>DEN3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>2007929881-BDG</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>human plasma</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:12637</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>lab_host</GBQualifier_name>
+            <GBQualifier_value>Vero cells</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Indonesia</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: Genotype I</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..&gt;3892</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>3892</GBInterval_to>
+            <GBInterval_accession>KR604828.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>envelope glycoprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AMK47847.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MNNQRKKTGKPSINMLKRVRNRVSTGSQLAKRFSRGLLNGQGPMKLVMAFIAFLRFLAIPPTAGILARWGTFKKSGAIKVLRGFKKEISNMLSIINRRKKTSLCLMMMLPATLAFHLTSRDGEPRMIVGKNERGKSLLFKTASGINMCTLIAMDLGEMCDDTVTYKCPLITEVEPEDIDCWCNLTSTWVTYGTCNQAGEHRRDKRSVALAPHVGMGLDTRAQTWMSAEGAWRQVEKVETWAFRHPGFTILALFLAHYIGTSLTQKVVIFILLMLVTPSMTMRCVGVGNRDFVEGLSGATWVDVVLEHGGCVTTMAKNKPTLDIELQKTEATQLATLRKLCIEGKITNVTTDSRCPTQGEAILPEEQDQNYVCKHTYVDRGWGNGCGLFGKGSLVTCAKFQCLELIEGKVVQHENLKYTVIITVHTGDQHQVGNETQGVTAEITPQASTVEAILPEYGTLGLECSPRTGLDFNEMILLTMKNKAWMVHRQWFFDLPLPWTSGATTETPTWNKKELLVTFKNAHAKKQEVVVLGSQEGAMHTALTGATEIQTSGGTSIFAGHLKCRLKMDKLELKGMSYAMCSNAFVLKKEVSETQHGTILIKVEYKGEDAPCKIPFSTEDGQGKAHNGRLITANPVVTKKEEPVNIEAEPPFGESNIIIGIGDKALKINWYKKGSSIGKMFEATARGARRMAILGDTAWDFGSVGGVLNSLGKMVHQIFGSAYTALFSGVSWIMKIGIGLLLTWIGLNSKNTSMSFSCIVIGIITLYLGAVVQADMGCVINWKGKELKCGSGIFVTNEVHTWTEQYKFQADSPKRLATAIAGAWENGVCGIRSTTRMENLLWKQIANELNYILWENNIKLTVVVGDIIGVLEQGKRTLTPQPMELKYSWKTWGKAKIVTAEIQNSSFIIDGPNTPECPNASRAWNVWEVEDYGFGVFTTNIWLKLREMYTQLCDHRLMSAAVKDERAVHADMGYWIESQKNGSWKLEKASLIEVKTCTWPKSHTLWSNGVLESDMIIPKSLAGPISQHNYRPGYHTQTAGPWHLGKLELDFNYCEGTTVVITESCGTRGPSLRTTTVSGKLIHEWCCRSCTLPPLRYMGEDGCWYGMEIRPINEKEENMVKSLVSAGSGKVDNFTMGVLCLAILFEEVMRGKFGKKHMIAGVLLMFVLLLSGQITWRDMARTLIMIGSNASDRMGMGVTYLALIATFKIQPFLALGFFLRKLTSRENLLLGVGLAMATTLQLPEDIEQMANGIALGLMALKLJTQFETYQLWTALVSLTCSNTIFTLTVAWRTATLIL</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgaacaaccaacggaaaaagacgggaaaaccgtctatcaatatgctgaaacgcgtgagaaaccgtgtgtcaactggatcacagttggcgaagagattctcaagaggattgctgaatggccaaggaccaatgaaattggttatggcgttcatagctttcctcagatttctagccattccaccgacagcgggaatcttggctagatggggaaccttcaagaagtcgggggctattaaggtcctgagaggcttcaagaaggagatctcaaacatgctgagcattatcaacagacggaaaaagacatcgctctgtctcatgatgatgttaccagcaacacttgctttccacttgacttcacgagatggagagccgcgcatgattgtggggaagaatgaaagaggaaaatccctacttttcaagacagcctctggaatcaacatgtgcacactcatagccatggatttgggagaaatgtgtgatgacacggtcacttacaaatgccccctcattactgaagtggagcctgaagacattgactgctggtgcaacctcacatcgacgtgggtgacctacggaacgtgcaaccaagctggagagcatagacgcgataagagatcagtggcgttagctcctcatgttggcatgggactggacacacgcgcccaaacctggatgtcggctgaaggggcttggagacaagtcgagaaggtagagacatgggcctttaggcacccagggttcacaatattagccctatttcttgcccattacataggcacttccttgacccagaaagtggtcattttcatactactaatgctggtcaccccatccatgacaatgagatgtgtgggagtaggaaacagagattttgtggaaggcctatcaggagctacgtgggttgacgtggtgctcgaacacggtgggtgtgtgactaccatggctaaaaacaagcccacgctggacatagagctccagaagaccgaggccacccaactggcaaccctaaggaaactatgcattgaggggaaaatcaccaacgtgacaaccgactcaaggtgccccacccaaggggaagcgattctacctgaggagcaggaccagaactacgtgtgtaagcacacatacgtggacagaggctggggaaacggttgtggtttgtttggcaagggaagcttggtaacatgcgcgaaatttcaatgtttggaattaatagagggaaaagtggtgcagcatgagaacctcaaatacaccgtcatcatcacagtgcacacaggagaccaacaccaggtgggaaatgaaacgcagggagtcacggctgagataacaccccaggcatcaaccgttgaagccatcttacctgaatatggaacccttgggctagaatgctcaccacggacaggtttggatttcaatgaaatgattttgttgacaatgaagaacaaagcatggatggtacatagacaatggtttttcgacctacccctaccatggacatcaggggctacaacagaaacaccaacctggaataagaaagagcttcttgtgacattcaaaaatgcacacgcaaaaaaacaagaagtggtagtccttggatcgcaagagggagcaatgcacacagcactgacaggagccacagagatccaaacctcaggaggcacaagtatttttgcggggcacttgaaatgcagactcaagatggacaaattggaactcaaggggatgagctatgcaatgtgctcaaatgcctttgtgttgaagaaagaagtctctgaaacacaacatgggacaatactcattaaggtcgagtacaaaggggaagacgcaccttgcaagattcctttctccacggaggatggacaagggaaagcccacaatggcagactgatcacagcaaacccagtggtgaccaagaaggaggagcctgtcaatattgaggcagaacctccttttggggaaagtaacataataattggaattggagacaaagccttgaaaatcaattggtacaagaagggaagctcgattgggaagatgttcgaggccactgctagaggtgcaaggcgcatggccatcttgggagacacagcctgggactttggatcagtaggtggtgttttaaattcactagggaaaatggtgcaccaaatatttggaagtgcttacacggccctttttagtggagtctcctggataatgaaaattggaataggtctccttttaacttggatagggttaaattcaaaaaacacttctatgtcattttcatgcattgtgataggaatcatcacactctatctgggagccgtggtgcaagctgatatggggtgtgtcataaactggaaaggcaaagaactcaaatgtggaagtggaattttcgtcactaatgaggtccacacctggacagagcaatacaaatttcaagcagactctcccaaaagactggcgacagccattgcaggcgcctgggagaatggagtgtgcggaatcaggtcgacaaccagaatggagaacctcttgtggaagcaaatagccaatgaactaaactacatattatgggaaaacaacatcaaattaacggtagttgtgggtgatataattggggtcttagagcaagggaaaagaacactaacaccacaacccatggagctaaaatattcatggaaaacatggggaaaggcgaaaatagtgacagctgaaatacaaaattcctcctttataatagatgggccaaacacaccagagtgtccaaatgcctcaagagcatggaatgtgtgggaggtggaagattacgggttcggagtcttcacaaccaatatatggctgaaactccgagagatgtacacccaactatgtgaccacaggctaatgtcggcagctgttaaagatgagagagccgtacacgccgacatgggctattggatagaaagccaaaagaatggtagttggaagctagaaaaggcatctctcatagaggtgaaaacctgcacatggccaaaatcacacactctctggagcaatggtgtgttagagagtgacatgatcatcccaaagagtctggctggtcctatctcgcaacacaactacaggcccggataccacacccaaacagcaggaccctggcacctaggaaaattggagctggacttcaactattgtgaaggaacaacagttgtcatcacagaaagttgtgggacaagaggcccatcactgaggacaacaacagtgtcagggaaattgatacatgaatggtgttgccgctcgtgcacacttcctcccctgcgatatatgggagaagacggctgctggtatggcatggaaattagacccattaatgagaaagaagagaacatggtaaagtctttagtctcagcagggagtggaaaggtggataacttcacaatgggtgtcttgtgtcttgcaatcctctttgaagaggtaatgagaggaaaatttgggaaaaagcacatgattgcaggggttctcctcatgtttgtgctccttctctcagggcaaataacatggagagacatggcgcgcacactcataatgattggatccaacgcctctgacagaatgggaatgggcgtcacttacctagcattgattgcaacatttaaaattcagccatttttggctttgggattcttcctgaggaaactgacatccagagaaaatttattattgggagttgggttggccatggcaacaacgttgcaactgccagaggacattgaacaaatggcgaatggaatagccttggggctcatggctcttaaattgwtaacacaatttgaaacataccaactatggacggcattagtctccctaacgtgttcaaatacaattttcacgttgactgttgcctggagaacagccactctgattttag</GBSeq_sequence>
+  </GBSeq>

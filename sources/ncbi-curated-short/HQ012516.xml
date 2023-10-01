@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>HQ012516</GBSeq_locus>
+    <GBSeq_length>2325</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>22-MAR-2013</GBSeq_update-date>
+    <GBSeq_create-date>25-JAN-2011</GBSeq_create-date>
+    <GBSeq_definition>Dengue virus 2 strain BR63291/RJ/98 polyprotein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>HQ012516</GBSeq_primary-accession>
+    <GBSeq_accession-version>HQ012516.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|HQ012516.1|</GBSeqid>
+      <GBSeqid>gi|319748411</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>dengue virus type 2</GBSeq_source>
+    <GBSeq_organism>dengue virus type 2</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..2325</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Faria,N.R.</GBAuthor>
+          <GBAuthor>Nogueira,R.M.</GBAuthor>
+          <GBAuthor>de Filippis,A.M.</GBAuthor>
+          <GBAuthor>Simoes,J.B.</GBAuthor>
+          <GBAuthor>Nogueira Fde,B.</GBAuthor>
+          <GBAuthor>da Rocha Queiroz Lima,M.</GBAuthor>
+          <GBAuthor>Dos Santos,F.B.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Twenty Years of DENV-2 Activity in Brazil: Molecular Characterization and Phylogeny of Strains Isolated from 1990 to 2010</GBReference_title>
+        <GBReference_journal>PLoS Negl Trop Dis 7 (3), E2095 (2013)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1371/journal.pntd.0002095</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>23516646</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..2325</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Faria,N.R.</GBAuthor>
+          <GBAuthor>Nogueira,R.</GBAuthor>
+          <GBAuthor>Nogueira,F.B.</GBAuthor>
+          <GBAuthor>dos Santos,F.B.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (02-AUG-2010) Virology, Oswaldo Cruz Foudation, Av. Brasil, 4365 - Manguinhos, Rio de Janeiro, RJ 21045-900, Brazil</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..2325</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2325</GBInterval_to>
+            <GBInterval_accession>HQ012516.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>dengue virus type 2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>BR63291/RJ/98</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>serum</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11060</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Brazil</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>1998</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..&gt;2325</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2325</GBInterval_to>
+            <GBInterval_accession>HQ012516.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>contains C/prM/M/E</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polyprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ADV71198.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MNNQRKKARSTPFNMLKRERNRVSTVQQLTKRFSLGMLQGRGPLKLFMALVAFLRFLTIPPTAGILKRWGTIKKSKAINVLRGFRKEIGRMLNILNRRRRTAGVIIMLIPTAMAFHLTTRNGEPHMIVGRQEKGKSLLFKTEDGVNMCTLMAIDLGELCEDTITYKCPLLRQNEPEDIDCWCNSTSTWVTYGTCTTTGEHRREKRSVALVPHVGMGLETRTETWMSSEGAWKHVQRIETWILRHPGFAIMAAILAYTIGTTHFQRALIFILLTAVAPSMTMRCIGISNRDFVEGVSGGSWVDIVLEHGSCVTTMAKNKPTLDFELIKTEAKQPATLRKYCIEAKLTNTTTESRCPTQGEPSLNEEQDKRFICKHSMVDRGWGNGCGLFGKGGIVTCAMFTCKKNMEGKVVLPENLEYTIVITPHSGEEHAVGNDTGKHGKEIKITPQSSITEAELTGYGTVTMECSPRTGLDFNEMVLLQMEEKAWLVHRQWFLDLPLPWLPGADTQGSNWIQKETLVTFKNPHAKKQDVVVLGSQEGAMHTALTGATEIQMSSGNLLFTGHLKCRLRMDKLQLKGMSYSMCTGKFKIVKEIAETQHGTIVIRVQYEGDGSPCKIPFEIMDLEKRHVLGRLITVNPIVTEKDSPVNIEAEPPFGDSYIIIGVEPGQLKLNWFKKGSSIGQMFETTMRGAKRMAILGDTAWDFGSLGGVFTSIGKALHQVFGAIYGAAFSGVSWTMKILIGVIITWIGMNSRSTSLSVSLVLVGVVTLYLGAMVQA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgaataaccaacgaaaaaaggcgagaagtacgcctttcaatatgctgaaacgcgagagaaaccgcgtgtcaactgtgcaacagctgacaaagagattctcacttggaatgctgcaaggacgaggaccattgaaactgttcatggcccttgtggcgttccttcgtttcctaacaatcccaccaacagcagggatactgaaaagatggggaacgatcaaaaaatcaaaagctatcaatgttttgagagggttcaggaaagagattggaaggatgctgaacatcttgaacaggagacgcaggacagcaggcgtgattattatgttgattccaacagcaatggcgttccatttaaccacacgtaatggagaaccacacatgatcgttggtaggcaagagaaagggaaaagtcttctgtttaaaacagaggacggtgttaacatgtgtaccctcatggccatagaccttggtgaattgtgtgaagatacaatcacgtacaagtgtcccctcctcaggcaaaatgaaccagaagacatagattgttggtgcaactccacgtccacatgggtaacttatgggacatgtaccaccacaggagaacacagaagagaaaaaagatcagtggcactcgttccacatgtgggtatgggactggagacacgaactgaaacatggatgtcatcagaaggggcctggaaacatgttcagagaattgaaacctggatcttgagacatccaggctttgccataatggcagcaatcctggcatacaccataggaacgacacatttccaaagggccttgattttcatcttactgacagctgtcgctccttcaatgacaatgcgttgcataggaatatcaaatagagacttcgtagaaggggtttcaggaggaagctgggttgacatagtcttagaacatggaagttgtgtgacgacgatggcaaaaaataaaccaacattggattttgaactgataaaaacagaagccaaacaacctgccactttaaggaagtactgtatagaagcaaagctgaccaatacaacaacagaatctcgttgcccaacacaaggggaacccagtctaaatgaagagcaggacaaaaggttcatctgcaaacactccatggtagacagaggatggggaaatggatgtggattatttggaaaaggaggcattgtgacctgtgctatgttcacatgcaaaaagaacatggaaggaaaagtcgtgctgccagagaatctggaatacactatcgtgataacacctcactcaggagaagagcacgctgtaggtaatgacacaggaaaacatggcaaggaaatcaaaataacaccacagagttccatcacagaagcagaactgacaggctatggcactgtcacgatggagtgctctccgagaacgggcctcgacttcaatgagatggtgctgctgcagatggaagagaaagcttggctggtgcacaggcaatggttcctagacctgccgttaccatggctacccggagcggacacacaaggatcaaattggatacagaaagagacattggtcactttcaaaaatccccacgcgaagaaacaggacgtcgttgttttaggatctcaagaaggggccatgcacacggcacttacaggggccacagaaatccagatgtcatcaggaaacttactgttcacaggacatctcaagtgcaggctgagaatggacaaactacagctcaaaggaatgtcatactctatgtgtacaggaaagtttaaaattgtgaaggaaatagcagaaacacaacatggaacaatagttatcagagtacaatatgaaggggacggctctccatgtaagatcccttttgagataatggatttggaaaaaagacacgtcttaggccgcctgattacagttaacccaatcgtaacagaaaaagatagcccagtcaacatagaagcagaacctccattcggagacagctacatcatcataggagtagagccgggacaattgaaactcaattggtttaagaagggaagttccatcggccaaatgtttgagacaacaatgagaggagcgaagagaatggccatattaggcgacacagcctgggattttggatccctgggaggagtgtttacatctataggaaaggctctccaccaagttttcggagcaatctatggggctgcttttagtggggtctcatggactatgaaaatcctcataggagtcatcattacatggataggaatgaattcacgtagtacctcactgtctgtgtcactagtattggtgggagtcgtgacactgtacctgggagctatggtgcaggct</GBSeq_sequence>
+  </GBSeq>

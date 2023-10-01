@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>DQ537490</GBSeq_locus>
+    <GBSeq_length>539</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>14-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>10-JUN-2006</GBSeq_create-date>
+    <GBSeq_definition>Dengue virus type 2 strain XY1 nonstructural glycoprotein 1 gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>DQ537490</GBSeq_primary-accession>
+    <GBSeq_accession-version>DQ537490.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|DQ537490.1|</GBSeqid>
+      <GBSeqid>gi|107124853</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>dengue virus type 2</GBSeq_source>
+    <GBSeq_organism>dengue virus type 2</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..539</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Zhou,Y.B.</GBAuthor>
+          <GBAuthor>Zuo,L.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Comparison of the NS1 gene sequences of three different strains of Dengue virus type 2</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..539</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Zhou,Y.B.</GBAuthor>
+          <GBAuthor>Zuo,L.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (10-MAY-2006) Department of Immunology, Guiyang Medical College, No. 9 Beijing Road, Guiyang 550004, China</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..539</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>539</GBInterval_to>
+            <GBInterval_accession>DQ537490.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>dengue virus type 2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>XY1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>DF patient serum</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11060</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>China: Guizhou province, Xingyi city</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2005</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;539</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>539</GBInterval_to>
+            <GBInterval_accession>DQ537490.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>NS1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>nonstructural glycoprotein 1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ABF83617.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>VHTLTEQYKFQPESPSKLASAIQKAHEEGICGIRSVTRLENLMWKQITPELNHILSENEVKLTIMTGDIKGIMQAGKRSLRPQPTELKYSWKTWGKAKMLPTESHNQTFLIDGPDTAECPNTNRAWNSLEVEDYGFGVFTTNIWLKLREKQDVFCDSKLMSAAIKDNRAVHADMGYWIE</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gtgcacacattgacagaacaatacaagttccaaccagaatccccttcaaaactagcttcagctatccagaaagctcatgaagagggcatttgtggaatccgctcagtaacaagactggaaaatctgatgtggaaacaaataacaccagaattgaatcacattctatcagaaaatgaggtgaagttgactattatgacaggagacatcaaaggaatcatgcaggcaggaaaacgatctctgcggccccagcccactgagctgaagtattcatggaaaacatggggcaaagcgaaaatgctccctacagagtctcataaccagacctttctcattgatggccccgacacagcagaatgccccaacacaaacagagcttggaattcgctggaagttgaagactatggctttggagtattcaccaccaatatatggctaaagttgagagaaaagcaggatgtattctgcgactcaaaactcatgtcagcggccataaaagacaacagagccgtccatgccgatatgggttattggatagaaag</GBSeq_sequence>
+  </GBSeq>

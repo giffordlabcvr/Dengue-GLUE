@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KY347014</GBSeq_locus>
+    <GBSeq_length>1776</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>28-JUN-2018</GBSeq_update-date>
+    <GBSeq_create-date>28-JUN-2018</GBSeq_create-date>
+    <GBSeq_definition>Dengue virus type 1 strain DENV-1/MX/InDRE_36C/2014 nonstructural protein NS5 gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>KY347014</GBSeq_primary-accession>
+    <GBSeq_accession-version>KY347014.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KY347014.1|</GBSeqid>
+      <GBSeqid>gi|1249105945</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>dengue virus type 1</GBSeq_source>
+    <GBSeq_organism>dengue virus type 1</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1776</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Gonzalez-Duran,E.</GBAuthor>
+          <GBAuthor>Vazquez-Pichardo,M.</GBAuthor>
+          <GBAuthor>Torres-Flores,J.M.</GBAuthor>
+          <GBAuthor>Garces-Ayala,F.</GBAuthor>
+          <GBAuthor>Mendez-Tenorio,A.</GBAuthor>
+          <GBAuthor>Curiel-Quesada,E.</GBAuthor>
+          <GBAuthor>Ortiz-Alcantara,J.M.</GBAuthor>
+          <GBAuthor>Castelan-Sanchez,H.G.</GBAuthor>
+          <GBAuthor>Salas-Benito,J.S.</GBAuthor>
+          <GBAuthor>Torres-Longoria,B.</GBAuthor>
+          <GBAuthor>Lopez-Martinez,I.</GBAuthor>
+          <GBAuthor>Hernandez-Rivas,L.</GBAuthor>
+          <GBAuthor>Membrillo-Hernandez,J.</GBAuthor>
+          <GBAuthor>Diaz-Quinonez,J.A.</GBAuthor>
+          <GBAuthor>Ramirez-Gonzalez,J.E.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Genotypic variability analysis of DENV-1 in Mexico reveals the presence of a novel Mexican lineage</GBReference_title>
+        <GBReference_journal>Arch. Virol. 163 (6), 1643-1647 (2018)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1007/s00705-018-3759-0</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>29426993</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1776</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Gonzalez-Duran,E.</GBAuthor>
+          <GBAuthor>Vazquez-Pichardo,M.</GBAuthor>
+          <GBAuthor>Garces-Ayala,F.</GBAuthor>
+          <GBAuthor>Ortiz-Alcantara,J.</GBAuthor>
+          <GBAuthor>Torres-Rodriguez,Mdl.L.</GBAuthor>
+          <GBAuthor>Nunez-Leon,A.</GBAuthor>
+          <GBAuthor>Wong-Arambula,C.</GBAuthor>
+          <GBAuthor>Serrano-Gutierrez,S.</GBAuthor>
+          <GBAuthor>Rosales-Jimenez,C.</GBAuthor>
+          <GBAuthor>Mendieta-Condado,E.R.</GBAuthor>
+          <GBAuthor>Torres-Longoria,B.</GBAuthor>
+          <GBAuthor>Mendez-Tenorio,A.</GBAuthor>
+          <GBAuthor>Salas-Benito,J.S.</GBAuthor>
+          <GBAuthor>Lopez-Martinez,I.</GBAuthor>
+          <GBAuthor>Hernandez-Rivas,L.</GBAuthor>
+          <GBAuthor>Diaz-Quinonez,J.A.</GBAuthor>
+          <GBAuthor>Castelan-Sanchez,H.G.</GBAuthor>
+          <GBAuthor>Lopez-Merino,R.M.A.</GBAuthor>
+          <GBAuthor>Ramirez-Gonzalez,J.E.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (13-DEC-2016) Biologia Molecular y Validacion de Tecnicas, Instituto de Diagnostico y Referencia Epidemiologicos (InDRE), Francisco de P. Miranda 177 Col. Lomas de Plateros. Del. Alvaro Obregon, Mexico, DF 01480, Mexico</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Assembly Method :: CLC Bio Genomics Work Bench v. 8.0; GS Reference Mapper v. 2.9 ; Assembly Name :: Mexican Dengue virus type 1 ; Coverage :: 514x ; Sequencing Technology :: 454; Illumina; Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1776</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1776</GBInterval_to>
+            <GBInterval_accession>KY347014.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>dengue virus type 1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>DENV-1/MX/InDRE_36C/2014</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>36C/2014</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>serum from female</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11053</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Mexico: Chiapas</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>lat_lon</GBQualifier_name>
+            <GBQualifier_value>14.83 N 92.19 W</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2014</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collected_by</GBQualifier_name>
+            <GBQualifier_value>InDRE</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>American/African genotype;
+genotype: V</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1776</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1776</GBInterval_to>
+            <GBInterval_accession>KY347014.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>NS5</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>nonstructural protein NS5</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ATG85003.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>YEVKPSGSASSMVNGVVRLLTKPWDVIPMVTQIAMTDTTPFGQQRVFKEKVDTRTPRAKRGTTQIMEVTAKWLWGFLSRNKKPRICTREEFTRKVRSNAAIGAVFVDENQWNSAKEAVEDERFWDLVHRERELHKQGKCATCVYNMMGKREKKLGEFGKAKGSRAIWYMWLGARFLEFEALGFMNEDHWFSRENSLSGVEGEGLHKLGYILRDISKIPGGNMYADDTAGWDTRITEDDLQNEAKITDIMEPEHALLATSIFKLTYQNKVVRVQRPAKNGTVMDVISRRDQRGSGQVGTYGLNTFTNMEVQLIRQMESEGIFLPSELETPNLAERVLDWLEKHGAERLKRMAISGDDCVVKPIDDRFATALTALNDMGKVRKDIPQWEPSKGWNDWQQVPFCSHHFHQLIMKDGREIVVPCRNQDELVGRARVSQGAGWSLRETACLGKSYAQMWQLMYFHRRDLRLAANAICSAVPVDWVPTSRTTWSIHAHHQWMTTEDMLSVWNRVWIEENPWMEDKTHVSSWEEVPYLGKREDQWCGSLIGLTARATWATNIQVAINQVRRLIGNENYLDYMTSMKRFKNESDPEGALW</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tatgaggtcaagccatcaggatcagcctcatctatggtaaatggagtggtgagattgctcacaaaaccatgggatgttatccccatggtcacacaaatagctatgaccgataccacaccctttggacaacagagagtgtttaaagagaaagttgacacgcgcacaccaagagcaaaacgaggcacaacacaaattatggaggtgacagccaagtggttgtggggtttcctttccagaaacaaaaaacccagaatctgcacaagagaggagttcacaagaaaagttaggtcaaacgcagcaataggagcagtgttcgttgatgaaaaccaatggaactcagcaaaagaagcagtggaagacgaaaggttttgggaccttgtgcatagagagagggagcttcataaacagggaaaatgtgccacgtgtgtctacaacatgatggggaagagagagaaaaaactaggagagtttggtaaggcaaaaggaagccgtgcaatatggtacatgtggctgggagcacgctttctggagttcgaagcccttggtttcatgaatgaagatcactggtttagcagagagaattcactcagtggagtggaaggagaaggactgcacaaacttggatacatactcagagacatatcaaagattccagggggaaatatgtatgcagatgatacagccggatgggacacaagaataacagaggatgatcttcagaatgaggctaaaatcactgacatcatggagcctgaacatgctctattggccacatcaatttttaagctgacctatcaaaataaggtggtgagggtgcaaagaccagcaaagaatggaaccgtgatggatgtcatatctagacgtgaccagagaggaagtggacaggtcggaacttatggcttaaatactttcactaacatggaggtccaactaataagacaaatggagtctgaaggaatctttttacccagcgaattggaaacccccaatctagctgagagagttcttgactggttggaaaaacatggcgccgaaaggctgaaaagaatggcaatcagcggagatgattgcgtggtgaaaccaattgacgacaggttcgcaacagccttaacagctctgaatgacatgggaaaagtaagaaaagacataccgcagtgggaaccttcaaaaggatggaatgattggcagcaagtgcctttctgttcacaccatttccaccagctgatcatgaaggatgggagggaaatagtggtgccatgccgcaaccaagatgagcttgtaggcagggctagagtatcacaaggcgccggatggagcctgagagaaactgcttgcctaggcaagtcatatgcacaaatgtggcagttgatgtacttccacaggagagacctgagactggcggctaacgctatctgttcagccgttccagttgattgggtcccaaccagccgcacaacctggtcaattcatgcccaccaccaatggatgacaacagaagacatgttatcagtgtggaatagggtttggatagaggaaaacccatggatggaggacaaaactcatgtatccagttgggaagaagttccatacctagggaaaagggaagatcaatggtgtggatccctgataggcttgacagcgagggccacctgggccaccaacatacaagtggccataaaccaagtgagaaggctcatcgggaatgaaaattatctagattacatgacatcaatgaagagattcaagaatgagagtgatcccgaaggggcactctgg</GBSeq_sequence>
+  </GBSeq>

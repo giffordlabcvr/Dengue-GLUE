@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>MH594876</GBSeq_locus>
+    <GBSeq_length>1485</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>06-NOV-2018</GBSeq_update-date>
+    <GBSeq_create-date>06-NOV-2018</GBSeq_create-date>
+    <GBSeq_definition>Dengue virus type 1 isolate NIV_1731188_Nashik_India_2017 polyprotein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>MH594876</GBSeq_primary-accession>
+    <GBSeq_accession-version>MH594876.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|MH594876.1|</GBSeqid>
+      <GBSeqid>gi|1502961510</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>dengue virus type 1</GBSeq_source>
+    <GBSeq_organism>dengue virus type 1</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1485</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Patil,J.A.</GBAuthor>
+          <GBAuthor>Alagarasu,K.</GBAuthor>
+          <GBAuthor>Kakade,M.B.</GBAuthor>
+          <GBAuthor>More,A.M.</GBAuthor>
+          <GBAuthor>Gadekar,K.A.</GBAuthor>
+          <GBAuthor>Jadhav,S.M.</GBAuthor>
+          <GBAuthor>Parashar,D.</GBAuthor>
+          <GBAuthor>Shah,P.S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Emergence of dengue virus type 1 and type 3 as dominant serotypes during 2017 in Pune and Nashik regions of Maharashtra, Western India</GBReference_title>
+        <GBReference_journal>Infect. Genet. Evol. (2018) In press</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1016/j.meegid.2018.10.016</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>30366083</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Available-Online prior to print</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1485</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Patil,J.A.</GBAuthor>
+          <GBAuthor>Alagarasu,K.</GBAuthor>
+          <GBAuthor>Kakade,M.B.</GBAuthor>
+          <GBAuthor>More,A.M.</GBAuthor>
+          <GBAuthor>Gadekar,K.A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (09-JUL-2018) Dengue/Chikungunya Group, ICMR-National Institute of Virology, 20-A, Dr. Ambedkar Road, Pune, Maharashtra 411001, India</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1485</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1485</GBInterval_to>
+            <GBInterval_accession>MH594876.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>dengue virus type 1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>NIV_1731188_Nashik_India_2017</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>serum samples</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11053</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>India</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2017</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1485</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1485</GBInterval_to>
+            <GBInterval_accession>MH594876.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>contains envelope protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polyprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AYP31144.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MRCVGIGNRVFVGGLSGHTWVGSGMEHGSCVTTMAKDKPTLDIELLKTGVTNPAVLRKLCIEAKISNTTTDSRCPTQGEATLVEEQDANFVCRRTFVDRGWGNGCGLFGKGSLLTCAKFKCVTKLEGKIVQYENLKYSVIVTVHTGDQHQVGNESTEHGTTATITPQAPTTEIQLTDYGALTLDCSPRTGLDFNEMVLLTMKEKSWLVHKQWFLDLPLPWTSGASTSQETWNRQDLLVTFKTAHAKKQEVVVLGSQEGAMHTALTGATEIQMSGTTTIFAGHLKCRLKMDKLTLKGMSYVMCTGSYALEKEVAETQHGTVLVQIKYEGTDAPCKKPFSTQDEKGVTQNGRLITANPIVTDKEKPVNIEAEPPFGESYIVIGAGEKALKLSWFKKGSSIGKMFEATARGARRMAILGDTAWDFGSIGGVFTSVGKLVHQIFGTAYGVLFSGVSWTMKIGIGVLLTWLGLNSRSTSLSMTCIAVGLVTLYLGVMVQA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgcgatgcgtgggaataggtaatagggtcttcgttggaggactgtcaggacacacatgggttggctcagggatggaacatggaagttgcgtcaccaccatggctaaagacaaaccaacactggacattgaacttttgaagacaggagtcacaaaccctgccgtcctgcgcaaactgtgcattgaagccaaaatatcaaacaccaccactgactcaagatgtccaacacaaggagaagccacactggtggaagaacaagacgcgaactttgtgtgtcgacgaacgtttgtggacagaggctggggcaatggctgtgggctcttcggaaaaggaagcctactaacgtgtgctaagtttaagtgtgtgacaaaactggaaggaaagatagttcaatatgaaaacttgaaatattcagtaatagtcactgtccacactggagaccagcatcaggtgggaaatgaaagcacagaacatgggacaactgcaactataacacctcaagctcccacgacggaaatacagctgaccgactacggagctcttacattggattgttcacctagaacaggattagacttcaatgaaatggtgttgttgacaatgaaagaaaaatcatggctagtccacaaacaatggtttctagacttaccactgccttggacctcgggagcttcaacatcacaagagacttggaacagacaagatttgctggtgacatttaagacagctcatgcaaagaagcaggaagttgtcgtactaggatcacaagaaggagcaatgcacactgcgctgaccggagcgacagaaatccaaatgtctggaacgacaacaatcttcgcaggacacttgaaatgtagactaaagatggacaaactgactctaaaagggatgtcatatgtgatgtgcacaggctcatatgcgcttgagaaagaagtggctgagacccagcatggaactgttttagtgcagattaaatacgaaggaacagatgcaccatgcaagaaacctttttcgacccaagatgaaaaaggagtaacccagaatgggagattgataacagccaaccccatagtcactgacaaagaaaaaccagtcaacattgaggcagaaccaccttttggtgagagttacatcgtgataggagcaggtgaaaaagctttgaaactaagctggttcaagaaaggaagcagcatagggaaaatgtttgaggcaactgccagaggagcacggaggatggccatactgggagacactgcatgggactttggttccataggaggagtgttcacgtctgttggaaaactagtacatcagatttttggaactgcatatggagttttgttcagcggtgtttcctggaccatgaaaataggaataggggttctgctgacatggttaggattaaactcaaggagcacgtccctctcgatgacgtgcattgcagttggcctagtaacactatacttaggagtcatggttcaggcg</GBSeq_sequence>
+  </GBSeq>

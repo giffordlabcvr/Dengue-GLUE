@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>X69396</GBSeq_locus>
+    <GBSeq_length>1419</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>30-SEP-1993</GBSeq_create-date>
+    <GBSeq_definition>Dengue-1 Virus (TH-Sman) RNA for envelope (3'part), NS1 and NS2A (5'part) proteins</GBSeq_definition>
+    <GBSeq_primary-accession>X69396</GBSeq_primary-accession>
+    <GBSeq_accession-version>X69396.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|X69396.1|</GBSeqid>
+      <GBSeqid>gi|404840</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>env gene</GBKeyword>
+      <GBKeyword>envelope glycoprotein</GBKeyword>
+      <GBKeyword>NS1 gene</GBKeyword>
+      <GBKeyword>NS1 protein</GBKeyword>
+      <GBKeyword>NS2A gene</GBKeyword>
+      <GBKeyword>NS2A protein</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>dengue virus type 1</GBSeq_source>
+    <GBSeq_organism>dengue virus type 1</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1419</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Shiu,S.Y.</GBAuthor>
+          <GBAuthor>Ip,K.W.</GBAuthor>
+          <GBAuthor>Gould,E.A.</GBAuthor>
+          <GBAuthor>Chan,K.M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Comparative analysis of the NS 1 gene sequences of dengue-1 viruses prototype Hawaii strain and Thai isolate TH-Sman, and determination of the intratypic variation of NS 1 protein among dengue-1 viruses</GBReference_title>
+        <GBReference_journal>Arch. Virol. 131 (3-4), 447-454 (1993)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1007/BF01378645</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>8347083</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1419</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Shiu,S.Y.W.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (24-NOV-1992) S.Y.W. Shiu, University of Hong Kong, Dept of Microbiology, Pathology Building, Queen Mary Hospital Compound, HONG KONG</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>Related sequences: DENEP1 &amp; DENEP2.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1419</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1419</GBInterval_to>
+            <GBInterval_accession>X69396.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>dengue virus type 1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>TH-Sman</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11053</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1419</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1419</GBInterval_to>
+            <GBInterval_accession>X69396.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>viral polyprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>CAA49194.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GOA:Q66467</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR000752</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR001157</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>UniProtKB/TrEMBL:Q66467</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>GILLTWLGLNSRNTSLSMMCIAVGMVTLYLGVMVQADSGCVINWKGRELKCGSGIFVTNEVHTWTEQYKFQADSPKRLSAAIGKAWEEGVCGIRSATRLENIMWKQISNELNHILLENDMKFTVVVGDVSGILAQGKKMIRPQPMEHKYSWKSWGKAKIIGADVQNTTFIIDGPNTPECPDNQRAWNIWEVEDYGFGIFTTNIWLKLRDSYTQVCDHRLMSAAIKDSKAVHADMGYWIESEKNETWKLARASFIEVKTCIWPKSHTLWSNGVQESEMIIPKIYGGPISQHNYRPGYFTQTAGPWHLGKLELDFDFCEGTTVVVDEHCGNRGPSLRTTTVTGKIIHEWCCRSCTLPPLRFKGEDGCWYGMEIRPVKDKEENLVKSMVSAGSGEVDSFSLGLLCISIMIEEVMRSRWSRKMLMTGTLAVFLLLIMGQLTWSDLIRLCIIVGANASDRMGMGTTYLALMATFKMRP</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>mat_peptide</GBFeature_key>
+        <GBFeature_location>&lt;1..108</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>108</GBInterval_to>
+            <GBInterval_accession>X69396.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>structural envelope glycoprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>GILLTWLGLNSRNTSLSMMCIAVGMVTLYLGVMVQA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>mat_peptide</GBFeature_key>
+        <GBFeature_location>109..1164</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>109</GBInterval_from>
+            <GBInterval_to>1164</GBInterval_to>
+            <GBInterval_accession>X69396.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>nonstructural NS1 glycoprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>DSGCVINWKGRELKCGSGIFVTNEVHTWTEQYKFQADSPKRLSAAIGKAWEEGVCGIRSATRLENIMWKQISNELNHILLENDMKFTVVVGDVSGILAQGKKMIRPQPMEHKYSWKSWGKAKIIGADVQNTTFIIDGPNTPECPDNQRAWNIWEVEDYGFGIFTTNIWLKLRDSYTQVCDHRLMSAAIKDSKAVHADMGYWIESEKNETWKLARASFIEVKTCIWPKSHTLWSNGVQESEMIIPKIYGGPISQHNYRPGYFTQTAGPWHLGKLELDFDFCEGTTVVVDEHCGNRGPSLRTTTVTGKIIHEWCCRSCTLPPLRFKGEDGCWYGMEIRPVKDKEENLVKSMVSA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>mat_peptide</GBFeature_key>
+        <GBFeature_location>1165..&gt;1419</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1165</GBInterval_from>
+            <GBInterval_to>1419</GBInterval_to>
+            <GBInterval_accession>X69396.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>nonstructural NS2A glycoprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>GSGEVDSFSLGLLCISIMIEEVMRSRWSRKMLMTGTLAVFLLLIMGQLTWSDLIRLCIIVGANASDRMGMGTTYLALMATFKMRP</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..108</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>108</GBInterval_to>
+            <GBInterval_accession>X69396.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>env</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>109..1164</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>109</GBInterval_from>
+            <GBInterval_to>1164</GBInterval_to>
+            <GBInterval_accession>X69396.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NS1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1165..&gt;1419</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1165</GBInterval_from>
+            <GBInterval_to>1419</GBInterval_to>
+            <GBInterval_accession>X69396.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>NS2A</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gggattctgctgacatggctaggattaaattcaaggaacacgtccctttcgatgatgtgcatcgcagttggaatggtcacactgtacctaggagtcatggttcaggcggattcgggatgcgtaatcaactggaagggcagagaacttaaatgtggaagtggcatttttgtcaccaatgaagttcacacttggacagagcaatacaaatttcaagctgactcccccaagagactatcagcagccattgggaaggcatgggaggagggtgtgtgtggaatccggtcagccactcgtctcgagaatatcatgtggaaacaaatatcaaatgaactgaaccacatcctacttgaaaatgacatgaaatttacagtggtcgtgggagatgttagtggaatcttggcccaaggaaaaaaaatgattaggccacaacccatggaacacaaatactcgtggaaaagctggggaaaagctaaaattataggagcggatgtacagaacactaccttcatcatcgacggcccaaacaccccagaatgcccagataatcaaagagcatggaatatttgggaagtagaggactatggatttgggattttcacgacaaacatatggttgaaactgcgtgactcctacacccaagtatgtgaccaccggctaatgtcagctgccatcaaggacagcaaggcagtccatgctgacatggggtactggatagaaagtgaaaagaacgagacctggaagttggcgagggcctcctttatagaagttaagacatgcatctggccaaaatcccacactctatggagcaatggagttcaggaaagtgaaatgataatcccaaagatatatggaggaccaatatctcagcacaactacagaccaggatattttacacaaacagcagggccgtggcacctaggcaagttggaactagatttcgatttctgtgaaggtaccacagttgttgtggatgaacactgtggaaatcgaggaccatctcttagaaccacaacagtcacaggaaagataatccatgaatggtgctgtagatcttgtacgctacctcccttacgttttaaaggggaagacgggtgttggtacggcatggaaatcagaccagtgaaggacaaggaagagaacctggtcaagtcaatggtctctgcagggtcaggagaagtggacagtttttcactaggactgctatgcatatcaataatgattgaagaggtaatgagatccagatggagcagaaaaatgctgatgactggaacactggctgtgttcctccttcttataatgggacaattgacatggagtgatctgatcaggttatgtattatagttggagccaatgcttcagacaggatggggatgggaacaacgtacctagctttgatggccactttcaaaatgagacca</GBSeq_sequence>
+  </GBSeq>

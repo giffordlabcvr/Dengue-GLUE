@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>DI387431</GBSeq_locus>
+    <GBSeq_length>1683</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>20-NOV-2014</GBSeq_update-date>
+    <GBSeq_create-date>20-NOV-2014</GBSeq_create-date>
+    <GBSeq_definition>KR 1020130138789-A/4: RECOMBINANT SUBUNIT DENGUE VIRUS VACCINE</GBSeq_definition>
+    <GBSeq_primary-accession>DI387431</GBSeq_primary-accession>
+    <GBSeq_accession-version>DI387431.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|DI387431.1|</GBSeqid>
+      <GBSeqid>pat|KR|1020130138789|4</GBSeqid>
+      <GBSeqid>gi|724441463</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>KR 1020130138789-A/4</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>dengue virus type 4</GBSeq_source>
+    <GBSeq_organism>dengue virus type 4</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1683</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Coller,B.G.</GBAuthor>
+          <GBAuthor>Pai,V.B.</GBAuthor>
+          <GBAuthor>Parks,D.E.</GBAuthor>
+          <GBAuthor>Yelmene,M.</GBAuthor>
+          <GBAuthor>Bett,A.J.</GBAuthor>
+          <GBAuthor>Martyak,T.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>RECOMBINANT SUBUNIT DENGUE VIRUS VACCINE</GBReference_title>
+        <GBReference_journal>KR1020130138789-A 4 19-DEC-2013 MERCK SHARP &amp; DOHME CORP</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>KN KR 1020137010730-A/4~AN KR 1020137010730~AD 2013-04-26~PN KR 1020130138789~PD 2013-12-19~AT RECOMBINANT SUBUNIT DENGUE VIRUS VACCINE~AI Coller, Beth-Ann Griswold|Pai, Vidya B.|Parks, D.~AI Elliot|Yelmene, Michele|Bett, Andrew J.|Martyak, Timothy~AA MERCK SHARP &amp; DOHME CORP.~PR US 61/408,310=2010-10-29~OS Dengue virus type 4~TY DNA.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1683</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1683</GBInterval_to>
+            <GBInterval_accession>DI387431.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>dengue virus type 4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11070</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tttcacttgtcaacaagagatggcgaaccccttatgatagtggcaaaacacgaaagggggagacctctcttgtttaagacaacagagggaatcaacaaatgcactcttattgccatggacctgggtgaaatgtgtgaggacaccgtcacgtatgaatgccctctactggtcaataccgaacctgaggacattgattgctggtgcaatctcacgtctgcctgggtcatgtatgggacatgcactcagagtggggaacggagacgggagaagcgctcagtagccctaacaccacattcaggaatgggattggagacaagggctgagacatggatgtcatcggaaggggcttggaaacatgctcagagggtagagagttggatactcagaaacccaggattcgctctcttggcaggatttatggcctatatgattgggcaaacaggaatccagcgaacagtcttctttgttctaatgatgctggtcgccccatcctacggaatgcgatgcgtgggagtggggaacagagactttgtggaaggagtctcaggtggagcatgggtcgatttggtgctagaacatggaggatgtgtcacaaccatggcccagggaaaaccaaccttggattttgaactgatcaagacaacagccaaggaagtggctctgttaagaacctattgcattgaagcctcgatatcaaacataaccacggcaacaagatgtccaacgcaaggagaaccttatctcaaagaggaacaagatcaacagtacatttgccggagagatgtggtagacagagggtggggcaatggctgtggcttgtttgggaaaggaggagttgtgacatgtgcgaagttttcatgctcggggaagataacaggcaatttggtccaaattgagaaccttgaatacacagtagttgtaacagtccacaatggagacacccatgcagtaggaaatgacacatccaaccatggagtgacagccacgataacccccaggtcaccatcggtagaagttaaattaccggattatggagaattaacactcgattgtgaacccaggtccggaattgattttaatgagatgattctgatgaaaatgaaaaagaaaacgtggcttgtgcacaagcaatggtttttggatctacctctaccatgggcagcaggagcagacacatcagaagttcattggaattacaaagagagaatggtgacattcaaggttcctcatgccaagagacaggatgtgacagtgctaggatctcaggaaggagccatgcattctgccctcaccggagctacagaagtggattccggtgatggaaaccacatgtatgcaggacatctgaaatgcaaagttcgcatggagaaattgagaattaagggaatgtcatacacgatgtgctcaggaaagttctcaattgacaaagagatggcagaaacacagcatgggacaacagtggtaaaagtcaagtatgagggtgctggagctccatgtaaagttcccatagagataagagatgtgaacaaggaaaaagtggtagggcgcatcatctcatctaccccttttgctgagtataccaacagtgtaaccaacatagaattagaacccccctttggggacagctacatagtaataggtgttggagacagtgcattaacactccattggttcaggaaaggg</GBSeq_sequence>
+  </GBSeq>

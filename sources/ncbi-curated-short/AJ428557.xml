@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AJ428557</GBSeq_locus>
+    <GBSeq_length>1485</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>24-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>19-SEP-2002</GBSeq_create-date>
+    <GBSeq_definition>Dengue virus type 4 partial env gene for envelope protein, genomic RNA, isolate MY01-23096</GBSeq_definition>
+    <GBSeq_primary-accession>AJ428557</GBSeq_primary-accession>
+    <GBSeq_accession-version>AJ428557.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|AJ428557.1|</GBSeqid>
+      <GBSeqid>gi|23304740</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>env gene</GBKeyword>
+      <GBKeyword>envelope</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>dengue virus type 4</GBSeq_source>
+    <GBSeq_organism>dengue virus type 4</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1485</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>AbuBakar,S.</GBAuthor>
+          <GBAuthor>Wong,P.F.</GBAuthor>
+          <GBAuthor>Chan,Y.F.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Emergence of dengue virus type 4 genotype IIA in Malaysia</GBReference_title>
+        <GBReference_journal>J. Gen. Virol. 83 (PT 10), 2437-2442 (2002)</GBReference_journal>
+        <GBReference_pubmed>12237425</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1485</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>AbuBakar,S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (24-JAN-2002) AbuBakar S., Medical Microbiology, University Malaya, Faculty of Medicine, Kuala Lumpur 50603, MALAYSIA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1485</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1485</GBInterval_to>
+            <GBInterval_accession>AJ428557.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>dengue virus type 4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>MY01-23096</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>patient's serum</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11070</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Malaysia:Klang Valley</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..&gt;1485</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1485</GBInterval_to>
+            <GBInterval_accession>AJ428557.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>env</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..&gt;1485</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1485</GBInterval_to>
+            <GBInterval_accession>AJ428557.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>env</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>envelope protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>CAD21678.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GOA:Q8B0G8</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>HSSP:1OKE</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR000336</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR011998</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR011999</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR013754</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR013756</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR014756</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>UniProtKB/TrEMBL:Q8B0G8</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MRCVGVGNRDFVEGVSGGAWVDLVLEHGGCVTTMAQGKPTLDFELTKTTAKEVALLRTYCIEASISNITTATRCPTQGEPYLKEEQDQQYICRRDVVDRGWGNGCGLFGKGGVVTCAKFLCSGKITGNLVQIENLEYTVVVTVHNGDTHAVGNDTSNHGVTATITPRTPSVEVKLPDYGELTLDCEPRSGIDFNEMILMKMKKKTWLVHKQWFLDLPLPWTAGADTSEVHWNYKERMVTFKVPHAKRQDVTVLGSQEGAMHSALAGATEVDSGDGNHMFAGHLKCKVRMEKLRIKGMSYTMCSGKFSIDKEMAETQHGTTVVKVKYEGAGAPCKVPIEIRDVNKEKVVGRIISSTPFAENTNSVTNIELEPPFGDSYIVIGVGDSALTLHWFRKGSSIGKMFESTYRGAKRMAILGETAWDFGSVGGLFTSLGKAVHQVFGSVYTTMFGGVSWMVRILIGFLVLWIGTNSRNTSMAMTCIAVGGITLFLGFTVQA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgcgatgcgtaggggtagggaacagagactttgtggaaggagtctcgggtggagcatgggtcgacttggtgctagaacatggaggatgcgtcacaaccatggcccagggaaaaccaaccttggattttgaactgaccaagacaacagctaaggaagtggctctgttaagaacctattgcattgaagcctcgatatcaaacataaccacagcgacaagatgcccaacgcaaggagagccttatctcaaagaggaacaagaccaacagtacatttgccggagagacgtggtagacagagggtggggcaatggttgtggcttatttggaaaaggaggagttgtgacatgtgcaaagtttttatgctcggggaagataacaggcaatctggtccaaattgaaaaccttgaatatacagtagttgtgacagtccacaatggagacacccatgcagtaggaaatgacacatccaatcatggagtgacagccacgataactcccaggacaccatcagtagaagttaaattgccggactatggagaactaacactcgattgtgaacccaggtctggaattgatttcaatgagatgatcctgatgaaaatgaagaagaaaacgtggcttgtgcataagcaatggtttttggacctacctctaccatggacagcaggagcagacacatcagaagttcattggaattataaagagagaatggtgacattcaaggttcctcatgccaagagacaggatgtgacagtgctaggatctcaggagggagctatgcattctgccctcgccggagccacagaagtggattctggtgatggaaatcacatgtttgcaggacatctcaagtgcaaagtccgcatggagaaattgagaattaagggaatgtcatacacgatgtgttcaggaaagttctcaattgacaaagagatggcagaaacacagcatgggacaacagtggtgaaagtcaagtatgaaggcgctggagctccgtgtaaagtccccatagagataagagatgtgaacaaggaaaaagtggttgggcgcatcatttcatccaccccttttgctgagaataccaacagcgtaaccaatatagaattagaacccccttttggggacagctatatagtgataggtgttggagatagtgcattaacactccattggttcagaaaagggagctccattggcaagatgtttgagtccacatacagaggtgcaaagcgaatggccattctaggtgaaacagcttgggattttggttctgttggtggactgttcacatcactgggaaaggctgtacaccaggtttttggaagtgtgtatacaaccatgtttggaggggtctcatggatggttagaatcctaattgggttcttagtattatggattggcacgaattcaagaaacacttcaatggcaatgacgtgcatagctgttggaggaatcactctgtttctaggtttcacagttcaagca</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>EF629375</GBSeq_locus>
+    <GBSeq_length>1659</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>01-NOV-2007</GBSeq_create-date>
+    <GBSeq_definition>Dengue virus type 3 strain BR DEN3 RO3-02.2 polyprotein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>EF629375</GBSeq_primary-accession>
+    <GBSeq_accession-version>EF629375.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|EF629375.1|</GBSeqid>
+      <GBSeqid>gi|157418356</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>dengue virus type 3</GBSeq_source>
+    <GBSeq_organism>dengue virus type 3</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus denguei</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1659</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Nogueira,M.B.</GBAuthor>
+          <GBAuthor>Stella,V.</GBAuthor>
+          <GBAuthor>Bordignon,J.</GBAuthor>
+          <GBAuthor>Batista,W.</GBAuthor>
+          <GBAuthor>Borba,L.</GBAuthor>
+          <GBAuthor>Pereira da Silva,L.H.</GBAuthor>
+          <GBAuthor>Probst,C.M.</GBAuthor>
+          <GBAuthor>Duarte dos Santos,C.N.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Evidence of co-circulation of Dengue virus type 3 genotypes I and III in Brazil during 2002-2004 epidemics: First report</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1659</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Nogueira,M.B.</GBAuthor>
+          <GBAuthor>Stella,V.</GBAuthor>
+          <GBAuthor>Bordignon,J.</GBAuthor>
+          <GBAuthor>Batista,W.</GBAuthor>
+          <GBAuthor>Borba,L.</GBAuthor>
+          <GBAuthor>Pereira da Silva,L.H.</GBAuthor>
+          <GBAuthor>Probst,C.M.</GBAuthor>
+          <GBAuthor>Duarte dos Santos,C.N.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (18-MAY-2007) Virology, Instituto de Biologia Molecular do Parana - IBMP, Prof. Algacyr Munhoz Mader 3775, Curitiba, Parana 81350010, Brazil</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1659</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1659</GBInterval_to>
+            <GBInterval_accession>EF629375.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>dengue virus type 3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>BR DEN3 RO3-02.2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11069</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Brazil</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: I</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1659</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1659</GBInterval_to>
+            <GBInterval_accession>EF629375.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polyprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ABV54905.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>GSMSYAMCLNTFVLKKEVSETQHGTILIKVEYKGEDAPCKIPFSTEDGQGKAHNGRLITANPVVTKKEEPVNIEAEPPFGESNIVIGIGDKALKINWYRKGSSIGKMFEATARGARRMAILGDTAWDFGSVGGVLNSLGKMVHQIFGSAYTALFSGVSWIMKIGIGVLLTWIGLNSKNTSMSFSCIAIGIITLYLGVVVQADMGCVINWKGKELKCGSGIFVTNEVHTWTEQYKFQADSPKRLATAIAGAWENGVCGIRSTTRMENLLWKQIANELNYILWENNIKLTVVVGDITGVLEQGKRTLTPQPMELKYSWKTWGKAKIVTAETQNSSFIIDGPSTPECPSASRAWNVWEVEDYGFGVFTTNIWLKLREVYTQLCDHRLMSAAVKDERAVHADMGYWIESQKNGSWKLEKASLIEVKTCTWPKSHTLWSNGVLESDMIIPKSLAGPISQHNHRPGYHTQTAGPWHLGKLELDFNYCEGTTVVISENCGTRGPSLRTTTVSGKLIHEWCCRSCTLPPLRYMGEDGCWYGMEIRPINEKEENMVKSLASA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>aggatccatgagctatgcaatgtgcttgaatacctttgtgttgaagaaagaagtctccgaaacgcagcatgggacaatactcattaaggttgagtacaaaggggaagatgcaccctgcaagattcctttctccacggaggatggacaagggaaagctcacaatggcagactgatcacagccaatccagtggtgaccaagaaggaggagcctgtcaacattgaggctgaacctccttttggggaaagtaatatagtaattggaattggagacaaagccctgaaaatcaactggtacaggaagggaagctcgattgggaagatgttcgaggccactgccagaggtgcaaggcgcatggccatcttgggagacacagcctgggactttggatcagtgggtggtgttttgaattcattagggaaaatggtccaccaaatatttgggagtgcttacacagccctatttagtggagtctcctggataatgaaaattggaataggtgtcctcttaacctggatagggttgaattcaaaaaacacttctatgtcattttcatgcattgcgataggaatcattacactctatctgggagtcgtggtgcaagctgacatggggtgtgtcataaactggaaaggcaaagaactcaaatgtggaagtggaattttcgtcactaatgaggtccacacctggacagagcaatacaaatttcaagcagactcccccaaaagactggcaacagccattgcaggcgcttgggagaatggagtgtgcggaattaggtcaacaaccagaatggagaacctcttgtggaagcaaatagccaatgaactgaactacatattatgggaaaacaacattaaattaacggtagttgtaggcgacataactggggtcttagagcaagggaaaagaacactaacaccacaacccatggagctaaaatattcttggaaaacatggggaaaggcaaaaatagtgacagctgaaacacaaaattcctctttcataatagatgggccaagcacaccggagtgtccaagtgcctcaagagcatggaatgtgtgggaggtggaagattacgggttcggagttttcacaaccaacatatggctgaaactccgagaggtgtacacccaactatgtgaccataggctaatgtcggcagccgtcaaggatgagagggccgtacacgccgacatgggctattggatagaaagccaaaagaatggaagttggaagctagaaaaagcatccctcatagaggtgaaaacctgcacatggccaaaatcacacactctttggagcaatggtgtgctagagagtgacatgattatcccaaagagtctagctggtcccatttcgcaacacaaccacaggcccgggtaccacacccaaacggcaggaccctggcacttaggaaaattggagctggacttcaactattgtgaaggaacaacagttgtcatctcagaaaactgtgggacaagaggcccatcattgagaacaacaacagtgtcagggaagttgatacacgaatggtgttgccgctcgtgcacacttcctcccctgcgatacatgggagaagacggctgctggtatggcatggaaatcagacccattaatgagaaagaagagaacatggtaaagtctctagcctcagc</GBSeq_sequence>
+  </GBSeq>
