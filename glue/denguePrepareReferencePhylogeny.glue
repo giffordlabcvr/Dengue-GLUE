@@ -5,8 +5,7 @@
   create module -f modules/denguePhyloUtility.xml
 
   module dengueFigTreeAnnotationExporter 
-    export figtree-annotation AL_UNC_DENV_ROOT \
-      
+    export figtree-annotation AL_UNC_DENV_ROOT \     
       -f trees/dengueReferenceFigtreeAnnotations.txt
     exit
     
