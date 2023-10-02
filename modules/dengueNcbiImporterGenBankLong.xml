@@ -3,9 +3,7 @@
   <sequenceFormat>GENBANK_XML</sequenceFormat>
   <sourceName>ncbi-curated</sourceName>
 
-  <!-- The eSearchTerm is a standard NCBI entrez text query. 
-       An alternative to eSearchTerm is to specify specific GI numbers or Primary Accessions 
-       to retrieve. See ncbiImporterGiNumbers.xml and ncbiImporterPrimaryAccessions.xml for syntax examples -->
+  <!-- The eSearchTerm is a standard NCBI entrez text query.  -->
   <eSearchTerm>
     "Dengue virus"[Organism] AND 5000:11000[SLEN]
   </eSearchTerm>

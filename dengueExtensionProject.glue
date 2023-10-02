@@ -5,7 +5,7 @@ project dengue
   # Define extension modules
   run file glue/dengueExtensionModules.glue
 
-  # NCBI refseqs -- taxa in the reference phylogeny, plus the RefSeq master reference and a numbering reference
+  # Import GenBank curated sequences (rank-and-file sequences)
   import source sources/ncbi-curated
   import source sources/ncbi-curated-short
 
@@ -26,3 +26,5 @@ project dengue
   validate
 
   exit
+
+
