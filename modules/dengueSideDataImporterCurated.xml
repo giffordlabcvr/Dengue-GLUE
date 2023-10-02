@@ -6,7 +6,7 @@
     
     <textFileColumn>
         <identifier>true</identifier>
-        <header>id</header>
+        <header>sequenceID</header>
         <property>sequenceID</property>
     </textFileColumn>
 

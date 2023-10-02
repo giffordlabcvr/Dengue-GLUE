@@ -1,5 +1,7 @@
 # Extension modules
 
+# Clean up any previously declared extension modules
+delete module dengueSideDataImporterCurated
 delete module dengueBlastSerotypeRecogniser
 delete module denv1MaxLikelihoodGenotyper
 delete module denv1MaxLikelihoodPlacer
@@ -10,8 +12,9 @@ delete module denv3MaxLikelihoodPlacer
 delete module denv4MaxLikelihoodGenotyper
 delete module denv4MaxLikelihoodPlacer
 
+# Create extension modules
+create module -f modules/dengueSideDataImporterCurated.xml
 create module -f modules/dengueBlastSerotypeRecogniser.xml
-
 create module -f modules/denv1MaxLikelihoodGenotyper.xml
 create module -f modules/denv1MaxLikelihoodPlacer.xml
 create module -f modules/denv2MaxLikelihoodGenotyper.xml

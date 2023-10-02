@@ -18,9 +18,9 @@ project dengue
   module dengueGenbankXmlPopulator populate -w "source.name = 'ncbi-curated-short'"
 
   # Load tabular data
-  #module dengueSideDataImporter
-  #  populate -f tabular/denv_reference_data.tsv
-  #  exit
+  module dengueSideDataImporterCurated
+    populate -f tabular/denv-ncbi-curated-genotypes.tsv
+    exit
 
   # Validate
   validate
