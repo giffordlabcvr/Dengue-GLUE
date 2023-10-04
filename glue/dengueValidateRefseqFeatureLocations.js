@@ -16,10 +16,8 @@ _.each(refSeqObjs, function(refSeqObj) {
 	
 					var aa = aaRows[i].aminoAcid;
 					if(i < aaRows.length-1 && aa == "*") {
-						if( !(featureName == "PRE_C" && aaRows[i].codonLabel == "28") ) { // precore mutants are ok
-							glue.log("WARNING", "Residue "+aaRows[i].codonLabel+" of feature "+featureName+" on reference "+refSeqObj.name+" should not be *");
-							problematicRefs[refSeqObj.name] = "yes";
-						}
+						glue.log("WARNING", "Residue "+aaRows[i].codonLabel+" of feature "+featureName+" on reference "+refSeqObj.name+" should not be *");
+						problematicRefs[refSeqObj.name] = "yes";						
 					}
 					if(i < aaRows.length-1 && aa == "X") {
 						glue.log("WARNING", "Residue "+aaRows[i].codonLabel+" of feature "+featureName+" on reference "+refSeqObj.name+" should not be X");

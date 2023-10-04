@@ -20,26 +20,6 @@
     add member --whereClause "genotype like '4%'"
     exit
   
-	
-  # Derive constrained alignments from unconstrained alignments
-  
-  alignment AL_DENV1
-	derive segments AL_UNC_DENV1 --recursive --existingMembersOnly --allMembers --mergeStrategy OVERWRITE
-	exit
-
-  alignment AL_DENV2
-	derive segments AL_UNC_DENV2 --recursive --existingMembersOnly --allMembers --mergeStrategy OVERWRITE
-	exit
-
-  alignment AL_DENV3
-	derive segments AL_UNC_DENV3 --recursive --existingMembersOnly --allMembers --mergeStrategy OVERWRITE
-	exit
-
-  alignment AL_DENV4
-	derive segments AL_UNC_DENV4 --recursive --existingMembersOnly --allMembers --mergeStrategy OVERWRITE
-	exit
-
-
 
   alignment AL_DENV1
 
@@ -233,5 +213,25 @@
     set field displayName "4V"
     set field clade_category "genotype"
     exit
+
+
+	
+  # Derive constrained alignments from unconstrained alignments
+  
+  alignment AL_DENV1
+	derive segments AL_UNC_DENV1 --recursive --existingMembersOnly --allMembers --mergeStrategy OVERWRITE
+	exit
+
+  alignment AL_DENV2
+	derive segments AL_UNC_DENV2 --recursive --existingMembersOnly --allMembers --mergeStrategy OVERWRITE
+	exit
+
+  alignment AL_DENV3
+	derive segments AL_UNC_DENV3 --recursive --existingMembersOnly --allMembers --mergeStrategy OVERWRITE
+	exit
+
+  alignment AL_DENV4
+	derive segments AL_UNC_DENV4 --recursive --existingMembersOnly --allMembers --mergeStrategy OVERWRITE
+	exit
 
 
