@@ -22,6 +22,10 @@ project dengue
     populate -f tabular/denv-ncbi-curated-genotypes.tsv
     exit
 
+  module dengueSideDataImporterGrubaugh
+    populate -f tabular/denv-metadata-verity.tsv
+    exit
+
   # Validate
   validate
 
