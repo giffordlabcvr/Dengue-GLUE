@@ -6,8 +6,23 @@
 	</figTreeAnnotation>
 
 	<figTreeAnnotation>
+		<annotationName>source.name</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.source.name')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
+	<figTreeAnnotation>
 		<annotationName>genotype</annotationName>
 		<valueFreemarkerTemplate>${renderNestedProperty('sequence.genotype')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
+	<figTreeAnnotation>
+		<annotationName>major_lineage</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.major_lineage')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
+	<figTreeAnnotation>
+		<annotationName>minor_lineage</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.minor_lineage')}</valueFreemarkerTemplate>
 	</figTreeAnnotation>
 
 	<figTreeAnnotation>

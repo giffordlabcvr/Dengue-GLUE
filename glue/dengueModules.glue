@@ -4,4 +4,5 @@ create module --fileName modules/unconstrainedAlignmentImporter.xml
 
 create module -f modules/dengueTabularUtility.xml
 create module -f modules/dengueSideDataImporter.xml
+create module -f modules/dengueSideDataImporterExtended.xml
 

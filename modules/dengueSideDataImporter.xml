@@ -6,7 +6,7 @@
     
     <textFileColumn>
         <identifier>true</identifier>
-        <header>id</header>
+        <header>sequenceID</header>
         <property>sequenceID</property>
     </textFileColumn>
 
@@ -18,6 +18,16 @@
     <textFileColumn>
         <header>genotype</header>
         <property>genotype</property>
+    </textFileColumn>
+
+    <textFileColumn>
+        <header>major_lineage</header>
+        <property>major_lineage</property>
+    </textFileColumn>
+
+    <textFileColumn>
+        <header>minor_lineage</header>
+        <property>minor_lineage</property>
     </textFileColumn>
 
     <textFileColumn>

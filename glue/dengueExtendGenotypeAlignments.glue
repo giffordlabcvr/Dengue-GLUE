@@ -1,0 +1,20 @@
+delete module fastaAlignmentExporter
+delete module dengueMafftAligner
+
+create module -t fastaAlignmentExporter
+create module -f modules/dengueMafftAligner.xml
+
+alignment AL_UNC_DENV1 add member -w "source.name = 'ncbi-refseqs-extended' and genotype like '1%'"
+alignment AL_UNC_DENV2 add member -w "source.name = 'ncbi-refseqs-extended' and genotype like '2%'"
+alignment AL_UNC_DENV3 add member -w "source.name = 'ncbi-refseqs-extended' and genotype like '3%'"
+alignment AL_UNC_DENV4 add member -w "source.name = 'ncbi-refseqs-extended' and genotype like '4%'"
+
+compute alignment AL_UNC_DENV1 dengueMafftAligner
+compute alignment AL_UNC_DENV2 dengueMafftAligner
+compute alignment AL_UNC_DENV3 dengueMafftAligner
+compute alignment AL_UNC_DENV4 dengueMafftAligner
+
+module fastaAlignmentExporter export AL_UNC_DENV1 -a -o dengue1.aln.fna
+module fastaAlignmentExporter export AL_UNC_DENV2 -a -o dengue2.aln.fna
+module fastaAlignmentExporter export AL_UNC_DENV3 -a -o dengue3.aln.fna
+module fastaAlignmentExporter export AL_UNC_DENV4 -a -o dengue4.aln.fna
