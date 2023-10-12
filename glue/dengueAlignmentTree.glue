@@ -2,22 +2,22 @@
 
   create alignment AL_DENV1 -r REF_MASTER_DENV1
   alignment AL_DENV1
-    add member --whereClause "genotype like '1%'"
+    add member --whereClause "serotype = '1'"
     exit
     
    create alignment AL_DENV2 -r REF_MASTER_DENV2
    alignment AL_DENV2
-    add member --whereClause "genotype like '2%'"
+    add member --whereClause  "serotype = '2'"
     exit
     
    create alignment AL_DENV3 -r REF_MASTER_DENV3
    alignment AL_DENV3
-    add member --whereClause "genotype like '3%'"
+    add member --whereClause  "serotype = '3'"
     exit
 
    create alignment AL_DENV4 -r REF_MASTER_DENV4
    alignment AL_DENV4
-    add member --whereClause "genotype like '4%'"
+    add member --whereClause  "serotype = '4'"
     exit
   
 
