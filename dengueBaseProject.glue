@@ -11,27 +11,20 @@ project dengue
 
   # NCBI refseqs -- taxa in the reference phylogeny, plus the master reference
   import source sources/ncbi-refseqs
-  import source sources/ncbi-refseqs-extended
  
   # Link sequence table entries to isolate table
   run script glue/dengueLoadIsolateDataRefseqs.js 
-  run script glue/dengueLoadIsolateDataRefseqsExtended.js 
   
   # Populate refseq + outgroup metadata from GenBank XML
-  module dengueGenbankXmlPopulator populate -w "source.name like 'ncbi-refseqs%'"
+  module dengueGenbankXmlPopulator populate -w "source.name = 'ncbi-refseqs'"
 
   # Load tabular data
-  module dengueSideDataImporter
-    populate -f tabular/denv_reference_data.tsv
-    exit
-
   module dengueSideDataImporterExtended
     populate -f tabular/denv_reference_data_extended.tsv
     exit
 
   # Define references
   run file glue/dengueReferences.glue
-  run file glue/dengueReferencesExtended.glue
 
   # Import unconstrained alignment
   run file glue/dengueUnconstrainedAlignments.glue

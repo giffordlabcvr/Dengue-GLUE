@@ -22,6 +22,16 @@
 	</cladeCategory>
 
 
+	<cladeCategory>
+		<name>genotype</name>	
+		<displayName>Genotype</displayName>	
+		<whereClause>displayName like '1%' and clade_category = 'major_lineage'</whereClause>
+		<distanceScalingExponent>-4.5</distanceScalingExponent>
+	    <distanceCutoff>0.08</distanceCutoff>
+		<finalCladeCutoff>65.0</finalCladeCutoff>		
+	</cladeCategory>
+
+
 </maxLikelihoodGenotyper>
 
 

@@ -1,0 +1,75 @@
+taxon	sequenceID	source.name	genotype	major_lineage	minor_lineage	isolate	country	collection_year
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/AF326573	AF326573	ncbi-refseqs	4II	4II_B	4II_B	814669	Dominican Republic	1981
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/AY618988	AY618988	ncbi-refseqs	4III	4III	4III	ThD4_0476_97	Thailand	1997
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/AY618989	AY618989	ncbi-refseqs	4III	4III	4III	ThD4_0017_97	Thailand	1997
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/AY618991	AY618991	ncbi-refseqs	4I	4I	4I	ThD4_0087_77	Thailand	1977
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/AY618992	AY618992	ncbi-refseqs	4I	4I_A	4I_A.2	ThD4_0485_01	Thailand	2001
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/AY762085	AY762085	ncbi-refseqs	4II	4II_B	4II_B	Singapore 8976/95	Singapore	-
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/EF457906	EF457906	ncbi-refseqs	4IV	-	-	P75-215	Malaysia	1975
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/FJ024476	FJ024476	ncbi-refseqs	4II	4II_B	-	DENV-4/CO/BID-V1600/1997	Colombia	1997
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/FJ196850	FJ196850	ncbi-refseqs	4I	-	-	GD09/90	China	1990
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/FJ882581	FJ882581	ncbi-refseqs	4II	4II_B	-	DENV-4/VE/BID-V2490/2007	Venezuela	2007
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/GQ252675	GQ252675	ncbi-refseqs	4II	4II_B	-	DENV-4/US/BID-V2432/1995	USA	1995
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/GQ868594	GQ868594	ncbi-refseqs	4I	-	-	DENV-4/PH/BID-V3361/1956	Philippines	1956
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/GU289913	GU289913	ncbi-refseqs	4II	4II_B	-	341750	Colombia	1982
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/JF262779	JF262779	ncbi-refseqs-extended	4IV	4IV	4IV	P75-514	Malaysia	1975
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/JF262780	JF262780	ncbi-refseqs	4IV	4IV	4IV	P73-1120	Malaysia	1973
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/JF262781	JF262781	ncbi-refseqs	4II	4II_B	-	INH6412	Venezuela	1995
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/JF262782	JF262782	ncbi-refseqs	4II	4II_B	-	Haiti73	Haiti	1994
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/JF741967	JF741967	ncbi-refseqs-extended	4II	4II_A	4II_A.2	GZ1D4	China: Guangzhou	2010
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/JN983813	JN983813	ncbi-refseqs	4II	4II_B	-	Br246RR/10	Brazil	2010
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/JQ513345	JQ513345	ncbi-refseqs	4I	4I_A	-	DENV-4/BHI3581	Brazil	2011
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/JQ822247	JQ822247	ncbi-refseqs-extended	4II	4II_A	4II_A.2	GZ30	China: Guangdong province	2010
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/KF041260	KF041260	ncbi-refseqs	4II	4I_B	4I_B.1	D4/Pakistan/150/2009	Pakistan	2009
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/KP792537	KP792537	ncbi-refseqs-extended	4I	4I_A	4I_A.1	SG(EHI)D4/25178Y11	Singapore	2011
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/KX059018	KX059018	ncbi-refseqs-extended	4I	4I_B	4I_B.2	SL588_C_SriLanka_2012.381	Sri Lanka	2012
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/KX059020	KX059020	ncbi-refseqs-extended	4I	4I_B	4I_B.2	SL612_C_SriLanka_2012.822	Sri Lanka	2012
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/KX059035	KX059035	ncbi-refseqs-extended	4I	4I_B	4I_B.2	SL2450_G_SriLanka_2012.786	Sri Lanka	2012
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/KX812530	KX812530	ncbi-refseqs-extended	4II	4II_B	4II_B	Indonesia 1976	Indonesia	1976
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/KX845005	KX845005	ncbi-refseqs-extended	4I	4I_B	4I_B.2	UOH_23916	India	2015
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/KY586902	KY586902	ncbi-refseqs-extended	4I	4I_A	4I_A.2	Ser4_Thailand_Bangkok_Seq45	Thailand	2000
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/KY586903	KY586903	ncbi-refseqs-extended	4I	4I_A	4I_A.2	Ser4_Thailand_Bangkok_Seq46	Thailand	2000
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/KY586944	KY586944	ncbi-refseqs-extended	4III	4III	4III	Ser4_Thailand_Bangkok_Seq81	Thailand	2001
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/KY586945	KY586945	ncbi-refseqs-extended	4III	4III	4III	Ser4_Thailand_Bangkok_Seq82	Thailand	1998
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/KY586946	KY586946	ncbi-refseqs-extended	4III	4III	4III	Ser4_Thailand_Bangkok_Seq83	Thailand	1998
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/KY924607	KY924607	ncbi-refseqs-extended	4I	4I_A	4I_A.1	DENV4-002	Viet Nam	2016
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/MG272273	MG272273	ncbi-refseqs-extended	4I	4I_B	4I_B.1	D4/IND/PUNE/IRSHA-FG-02 (S-41)	India	2016
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/MH891769	MH891769	ncbi-refseqs-extended	4I	4I_B	4I_B.1	MCVR4454AC/2017	India: Krishnagiri, Tamil Nadu	2017
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/MK614092	MK614092	ncbi-refseqs-extended	4I	4I_A	4I_A.1.1	GZ18XN13312	China: Guangzhou	2018
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/MK858146	MK858146	ncbi-refseqs-extended	4I	4I_B	4I_B.2	FT_DNS1_464_S26_R3	India	2016
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/MW192825	MW192825	ncbi-refseqs-extended	4I	4I_B	4I_B.1	6054	India	2017
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/MW720989	MW720989	ncbi-refseqs-extended	4II	4II_A	4II_A.2	GZ8H/2019122/2019/IV	China	2010
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/MW720991	MW720991	ncbi-refseqs-extended	4II	4II_A	4II_A.2	GZ8H/2019125/2019/IV	China	2010
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/MW720992	MW720992	ncbi-refseqs-extended	4II	4II_A	4II_A.2	GZ8H/2019126/2019/IV	China	2010
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/MW945455	MW945455	ncbi-refseqs-extended	4I	4I_A	4I_A.2	00044/01	Thailand	2001
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/MW945459	MW945459	ncbi-refseqs-extended	4I	4I_A	4I_A.3	00575/14	Thailand	2014
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/MW945493	MW945493	ncbi-refseqs-extended	4III	4III	4III	04390/99	Thailand	1999
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/MW945548	MW945548	ncbi-refseqs-extended	4I	4I_A	4I_A.2	05771/00	Thailand	2000
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/MW945552	MW945552	ncbi-refseqs-extended	4IV	4IV	4IV	P73-1120	Malaysia	1973
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/MW945559	MW945559	ncbi-refseqs-extended	4I	4I_A	4I_A.3	00214/14	Thailand	2014
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/MW945578	MW945578	ncbi-refseqs-extended	4I	4I_A	4I_A.2	02765/01	Thailand	2001
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/MW945594	MW945594	ncbi-refseqs-extended	4I	4I_A	4I_A.3	00385/14	Thailand	2014
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/MW945619	MW945619	ncbi-refseqs-extended	4III	4III	4III	01626/96	Thailand	1996
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/MW945733	MW945733	ncbi-refseqs-extended	4I	4I_A	4I_A.3	00555/14	Thailand	2014
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/MW945759	MW945759	ncbi-refseqs-extended	4I	4I_A	4I_A.3	00365/14	Thailand	2014
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/MZ976858	MZ976858	ncbi-refseqs-extended	4I	4I_A	4I_A.1.1	100-156	Cambodia	2019
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/MZ976859	MZ976859	ncbi-refseqs-extended	4I	4I_A	4I_A.1.1	109-0051	Cambodia	2019
+alignment/AL_UNC_DENV4/member/ncbi-refseqs/NC_002640	NC_002640	ncbi-refseqs	4II	4II_B	4II_B	rDEN4	-	-
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/OK469360	OK469360	ncbi-refseqs-extended	4II	4II_B	4II_B	Dengue 4 S-49489 Niue 1980	Niue	1980
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/OK469361	OK469361	ncbi-refseqs-extended	4II	4II_B	4II_B	1674/90 DEN4	Singapore	1990
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/OK469362	OK469362	ncbi-refseqs-extended	4II	4II_B	4II_B	8976/95 DEN4	Singapore	1995
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/OK605767	OK605767	ncbi-refseqs-extended	4II	4II_B	4II_B	DENV4-1_1229	Indonesia	1976
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/OL314745	OL314745	ncbi-refseqs-extended	4II	4II_A	4II_A.1	JBB-050	Indonesia	2019
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/ON891141	ON891141	ncbi-refseqs-extended	4I	4I_A	4I_A.1.1	18XN13312_D4_KHM	Cambodia	2018
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/ON908241	ON908241	ncbi-refseqs-extended	4I	4I_A	4I_A.1.1	18XN13312	Cambodia	2018
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/OP600478	OP600478	ncbi-refseqs-extended	4II	4II_A	4II_A.1	DG442_20/IMR_MALAYSIA	Malaysia	2020
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/OP600496	OP600496	ncbi-refseqs-extended	4II	4II_A	4II_A.1	DG229_21/IMR_MALAYSIA	Malaysia	2021
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/OP600506	OP600506	ncbi-refseqs-extended	4II	4II_A	4II_A.1	DG378_20/IMR_MALAYSIA	Malaysia	2020
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/OP600509	OP600509	ncbi-refseqs-extended	4II	4II_A	4II_A.1	DG168_22/IMR_MALAYSIA	Malaysia	2022
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/OP809584	OP809584	ncbi-refseqs-extended	4I	4I_B	4I_B.1	THSTI-TRC-DENV4-09	India	2021
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/OP809588	OP809588	ncbi-refseqs-extended	4I	4I_B	4I_B.1	THSTI-TRC-DENV4-13	India	2021
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/OQ426977	OQ426977	ncbi-refseqs-extended	4I	4I_A	4I_A.1.2	DEN-F-0048-04-1	Viet Nam: Nha Trang	2018
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/OQ426989	OQ426989	ncbi-refseqs-extended	4I	4I_A	4I_A.1.2	DEN-P-0701-1	Viet Nam: Nha Trang	2018
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/OQ426990	OQ426990	ncbi-refseqs-extended	4I	4I_A	4I_A.1.2	DEN-P-0780-1	Viet Nam: Nha Trang	2018
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/OQ427013	OQ427013	ncbi-refseqs-extended	4I	4I_A	4I_A.1.2	DET-P-0153-1	Viet Nam: Nha Trang	2018
+alignment/AL_UNC_DENV4/member/ncbi-refseqs-extended/OQ427047	OQ427047	ncbi-refseqs-extended	4I	4I_A	4I_A.1.2	DEN-P-1472-1	Viet Nam: Nha Trang	2019
