@@ -1,140 +1,44 @@
-taxon	sequenceID	source.name	genotype	major_lineage	minor_lineage	isolate	country	collection_year
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/EU677152	EU677152	ncbi-refseqs	1I	1I_G	1I_G	DENV-1/VN/BID-V1524/2007	Viet Nam: South	2007
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/FJ196841	FJ196841	ncbi-refseqs	1IV	1IV_C	1IV_C	GD54/03	China: Guangzhou, Guangdong Province	2003
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/FJ461307	FJ461307	ncbi-refseqs	1I	1I_H	1I_H.2	DENV-1/VN/BID-V1840/2008	Viet Nam: South	2008
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/FJ882520	FJ882520	ncbi-refseqs	1I	1I_D	1I_D	DENV-1/VN/BID-V2694/2006	Viet Nam: South	2006
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/FJ898424	FJ898424	ncbi-refseqs	1I	1I_D	1I_D	DENV-1/VN/BID-V2910/2006	Viet Nam: South	2006
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/FJ898429	FJ898429	ncbi-refseqs	1I	1I_D	1I_D	DENV-1/VN/BID-V2916/2006	Viet Nam: South	2006
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/GQ199843	GQ199843	ncbi-refseqs	1I	1I_D	1I_D	DENV-1/VN/BID-V2878/2006	Viet Nam: South	2006
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/GQ868506	GQ868506	ncbi-refseqs	1V	1V_C	1V_C	DENV-1/MX/BID-V3694/2007	Mexico: Yucatan	2007
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/GQ868531	GQ868531	ncbi-refseqs	1V	1V_C	1V_C	DENV-1/MX/BID-V3747/2008	Mexico: Yucatan	2008
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/GQ868563	GQ868563	ncbi-refseqs	1V	1V_G	1V_G	DENV-1/CO/BID-V3381/2006	Colombia: Norte de Santander	2006
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/GQ868565	GQ868565	ncbi-refseqs	1V	1V_G	1V_G	DENV-1/CO/BID-V3385/2006	Colombia: Norte de Santander	2006
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/GU131712	GU131712	ncbi-refseqs	1I	1I_H	1I_H.2	DENV-1/VN/BID-V3879/2008	Viet Nam: South	2008
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/GU131731	GU131731	ncbi-refseqs	1I	1I_C	1I_C	DENV-1/VN/BID-V3935/2008	Viet Nam: South	2008
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/GU131736	GU131736	ncbi-refseqs	1I	1I_H	1I_H.2	DENV-1/VN/BID-V3943/2008	Viet Nam: South	2008
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/GU131737	GU131737	ncbi-refseqs	1I	1I_C	1I_C	DENV-1/VN/BID-V3945/2008	Viet Nam: South	2008
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/GU131740	GU131740	ncbi-refseqs	1I	1I_G	1I_G	DENV-1/VN/BID-V3960/2008	Viet Nam: South	2008
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/GU131757	GU131757	ncbi-refseqs	1I	1I_C	1I_C	DENV-1/VN/BID-V3984/2008	Viet Nam: South	2008
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/GU131758	GU131758	ncbi-refseqs	1I	1I_G	1I_G	DENV-1/VN/BID-V3985/2008	Viet Nam: South	2008
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/GU131759	GU131759	ncbi-refseqs	1I	1I_G	1I_G	DENV-1/VN/BID-V3986/2008	Viet Nam: South	2008
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/GU131769	GU131769	ncbi-refseqs	1I	1I_C	1I_C	DENV-1/VN/BID-V4005/2008	Viet Nam: South	2008
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/GU131784	GU131784	ncbi-refseqs	1I	1I_G	1I_G	DENV-1/VN/BID-V4022/2008	Viet Nam: South	2008
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/GU131802	GU131802	ncbi-refseqs	1I	1I_H	1I_H.2	DENV-1/VN/BID-V4048/2008	Viet Nam: South	2008
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/GU131829	GU131829	ncbi-refseqs	1I	1I_H	1I_H.2	DENV-1/VN/BID-V4085/2008	Viet Nam: South	2008
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/GU131949	GU131949	ncbi-refseqs	1V	1V_G	1V_G	DENV-1/CO/BID-V3383/2006	Colombia: Norte de Santander	2006
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/GU131972	GU131972	ncbi-refseqs	1V	1V_C	1V_C	DENV-1/MX/BID-V3711/2007	Mexico: Yucatan	2007
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/GU131982	GU131982	ncbi-refseqs	1V	1V_C	1V_C	DENV-1/MX/BID-V3745/2008	Mexico	2008
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/JF937598	JF937598	ncbi-refseqs	1I	1I_D	1I_D	DENV-1/VN/BID-V2882/2006	Viet Nam: South	2006
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/JF937613	JF937613	ncbi-refseqs	1I	1I_C	1I_C	DENV-1/VN/BID-V4045/2008	Viet Nam: South	2008
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/JN205310	JN205310	ncbi-refseqs	1IV	1IV_C	1IV_C	GZ2002	China: Guangzhou	2002
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/JN638344	JN638344	ncbi-refseqs	1I	1I_B	1I_B	00407/95	Thailand	1995
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/JQ915080	JQ915080	ncbi-refseqs	1IV	1IV_A	1IV_A	NC10/080810-1138	New Caledonia	2010
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/JQ922547	JQ922547	ncbi-refseqs	1II	1II	1II	DENV-1/THAI/606147/1960	Thailand	1960
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/KC762630	KC762630	ncbi-refseqs	1IV	1IV_C	1IV_C	MKS-2097	Indonesia: Makassar	2008
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/KF973454	KF973454	ncbi-refseqs	1V	1V_B	1V_B	DENV-1/NI/BID-V7644/2012	Nicaragua	2012
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/KF973474	KF973474	ncbi-refseqs	1V	1V_B	1V_B	DENV-1/NI/BID-V7692/2012	Nicaragua	2012
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/KJ189330	KJ189330	ncbi-refseqs	1V	1V_C	1V_C	DENV-1/MX/BID-V7596/2007	Mexico	2007
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/KT827364	KT827364	ncbi-refseqs	1IV	1IV_C	1IV_C	GZ/215/D1/2002	China: Guangzhou, Guangdong Province	2002
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/KT827372	KT827372	ncbi-refseqs	1I	1I_K	1I_K.3	GZ/35293/D1/2014	China: Guangzhou, Guangdong Province	2014
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/KU509262	KU509262	ncbi-refseqs	1I	1I_F	1I_F	DENV1-3845	Thailand	2008
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/KX225483	KX225483	ncbi-refseqs	1III	1III_A	1III_A	GZ8_2/S/Yuexiu/2014/DEV1	China	2015
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/KX225487	KX225487	ncbi-refseqs	1III	1III_A	1III_A	GZ8_53/S/Liwan/2013/DEV1	China	2015
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/KX459390	KX459390	ncbi-refseqs	1III	1III_A	1III_A	GZ8_48/S/Yuexiu/2014/DEV1	China	2014
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/KY586492	KY586492	ncbi-refseqs	1I	1I_F	1I_F	Ser1_Thailand_nonBKKSeq_34	Thailand	2007
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/KY586493	KY586493	ncbi-refseqs	1I	1I_F	1I_F	Ser1_Thailand_nonBKKSeq_35	Thailand	2009
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/KY586494	KY586494	ncbi-refseqs	1I	1I_F	1I_F	Ser1_Thailand_nonBKKSeq_36	Thailand	2008
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/KY586543	KY586543	ncbi-refseqs	1I	1I_A	1I_A	Ser1_Thailand_BangkokSeq_196	Thailand	2001
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/KY586544	KY586544	ncbi-refseqs	1I	1I_A	1I_A	Ser1_Thailand_nonBKKSeq_43	Thailand	2003
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/KY586545	KY586545	ncbi-refseqs	1I	1I_A	1I_A	Ser1_Thailand_nonBKKSeq_44	Thailand	2004
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MG560265	MG560265	ncbi-refseqs	1I	1I_K	1I_K.3	P1346/China/GD/HY/2014	China: Heyuan, Guangdong Province	2014
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MG560266	MG560266	ncbi-refseqs	1I	1I_K	1I_K.3	P1278/China/GD/ZS/2014	China: Zhongshan, Guangdong Province	2014
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MG721063	MG721063	ncbi-refseqs	1III	1III_B	1III_B	R1_J10	India	2016
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MG840545	MG840545	ncbi-refseqs	1I	1I_K	1I_K.2	D1/China/GDzs/D15033/2015	China	2015
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MG840546	MG840546	ncbi-refseqs	1I	1I_K	1I_K.2	D1/China/GDzs/D15045/2015	China	2015
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MG840549	MG840549	ncbi-refseqs	1I	1I_J	1I_J	D1/China/GDsd/D15122/2015	China	2015
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MG840550	MG840550	ncbi-refseqs	1I	1I_J	1I_J	D1/China/GDsd/D15123/2015	China	2015
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MK791752	MK791752	ncbi-refseqs	1III	1III_B	1III_B	FT_DNS1_445_S20_R3	India	2016
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MK858126	MK858126	ncbi-refseqs	1III	1III_B	1III_B	FT_J80_S1_R2	India	2016
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MK858134	MK858134	ncbi-refseqs	1III	1III_B	1III_B	FT_DNS1_445_S20_R3	India	2016
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MK858137	MK858137	ncbi-refseqs	1III	1III_B	1III_B	FT_DNS1_323_S15_R3	India	2016
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MN018311	MN018311	ncbi-refseqs	1I	1I_J	1I_J	D15122	China: Guangdong Province	2015
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MN018312	MN018312	ncbi-refseqs	1I	1I_J	1I_J	D15123	China: Guangdong Province	2015
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MN018313	MN018313	ncbi-refseqs	1I	1I_J	1I_J	D15125	China: Guangdong Province	2015
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MN018329	MN018329	ncbi-refseqs	1I	1I_K	1I_K.2	D15033	China: Guangdong Province	2015
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MN018330	MN018330	ncbi-refseqs	1I	1I_K	1I_K.2	D15045	China: Guangdong Province	2015
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MN018331	MN018331	ncbi-refseqs	1I	1I_K	1I_K.2	D15046	China: Guangdong Province	2015
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MN444623	MN444623	ncbi-refseqs	1I	1I_K	1I_K.1	LSDFV01	China: Zhejiang province	2019
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MN577472	MN577472	ncbi-refseqs	1VI	1VI_A	1VI_A	INMI1/DRC-2019	Italy	2019
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MN886843	MN886843	ncbi-refseqs	1III	1III_A	1III_A	GZ8H/2019015/2014/I	China	2014
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MN886856	MN886856	ncbi-refseqs	1III	1III_A	1III_A	GZ8H/2019038/2014/I	China	2014
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MN886887	MN886887	ncbi-refseqs	1I	1I_K	1I_K.3	GZ8H/2019034/2014/I	China	2014
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MN886889	MN886889	ncbi-refseqs	1I	1I_K	1I_K.3	GZ8H/2019045/2014/I	China	2014
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MN923080	MN923080	ncbi-refseqs	1IV	1IV_B	1IV_B.1	19XN24151	China	2019
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MN923103	MN923103	ncbi-refseqs	1I	1I_K	1I_K.1	19XN14812	China	2019
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MN923106	MN923106	ncbi-refseqs	1I	1I_K	1I_K.1	19XN50549	China	2019
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MT832033	MT832033	ncbi-refseqs	1IV	1IV_B	1IV_B.2	AB204803_D1_2_cp1	Philippines	2015
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MT832034	MT832034	ncbi-refseqs	1IV	1IV_B	1IV_B.2	AB204803_D1_2	Philippines	2015
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MT832045	MT832045	ncbi-refseqs	1IV	1IV_B	1IV_B.2	AB204803_D1_9_cp1	Philippines	2013
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MT832046	MT832046	ncbi-refseqs	1IV	1IV_B	1IV_B.2	AB204803_D1_9	Philippines	2013
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MT832049	MT832049	ncbi-refseqs	1IV	1IV_B	1IV_B.2	AB204803_D1_1_cp1	Philippines	2012
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MW265686	MW265686	ncbi-refseqs	1IV	1IV_A	1IV_A	NC-2010-08-08/215145	New Caledonia	2010
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MW265688	MW265688	ncbi-refseqs	1IV	1IV_A	1IV_A	NC-2012-02-17/048306	New Caledonia	2012
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MW265691	MW265691	ncbi-refseqs	1IV	1IV_A	1IV_A	NC-2012-04-24/114321	New Caledonia	2012
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MW265693	MW265693	ncbi-refseqs	1IV	1IV_A	1IV_A	NC-2012-04-28/118327	New Caledonia	2012
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MW265714	MW265714	ncbi-refseqs	1I	1I_E	1I_E.2	NC-2017-03-17/0760268	New Caledonia	2017
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MW315183	MW315183	ncbi-refseqs	1I	1I_E	1I_E.2	New Caledonia-2017-AVS-NC-060	New Caledonia	2017
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MW315188	MW315188	ncbi-refseqs	1I	1I_E	1I_E.2	New Caledonia-2017-AVS-NC-075	New Caledonia	2017
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MW315194	MW315194	ncbi-refseqs	1I	1I_E	1I_E.2	New Caledonia-2017-AVS-NC-094	New Caledonia	2017
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MW315195	MW315195	ncbi-refseqs	1I	1I_E	1I_E.2	New Caledonia-2017-AVS-NC-100.1	New Caledonia	2017
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MW793683	MW793683	ncbi-refseqs	1I	1I_H	1I_H.1	YCH_272_17consensus	Myanmar: Yangon	2017
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MW793684	MW793684	ncbi-refseqs	1I	1I_H	1I_H.1	YGH_D1_35_19consensus	Myanmar: Yangon	2019
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MW793685	MW793685	ncbi-refseqs	1I	1I_H	1I_H.1	YGH_22_18_consensus	Myanmar: Yangon	2018
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MW793687	MW793687	ncbi-refseqs	1I	1I_H	1I_H.1	YCH_D1_7_18consensus	Myanmar: Yangon	2018
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MW793688	MW793688	ncbi-refseqs	1I	1I_H	1I_H.1	YCH_D1-21_19consensus	Myanmar: Yangon	2019
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MW945773	MW945773	ncbi-refseqs	1I	1I_A	1I_A	06632/01	Thailand	2001
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MW945781	MW945781	ncbi-refseqs	1I	1I_B	1I_B	30253/94	Thailand	1994
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MW945793	MW945793	ncbi-refseqs	1I	1I_B	1I_B	30031/94	Thailand	1994
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MW945844	MW945844	ncbi-refseqs	1II	1II	1II	16007	Thailand	1964
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MW945900	MW945900	ncbi-refseqs	1I	1I_A	1I_A	01606/00	Thailand	2000
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MW945915	MW945915	ncbi-refseqs	1I	1I_B	1I_B	30299/94	Thailand	1994
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MW945926	MW945926	ncbi-refseqs	1I	1I_B	1I_B	30262/94	Thailand	1994
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MW946075	MW946075	ncbi-refseqs	1I	1I_F	1I_F	01040/10	Thailand	2010
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MZ008439	MZ008439	ncbi-refseqs	1V	1V_B	1V_B	D1/NI/1527_1E/2013	Nicaragua	2013
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MZ008443	MZ008443	ncbi-refseqs	1V	1V_B	1V_B	D1/NI/1575_1E/2013	Nicaragua	2013
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MZ008448	MZ008448	ncbi-refseqs	1V	1V_B	1V_B	D1/NI/1653_1E/2013	Nicaragua	2013
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MZ130534	MZ130534	ncbi-refseqs	1VI	1VI_A	1VI_A	19053724	Democratic Republic of the Congo	2019
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MZ130538	MZ130538	ncbi-refseqs	1VI	1VI_A	1VI_A	397	Democratic Republic of the Congo	2016
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MZ130539	MZ130539	ncbi-refseqs	1VI	1VI_A	1VI_A	412	Democratic Republic of the Congo	2016
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/MZ130540	MZ130540	ncbi-refseqs	1VI	1VI_A	1VI_A	433	Democratic Republic of the Congo	2016
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/OM281593	OM281593	ncbi-refseqs	1I	1I_K	1I_K.1	098/SH/2019	Thailand	2019
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/OM281597	OM281597	ncbi-refseqs	1IV	1IV_B	1IV_B.1	137/SH/2019	Philippines	2019
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/ON426273	ON426273	ncbi-refseqs	1V	1V_A	1V_A	NS10908	Brazil: Sao Paulo, Birigui	2022
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/ON632090	ON632090	ncbi-refseqs	1V	1V_F	1V_F	NS11424	Brazil: Sao Paulo, Sao Jose dos Campos	2022
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/ON632117	ON632117	ncbi-refseqs	1V	1V_E	1V_E	NS11666	Brazil: Sao Paulo, Ferraz de Vasconcelos	2022
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/ON632120	ON632120	ncbi-refseqs	1V	1V_A	1V_A	RNA48742	Brazil: Sao Paulo, Coroados	2022
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/ON881244	ON881244	ncbi-refseqs	1IV	1IV_B	1IV_B.1	19XN24151_D1_CHN	China: Guangzhou	2019
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/ON907578	ON907578	ncbi-refseqs	1IV	1IV_B	1IV_B.1	19XN24151_D1_CHN	China	2019
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/ON908212	ON908212	ncbi-refseqs	1I	1I_K	1I_K.1	19XN14812_D1	China	2019
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/ON908215	ON908215	ncbi-refseqs	1IV	1IV_B	1IV_B.1	19XN24151_D1	China	2019
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/OQ593389	OQ593389	ncbi-refseqs	1VI	1VI_B	1VI_B	17V-05661	Cameroon: Kribi	2017
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/OQ593390	OQ593390	ncbi-refseqs	1VI	1VI_B	1VI_B	17V-05705	Cameroon: Kribi	2017
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/OQ593391	OQ593391	ncbi-refseqs	1VI	1VI_B	1VI_B	LT81	Cameroon: Douala	2017
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/OQ593392	OQ593392	ncbi-refseqs	1VI	1VI_B	1VI_B	LT93	Cameroon: Douala	2017
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/OQ593393	OQ593393	ncbi-refseqs	1VI	1VI_B	1VI_B	18V-03504	Cameroon: Mfou	2018
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/OQ605987	OQ605987	ncbi-refseqs	1V	1V_A	1V_A	NS11504R	Brazil: Sao Paulo, Corumbatai	2022
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/OQ786036	OQ786036	ncbi-refseqs	1V	1V_D	1V_D.1	NGS_703	Brazil: Sao Paulo, Alfredo Marcondes	2023
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/OR025602	OR025602	ncbi-refseqs	1V	1V_E	1V_E	RJ_D_12	Brazil: Rio de Janeiro, Rio de Janeiro	2023
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/OR025603	OR025603	ncbi-refseqs	1V	1V_F	1V_F	RJ_D_13	Brazil: Rio de Janeiro, Rio de Janeiro	2023
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/OR025607	OR025607	ncbi-refseqs	1V	1V_D	1V_D.2	RJ_D_17	Brazil: Rio de Janeiro, Rio de Janeiro	2023
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/OR025610	OR025610	ncbi-refseqs	1V	1V_E	1V_E	RJ_D_1	Brazil: Rio de Janeiro, Resende	2023
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/OR025611	OR025611	ncbi-refseqs	1V	1V_D	1V_D.2	RJ_D_21	Brazil: Rio de Janeiro, Rio de Janeiro	2023
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/OR025613	OR025613	ncbi-refseqs	1V	1V_D	1V_D.2	RJ_D_23	Brazil: Rio de Janeiro, Rio de Janeiro	2023
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/OR025617	OR025617	ncbi-refseqs	1V	1V_F	1V_F	RJ_D_3	Brazil: Rio de Janeiro, Rio de Janeiro	2023
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/OR025645	OR025645	ncbi-refseqs	1V	1V_D	1V_D.1	NGS 760	Brazil: Sao Paulo, Castilho	2023
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/OR025653	OR025653	ncbi-refseqs	1V	1V_D	1V_D.1	NGS 768	Brazil: Sao Paulo, Mogi Guacu	2023
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/OR029754	OR029754	ncbi-refseqs	1I	1I_E	1I_E.1	DENV1_D191067	China	2019
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/OR029765	OR029765	ncbi-refseqs	1I	1I_E	1I_E.1	DENV1_D191092	China	2019
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/OR029809	OR029809	ncbi-refseqs	1I	1I_E	1I_E.1	DENV1_D191174	China	2019
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/OR029928	OR029928	ncbi-refseqs	1I	1I_E	1I_E.1	DENV1_D19798	China	2019
-alignment/AL_UNC_DENV1/member/ncbi-refseqs/OR029961	OR029961	ncbi-refseqs	1I	1I_E	1I_E.1	DENV1_D191042	China	2019
+taxon	sequenceID	genotype	isolate	country	collection_year
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/AB074761	AB074761	1IV	A88	Indonesia	1988
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/AB189120	AB189120	1IV	98901518 DHF DV-1	Indonesia	1998
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/AB189121	AB189121	1IV	98901530 DF DV-1	Indonesia	1998
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/AB204803	AB204803	1IV	D1/hu/Yap/NIID27/2004	Japan	2004
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/AB519681	AB519681	1V	SB 01057805 (DF02)	Brazil	2001
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/AB608786	AB608786	1I	NDF30	Taiwan	2008
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/AF180817	AF180817	1II	16007	Thailand	1964
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/AF298808	AF298808	1I	D1/H/IMTSSA/98/606	Djibouti	1998
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/AF311956	AF311956	1V	BR/97-111	Brazil	1997
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/AF350498	AF350498	1I	GZ/80	-	-
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/AY206457	AY206457	1V	293arg00	Argentina	2000
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/AY277665	AY277665	1V	ARG0028	Argentina	2000
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/AY277666	AY277666	1V	ARG0048	Argentina	2000
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/AY713473	AY713473	1III	D1.Myanmar.40553/71	Myanmar	1971
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/AY722801	AY722801	1III	D1.Myanmar.40568/76	Myanmar	1976
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/AY722802	AY722802	1III	D1.Myanmar.23819/96	Myanmar	1996
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/AY722803	AY722803	1III	D1.Myanmar.32514/98	Myanmar	1998
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/AY726552	AY726552	1I	D1.Myanmar.44988/02	Myanmar	2002
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/AY732478	AY732478	1I	ThD1_0323_91	Thailand	1991
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/AY732480	AY732480	1I	ThD1_0097_94	Thailand	1994
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/AY732482	AY732482	1I	ThD1_0049_01	Thailand	2001
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/DQ285559	DQ285559	1V	Reunion 191/04	Reunion	2004
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/DQ285562	DQ285562	1VI	Comoros 04.329/93	Comoros	1993
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/DQ672561	DQ672561	1IV	HawM3430	USA	2001
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/DQ672564	DQ672564	1IV	HawO3663	USA	2001
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/EF032590	EF032590	1IV	GZ01/95	China	1995
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/EU179860	EU179860	1VI	DS06-210505	Brunei	2005
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/EU482567	EU482567	1V	DENV-1/US/BID-V1162/1998	USA	1998
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/FJ176779	FJ176779	1I	DEN1/GZ/OY	China	2006
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/FJ196842	FJ196842	1IV	GD66/03	China	2003
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/FJ196847	FJ196847	1I	GD01/97	China	1997
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/FJ205875	FJ205875	1V	DENV-1/US/BID-V1744/1995	USA	1995
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/FJ469907	FJ469907	1I	SG(EHI)D1209Y03	Singapore	2003
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/GQ199835	GQ199835	1I	DENV-1/VN/BID-V2840/2005	Viet Nam	2005
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/GQ868602	GQ868602	1IV	DENV-1/PH/BID-V2940/2004	Philippines	2004
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/GQ868637	GQ868637	1I	DENV-1/IPC/BID-V3919/2000	Cambodia	2000
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/GU131895	GU131895	1I	DENV-1/IPC/BID-V3787/2009	Cambodia	2009
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/HQ166037	HQ166037	1V	DENV-1/MX/BID-V3757/2008	Mexico	2008
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/HQ891316	HQ891316	1I	DV1_SL_2009d	Sri Lanka	2009
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/JN697056	JN697056	1IV	DH/S1/05/04	Malaysia	2005
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/KJ189351	KJ189351	1V	DENV-1/PR/BID-V7705/2012	Puerto Rico	2012
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/NC_001477	NC_001477	1IV	45AZ5	Western Pacific	1974
+alignment/AL_UNC_DENV1/member/ncbi-refseqs/U88535	U88535	1IV	Nauru Island, Western Pacific	Western Pacific	1974

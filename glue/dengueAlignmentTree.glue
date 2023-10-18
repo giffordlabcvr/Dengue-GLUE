@@ -2,22 +2,22 @@
 
   create alignment AL_DENV1 -r REF_MASTER_DENV1
   alignment AL_DENV1
-    add member --whereClause "serotype = '1'"
+    add member --whereClause "genotype like '1%'"
     exit
     
    create alignment AL_DENV2 -r REF_MASTER_DENV2
    alignment AL_DENV2
-    add member --whereClause  "serotype = '2'"
+    add member --whereClause "genotype like '2%'"
     exit
     
    create alignment AL_DENV3 -r REF_MASTER_DENV3
    alignment AL_DENV3
-    add member --whereClause  "serotype = '3'"
+    add member --whereClause "genotype like '3%'"
     exit
 
    create alignment AL_DENV4 -r REF_MASTER_DENV4
    alignment AL_DENV4
-    add member --whereClause  "serotype = '4'"
+    add member --whereClause "genotype like '4%'"
     exit
   
 
@@ -26,22 +26,22 @@
     set field displayName "1"
     set field clade_category "serotype"
   
-	extract child AL_DENV1I -r REF_DENV1I_A_KY586544
+	extract child AL_DENV1I -r REF_DENV1I_AB608786
 	demote member AL_DENV1I --whereClause "sequence.genotype = '1I'"
 
-	extract child AL_DENV1II -r REF_DENV1II_MW945844
+	extract child AL_DENV1II -r REF_DENV1II_AF180817
 	demote member AL_DENV1II --whereClause "sequence.genotype = '1II'"
 
-	extract child AL_DENV1III -r REF_DENV1III_A_MN886856
+	extract child AL_DENV1III -r REF_DENV1III_AY713473
 	demote member AL_DENV1III --whereClause "sequence.genotype = '1III'"
 
-	extract child AL_DENV1IV -r REF_DENV1IV_A_MW265691
+	extract child AL_DENV1IV -r REF_DENV1IV_AB074761
 	demote member AL_DENV1IV --whereClause "sequence.genotype = '1IV'"
 
-	extract child AL_DENV1V -r REF_DENV1V_A_ON426273
+	extract child AL_DENV1V -r REF_DENV1V_AB519681
 	demote member AL_DENV1V --whereClause "sequence.genotype = '1V'"
 
-	extract child AL_DENV1VI -r REF_DENV1VI_A_MZ130534
+	extract child AL_DENV1VI -r REF_DENV1V_AB519681
 	demote member AL_DENV1VI --whereClause "sequence.genotype = '1VI'"
 	
 	exit
@@ -51,22 +51,22 @@
     set field displayName "2"
     set field clade_category "serotype"
   
-	extract child AL_DENV2I -r REF_DENV2I_HM582114
+	extract child AL_DENV2I -r REF_DENV2I_AF100469
 	demote member AL_DENV2I --whereClause "sequence.genotype = '2I'"
 
-	extract child AL_DENV2II -r REF_DENV2II_A.1_MF156234
+	extract child AL_DENV2II -r REF_DENV2II_EU056810
 	demote member AL_DENV2II --whereClause "sequence.genotype = '2II'"
 
-	extract child AL_DENV2III -r REF_DENV2III_C.1.1_ON634705
+	extract child AL_DENV2III -r REF_DENV2III_AB122020
 	demote member AL_DENV2III --whereClause "sequence.genotype = '2III'"
 
-	extract child AL_DENV2IV -r REF_DENV2IV_KF744402
+	extract child AL_DENV2IV -r REF_DENV2IV_AF038403
 	demote member AL_DENV2IV --whereClause "sequence.genotype = '2IV'"
 
-	extract child AL_DENV2V -r REF_DENV2V_A.1_OQ426776
+	extract child AL_DENV2V -r REF_DENV2V_DQ181797
 	demote member AL_DENV2V --whereClause "sequence.genotype = '2V'"
 
-	extract child AL_DENV2VI -r REF_DENV2VI_EF105380
+	extract child AL_DENV2VI -r REF_DENV2VI_EF105379
 	demote member AL_DENV2VI --whereClause "sequence.genotype = '2VI'"
 	
 	exit
@@ -76,16 +76,16 @@
     set field displayName "3"
     set field clade_category "serotype"
 
-	extract child AL_DENV3I -r REF_DENV3I_B_MW946691
+	extract child AL_DENV3I -r REF_DENV3I_AY858037
 	demote member AL_DENV3I --whereClause "sequence.genotype = '3I'"
 
-	extract child AL_DENV3II -r REF_DENV3II_B_MW946618
+	extract child AL_DENV3II -r REF_DENV3II_AY496871
 	demote member AL_DENV3II --whereClause "sequence.genotype = '3II'"
 
-	extract child AL_DENV3III -r REF_DENV3III_A.2_LT996904
+	extract child AL_DENV3III -r REF_DENV3III_AY099336
 	demote member AL_DENV3III --whereClause "sequence.genotype = '3III'"
 
-	extract child AL_DENV3V -r REF_DENV3V_KM190937
+	extract child AL_DENV3V -r REF_DENV3V_AF317645
 	demote member AL_DENV3V --whereClause "sequence.genotype = '3V'"
 	
 	exit
@@ -95,657 +95,124 @@
     set field displayName "4"
     set field clade_category "serotype"
 
-	extract child AL_DENV4I -r REF_DENV4I_A.1_KP792537
+	extract child AL_DENV4I -r REF_DENV4I_AY618991
 	demote member AL_DENV4I --whereClause "sequence.genotype = '4I'"
 
-	extract child AL_DENV4II -r REF_DENV4II_A.1_OP600496
+	extract child AL_DENV4II -r REF_DENV4II_AF326573
 	demote member AL_DENV4II --whereClause "sequence.genotype = '4II'"
 
-	extract child AL_DENV4III -r REF_DENV4III_MW945493
+	extract child AL_DENV4III -r REF_DENV4III_AY618988
 	demote member AL_DENV4III --whereClause "sequence.genotype = '4III'"
 
-	extract child AL_DENV4IV -r REF_DENV4IV_JF262779
+	extract child AL_DENV4IV -r REF_DENV4IV_EF457906
 	demote member AL_DENV4IV --whereClause "sequence.genotype = '4IV'"
 	
 	exit
 
-  # DENV1 major lineages
-  
-  alignment AL_DENV1I
 
+
+  alignment AL_DENV1I
     set field displayName "1I"
     set field clade_category "genotype"
-  
-	extract child AL_DENV_1I_A -r REF_DENV1I_A_KY586544
-	demote member AL_DENV_1I_A --whereClause "sequence.major_genotype = '1I_A'"
-  
-	extract child AL_DENV_1I_B -r REF_DENV1I_B_MW945781
-	demote member AL_DENV_1I_B --whereClause "sequence.major_genotype = '1I_B'"
-  
-	extract child AL_DENV_1I_C -r REF_DENV1I_C_GU131731
-	demote member AL_DENV_1I_C --whereClause "sequence.major_genotype = '1I_C'"
-  
-	extract child AL_DENV_1I_D -r REF_DENV1I_D_JF937598
-	demote member AL_DENV_1I_D --whereClause "sequence.major_genotype = '1I_D'"
-  
-	extract child AL_DENV_1I_E -r REF_DENV1I_E.1_OR029754
-	demote member AL_DENV_1I_E --whereClause "sequence.major_genotype = '1I_E'"
-  
-	extract child AL_DENV_1I_F -r REF_DENV1I_F_MW946075
-	demote member AL_DENV_1I_F --whereClause "sequence.major_genotype = '1I_F'"
-
-	extract child AL_DENV_1I_G -r REF_DENV1I_G_GU131740
-	demote member AL_DENV_1I_G --whereClause "sequence.major_genotype = '1I_G'"
-
-	extract child AL_DENV_1I_H -r REF_DENV1I_AB608786
-	demote member AL_DENV_1I_H --whereClause "sequence.major_genotype = '1I_H'"
-
-	extract child AL_DENV_1I_J -r REF_DENV1I_AB608786
-	demote member AL_DENV_1I_J --whereClause "sequence.major_genotype = '1I_J'"
-
-	extract child AL_DENV_1I_K -r REF_DENV1I_AB608786
-	demote member AL_DENV_1I_K --whereClause "sequence.major_genotype = '1I_K'"
-
-	exit
-
+    exit
 
   alignment AL_DENV1II
-
     set field displayName "1II"
     set field clade_category "genotype"
-    
-	exit
-
+    exit
 
   alignment AL_DENV1III
-
     set field displayName "1III"
     set field clade_category "genotype"
-  
-	extract child AL_DENV_1III_A -r REF_DENV1I_AB608786
-	demote member AL_DENV_1III_A --whereClause "sequence.major_genotype = '1III_A'"
-  
-	extract child AL_DENV_1III_B -r REF_DENV1I_AB608786
-	demote member AL_DENV_1III_B --whereClause "sequence.major_genotype = '1III_B'"
+    exit
 
-	exit
-
+  alignment AL_DENV1IV
+    set field displayName "1IV"
+    set field clade_category "genotype"
+    exit
 
   alignment AL_DENV1V
-
     set field displayName "1V"
     set field clade_category "genotype"
+    exit
 
-	extract child AL_DENV_1V_A -r REF_DENV1I_AB608786
-	demote member AL_DENV_1V_A --whereClause "sequence.major_genotype = '1V_A'"
-
-	extract child AL_DENV_1V_B -r REF_DENV1I_AB608786
-	demote member AL_DENV_1V_B --whereClause "sequence.major_genotype = '1V_B'"
-
-	extract child AL_DENV_1V_C -r REF_DENV1I_AB608786
-	demote member AL_DENV_1V_C --whereClause "sequence.major_genotype = '1V_C'"
-
-	extract child AL_DENV_1V_D -r REF_DENV1I_AB608786
-	demote member AL_DENV_1V_D --whereClause "sequence.major_genotype = '1V_D'"
-
-	extract child AL_DENV_1V_E -r REF_DENV1I_AB608786
-	demote member AL_DENV_1V_E --whereClause "sequence.major_genotype = '1V_E'"
-
-	extract child AL_DENV_1V_F -r REF_DENV1I_AB608786
-	demote member AL_DENV_1V_F --whereClause "sequence.major_genotype = '1V_F'"
-
-	extract child AL_DENV_1V_G -r REF_DENV1I_AB608786
-	demote member AL_DENV_1V_G --whereClause "sequence.major_genotype = '1V_G'"
-
-	exit
-	
-
-  alignment AL_DENV_1VI
-
+  alignment AL_DENV1VI
     set field displayName "1VI"
     set field clade_category "genotype"
-  
-	extract child AL_DENV_1VI_A -r REF_DENV1I_AB608786
-	demote member AL_DENV_1VI_A --whereClause "sequence.major_genotype = '1VI_A'"
+    exit
 
-	extract child AL_DENV_1VI_B -r REF_DENV1I_AB608786
-	demote member AL_DENV_1VI_B --whereClause "sequence.major_genotype = '1VI_B'"
-
-	exit
-
-	
-  # DENV2 major lineages
 
   alignment AL_DENV2I
-
     set field displayName "2I"
     set field clade_category "genotype"
-
     exit
-  
-  alignment AL_DENV2II
 
+  alignment AL_DENV2II
     set field displayName "2II"
     set field clade_category "genotype"
-
-	extract child AL_DENV_2II_A -r REF_DENV1I_AB608786
-	demote member AL_DENV_2II_A --whereClause "sequence.major_genotype = '2II_A'"
-
-	extract child AL_DENV_2II_B -r REF_DENV1I_AB608786
-	demote member AL_DENV_2II_B --whereClause "sequence.major_genotype = '2II_B'"
-
-	extract child AL_DENV_2II_C -r REF_DENV1I_AB608786
-	demote member AL_DENV_2II_C --whereClause "sequence.major_genotype = '2II_C'"
-
-	extract child AL_DENV_2II_D -r REF_DENV1I_AB608786
-	demote member AL_DENV_2II_D --whereClause "sequence.major_genotype = '2II_D'"
-
-	extract child AL_DENV_2II_E -r REF_DENV1I_AB608786
-	demote member AL_DENV_2II_E --whereClause "sequence.major_genotype = '2II_E'"
-
-	extract child AL_DENV_2II_G -r REF_DENV1I_AB608786
-	demote member AL_DENV_2II_G --whereClause "sequence.major_genotype = '2II_G'"
-	
-	exit
-
+    exit
 
   alignment AL_DENV2III
-
     set field displayName "2III"
     set field clade_category "genotype"
-  
-	extract child AL_DENV_2III_A -r REF_DENV1I_AB608786
-	demote member AL_DENV_2III_A --whereClause "sequence.major_genotype = '2III_A'"
-
-	extract child AL_DENV_2III_B -r REF_DENV1I_AB608786
-	demote member AL_DENV_2III_B --whereClause "sequence.major_genotype = '2III_B'"
-
-	extract child AL_DENV_2III_C -r REF_DENV1I_AB608786
-	demote member AL_DENV_2III_C --whereClause "sequence.major_genotype = '2III_C'"
-
-	extract child AL_DENV_2III_D -r REF_DENV1I_AB608786
-	demote member AL_DENV_2III_D --whereClause "sequence.major_genotype = '2III_D'"
-
-	exit
-
+    exit
 
   alignment AL_DENV2IV
+    set field displayName "12V"
+    set field clade_category "genotype"
+    exit
 
+  alignment AL_DENV1V
     set field displayName "1V"
     set field clade_category "genotype"
-  
-	extract child AL_DENV_2IV_A -r REF_DENV1I_AB608786
-	demote member AL_DENV_2IV_A --whereClause "sequence.major_genotype = '2IV_A'"
-  
-	exit
- 
+    exit
 
-  alignment AL_DENV2V
-
+  alignment AL_DENV2VI
     set field displayName "1VI"
     set field clade_category "genotype"
-  
-	extract child AL_DENV_2V_A -r REF_DENV1I_AB608786
-	demote member AL_DENV_2V_A --whereClause "sequence.major_genotype = '2V_A'"
-  
-	extract child AL_DENV_2V_B -r REF_DENV1I_AB608786
-	demote member AL_DENV_2V_B --whereClause "sequence.major_genotype = '2V_B'"
-  
-	extract child AL_DENV_2V_C -r REF_DENV1I_AB608786
-	demote member AL_DENV_2V_C --whereClause "sequence.major_genotype = '2V_C'"
-    
-	extract child AL_DENV_2V_D -r REF_DENV1I_AB608786
-	demote member AL_DENV_2V_D --whereClause "sequence.major_genotype = '2V_D'"
-    
-	extract child AL_DENV_2V_E -r REF_DENV1I_AB608786
-	demote member AL_DENV_2V_E --whereClause "sequence.major_genotype = '2V_E'"
+    exit
 
-	exit
-
-	
-  # DENV3 major lineages
 
   alignment AL_DENV3I
-
     set field displayName "3I"
     set field clade_category "genotype"
-  
-	extract child AL_DENV_3I_A -r REF_DENV1I_AB608786
-	demote member AL_DENV_3I_A --whereClause "sequence.major_genotype = '3I_A'"
-   
-	extract child AL_DENV_3I_B -r REF_DENV1I_AB608786
-	demote member AL_DENV_3I_B --whereClause "sequence.major_genotype = '3I_B'"
-   
-	extract child AL_DENV_3I_C -r REF_DENV1I_AB608786
-	demote member AL_DENV_3I_C --whereClause "sequence.major_genotype = '3I_C'"
- 
-	exit
+    exit
 
   alignment AL_DENV3II
-  
     set field displayName "3II"
     set field clade_category "genotype"
-
-	extract child AL_DENV_3II_A -r REF_DENV1I_AB608786
-	demote member AL_DENV_3II_A --whereClause "sequence.major_genotype = '3II_A'"
-  
-	extract child AL_DENV_3II_B -r REF_DENV1I_AB608786
-	demote member AL_DENV_3II_B --whereClause "sequence.major_genotype = '3II_B'"
-  
-	extract child AL_DENV_3II_B -r REF_DENV1I_AB608786
-	demote member AL_DENV_3II_B --whereClause "sequence.major_genotype = '3II_B'"
-
-	exit
+    exit
 
   alignment AL_DENV3III
-
     set field displayName "3III"
     set field clade_category "genotype"
-  
-	extract child AL_DENV_3III_A -r REF_DENV1I_AB608786
-	demote member AL_DENV_3III_A --whereClause "sequence.major_genotype = '3III_A'"
-  
-	extract child AL_DENV_3III_B -r REF_DENV1I_AB608786
-	demote member AL_DENV_3III_B --whereClause "sequence.major_genotype = '3III_B'"
-  
-	extract child AL_DENV_3III_C -r REF_DENV1I_AB608786
-	demote member AL_DENV_3III_C --whereClause "sequence.major_genotype = '3III_C'"
-
-	exit
-
+    exit
 
   alignment AL_DENV3V
-  
     set field displayName "3V"
     set field clade_category "genotype"
     exit
 
-  # DENV4 major lineages
 
   alignment AL_DENV4I
-
     set field displayName "4I"
     set field clade_category "genotype"
-  
-	extract child AL_DENV_4I_A -r REF_DENV1I_AB608786
-	demote member AL_DENV_4I_A --whereClause "sequence.major_genotype = '4I_A'"
-   
-	extract child AL_DENV_4I_B -r REF_DENV1I_AB608786
-	demote member AL_DENV_4I_B --whereClause "sequence.major_genotype = '4I_B'"
- 
-	exit
+    exit
 
   alignment AL_DENV4II
-
     set field displayName "4II"
     set field clade_category "genotype"
-  
-	extract child AL_DENV_4II_A -r REF_DENV1I_AB608786
-	demote member AL_DENV_4II_A --whereClause "sequence.major_genotype = '4II_A'"
-   
-	extract child AL_DENV_4II_B -r REF_DENV1I_AB608786
-	demote member AL_DENV_4II_B --whereClause "sequence.major_genotype = '4II_B'"
- 
-	exit
-
+    exit
 
   alignment AL_DENV4III
-
     set field displayName "4III"
     set field clade_category "genotype"
-
     exit
 
   alignment AL_DENV4IV
-
     set field displayName "4V"
     set field clade_category "genotype"
-
     exit
-
-  
-  # DENV1 minor lineages
-  
-  alignment AL_DENV_1I_B
-
-    set field displayName "1I_B"
-    set field clade_category "major_genotype"
-
-	extract child AL_DENV_1I_B -r REF_DENV1I_AB608786
-	demote member AL_DENV_1I_B --whereClause "sequence.minor_genotype = '1IV_B.1'"
-
-	extract child AL_DENV_1I_B -r REF_DENV1I_AB608786
-	demote member AL_DENV_1I_B --whereClause "sequence.minor_genotype = '1IV_B.2'"
- 
-	exit
-
-   alignment AL_DENV_1IV_D
-
-    set field displayName "1I_K"
-    set field clade_category "major_genotype"
-
-	extract child AL_DENV_1IV_D1 -r REF_DENV1I_AB608786
-	demote member AL_DENV_1IV_D1 --whereClause "sequence.minor_genotype = '1V_D.1'"
-
-	extract child AL_DENV_1IV_D2 -r REF_DENV1I_AB608786
-	demote member AL_DENV_1IV_D2 --whereClause "sequence.minor_genotype = '1V_D.2'"
-
-	exit
-  
-  alignment AL_DENV_1I_E
-
-    set field displayName "1I_E"
-    set field clade_category "major_genotype"
-
-	extract child AL_DENV_1I_E1 -r REF_DENV1I_AB608786
-	demote member AL_DENV_1I_E1 --whereClause "sequence.minor_genotype = '1I_E.1'"
-
-	extract child AL_DENV_1I_E2 -r REF_DENV1I_AB608786
-	demote member AL_DENV_1I_E2 --whereClause "sequence.minor_genotype = '1I_E.2'"
- 
-	exit
-  
-   alignment AL_DENV_1I_H
-
-    set field displayName "1I_H"
-    set field clade_category "major_genotype"
-
-	extract child AL_DENV_1I_H1 -r REF_DENV1I_AB608786
-	demote member AL_DENV_1I_H1 --whereClause "sequence.minor_genotype = '1I_H.1'"
-
-	extract child AL_DENV_1I_H2 -r REF_DENV1I_AB608786
-	demote member AL_DENV_1I_H2 --whereClause "sequence.minor_genotype = '1I_H.2'"
-
-	exit
-  
-   alignment AL_DENV_1I_K
-
-    set field displayName "1I_K"
-    set field clade_category "major_genotype"
-
-	extract child AL_DENV_1I_K1 -r REF_DENV1I_AB608786
-	demote member AL_DENV_1I_K1 --whereClause "sequence.minor_genotype = '1I_K.1'"
-
-	extract child AL_DENV_1I_K2 -r REF_DENV1I_AB608786
-	demote member AL_DENV_1I_K2 --whereClause "sequence.minor_genotype = '1I_K.2'"
-
-	extract child AL_DENV_1I_K3 -r REF_DENV1I_AB608786
-	demote member AL_DENV_1I_K3 --whereClause "sequence.minor_genotype = '1I_K.3'"
-
-	exit
-
-
-   # DENV2 minor lineages
-
-   alignment AL_DENV_2II_A
- 
-    set field displayName "2II_A"
-    set field clade_category "major_genotype"
- 
-	extract child AL_DENV_2II_A1 -r REF_DENV1I_AB608786
-	demote member AL_DENV_2II_A1 --whereClause "sequence.minor_genotype = '2II_A.1'"
-  
-	extract child AL_DENV_2II_A1.2.1 -r REF_DENV1I_AB608786
-	demote member AL_DENV_2II_A1.2.2 --whereClause "sequence.minor_genotype = '2II_A.2.1'"
-  
-	extract child AL_DENV_2II_A1.2.1 -r REF_DENV1I_AB608786
-	demote member AL_DENV_2II_A1.2.2 --whereClause "sequence.minor_genotype = '2II_A.2.2'"
-
-	exit
-
-
-   alignment AL_DENV_2II_C
- 
-    set field displayName "2II_C"
-    set field clade_category "major_genotype"
-  
-	extract child AL_DENV_2II_C1 -r REF_DENV1I_AB608786
-	demote member AL_DENV_2II_C1 --whereClause "sequence.minor_genotype = '2II_C.1'"
-  
-	extract child AL_DENV_2II_C2 -r REF_DENV1I_AB608786
-	demote member AL_DENV_2II_C2 --whereClause "sequence.minor_genotype = '2II_C.2'"
-
-	exit
-
-   alignment AL_DENV_2II_D
- 
-    set field displayName "2II_D"
-    set field clade_category "major_genotype"
-  
-	extract child AL_DENV_2II_D1 -r REF_DENV1I_AB608786
-	demote member AL_DENV_2II_D1 --whereClause "sequence.minor_genotype = '2II_D.1'"
-  
-	extract child AL_DENV_2II_D2 -r REF_DENV1I_AB608786
-	demote member AL_DENV_2II_D2 --whereClause "sequence.minor_genotype = '2II_D.2'"
-  
-	extract child AL_DENV_2II_D3 -r REF_DENV1I_AB608786
-	demote member AL_DENV_2II_D3 --whereClause "sequence.minor_genotype = '2II_D.3'"
-
-	exit
-
-   alignment AL_DENV_2II_E
-
-    set field displayName "2II_E"
-    set field clade_category "major_genotype"
-  
-	extract child AL_DENV_2II_E1 -r REF_DENV1I_AB608786
-	demote member AL_DENV_2II_E1 --whereClause "sequence.minor_genotype = '2II_E.1'"
-
-	extract child AL_DENV_2II_E2 -r REF_DENV1I_AB608786
-	demote member AL_DENV_2II_E2 --whereClause "sequence.minor_genotype = '2II_E.2'"
-
-	exit
-
-   alignment AL_DENV_2II_G
-
-    set field displayName "2II_G"
-    set field clade_category "major_genotype"
-  
-	extract child AL_DENV_2II_G1 -r REF_DENV1I_AB608786
-	demote member AL_DENV_2II_G1 --whereClause "sequence.minor_genotype = '2II_G.1'"
-  
-	extract child AL_DENV_2II_G1.1 -r REF_DENV1I_AB608786
-	demote member AL_DENV_2II_G1.1 --whereClause "sequence.minor_genotype = '2II_G.1.1'"
-  
-	extract child AL_DENV_2II_G1.2 -r REF_DENV1I_AB608786
-	demote member AL_DENV_2II_G1.2 --whereClause "sequence.minor_genotype = '2II_G.1.2'"
-
-	exit
-
-   alignment AL_DENV_2III_A
- 
-    set field displayName "2III_A"
-    set field clade_category "major_genotype"
- 
-	extract child AL_DENV_2III_A1 -r REF_DENV1I_AB608786
-	demote member AL_DENV_2III_A1 --whereClause "sequence.minor_genotype = '2III_A.1'"
-  
-	extract child AL_DENV_2III_A2 -r REF_DENV1I_AB608786
-	demote member AL_DENV_2III_A2 --whereClause "sequence.minor_genotype = '2III_A.2'"
-
-	exit
-
-   alignment AL_DENV_2III_C
- 
-    set field displayName "2III_C"
-    set field clade_category "major_genotype"
-  
-	extract child AL_DENV_2III_C1 -r REF_DENV1I_AB608786
-	demote member AL_DENV_2III_C1 --whereClause "sequence.minor_genotype = '2III_C.1.1'"
-
-	exit
-
-   alignment AL_DENV_2III_D
- 
-    set field displayName "2III_D"
-    set field clade_category "major_genotype"
-  
-	extract child AL_DENV_2III_D1 -r REF_DENV1I_AB608786
-	demote member AL_DENV_2III_D1 --whereClause "sequence.minor_genotype = '2III_D.1'"
-  
-	extract child AL_DENV_2III_D1.1 -r REF_DENV1I_AB608786
-	demote member AL_DENV_2III_D1.1 --whereClause "sequence.minor_genotype = '2III_D.1.1'"
-  
-	extract child AL_DENV_2III_D1.2 -r REF_DENV1I_AB608786
-	demote member AL_DENV_2III_D1.2 --whereClause "sequence.minor_genotype = '2III_D.1.2'"
-  
-	extract child AL_DENV_2III_D1.3 -r REF_DENV1I_AB608786
-	demote member AL_DENV_2III_D1.3 --whereClause "sequence.minor_genotype = '2III_D.1.3'"
-  
-	extract child AL_DENV_2III_D2 -r REF_DENV1I_AB608786
-	demote member AL_DENV_2III_D2 --whereClause "sequence.minor_genotype = '2III_D.2'"
-  
-	extract child AL_DENV_2III_D3 -r REF_DENV1I_AB608786
-	demote member AL_DENV_2III_D3 --whereClause "sequence.minor_genotype = '2III_D.3'"
-
-	exit
-
-   alignment AL_DENV_2V_A
- 
-    set field displayName "2V_A"
-    set field clade_category "major_genotype"
-
-	extract child AL_DENV_2V_A1 -r REF_DENV1I_AB608786
-	demote member AL_DENV_2V_A1 --whereClause "sequence.minor_genotype = '2V_A.1'"	
-  
-	extract child AL_DENV_2V_A2 -r REF_DENV1I_AB608786
-	demote member AL_DENV_2V_A2 --whereClause "sequence.minor_genotype = '2V_A.2'"	
-  
-	extract child AL_DENV_2V_A3 -r REF_DENV1I_AB608786
-	demote member AL_DENV_2V_A3 --whereClause "sequence.minor_genotype = '2V_A.3'"	
-  
-	extract child AL_DENV_2V_A4 -r REF_DENV1I_AB608786
-	demote member AL_DENV_2V_A4 --whereClause "sequence.minor_genotype = '2V_A.4'"	
-
-	exit
-
-	
-  # DENV3 minor lineages
-
-   alignment AL_DENV_3I_A
- 
-    set field displayName "3I_A"
-    set field clade_category "major_genotype"
-  
-	extract child AL_DENV_3I_A1 -r REF_DENV1I_AB608786
-	demote member AL_DENV_3I_A1 --whereClause "sequence.minor_genotype = '3I_A.1'"	
-  
-	extract child AL_DENV_3I_A2 -r REF_DENV1I_AB608786
-	demote member AL_DENV_3I_A2 --whereClause "sequence.minor_genotype = '3I_A.2'"	
-  
-	exit
-
-   alignment AL_DENV_3II_A
- 
-    set field displayName "3II_A"
-    set field clade_category "major_genotype"
-  
-	extract child AL_DENV_3II_A1 -r REF_DENV1I_AB608786
-	demote member AL_DENV_3II_A1 --whereClause "sequence.minor_genotype = '3II_A.1'"	
-
-	extract child AL_DENV_3II_A2 -r REF_DENV1I_AB608786
-	demote member AL_DENV_3II_A2 --whereClause "sequence.minor_genotype = '3II_A.2'"	
- 
-	extract child AL_DENV_3II_A3 -r REF_DENV1I_AB608786
-	demote member AL_DENV_3II_A3 --whereClause "sequence.minor_genotype = '3II_A.3'"	
-  
-	exit
-
-   alignment AL_DENV_3III_A
-  
-    set field displayName "3III_A"
-    set field clade_category "major_genotype"
- 
-	extract child AL_DENV_3III_A1 -r REF_DENV1I_AB608786
-	demote member AL_DENV_3III_A1 --whereClause "sequence.minor_genotype = '3III_A.1'"	
-  
-	extract child AL_DENV_3III_A2 -r REF_DENV1I_AB608786
-	demote member AL_DENV_3III_A2 --whereClause "sequence.minor_genotype = '3III_A.2'"	
-
-	exit
- 
-
-   alignment AL_DENV_3III_B
- 
-    set field displayName "3III_B"
-    set field clade_category "major_genotype"
-  
-	extract child AL_DENV_3III_B1 -r REF_DENV1I_AB608786
-	demote member AL_DENV_3III_B1 --whereClause "sequence.minor_genotype = '3III_B.1'"	
-  
-	extract child AL_DENV_3III_B2 -r REF_DENV1I_AB608786
-	demote member AL_DENV_3III_B2 --whereClause "sequence.minor_genotype = '3III_B.2'"	
-  
-	extract child AL_DENV_3III_B3 -r REF_DENV1I_AB608786
-	demote member AL_DENV_3III_B3 --whereClause "sequence.minor_genotype = '3III_B.3'"	
-
-	exit
-	
-
-   alignment AL_DENV_3III_C
-  
-    set field displayName "3III_C"
-    set field clade_category "major_genotype"
-   
-	extract child AL_DENV_3III_C1 -r REF_DENV1I_AB608786
-	demote member AL_DENV_3III_C1 --whereClause "sequence.minor_genotype = '3III_C.1'"	
-  
-	extract child AL_DENV_3III_C2 -r REF_DENV1I_AB608786
-	demote member AL_DENV_3III_C2 --whereClause "sequence.minor_genotype = '3III_C.2'"	
-
-	exit
-
-	
-  # DENV4 minor lineages
-
-   alignment AL_DENV_4I_A
-   
-    set field displayName "4I_A"
-    set field clade_category "major_genotype"
- 
-	extract child AL_DENV_4I_A1 -r REF_DENV1I_AB608786
-	demote member AL_DENV_4I_A1 --whereClause "sequence.minor_genotype = '4I_A.1'"	
-  
-	extract child AL_DENV_4I_A1.1 -r REF_DENV1I_AB608786
-	demote member AL_DENV_4I_A1.1 --whereClause "sequence.minor_genotype = '4I_A.1.1'"	
-  
-	extract child AL_DENV_4I_A1.2 -r REF_DENV1I_AB608786
-	demote member AL_DENV_4I_A1.2 --whereClause "sequence.minor_genotype = '4I_A.1.2'"	
-  
-	extract child AL_DENV_4I_A2 -r REF_DENV1I_AB608786
-	demote member AL_DENV_4I_A2 --whereClause "sequence.minor_genotype = '4I_A.2'"	
-    
-	extract child AL_DENV_4I_A3 -r REF_DENV1I_AB608786
-	demote member AL_DENV_4I_A3 --whereClause "sequence.minor_genotype = '4I_A.3'"	
-  
-	exit
-
-   alignment AL_DENV_4I_B
-   
-    set field displayName "4I_B"
-    set field clade_category "major_genotype"
-  
-	extract child AL_DENV_4I_B1 -r REF_DENV1I_AB608786
-	demote member AL_DENV_4I_B1 --whereClause "sequence.minor_genotype = '4I_B.1'"	
-  
-	extract child AL_DENV_4I_B2 -r REF_DENV1I_AB608786
-	demote member AL_DENV_4I_B2 --whereClause "sequence.minor_genotype = '4I_B.2'"	
-  
-	exit
-	
-   alignment AL_DENV_4II_A
-   
-    set field displayName "4II_A"
-    set field clade_category "major_genotype"
-  
-	extract child AL_DENV_4II_A1 -r REF_DENV1I_AB608786
-	demote member AL_DENV_4II_A1 --whereClause "sequence.minor_genotype = '4II_A.1'"	
-  
-	extract child AL_DENV_4II_A2 -r REF_DENV1I_AB608786
-	demote member AL_DENV_4II_A2 --whereClause "sequence.minor_genotype = '4II_A.2'"	
-  
-	exit
-
 
 
 	

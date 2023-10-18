@@ -1,79 +1,37 @@
-taxon	sequenceID	source.name	genotype	major_lineage	minor_lineage	isolate	country	collection_year
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/EU081181	EU081181	ncbi-refseqs	3III	3III_A	3III_A.1	D3/SG/SS710/2004	Singapore	2004
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/EU081187	EU081187	ncbi-refseqs	3III	3III_A	3III_A.1	D3/SG/05K843DK1/2005	Singapore	2005
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/EU081191	EU081191	ncbi-refseqs	3III	3III_A	3III_A.1	D3/SG/05K868DK1/2005	Singapore	2005
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/EU081199	EU081199	ncbi-refseqs	3III	3III_A	3III_A.1	D3/SG/05K3305DK1/2005	Singapore	2005
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/EU081220	EU081220	ncbi-refseqs	3III	3III_A	3III_A.1	D3/SG/05K4182DK1/2005	Singapore	2005
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/EU482452	EU482452	ncbi-refseqs	3II	3II_A	3II_A.1	DENV-3/VN/BID-V1008/2006	Viet Nam: south	2006
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/EU660409	EU660409	ncbi-refseqs	3II	3II_A	3II_A.1	DENV-3/VN/BID-V1329/2006	Viet Nam: South	2006
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/EU932687	EU932687	ncbi-refseqs	3III	3III_C	3III_C.1	DENV-3/VE/BID-V1149/2007	Venezuela: Aragua	2007
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/EU932688	EU932688	ncbi-refseqs	3III	3III_C	3III_C.1	DENV-3/VE/BID-V1150/2007	Venezuela: Aragua	2007
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/FJ432743	FJ432743	ncbi-refseqs	3II	3II_A	3II_A.1	DENV-3/VN/BID-V1817/2007	Viet Nam: South	2007
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/FJ850109	FJ850109	ncbi-refseqs	3III	3III_C	3III_C.1	DENV-3/VE/BID-V2480/2007	Venezuela: Aragua	2007
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/FJ850111	FJ850111	ncbi-refseqs	3III	3III_C	3III_C.1	DENV-3/VE/BID-V2484/2007	Venezuela: Aragua	2007
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/FJ898456	FJ898456	ncbi-refseqs	3I	3I_B	3I_B	DENV-3/WS/BID-V2973/1995	Samoa	1995
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/GQ868587	GQ868587	ncbi-refseqs	3III	3III_C	3III_C.1	DENV-3/VE/BID-V2483/2007	Venezuela: Aragua	2007
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/HQ541806	HQ541806	ncbi-refseqs	3III	3III_C	3III_C.2	DENV-3/NI/BID-V4753/2009	Nicaragua: Managua	2009
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/JF937636	JF937636	ncbi-refseqs	3III	3III_C	3III_C.2	DENV-3/NI/BID-V5506/2009	Nicaragua: Managua	2009
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/JQ920476	JQ920476	ncbi-refseqs	3I	3I_B	3I_B	PF91/090891-22130	French Polynesia: Tahiti	1991
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/JQ920477	JQ920477	ncbi-refseqs	3I	3I_B	3I_B	PF93/200493-110185	French Polynesia	1993
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/JQ920478	JQ920478	ncbi-refseqs	3I	3I_B	3I_B	PF95/190795-20064	French Polynesia: Tahiti	1995
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/JQ922554	JQ922554	ncbi-refseqs	3V	3V	3V	DENV-3/USA/633798/1963	USA	1963
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/KM190937	KM190937	ncbi-refseqs	3V	3V	3V	VIROAF7	Philippines	1964
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/KU050695	KU050695	ncbi-refseqs	3V	3V	3V	H87	Philippines	1956
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/KY586724	KY586724	ncbi-refseqs	3II	3II_A	3II_A.2	Ser3_Thailand_Bangkok_Seq17	Thailand	2000
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/KY586820	KY586820	ncbi-refseqs	3III	3III_B	3III_B.1	Ser3_Thailand_nonBKK_Seq38	Thailand	2008
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/KY586821	KY586821	ncbi-refseqs	3III	3III_B	3III_B.1	Ser3_Thailand_nonBKK_Seq39	Thailand	2010
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/KY586822	KY586822	ncbi-refseqs	3III	3III_B	3III_B.1	Ser3_Thailand_nonBKK_Seq40	Thailand	2009
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/LC436676	LC436676	ncbi-refseqs	3I	3I_A	3I_A.2	B17-1471	Bangladesh	2017
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/LC436677	LC436677	ncbi-refseqs	3I	3I_A	3I_A.2	B17-1479	Bangladesh	2017
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/LT996904	LT996904	ncbi-refseqs	3III	3III_A	3III_A.2	1708603	Malaysia	2007
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/LT996906	LT996906	ncbi-refseqs	3III	3III_A	3III_A.2	2044396	Malaysia	2008
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/LT996909	LT996909	ncbi-refseqs	3III	3III_A	3III_A.2	2849608	Malaysia	2010
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/LT996910	LT996910	ncbi-refseqs	3III	3III_A	3III_A.2	2933228	Malaysia	2010
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/LT996911	LT996911	ncbi-refseqs	3III	3III_A	3III_A.2	3116826	Malaysia	2010
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MK858150	MK858150	ncbi-refseqs	3III	3III_B	3III_B.3	FT_J92_S12_R2	India	2016
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MK858152	MK858152	ncbi-refseqs	3III	3III_B	3III_B.3	FT_DNS1_494_S54_R3	India	2016
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MN018379	MN018379	ncbi-refseqs	3I	3I_C	3I_C	D151448	China: Guangdong Province	2015
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MN018388	MN018388	ncbi-refseqs	3I	3I_A	3I_A.2	D17641	China: Guangdong Province	2017
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MN018389	MN018389	ncbi-refseqs	3I	3I_C	3I_C	D17011	China: Guangdong Province	2017
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MN448968	MN448968	ncbi-refseqs	3II	3II_A	3II_A.3	KDC1215A_11/08/2012	Thailand	2012
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MN448993	MN448993	ncbi-refseqs	3II	3II_A	3II_A.3	KDH0317A_11/08/2012	Thailand	2012
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MN922035	MN922035	ncbi-refseqs	3I	3I_A	3I_A.2	19XN15780	China	2019
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MN922037	MN922037	ncbi-refseqs	3I	3I_C	3I_C	19XN19964	China	2019
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MN922039	MN922039	ncbi-refseqs	3I	3I_A	3I_A.1	19XN50670	China	2019
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MT921574	MT921574	ncbi-refseqs	3I	3I_C	3I_C	Phil2017	Australia: Queensland	2017
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MW288025	MW288025	ncbi-refseqs	3III	3III_B	3III_B.2	SHC0271 / DENV-3 / 2018	Senegal	2018
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MW288026	MW288026	ncbi-refseqs	3III	3III_B	3III_B.2	SHC0406 / DENV-3 / 2018	Senegal	2018
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MW288028	MW288028	ncbi-refseqs	3III	3III_B	3III_B.2	SHC0455 / DENV-3 / 2018	Senegal	2018
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MW288033	MW288033	ncbi-refseqs	3III	3III_B	3III_B.2	SHC0517 / DENV-3 / 2018	Senegal	2018
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MW288037	MW288037	ncbi-refseqs	3III	3III_B	3III_B.2	SHC0522 / DENV-3 / 2018	Senegal	2018
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MW295815	MW295815	ncbi-refseqs	3I	3I_A	3I_A.1	20XN39552_D3_Myanmar	China: Guangzhou	2020
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MW396469	MW396469	ncbi-refseqs	3I	3I_A	3I_A.2	IN068	Bangladesh	2019
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MW720889	MW720889	ncbi-refseqs	3I	3I_A	3I_A.1	GZ8H/2019151/2019/III	China	2019
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MW720891	MW720891	ncbi-refseqs	3I	3I_C	3I_C	GZ8H/2019184/2019/III	China	2019
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MW945429	MW945429	ncbi-refseqs	3II	3II_A	3II_A.1	DENV3/VIETNAM/2006/BID-V1329	Viet Nam	2006
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MW945430	MW945430	ncbi-refseqs	3II	3II_A	3II_A.1	DENV3/VIETNAM/2007/BID-V1817	Viet Nam	2007
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MW946610	MW946610	ncbi-refseqs	3II	3II_A	3II_A.3	00266/12	Thailand	2012
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MW946618	MW946618	ncbi-refseqs	3II	3II_B	3II_B	02051/06	Thailand	2006
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MW946639	MW946639	ncbi-refseqs	3II	3II_B	3II_B	01933/06	Thailand	2006
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MW946651	MW946651	ncbi-refseqs	3II	3II_A	3II_A.2	03058/97	Thailand	1997
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MW946687	MW946687	ncbi-refseqs	3II	3II_A	3II_A.2	01455/00	Thailand	2000
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MW946689	MW946689	ncbi-refseqs	3II	3II_A	3II_A.3	00541/11	Thailand	2011
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MW946691	MW946691	ncbi-refseqs	3I	3I_B	3I_B	29472-L11422-I	Fiji	1992
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MW946761	MW946761	ncbi-refseqs	3II	3II_A	3II_A.2	00246/00	Thailand	2000
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MW946767	MW946767	ncbi-refseqs	3III	3III_B	3III_B.1	00588/06	Thailand	2006
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MW946771	MW946771	ncbi-refseqs	3II	3II_B	3II_B	06070/98	Thailand	1998
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MW946815	MW946815	ncbi-refseqs	3III	3III_B	3III_B.1	02678/06	Thailand	2006
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MW946848	MW946848	ncbi-refseqs	3II	3II_A	3II_A.3	00497/11	Thailand	2011
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MW946849	MW946849	ncbi-refseqs	3II	3II_B	3II_B	04946/98	Thailand	1998
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MW946892	MW946892	ncbi-refseqs	3II	3II_A	3II_A.2	01442/00	Thailand	2000
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MW946918	MW946918	ncbi-refseqs	3III	3III_C	3III_C.2	BID-V4753	Nicaragua	2009
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MW946933	MW946933	ncbi-refseqs	3II	3II_B	3II_B	01369/06	Thailand	2006
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MZ008468	MZ008468	ncbi-refseqs	3III	3III_C	3III_C.2	D3/NI/4834_11A1/2014	Nicaragua	2014
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/MZ008476	MZ008476	ncbi-refseqs	3III	3III_C	3III_C.2	D3/NI/336_11A1/2014	Nicaragua	2014
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/ON123660	ON123660	ncbi-refseqs	3III	3III_B	3III_B.3	THSTI-TRC-DENV3-04	India	2018
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/ON123665	ON123665	ncbi-refseqs	3III	3III_B	3III_B.3	THSTI-TRC-DENV3-06	India	2018
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/ON890832	ON890832	ncbi-refseqs	3I	3I_A	3I_A.1	19XN50670_D3_CHN	China: Guangzhou	2019
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/ON908236	ON908236	ncbi-refseqs	3I	3I_A	3I_A.1	19XN50670	China	2019
-alignment/AL_UNC_DENV3/member/ncbi-refseqs/OQ339138	OQ339138	ncbi-refseqs	3III	3III_B	3III_B.3	THSTI-TRC-DENV3-11	India	2022
+taxon	sequenceID	genotype	isolate	country	collection_year
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/AF317645	AF317645	3V	80-2	China	-
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/AY099336	AY099336	3III	D3/H/IMTSSA-SRI/2000/1266	Sri Lanka	2000
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/AY099337	AY099337	3III	D3/H/IMTSSA-MART/1999/1243	Martinique	2000
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/AY496871	AY496871	3II	BDH02-1	Bangladesh	2002
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/AY496873	AY496873	3II	BDH02-3	Bangladesh	2002
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/AY496874	AY496874	3II	BDH02-4	Bangladesh	2002
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/AY496877	AY496877	3II	BDH02-7	Bangladesh	2002
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/AY679147	AY679147	3III	BR74886/02	Brazil	2002
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/AY766104	AY766104	3II	Singapore 8120/95	Singapore	-
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/AY770511	AY770511	3III	GWL-25	India	2003
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/AY858037	AY858037	3I	BA51	Indonesia	2004
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/AY858039	AY858039	3I	den3_98	Indonesia	1998
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/AY876494	AY876494	3II	C0331/94	Thailand	1994
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/AY923865	AY923865	3II	C0360/94	Thailand	1994
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/DQ675525	DQ675525	3II	98TW368	Taiwan	1998
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/DQ675528	DQ675528	3II	98TW407	Taiwan	1998
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/DQ675532	DQ675532	3II	98TWmosq	Taiwan	1998
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/EF629370	EF629370	3V	BR DEN3 RO1-02	Brazil	2002
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/EU529702	EU529702	3III	DENV-3/US/BID-V1089/2003	USA	2003
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/FJ547071	FJ547071	3III	DENV-3/US/BID-V2103/2000	USA	2000
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/FJ639747	FJ639747	3III	DENV-3/VE/BID-V2175/2000	Venezuela	2000
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/FJ898442	FJ898442	3III	DENV-3/MX/BID-V2989/2007	Mexico	2007
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/FJ898458	FJ898458	3III	DENV-3/PE/BID-V2981/2002	Peru	2002
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/GQ868578	GQ868578	3III	DENV-3/CO/BID-V3405/2007	Colombia	2007
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/JQ411814	JQ411814	3III	UNC3001	Sri Lanka	1989
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/KC762681	KC762681	3I	MKS-0057	Indonesia	2007
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/KC762682	KC762682	3I	MKS-0076	Indonesia	2007
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/KC762684	KC762684	3I	MKS-0098	Indonesia	2007
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/KC762685	KC762685	3I	MKS-0388	Indonesia	2008
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/KC762686	KC762686	3I	MKS-0172	Indonesia	2007
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/KC762687	KC762687	3I	MKS-0396	Indonesia	2008
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/KC762688	KC762688	3I	MKS-2006	Indonesia	2008
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/KC762689	KC762689	3I	MKS-2065	Indonesia	2008
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/KC762690	KC762690	3I	MKS-3000	Indonesia	2008
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/KC762691	KC762691	3I	MKS-IF058	Indonesia	2008
+alignment/AL_UNC_DENV3/member/ncbi-refseqs/NC_001475	NC_001475	3III	D3/H/IMTSSA-SRI/2000/1266	Sri Lanka	-

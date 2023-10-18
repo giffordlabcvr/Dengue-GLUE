@@ -1,6 +1,5 @@
 glue.command(["multi-delete", "feature_location", "-w", "referenceSequence.name not like '%MASTER%'"]);
 
-// Add the 'whole genome' feature to all non-master references
 var refSeqObjs = glue.tableToObjects(glue.command(["list", "reference", "-w", "name not like '%MASTER%'", "name", "sequence.length"]));
 _.each(refSeqObjs, function(refSeqObj) {
 	glue.inMode("reference/"+refSeqObj.name, function() {

@@ -7,27 +7,20 @@ project dengue
 
   # Import GenBank curated sequences (rank-and-file sequences)
   import source sources/ncbi-curated
-  #import source sources/ncbi-curated-short
+  import source sources/ncbi-curated-short
 
   # Link sequence table entries to isolate table
   run script glue/dengueLoadIsolateDataCurated.js 
-  #run script glue/dengueLoadIsolateDataCuratedShort.js 
+  run script glue/dengueLoadIsolateDataCuratedShort.js 
 
   # Populate refseq + outgroup metadata from GenBank XML
   module dengueGenbankXmlPopulator populate -w "source.name = 'ncbi-curated'"
-  #module dengueGenbankXmlPopulator populate -w "source.name = 'ncbi-curated-short'"
+  module dengueGenbankXmlPopulator populate -w "source.name = 'ncbi-curated-short'"
 
   # Load tabular data
-  #module dengueSideDataImporterCurated
-  #  populate -f tabular/denv-ncbi-curated-genotypes.tsv
-  #  exit
-
-  #module dengueSideDataImporterGrubaugh
-  #  populate -f tabular/denv-metadata-verity.tsv
-  #  exit
-
-  #run script glue/dengueGenotypeCuratedSeqs.js
-  #run script glue/dengueGenotypeCuratedSeqsShort.js
+  module dengueSideDataImporterCurated
+    populate -f tabular/denv-ncbi-curated-genotypes.tsv
+    exit
 
   # Validate
   validate

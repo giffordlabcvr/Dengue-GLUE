@@ -17,4 +17,4 @@
       --outputFile trees/dengueReferencePhylogenyMidpointRerooted.tree NEWICK_BOOTSTRAPS
       
     exit
-
+    

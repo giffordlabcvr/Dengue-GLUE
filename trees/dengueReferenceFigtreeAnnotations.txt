@@ -1,0 +1,147 @@
+taxon	sequenceID	genotype	isolate	country	collection_year
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AB074761	AB074761	1IV	A88	Indonesia	1988
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AB122020	AB122020	2III	DR23/01	Dominican Republic	2001
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AB189120	AB189120	1IV	98901518 DHF DV-1	Indonesia: Sumatra	1998
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AB189121	AB189121	1IV	98901530 DF DV-1	Indonesia: Sumatra	1998
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AB204803	AB204803	1IV	D1/hu/Yap/NIID27/2004	Japan	2004
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AB519681	AB519681	1V	SB 01057805 (DF02)	Brazil:Brasilia, DF	2001
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AB608786	AB608786	1I	NDF30	Taiwan	2008
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AF038403	AF038403	2IV	New Guinea C	New Guinea	-
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AF100469	AF100469	2I	131	Mexico	1992
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AF180817	AF180817	1II	16007	Thailand	1964
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AF204177	AF204177	2IV	44	China:Hainan province	1989
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AF298808	AF298808	1I	D1/H/IMTSSA/98/606	Djibouti	1998
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AF311956	AF311956	1V	BR/97-111	Brazil	1997
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AF317645	AF317645	3V	80-2	China: Guangxi	-
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AF326573	AF326573	4II	814669	Dominican Republic	1981
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AF350498	AF350498	1I	GZ/80	-	-
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AF489932	AF489932	2III	BR64022	Brazil	1998
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY099336	AY099336	3III	D3/H/IMTSSA-SRI/2000/1266	Sri Lanka	2000
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY099337	AY099337	3III	D3/H/IMTSSA-MART/1999/1243	Martinique	2000
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY206457	AY206457	1V	293arg00	Argentina	2000
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY277665	AY277665	1V	ARG0028	Argentina	2000
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY277666	AY277666	1V	ARG0048	Argentina	2000
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY496871	AY496871	3II	BDH02-1	Bangladesh	2002
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY496873	AY496873	3II	BDH02-3	Bangladesh	2002
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY496874	AY496874	3II	BDH02-4	Bangladesh	2002
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY496877	AY496877	3II	BDH02-7	Bangladesh	2002
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY618988	AY618988	4III	ThD4_0476_97	Thailand: Bangkok	1997
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY618989	AY618989	4III	ThD4_0017_97	Thailand: Bangkok	1997
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY618991	AY618991	4I	ThD4_0087_77	Thailand: Bangkok	1977
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY618992	AY618992	4I	ThD4_0485_01	Thailand: Bangkok	2001
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY679147	AY679147	3III	BR74886/02	Brazil	2002
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY702036	AY702036	2III	Cuba115/97	Cuba	1997
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY713473	AY713473	1III	D1.Myanmar.40553/71	Myanmar	1971
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY722801	AY722801	1III	D1.Myanmar.40568/76	Myanmar	1976
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY722802	AY722802	1III	D1.Myanmar.23819/96	Myanmar	1996
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY722803	AY722803	1III	D1.Myanmar.32514/98	Myanmar	1998
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY726552	AY726552	1I	D1.Myanmar.44988/02	Myanmar	2002
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY732478	AY732478	1I	ThD1_0323_91	Thailand: Bangkok	1991
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY732480	AY732480	1I	ThD1_0097_94	Thailand: Bangkok	1994
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY732482	AY732482	1I	ThD1_0049_01	Thailand: Bangkok	2001
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY762085	AY762085	4II	Singapore 8976/95	Singapore	-
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY766104	AY766104	3II	Singapore 8120/95	Singapore	-
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY770511	AY770511	3III	GWL-25	India: Gwalior	2003
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY858037	AY858037	3I	BA51	Indonesia: Jakarta	2004
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY858039	AY858039	3I	den3_98	Indonesia: Jakarta	1998
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY876494	AY876494	3II	C0331/94	Thailand	1994
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY923865	AY923865	3II	C0360/94	Thailand	1994
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ181797	DQ181797	2V	ThD2_0078_01	Thailand: Bangkok	2001
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ181798	DQ181798	2V	ThD2_0055_99	Thailand: Bangkok	1999
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ181802	DQ181802	2V	ThD2_0026_88	Thailand: Bangkok	1988
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ181804	DQ181804	2V	ThD2_0498_84	Thailand: Bangkok	1984
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ181805	DQ181805	2V	ThD2_0168_79	Thailand: Bangkok	1979
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ181806	DQ181806	2V	ThD2_0038_74	Thailand: Bangkok	1974
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ285559	DQ285559	1V	Reunion 191/04	Reunion	2004
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ285562	DQ285562	1V	Comoros 04.329/93	Comoros	1993
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ672561	DQ672561	1IV	HawM3430	USA: Hawaii	2001
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ672564	DQ672564	1IV	HawO3663	USA: Hawaii	2001
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ675525	DQ675525	3II	98TW368	Taiwan	1998
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ675528	DQ675528	3II	98TW407	Taiwan	1998
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ675532	DQ675532	3II	98TWmosq	Taiwan	1998
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EF032590	EF032590	1IV	GZ01/95	China	1995
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EF105379	EF105379	2VI	P8-1407	Malaysia	1970
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EF105382	EF105382	2VI	Dak Ar 2039	Burkina Faso	1980
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EF105387	EF105387	2VI	IBH11208	Nigeria	1966
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EF105389	EF105389	2VI	Dak Ar 141069	Senegal	1999
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EF457906	EF457906	4IV	P75-215	Malaysia	1975
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EF629370	EF629370	3V	BR DEN3 RO1-02	Brazil	2002
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU056810	EU056810	2II	1349	Burkina Faso	1983
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU056811	EU056811	2I	IQT-1950	Peru	1995
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU056812	EU056812	2I	1328	Puerto Rico	1977
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU081177	EU081177	2II	D2/SG/05K3295DK1/2005	Singapore	2005
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU081179	EU081179	2II	D2/SG/05K4137DK1/2005	Singapore	2005
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU081180	EU081180	2II	D2/SG/05K4155DK1/2005	Singapore	2005
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU179859	EU179859	2II	DS09-280106	Brunei	2006
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU179860	EU179860	1V	DS06-210505	Brunei	2005
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU482567	EU482567	1V	DENV-1/US/BID-V1162/1998	USA: Puerto Rico	1998
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU482582	EU482582	2III	DENV-2/US/BID-V1179/1989	USA: Puerto Rico	1989
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU529702	EU529702	3III	DENV-3/US/BID-V1089/2003	USA: Puerto Rico	2003
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU687216	EU687216	2III	DENV-2/US/BID-V1439/2005	USA: Puerto Rico	2005
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU687217	EU687217	2III	DENV-2/US/BID-V1441/2005	USA: Puerto Rico	2005
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ024476	FJ024476	4II	DENV-4/CO/BID-V1600/1997	Colombia: Santander	1997
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ176779	FJ176779	1I	DEN1/GZ/OY	China: Guangdong Province	2006
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ196842	FJ196842	1IV	GD66/03	China: Guangzhou, Guangdong Province	2003
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ196847	FJ196847	1I	GD01/97	China: Guangzhou, Guangdong Province	1997
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ196850	FJ196850	4I	GD09/90	China: Guangzhou, Guangdong Province	1990
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ205875	FJ205875	1V	DENV-1/US/BID-V1744/1995	USA: Puerto Rico	1995
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ467493	FJ467493	2VI	DKD811	Malaysia	2008
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ469907	FJ469907	1I	SG(EHI)D1209Y03	Singapore	2003
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ547071	FJ547071	3III	DENV-3/US/BID-V2103/2000	USA: Puerto Rico	2000
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ639747	FJ639747	3III	DENV-3/VE/BID-V2175/2000	Venezuela: Aragua	2000
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ882581	FJ882581	4II	DENV-4/VE/BID-V2490/2007	Venezuela: Aragua	2007
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ898442	FJ898442	3III	DENV-3/MX/BID-V2989/2007	Mexico: Puebla	2007
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ898454	FJ898454	2II	DENV-2/IN/BID-V2961/2006	India	2006
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ898458	FJ898458	3III	DENV-3/PE/BID-V2981/2002	Peru	2002
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ898461	FJ898461	2III	DENV-2/BZ/BID-V2952/2002	Belize	2002
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FM210211	FM210211	2V	DF907	Viet Nam:South	2003
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GQ199835	GQ199835	1I	DENV-1/VN/BID-V2840/2005	Viet Nam: South	2005
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GQ199868	GQ199868	2III	DENV-2/NI/BID-V2996/2007	Nicaragua: Managua	2007
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GQ252675	GQ252675	4II	DENV-4/US/BID-V2432/1995	USA: Puerto Rico	1995
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GQ398290	GQ398290	2III	DENV-2/PR/31DN/1994	Puerto Rico	1994
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GQ868540	GQ868540	2III	DENV-2/VE/BID-V3496/1990	Venezuela: Maracay	1990
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GQ868545	GQ868545	2V	DENV-2/TH/BID-V3500/1996	Thailand: Bangkok	1996
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GQ868578	GQ868578	3III	DENV-3/CO/BID-V3405/2007	Colombia: Santander	2007
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GQ868594	GQ868594	4I	DENV-4/PH/BID-V3361/1956	Philippines	1956
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GQ868602	GQ868602	1IV	DENV-1/PH/BID-V2940/2004	Philippines	2004
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GQ868637	GQ868637	1I	DENV-1/IPC/BID-V3919/2000	Cambodia: TAK	2000
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GU131895	GU131895	1I	DENV-1/IPC/BID-V3787/2009	Cambodia: TAK	2009
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GU131896	GU131896	2V	DENV-2/IPC/BID-V3788/2007	Cambodia: KCH	2007
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GU289913	GU289913	4II	341750	Colombia	1982
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/HQ166037	HQ166037	1V	DENV-1/MX/BID-V3757/2008	Mexico: Yucatan	2008
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/HQ891023	HQ891023	2IV	DENV-2/TW/BID-V5054/2008	Taiwan	2008
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/HQ891316	HQ891316	1I	DV1_SL_2009d	Sri Lanka	2009
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/HQ999999	HQ999999	2III	DENV-2/GU/FDA-GUA09/2009	Guatemala: Guatemala City	2009
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/JF262780	JF262780	4IV	P73-1120	Malaysia	1973
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/JF262781	JF262781	4II	INH6412	Venezuela	1995
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/JF262782	JF262782	4II	Haiti73	Haiti	1994
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/JN697056	JN697056	1IV	DH/S1/05/04	Malaysia	2005
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/JN983813	JN983813	4II	Br246RR/10	Brazil: Boa Vista, Roraima State	2010
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/JQ411814	JQ411814	3III	UNC3001	Sri Lanka	1989
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/JQ513345	JQ513345	4I	DENV-4/BHI3581	Brazil: Bahia-BA	2011
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762660	KC762660	2II	MKS-0084	Indonesia: Makassar	2007
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762669	KC762669	2II	MKS-0071	Indonesia: Makassar	2007
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762680	KC762680	2II	MKS-WS80	Indonesia: Makassar	2010
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762681	KC762681	3I	MKS-0057	Indonesia: Makassar	2007
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762682	KC762682	3I	MKS-0076	Indonesia: Makassar	2007
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762684	KC762684	3I	MKS-0098	Indonesia: Makassar	2007
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762685	KC762685	3I	MKS-0388	Indonesia: Makassar	2008
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762686	KC762686	3I	MKS-0172	Indonesia: Makassar	2007
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762687	KC762687	3I	MKS-0396	Indonesia: Makassar	2008
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762688	KC762688	3I	MKS-2006	Indonesia: Makassar	2008
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762689	KC762689	3I	MKS-2065	Indonesia: Makassar	2008
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762690	KC762690	3I	MKS-3000	Indonesia: Makassar	2008
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762691	KC762691	3I	MKS-IF058	Indonesia: Makassar	2008
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KF041233	KF041233	2II	D2/Pakistan/2011-3/2011	Pakistan: Muridke	2011
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KF041260	KF041260	4I	D4/Pakistan/150/2009	Pakistan: Karachi	2009
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KF744406	KF744406	2IV	95-SLMC-148	Philippines	1995
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KF744407	KF744407	2IV	96-CSMC-007	Philippines	1996
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KJ189351	KJ189351	1V	DENV-1/PR/BID-V7705/2012	Puerto Rico	2012
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KJ830750	KJ830750	2II	Jeddah-2014	Saudi Arabia	2014
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KM279597	KM279597	2II	DC719Y12	Singapore	2012
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/M20558	M20558	2III	Jamaica/N.1409	Jamaica	1983
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/NC_001474	NC_001474	2V	16681	Thailand	1964
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/NC_001475	NC_001475	3III	D3/H/IMTSSA-SRI/2000/1266	Sri Lanka	-
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/NC_001477	NC_001477	1IV	-	Western Pacific	1974
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/NC_002640	NC_002640	4II	-	-	-
+alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/U88535	U88535	1IV	Nauru Island, Western Pacific	Western Pacific	1974

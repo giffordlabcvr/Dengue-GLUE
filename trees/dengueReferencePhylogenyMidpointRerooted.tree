@@ -1,0 +1,248 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=146;
+	taxlabels
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AB074761'[&collection_year="1988",country="Indonesia",genotype="1IV",isolate="A88",sequenceID="AB074761"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AB122020'[&collection_year="2001",country="Dominican Republic",genotype="2III",isolate="DR23/01",sequenceID="AB122020"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AB189120'[&collection_year="1998",country="Indonesia: Sumatra",genotype="1IV",isolate="98901518 DHF DV-1",sequenceID="AB189120"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AB189121'[&collection_year="1998",country="Indonesia: Sumatra",genotype="1IV",isolate="98901530 DF DV-1",sequenceID="AB189121"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AB204803'[&collection_year="2004",country="Japan",genotype="1IV",isolate="D1/hu/Yap/NIID27/2004",sequenceID="AB204803"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AB519681'[&collection_year="2001",country="Brazil:Brasilia, DF",genotype="1V",isolate="SB 01057805 (DF02)",sequenceID="AB519681"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AB608786'[&collection_year="2008",country="Taiwan",genotype="1I",isolate="NDF30",sequenceID="AB608786"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AF038403'[&collection_year="-",country="New Guinea",genotype="2IV",isolate="New Guinea C",sequenceID="AF038403"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AF100469'[&collection_year="1992",country="Mexico",genotype="2I",isolate="131",sequenceID="AF100469"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AF180817'[&collection_year="1964",country="Thailand",genotype="1II",isolate="16007",sequenceID="AF180817"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AF204177'[&collection_year="1989",country="China:Hainan province",genotype="2IV",isolate="44",sequenceID="AF204177"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AF298808'[&collection_year="1998",country="Djibouti",genotype="1I",isolate="D1/H/IMTSSA/98/606",sequenceID="AF298808"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AF311956'[&collection_year="1997",country="Brazil",genotype="1V",isolate="BR/97-111",sequenceID="AF311956"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AF317645'[&collection_year="-",country="China: Guangxi",genotype="3V",isolate="80-2",sequenceID="AF317645"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AF326573'[&collection_year="1981",country="Dominican Republic",genotype="4II",isolate="814669",sequenceID="AF326573"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AF350498'[&collection_year="-",country="-",genotype="1I",isolate="GZ/80",sequenceID="AF350498"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AF489932'[&collection_year="1998",country="Brazil",genotype="2III",isolate="BR64022",sequenceID="AF489932"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY099336'[&collection_year="2000",country="Sri Lanka",genotype="3III",isolate="D3/H/IMTSSA-SRI/2000/1266",sequenceID="AY099336"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY099337'[&collection_year="2000",country="Martinique",genotype="3III",isolate="D3/H/IMTSSA-MART/1999/1243",sequenceID="AY099337"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY206457'[&collection_year="2000",country="Argentina",genotype="1V",isolate="293arg00",sequenceID="AY206457"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY277665'[&collection_year="2000",country="Argentina",genotype="1V",isolate="ARG0028",sequenceID="AY277665"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY277666'[&collection_year="2000",country="Argentina",genotype="1V",isolate="ARG0048",sequenceID="AY277666"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY496871'[&collection_year="2002",country="Bangladesh",genotype="3II",isolate="BDH02-1",sequenceID="AY496871"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY496873'[&collection_year="2002",country="Bangladesh",genotype="3II",isolate="BDH02-3",sequenceID="AY496873"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY496874'[&collection_year="2002",country="Bangladesh",genotype="3II",isolate="BDH02-4",sequenceID="AY496874"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY496877'[&collection_year="2002",country="Bangladesh",genotype="3II",isolate="BDH02-7",sequenceID="AY496877"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY618988'[&collection_year="1997",country="Thailand: Bangkok",genotype="4III",isolate="ThD4_0476_97",sequenceID="AY618988"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY618989'[&collection_year="1997",country="Thailand: Bangkok",genotype="4III",isolate="ThD4_0017_97",sequenceID="AY618989"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY618991'[&collection_year="1977",country="Thailand: Bangkok",genotype="4I",isolate="ThD4_0087_77",sequenceID="AY618991"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY618992'[&collection_year="2001",country="Thailand: Bangkok",genotype="4I",isolate="ThD4_0485_01",sequenceID="AY618992"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY679147'[&collection_year="2002",country="Brazil",genotype="3III",isolate="BR74886/02",sequenceID="AY679147"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY702036'[&collection_year="1997",country="Cuba",genotype="2III",isolate="Cuba115/97",sequenceID="AY702036"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY713473'[&collection_year="1971",country="Myanmar",genotype="1III",isolate="D1.Myanmar.40553/71",sequenceID="AY713473"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY722801'[&collection_year="1976",country="Myanmar",genotype="1III",isolate="D1.Myanmar.40568/76",sequenceID="AY722801"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY722802'[&collection_year="1996",country="Myanmar",genotype="1III",isolate="D1.Myanmar.23819/96",sequenceID="AY722802"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY722803'[&collection_year="1998",country="Myanmar",genotype="1III",isolate="D1.Myanmar.32514/98",sequenceID="AY722803"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY726552'[&collection_year="2002",country="Myanmar",genotype="1I",isolate="D1.Myanmar.44988/02",sequenceID="AY726552"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY732478'[&collection_year="1991",country="Thailand: Bangkok",genotype="1I",isolate="ThD1_0323_91",sequenceID="AY732478"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY732480'[&collection_year="1994",country="Thailand: Bangkok",genotype="1I",isolate="ThD1_0097_94",sequenceID="AY732480"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY732482'[&collection_year="2001",country="Thailand: Bangkok",genotype="1I",isolate="ThD1_0049_01",sequenceID="AY732482"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY762085'[&collection_year="-",country="Singapore",genotype="4II",isolate="Singapore 8976/95",sequenceID="AY762085"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY766104'[&collection_year="-",country="Singapore",genotype="3II",isolate="Singapore 8120/95",sequenceID="AY766104"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY770511'[&collection_year="2003",country="India: Gwalior",genotype="3III",isolate="GWL-25",sequenceID="AY770511"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY858037'[&collection_year="2004",country="Indonesia: Jakarta",genotype="3I",isolate="BA51",sequenceID="AY858037"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY858039'[&collection_year="1998",country="Indonesia: Jakarta",genotype="3I",isolate="den3_98",sequenceID="AY858039"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY876494'[&collection_year="1994",country="Thailand",genotype="3II",isolate="C0331/94",sequenceID="AY876494"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY923865'[&collection_year="1994",country="Thailand",genotype="3II",isolate="C0360/94",sequenceID="AY923865"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ181797'[&collection_year="2001",country="Thailand: Bangkok",genotype="2V",isolate="ThD2_0078_01",sequenceID="DQ181797"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ181798'[&collection_year="1999",country="Thailand: Bangkok",genotype="2V",isolate="ThD2_0055_99",sequenceID="DQ181798"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ181802'[&collection_year="1988",country="Thailand: Bangkok",genotype="2V",isolate="ThD2_0026_88",sequenceID="DQ181802"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ181804'[&collection_year="1984",country="Thailand: Bangkok",genotype="2V",isolate="ThD2_0498_84",sequenceID="DQ181804"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ181805'[&collection_year="1979",country="Thailand: Bangkok",genotype="2V",isolate="ThD2_0168_79",sequenceID="DQ181805"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ181806'[&collection_year="1974",country="Thailand: Bangkok",genotype="2V",isolate="ThD2_0038_74",sequenceID="DQ181806"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ285559'[&collection_year="2004",country="Reunion",genotype="1V",isolate="Reunion 191/04",sequenceID="DQ285559"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ285562'[&collection_year="1993",country="Comoros",genotype="1V",isolate="Comoros 04.329/93",sequenceID="DQ285562"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ672561'[&collection_year="2001",country="USA: Hawaii",genotype="1IV",isolate="HawM3430",sequenceID="DQ672561"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ672564'[&collection_year="2001",country="USA: Hawaii",genotype="1IV",isolate="HawO3663",sequenceID="DQ672564"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ675525'[&collection_year="1998",country="Taiwan",genotype="3II",isolate="98TW368",sequenceID="DQ675525"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ675528'[&collection_year="1998",country="Taiwan",genotype="3II",isolate="98TW407",sequenceID="DQ675528"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ675532'[&collection_year="1998",country="Taiwan",genotype="3II",isolate="98TWmosq",sequenceID="DQ675532"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EF032590'[&collection_year="1995",country="China",genotype="1IV",isolate="GZ01/95",sequenceID="EF032590"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EF105379'[&collection_year="1970",country="Malaysia",genotype="2VI",isolate="P8-1407",sequenceID="EF105379"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EF105382'[&collection_year="1980",country="Burkina Faso",genotype="2VI",isolate="Dak Ar 2039",sequenceID="EF105382"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EF105387'[&collection_year="1966",country="Nigeria",genotype="2VI",isolate="IBH11208",sequenceID="EF105387"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EF105389'[&collection_year="1999",country="Senegal",genotype="2VI",isolate="Dak Ar 141069",sequenceID="EF105389"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EF457906'[&collection_year="1975",country="Malaysia",genotype="4IV",isolate="P75-215",sequenceID="EF457906"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EF629370'[&collection_year="2002",country="Brazil",genotype="3V",isolate="BR DEN3 RO1-02",sequenceID="EF629370"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU056810'[&collection_year="1983",country="Burkina Faso",genotype="2II",isolate="1349",sequenceID="EU056810"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU056811'[&collection_year="1995",country="Peru",genotype="2I",isolate="IQT-1950",sequenceID="EU056811"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU056812'[&collection_year="1977",country="Puerto Rico",genotype="2I",isolate="1328",sequenceID="EU056812"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU081177'[&collection_year="2005",country="Singapore",genotype="2II",isolate="D2/SG/05K3295DK1/2005",sequenceID="EU081177"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU081179'[&collection_year="2005",country="Singapore",genotype="2II",isolate="D2/SG/05K4137DK1/2005",sequenceID="EU081179"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU081180'[&collection_year="2005",country="Singapore",genotype="2II",isolate="D2/SG/05K4155DK1/2005",sequenceID="EU081180"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU179859'[&collection_year="2006",country="Brunei",genotype="2II",isolate="DS09-280106",sequenceID="EU179859"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU179860'[&collection_year="2005",country="Brunei",genotype="1V",isolate="DS06-210505",sequenceID="EU179860"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU482567'[&collection_year="1998",country="USA: Puerto Rico",genotype="1V",isolate="DENV-1/US/BID-V1162/1998",sequenceID="EU482567"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU482582'[&collection_year="1989",country="USA: Puerto Rico",genotype="2III",isolate="DENV-2/US/BID-V1179/1989",sequenceID="EU482582"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU529702'[&collection_year="2003",country="USA: Puerto Rico",genotype="3III",isolate="DENV-3/US/BID-V1089/2003",sequenceID="EU529702"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU687216'[&collection_year="2005",country="USA: Puerto Rico",genotype="2III",isolate="DENV-2/US/BID-V1439/2005",sequenceID="EU687216"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU687217'[&collection_year="2005",country="USA: Puerto Rico",genotype="2III",isolate="DENV-2/US/BID-V1441/2005",sequenceID="EU687217"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ024476'[&collection_year="1997",country="Colombia: Santander",genotype="4II",isolate="DENV-4/CO/BID-V1600/1997",sequenceID="FJ024476"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ176779'[&collection_year="2006",country="China: Guangdong Province",genotype="1I",isolate="DEN1/GZ/OY",sequenceID="FJ176779"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ196842'[&collection_year="2003",country="China: Guangzhou, Guangdong Province",genotype="1IV",isolate="GD66/03",sequenceID="FJ196842"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ196847'[&collection_year="1997",country="China: Guangzhou, Guangdong Province",genotype="1I",isolate="GD01/97",sequenceID="FJ196847"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ196850'[&collection_year="1990",country="China: Guangzhou, Guangdong Province",genotype="4I",isolate="GD09/90",sequenceID="FJ196850"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ205875'[&collection_year="1995",country="USA: Puerto Rico",genotype="1V",isolate="DENV-1/US/BID-V1744/1995",sequenceID="FJ205875"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ467493'[&collection_year="2008",country="Malaysia",genotype="2VI",isolate="DKD811",sequenceID="FJ467493"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ469907'[&collection_year="2003",country="Singapore",genotype="1I",isolate="SG(EHI)D1209Y03",sequenceID="FJ469907"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ547071'[&collection_year="2000",country="USA: Puerto Rico",genotype="3III",isolate="DENV-3/US/BID-V2103/2000",sequenceID="FJ547071"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ639747'[&collection_year="2000",country="Venezuela: Aragua",genotype="3III",isolate="DENV-3/VE/BID-V2175/2000",sequenceID="FJ639747"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ882581'[&collection_year="2007",country="Venezuela: Aragua",genotype="4II",isolate="DENV-4/VE/BID-V2490/2007",sequenceID="FJ882581"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ898442'[&collection_year="2007",country="Mexico: Puebla",genotype="3III",isolate="DENV-3/MX/BID-V2989/2007",sequenceID="FJ898442"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ898454'[&collection_year="2006",country="India",genotype="2II",isolate="DENV-2/IN/BID-V2961/2006",sequenceID="FJ898454"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ898458'[&collection_year="2002",country="Peru",genotype="3III",isolate="DENV-3/PE/BID-V2981/2002",sequenceID="FJ898458"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ898461'[&collection_year="2002",country="Belize",genotype="2III",isolate="DENV-2/BZ/BID-V2952/2002",sequenceID="FJ898461"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FM210211'[&collection_year="2003",country="Viet Nam:South",genotype="2V",isolate="DF907",sequenceID="FM210211"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GQ199835'[&collection_year="2005",country="Viet Nam: South",genotype="1I",isolate="DENV-1/VN/BID-V2840/2005",sequenceID="GQ199835"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GQ199868'[&collection_year="2007",country="Nicaragua: Managua",genotype="2III",isolate="DENV-2/NI/BID-V2996/2007",sequenceID="GQ199868"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GQ252675'[&collection_year="1995",country="USA: Puerto Rico",genotype="4II",isolate="DENV-4/US/BID-V2432/1995",sequenceID="GQ252675"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GQ398290'[&collection_year="1994",country="Puerto Rico",genotype="2III",isolate="DENV-2/PR/31DN/1994",sequenceID="GQ398290"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GQ868540'[&collection_year="1990",country="Venezuela: Maracay",genotype="2III",isolate="DENV-2/VE/BID-V3496/1990",sequenceID="GQ868540"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GQ868545'[&collection_year="1996",country="Thailand: Bangkok",genotype="2V",isolate="DENV-2/TH/BID-V3500/1996",sequenceID="GQ868545"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GQ868578'[&collection_year="2007",country="Colombia: Santander",genotype="3III",isolate="DENV-3/CO/BID-V3405/2007",sequenceID="GQ868578"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GQ868594'[&collection_year="1956",country="Philippines",genotype="4I",isolate="DENV-4/PH/BID-V3361/1956",sequenceID="GQ868594"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GQ868602'[&collection_year="2004",country="Philippines",genotype="1IV",isolate="DENV-1/PH/BID-V2940/2004",sequenceID="GQ868602"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GQ868637'[&collection_year="2000",country="Cambodia: TAK",genotype="1I",isolate="DENV-1/IPC/BID-V3919/2000",sequenceID="GQ868637"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GU131895'[&collection_year="2009",country="Cambodia: TAK",genotype="1I",isolate="DENV-1/IPC/BID-V3787/2009",sequenceID="GU131895"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GU131896'[&collection_year="2007",country="Cambodia: KCH",genotype="2V",isolate="DENV-2/IPC/BID-V3788/2007",sequenceID="GU131896"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GU289913'[&collection_year="1982",country="Colombia",genotype="4II",isolate="341750",sequenceID="GU289913"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/HQ166037'[&collection_year="2008",country="Mexico: Yucatan",genotype="1V",isolate="DENV-1/MX/BID-V3757/2008",sequenceID="HQ166037"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/HQ891023'[&collection_year="2008",country="Taiwan",genotype="2IV",isolate="DENV-2/TW/BID-V5054/2008",sequenceID="HQ891023"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/HQ891316'[&collection_year="2009",country="Sri Lanka",genotype="1I",isolate="DV1_SL_2009d",sequenceID="HQ891316"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/HQ999999'[&collection_year="2009",country="Guatemala: Guatemala City",genotype="2III",isolate="DENV-2/GU/FDA-GUA09/2009",sequenceID="HQ999999"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/JF262780'[&collection_year="1973",country="Malaysia",genotype="4IV",isolate="P73-1120",sequenceID="JF262780"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/JF262781'[&collection_year="1995",country="Venezuela",genotype="4II",isolate="INH6412",sequenceID="JF262781"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/JF262782'[&collection_year="1994",country="Haiti",genotype="4II",isolate="Haiti73",sequenceID="JF262782"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/JN697056'[&collection_year="2005",country="Malaysia",genotype="1IV",isolate="DH/S1/05/04",sequenceID="JN697056"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/JN983813'[&collection_year="2010",country="Brazil: Boa Vista, Roraima State",genotype="4II",isolate="Br246RR/10",sequenceID="JN983813"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/JQ411814'[&collection_year="1989",country="Sri Lanka",genotype="3III",isolate="UNC3001",sequenceID="JQ411814"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/JQ513345'[&collection_year="2011",country="Brazil: Bahia-BA",genotype="4I",isolate="DENV-4/BHI3581",sequenceID="JQ513345"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762660'[&collection_year="2007",country="Indonesia: Makassar",genotype="2II",isolate="MKS-0084",sequenceID="KC762660"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762669'[&collection_year="2007",country="Indonesia: Makassar",genotype="2II",isolate="MKS-0071",sequenceID="KC762669"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762680'[&collection_year="2010",country="Indonesia: Makassar",genotype="2II",isolate="MKS-WS80",sequenceID="KC762680"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762681'[&collection_year="2007",country="Indonesia: Makassar",genotype="3I",isolate="MKS-0057",sequenceID="KC762681"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762682'[&collection_year="2007",country="Indonesia: Makassar",genotype="3I",isolate="MKS-0076",sequenceID="KC762682"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762684'[&collection_year="2007",country="Indonesia: Makassar",genotype="3I",isolate="MKS-0098",sequenceID="KC762684"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762685'[&collection_year="2008",country="Indonesia: Makassar",genotype="3I",isolate="MKS-0388",sequenceID="KC762685"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762686'[&collection_year="2007",country="Indonesia: Makassar",genotype="3I",isolate="MKS-0172",sequenceID="KC762686"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762687'[&collection_year="2008",country="Indonesia: Makassar",genotype="3I",isolate="MKS-0396",sequenceID="KC762687"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762688'[&collection_year="2008",country="Indonesia: Makassar",genotype="3I",isolate="MKS-2006",sequenceID="KC762688"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762689'[&collection_year="2008",country="Indonesia: Makassar",genotype="3I",isolate="MKS-2065",sequenceID="KC762689"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762690'[&collection_year="2008",country="Indonesia: Makassar",genotype="3I",isolate="MKS-3000",sequenceID="KC762690"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762691'[&collection_year="2008",country="Indonesia: Makassar",genotype="3I",isolate="MKS-IF058",sequenceID="KC762691"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KF041233'[&collection_year="2011",country="Pakistan: Muridke",genotype="2II",isolate="D2/Pakistan/2011-3/2011",sequenceID="KF041233"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KF041260'[&collection_year="2009",country="Pakistan: Karachi",genotype="4I",isolate="D4/Pakistan/150/2009",sequenceID="KF041260"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KF744406'[&collection_year="1995",country="Philippines",genotype="2IV",isolate="95-SLMC-148",sequenceID="KF744406"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KF744407'[&collection_year="1996",country="Philippines",genotype="2IV",isolate="96-CSMC-007",sequenceID="KF744407"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KJ189351'[&collection_year="2012",country="Puerto Rico",genotype="1V",isolate="DENV-1/PR/BID-V7705/2012",sequenceID="KJ189351"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KJ830750'[&collection_year="2014",country="Saudi Arabia",genotype="2II",isolate="Jeddah-2014",sequenceID="KJ830750"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KM279597'[&collection_year="2012",country="Singapore",genotype="2II",isolate="DC719Y12",sequenceID="KM279597"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/M20558'[&collection_year="1983",country="Jamaica",genotype="2III",isolate="Jamaica/N.1409",sequenceID="M20558"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/NC_001474'[&collection_year="1964",country="Thailand",genotype="2V",isolate="16681",sequenceID="NC_001474"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/NC_001475'[&collection_year="-",country="Sri Lanka",genotype="3III",isolate="D3/H/IMTSSA-SRI/2000/1266",sequenceID="NC_001475"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/NC_001477'[&collection_year="1974",country="Western Pacific",genotype="1IV",isolate="-",sequenceID="NC_001477"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/NC_002640'[&collection_year="-",country="-",genotype="4II",isolate="-",sequenceID="NC_002640"]
+	'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/U88535'[&collection_year="1974",country="Western Pacific",genotype="1IV",isolate="Nauru Island, Western Pacific",sequenceID="U88535"]
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ((((((('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GQ252675':0.007761,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/JF262782':0.006146,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/JN983813':0.006365,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ882581':0.003335)[&label=100]:0.010655)[&label=100]:0.001698)[&label=100]:0.001159,(('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ024476':0.004883,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/JF262781':0.002927)[&label=100]:0.006239,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GU289913':0.001055,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AF326573':1.6E-4,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/NC_002640':0.001293)[&label=100]:9.67E-4)[&label=69]:8.8E-5)[&label=59]:2.58E-4)[&label=100]:0.007645,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY762085':0.021203)[&label=100]:0.018676,(('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GQ868594':0.001858,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ196850':0.02186)[&label=100]:0.007401,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KF041260':0.024113,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY618991':0.003063,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY618992':0.007744,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/JQ513345':0.010008)[&label=100]:0.010118)[&label=100]:0.006686)[&label=100]:0.013286)[&label=100]:0.010923)[&label=100]:0.012948,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY618989':9.55E-4,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY618988':0.001224)[&label=100]:0.048145)[&label=100]:0.059799,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EF457906':8.51E-4,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/JF262780':8.45E-4)[&label=100]:0.069803)[&label=100]:0.893377,(((('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EF105379':0.018831,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ467493':0.025369)[&label=100]:0.063426,(('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EF105389':0.014314,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EF105382':0.010251)[&label=100]:0.00711,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EF105387':0.013234)[&label=100]:0.060881)[&label=100]:0.115029,(('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU056812':0.004546,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AF100469':0.008469,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU056811':0.012215)[&label=100]:0.004509)[&label=100]:0.039777,(((('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KJ830750':0.005076,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KF041233':0.001772)[&label=100]:0.008159,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ898454':0.006364)[&label=100]:0.022302,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU056810':0.013005,((('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KM279597':0.010893,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762660':0.004245)[&label=100]:0.004411,(('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762680':0.007474,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU179859':0.020379)[&label=100]:0.005001,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU081177':4.1E-4,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU081180':7.3E-4,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU081179':1.62E-4)[&label=86]:1.57E-4)[&label=100]:0.008395)[&label=58]:2.47E-4)[&label=90]:0.001218,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762669':0.008339)[&label=100]:0.018528)[&label=90]:0.002248)[&label=100]:0.01668,(((('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AF038403':0.001055,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AF204177':0.002201,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/HQ891023':0.001136)[&label=99]:2.45E-4)[&label=100]:0.005284,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KF744407':0.009288,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KF744406':0.005395)[&label=100]:0.0253)[&label=99]:0.00185,(('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ181806':0.003571,(('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ181805':0.002356,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ181802':0.002954,(('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GU131896':0.007521,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ181797':0.001538,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FM210211':0.007961)[&label=100]:0.002253)[&label=100]:0.006822,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ181798':0.003558,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GQ868545':0.001784)[&label=100]:0.005677)[&label=97]:4.52E-4)[&label=100]:0.005198)[&label=100]:9.91E-4,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ181804':0.005894)[&label=100]:0.004359)[&label=100]:0.007446,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/NC_001474':0.005448)[&label=100]:0.014071)[&label=100]:0.003429,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/M20558':0.002391,((('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AF489932':0.00851,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GQ868540':0.002689)[&label=100]:0.003062,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GQ398290':0.00395,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU482582':6.41E-4)[&label=100]:0.003151)[&label=90]:2.4E-4,(('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ898461':0.00362,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GQ199868':0.003553,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/HQ999999':0.006113)[&label=100]:0.002331)[&label=100]:0.003981,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY702036':0.002334,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU687217':0.00202,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AB122020':8.2E-5,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU687216':0.002199)[&label=100]:0.001)[&label=100]:0.00394)[&label=100]:0.002586)[&label=100]:0.005936)[&label=100]:0.001812)[&label=100]:0.031543)[&label=99]:0.005854)[&label=100]:0.024659)[&label=100]:0.094092)[&label=100]:0.579084,((('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ675528':5.64E-4,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ675525':1.61E-4,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ675532':8.0E-5)[&label=71]:1.0E-6)[&label=69]:7.89E-4,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY923865':0.001939,(((((('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY099336':1.0E-6,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/NC_001475':1.0E-6)[&label=100]:0.013644,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY770511':0.012858,(('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ898442':0.008824,(('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ898458':0.003628,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY099337':0.001029,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY679147':0.00239)[&label=100]:8.1E-4)[&label=100]:0.001466,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU529702':0.004064,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ547071':0.002005,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ639747':8.17E-4,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GQ868578':0.006348)[&label=100]:9.24E-4)[&label=71]:1.19E-4)[&label=100]:0.002917)[&label=96]:3.53E-4)[&label=97]:0.007091,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/JQ411814':0.004636)[&label=54]:4.33E-4)[&label=90]:0.001556)[&label=90]:0.021663,(('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EF629370':8.97E-4,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AF317645':0.001049)[&label=100]:0.011745,((('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY858037':0.003317,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762691':0.00618)[&label=99]:0.004399,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY858039':0.002916,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762684':0.008514)[&label=44]:1.38E-4)[&label=99]:0.008035,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762687':0.005426,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762689':0.00472,(('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762688':0.002119,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762686':8.9E-4,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762690':2.42E-4,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762685':1.61E-4)[&label=100]:4.02E-4)[&label=100]:0.001474)[&label=93]:4.5E-5,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762681':2.41E-4,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KC762682':1.61E-4)[&label=100]:0.002131)[&label=100]:0.002644)[&label=77]:3.52E-4)[&label=96]:0.01186)[&label=95]:0.021493)[&label=89]:0.004126)[&label=63]:0.017518,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY766104':0.006488)[&label=57]:0.002426,(('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY496874':4.85E-4,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY496871':0.002029)[&label=86]:2.41E-4,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY496877':0.001377,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY496873':2.42E-4)[&label=69]:8.2E-5)[&label=100]:0.014648)[&label=53]:0.0042,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY876494':0.004347)[&label=53]:0.001883)[&label=52]:0.003318)[&label=100]:0.481894,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU179860':0.013593,((('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY713473':0.005036,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY722801':9.97E-4,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY722803':0.004319,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY722802':0.002269)[&label=99]:0.008237)[&label=98]:0.002891)[&label=98]:0.007683,(('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ285559':0.018159,(('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ205875':0.005913,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EU482567':0.005864,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY277666':4.74E-4,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY206457':3.11E-4)[&label=96]:0.005971)[&label=87]:0.002886)[&label=79]:0.007645,(('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AB519681':0.004173,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY277665':0.004089,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AF311956':0.002922)[&label=55]:6.4E-4)[&label=98]:0.005286,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/HQ166037':0.009208,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/KJ189351':0.014056)[&label=100]:0.002254)[&label=98]:0.00318)[&label=73]:0.003901)[&label=71]:0.00927,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AF180817':0.022481,(((('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AF350498':0.004125,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY726552':0.011042,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY732478':0.005036,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AF298808':0.009375)[&label=100]:0.002244)[&label=99]:0.002238)[&label=100]:0.011337,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY732480':0.007206,(('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GQ868637':0.00761,(('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ469907':0.006306,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AY732482':0.001056,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ176779':0.001064,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/HQ891316':0.002973)[&label=92]:0.004166)[&label=91]:0.003668)[&label=68]:2.97E-4,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AB608786':0.005639,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GU131895':0.005348)[&label=96]:0.003564)[&label=68]:0.003436)[&label=68]:0.001692,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GQ199835':0.011222)[&label=68]:0.003089)[&label=57]:0.0034)[&label=50]:0.009264,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ196847':0.016467)[&label=63]:0.018151,((('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AB189121':0.003583,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/FJ196842':0.005844)[&label=100]:0.015706,(('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/NC_001477':2.27E-4,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/U88535':0.001657)[&label=100]:0.002919,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ672564':0.002118,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/GQ868602':0.004173)[&label=100]:0.014022)[&label=100]:0.004117)[&label=85]:2.81E-4,(('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/EF032590':0.007433,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/JN697056':0.012198,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ672561':0.003004,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AB189120':0.001424)[&label=100]:0.008017)[&label=86]:7.31E-4)[&label=100]:0.006584,('alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AB074761':0.00613,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/AB204803':0.018778)[&label=100]:0.003589)[&label=100]:0.006358)[&label=100]:0.017885)[&label=59]:0.004017)[&label=51]:0.023091)[&label=19]:0.00343)[&label=17]:0.013139,'alignment/AL_UNC_REFSEQS_Dengue/member/ncbi-refseqs/DQ285562':0.00586)[&label=10]:0.001609)[&label=100]:0.545985)[&label=100]:0.315879)[&label=100]:0.057386);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=475;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute="label";
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="label";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=true;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute="User selection";
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute="Fixed";
+	set nodeShapeInternal.colourAttribute="User selection";
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="genotype";
+	set tipLabels.displayAttribute="sequenceID";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=13;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="increasing";
+	set trees.rooting=false;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
