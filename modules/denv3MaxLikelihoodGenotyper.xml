@@ -12,14 +12,30 @@
 	</cladeCategory>
 
 	<cladeCategory>
-	
 		<name>genotype</name>	
 		<displayName>Genotype</displayName>	
 		<whereClause>displayName like '3%' and clade_category = 'genotype'</whereClause>
 		<distanceScalingExponent>-4.5</distanceScalingExponent>
 		<distanceCutoff>0.05</distanceCutoff>
-		<finalCladeCutoff>65.0</finalCladeCutoff>
-		
+		<finalCladeCutoff>65.0</finalCladeCutoff>	
+	</cladeCategory>
+
+	<cladeCategory>
+		<name>major_lineage</name>	
+		<displayName>Major lineage</displayName>	
+		<whereClause>displayName like '3%' and clade_category = 'major_lineage'</whereClause>
+		<distanceScalingExponent>-4.5</distanceScalingExponent>
+	    <distanceCutoff>0.01</distanceCutoff>
+		<finalCladeCutoff>65.0</finalCladeCutoff>		
+	</cladeCategory>
+
+	<cladeCategory>
+		<name>minor_lineage</name>	
+		<displayName>Minor lineage</displayName>	
+		<whereClause>displayName like '3%' and clade_category = 'minor_lineage'</whereClause>
+		<distanceScalingExponent>-4.5</distanceScalingExponent>
+	    <distanceCutoff>0.005</distanceCutoff>
+		<finalCladeCutoff>65.0</finalCladeCutoff>		
 	</cladeCategory>
 
 </maxLikelihoodGenotyper>
