@@ -6,8 +6,8 @@ project dengue
   run file glue/dengueExtensionModules.glue
 
   # Import GenBank curated sequences (rank-and-file sequences)
-  import source sources/ncbi-curated
-  import source sources/ncbi-curated-short
+  import source /Users/rob/Sources/dengue/ncbi-curated
+  import source /Users/rob/Sources/dengue/ncbi-curated-short
 
   # Link sequence table entries to isolate table
   run script glue/dengueLoadIsolateDataCurated.js 
