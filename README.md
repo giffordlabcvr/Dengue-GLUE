@@ -51,7 +51,9 @@ At the GLUE command prompt, run the 'buildDengueProject.glue' file as follows:
 
 `GLUE> run file buildDengueProject.glue`
 
-This will build the base project, which contains a minimal set of feature definitions, clade categories, reference sequences, and alignments. 
+This will build the base project, which contains a minimal set of feature definitions, clade categories, reference sequences, and alignments.
+
+The **Dengue-GLUE** base project can be extended with additional layers, openly available via GitHub. These include **[NCBI-Dengue-GLUE](https://github.com/giffordlabcvr/NCBI-Dengue-GLUE)**: which extends Dengue-GLUE through the incorporation of all DENV sequence data published in NCBI GenBank.
 
 ## Usage
 
