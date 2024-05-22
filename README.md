@@ -65,14 +65,14 @@ To classify DENV1, DENV2, DENV3 or DENV4 sequences via maximum likelihood clade 
 
 ```
 Mode path: /project/dengue
-GLUE> module denv2MaxLikelihoodGenotyper genotype file -f path/to/sequences/denv2_sequences.fasta 
+GLUE> module denv2MaxLikelihoodGenotyper genotype file -f path/to/sequences/denv2.fasta 
 ```
 
 If you need to first determine the serotypes of your input sequences, use Dengue-GLUE's BLAST-based serotype recogniser module as shown:
 
 ```
 Mode path: /project/dengue
-GLUE> module dengueSerotypeRecogniser recognise file -i path/to/sequences/denv_sequences.fasta 
+GLUE> module dengueSerotypeRecogniser recognise file -i path/to/sequences/denv.fasta 
 ```
 
 ## Mutation frequencies
