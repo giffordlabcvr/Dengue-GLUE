@@ -25,7 +25,7 @@ Dengue-GLUE also contains reference sequences for all DENV serotypes, genotypes,
 
 - **Rich Annotations**: Each sequence is annotated with gene features, enabling rigorous comparative genomic analysis related to conservation, adaptation, structural context, and genotype-to-phenotype associations.
 
-- **Automated Genotyping**: Dengue-GLUE can perform automated genotyping of DENV sequences (including subgenomic sequences) using the using the recently proposed DENV classification system, and GLUE's [maximum likelihood clade assignment (MLCA) algorithm](https://doi.org/10.1186/s12859-018-2459-9). The updated classification system a standardized neutral descriptor of DENV diversity for identifying and tracking lineages of potential epidemiological and/or clinical importance. Further information about the lineage system can be found **[here](dengue-lineages.org)**.
+- **Automated Genotyping**: Dengue-GLUE can perform automated genotyping of DENV sequences (including subgenomic sequences) using the using the recently proposed DENV classification system, and GLUE's [maximum likelihood clade assignment (MLCA) algorithm](https://doi.org/10.1186/s12859-018-2459-9). The updated classification system a standardized neutral descriptor of DENV diversity for identifying and tracking lineages of potential epidemiological and/or clinical importance. Further information about the lineage system can be found  **[here](https://dengue-lineages.org)**.
 
 
 ## Installation
