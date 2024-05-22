@@ -102,9 +102,6 @@ This command produces results in a tabular output format like this:
 
 ### Command Breakdown
 
-**Mode path: `/project/dengue`**
-Sets the working directory to `/project/dengue`.
-
 **`alignment AL_DENV_2`**
 Selects the alignment for dengue virus type 2 (DENV2).
 
