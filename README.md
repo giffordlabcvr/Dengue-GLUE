@@ -12,6 +12,8 @@ Dengue-GLUE also contains reference sequences for all DENV serotypes, genotypes,
 - [Key Features](#key-features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Genotyping](#genotyping)
+- [Mutation frequencies](#mutation-frequencies)
 - [Data Sources](#data-sources)
 - [Contributing](#contributing)
 - [License](#license)
