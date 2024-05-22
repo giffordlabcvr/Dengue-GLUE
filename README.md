@@ -6,7 +6,7 @@ Dengue-GLUE is a sequence-oriented resource for comparative genomic analysis of 
 
 Dengue-GLUE also contains reference sequences for all DENV serotypes, genotypes, as well as all major and minor lineages defined **[here](https://dengue-lineages.org)**.
 
-The **Dengue-GLUE** base project can be extended with additional layers, openly available via GitHub. These include **[NCBI-Dengue-GLUE](https://github.com/giffordlabcvr/NCBI-Dengue-GLUE)**: which extends Dengue-GLUE through the incorporation of all DENV sequence data published in NCBI GenBank.
+The Dengue-GLUE base project can be extended with additional layers, openly available via GitHub. These include **[NCBI-Dengue-GLUE](https://github.com/giffordlabcvr/NCBI-Dengue-GLUE)**: which extends Dengue-GLUE through the incorporation of all DENV sequence data published in NCBI GenBank.
 
 ## Table of Contents
 
