@@ -73,6 +73,62 @@ Mode path: /project/dengue
 GLUE> module dengueSerotypeRecogniser recognise file -i path/to/sequences/denv_sequences.fasta 
 ```
 
+## Mutation frequencies
+
+Dengue GLUE can provide a detailed frequency distribution of amino acids at a specific position within a DENV coding feature, based on the alignments contained with the project. This can enable insights into the variability and conservation of DENV proteins.
+
+The following command in the GLUE console calculates the amino acid frequencies at a specific position within a feature of a dengue virus type 2 (DENV2) alignment:
+
+```
+Mode path: /project/dengue
+GLUE> alignment AL_DENV_2 amino-acid frequency -c -r REF_MASTER_DENV2 -f envelope -l 52 52
+```
+
+This command produces results in a tabular output format like this:
+
+```
++==========+=======+===========+============+====================+
+| feature  | codon | aminoAcid | numMembers |     pctMembers     |
++==========+=======+===========+============+====================+
+| envelope | 52    | E         | 4          | 1.3840830449826989 |
+| envelope | 52    | H         | 89         | 30.79584775086505  |
+| envelope | 52    | K         | 1          | 0.3460207612456747 |
+| envelope | 52    | Q         | 190        | 65.7439446366782   |
+| envelope | 52    | Y         | 5          | 1.7301038062283738 |
++==========+=======+===========+============+====================+
+```
+
+### Command Breakdown
+
+**Mode path: `/project/dengue`**
+Sets the working directory to `/project/dengue`.
+
+**`alignment AL_DENV_2`**
+Selects the alignment for dengue virus type 2 (DENV2).
+
+**`amino-acid frequency`**
+Instructs GLUE to calculate amino acid frequencies within the selected alignment.
+
+**`-c`**
+Calculates the frequencies recursively, including all sub-alignments of DENV2. In Dengue-GLUE, alignments are arranged hierarchically to reflect evolutionary relationships.
+
+**`-r REF_MASTER_DENV2`**
+Specifies the constraining reference sequence, `REF_MASTER_DENV2`, which defines the coordinate space and the wild type amino acid for comparison.
+
+**`-f envelope`**
+Indicates the coding feature within the reference sequence (envelope) where amino acid frequencies will be calculated.
+
+**`-l 52 52`**
+Specifies the location within the feature to be analyzed. Here, it focuses on amino acid position 52.
+
+### Interpretation of the Output
+
+- **feature**: The coding feature analyzed (in this case, envelope).
+- **codon**: The codon position within the feature (position 52).
+- **aminoAcid**: The amino acid found at the specified codon position.
+- **numMembers**: The number of sequences in the alignment containing the specified amino acid at the given position.
+- **pctMembers**: The percentage of sequences in the alignment containing the specified amino acid at the given position.
+
 
 ## Data Sources
 
