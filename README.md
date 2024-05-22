@@ -118,7 +118,7 @@ Specifies the constraining reference sequence, `REF_MASTER_DENV2`, which defines
 Indicates the coding feature within the reference sequence (envelope) where amino acid frequencies will be calculated.
 
 **`-l 52 52`**
-Specifies the location within the feature to be analyzed. Here, it focuses on amino acid position 52.
+Specifies the location within the feature to be analyzed. Here, it focuses on a single amino acid position (52).
 
 ### Interpretation of the Output
 
