@@ -1,20 +1,17 @@
-//Do serotype recognition for all test sequences using set from Grubaugh lab
+//Do genotype and lineage assignment for all sequences in directory 'input-sequences'
 
-var yaleTestSet;
-var whereClause = "source.name = 'yale-test-set' and genotype = null";
+var sequenceBatch;
+var whereClause = "source.name = 'input-sequences' and genotype = null";
 
-yaleTestSet = glue.tableToObjects(glue.command(["list", "sequence", "sequenceID", "serotype", "-w", whereClause]));
-glue.log("INFO", "RESULT WAS ", yaleTestSet);
+sequenceBatch = glue.tableToObjects(glue.command(["list", "sequence", "sequenceID", "serotype", "-w", whereClause]));
+//glue.log("INFO", "RESULT WAS ", sequenceBatch);
 
-_.each(yaleTestSet, function(yaleTestSet) {
+_.each(sequenceBatch, function(sequenceBatch) {
 
-	var sequenceID = yaleTestSet.sequenceID;
-	var sourceName ='yale-test-set';
-	var serotype	= yaleTestSet.serotype;	
-	glue.log("INFO", "ID RESULT WAS ", sequenceID);
-	
-	//glue.log("INFO", "WHERE CLAUSE RESULT WAS ", serotypeWhereClause);
-	//glue.log("INFO", "sourceName RESULT WAS ", sourceName);
+	var sequenceID = sequenceBatch.sequenceID;
+	var sourceName ='input-sequences';
+	var serotype	= sequenceBatch.serotype;	
+	//glue.log("INFO", "ID RESULT WAS ", sequenceID);	
 	//glue.log("INFO", "Serotype RESULT WAS ", serotype);
 
 	var serotypeWhereClause = "sequenceID = '" + sequenceID + "'";
@@ -27,7 +24,7 @@ _.each(yaleTestSet, function(yaleTestSet) {
 			var genotypeResults1;
 			glue.inMode("/module/denv1MaxLikelihoodGenotyper", function() {
 				genotypeResults1 = glue.command(["genotype", "sequence", "-w", serotypeWhereClause]);
-				glue.log("INFO", "Genotype 1 RESULT WAS ", genotypeResults1);			
+				//glue.log("INFO", "Genotype 1 RESULT WAS ", genotypeResults1);			
 			});
 
 			var genotypeRows = genotypeResults1.genotypeCommandResult.row;
@@ -40,8 +37,7 @@ _.each(yaleTestSet, function(yaleTestSet) {
 			var genotypeResults2;
 			glue.inMode("/module/denv2MaxLikelihoodGenotyper", function() {
 				genotypeResults2 = glue.command(["genotype", "sequence", "-w", serotypeWhereClause]);
-			
-				glue.log("INFO", "Genotype 2 RESULT WAS ", genotypeResults2);
+				//glue.log("INFO", "Genotype 2 RESULT WAS ", genotypeResults2);
 			});
 
 			var genotypeRows = genotypeResults2.genotypeCommandResult.row;
@@ -54,7 +50,7 @@ _.each(yaleTestSet, function(yaleTestSet) {
 			var genotypeResults3;
 			glue.inMode("/module/denv3MaxLikelihoodGenotyper", function() {
 				genotypeResults3 = glue.command(["genotype", "sequence", "-w", serotypeWhereClause]);
-				glue.log("INFO", "Genotype 3 RESULT WAS ", genotypeResults3);			
+				//glue.log("INFO", "Genotype 3 RESULT WAS ", genotypeResults3);			
 			});
 
 			var genotypeRows = genotypeResults3.genotypeCommandResult.row;
@@ -67,7 +63,7 @@ _.each(yaleTestSet, function(yaleTestSet) {
 			var genotypeResults4;
 			glue.inMode("/module/denv4MaxLikelihoodGenotyper", function() {
 				genotypeResults4 = glue.command(["genotype", "sequence", "-w", serotypeWhereClause]);
-				glue.log("INFO", "Genotype 4 RESULT WAS ", genotypeResults4);
+				//glue.log("INFO", "Genotype 4 RESULT WAS ", genotypeResults4);
 			});
   
 			var genotypeRows = genotypeResults4.genotypeCommandResult.row;
@@ -83,7 +79,7 @@ _.each(yaleTestSet, function(yaleTestSet) {
 		if (genotypeResult) {
 	
 		    var genotype = genotypeResult.replace("AL_DENV_", "");			
-			glue.log("INFO", "Genotype result: ", genotype);
+			//glue.log("INFO", "Genotype result: ", genotype);
 			glue.inMode("sequence/"+sourceName+"/"+sequenceID, function() {
 				glue.command(["set", "field", "genotype", genotype]);
 			});
@@ -92,7 +88,7 @@ _.each(yaleTestSet, function(yaleTestSet) {
 		if (majorLineageResult) {
 
 		    var majorLineage = majorLineageResult.replace("AL_DENV_", "");			
-			glue.log("INFO", "Major lineage result: ", majorLineage);			
+			//glue.log("INFO", "Major lineage result: ", majorLineage);			
 			glue.inMode("sequence/"+sourceName+"/"+sequenceID, function() {
 				glue.command(["set", "field", "major_lineage", majorLineage]);
 			});
@@ -100,7 +96,7 @@ _.each(yaleTestSet, function(yaleTestSet) {
 		if (minorLineageResult) {
 		
 		    var minorLineage = minorLineageResult.replace("AL_DENV_", "");			
-			glue.log("INFO", "Minor lineage result: ", minorLineage);			
+			//glue.log("INFO", "Minor lineage result: ", minorLineage);			
 			glue.inMode("sequence/"+sourceName+"/"+sequenceID, function() {
 				glue.command(["set", "field", "minor_lineage", minorLineage]);
 			});			
@@ -108,7 +104,7 @@ _.each(yaleTestSet, function(yaleTestSet) {
 		if (minorSublineageResult) {
 		
 		    var minorSublineage = minorLineageResult.replace("AL_DENV_", "");			
-			glue.log("INFO", "Minor sublineage RESULT WAS ", minorSublineage);			
+			//glue.log("INFO", "Minor sublineage RESULT WAS ", minorSublineage);			
 			glue.inMode("sequence/"+sourceName+"/"+sequenceID, function() {
 				glue.command(["set", "field", "minor_sublineage", minorSublineage]);
 			});			

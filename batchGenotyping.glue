@@ -1,7 +1,14 @@
- 
+# README: this routine expects to read in a directory called 'input-sequences'.
+# The directory should contain DENV sequences in FASTA or GenBank XML format.
+# Before using the script, uupdate the 'import source' line below to point to the
+# location of the 'input-sequences' directory on your computer.  
+
+# To see results use this command on the GLUE console:
+# project dengue list sequence sequenceID serotype genotype major_lineage minor_lineage -w "source.name = 'input-sequences'"
+
 project dengue
 
-	# Clean up any previously declared extension modules
+	# Clean up any previously declared module instances
 	delete module dengueSerotypeRecogniser
 	delete module denv1MaxLikelihoodGenotyper
 	delete module denv1MaxLikelihoodPlacer
@@ -23,19 +30,14 @@ project dengue
 	create module -f modules/assignment/denv4MaxLikelihoodGenotyper.xml
 	create module -f modules/assignment/denv4MaxLikelihoodPlacer.xml
 
-	# Import sources
-	delete source yale-test-set
-	import source /Users/rob/Sources/dengue/yale-test-set
+	# Import source with sequences to be classified
+	delete source input-sequences
+	import source /Users/rob/Sources/dengue/input-sequences
 
-    # Previous test set sources
- 	#import source /Users/rob/Sources/dengue/ncbi-curated-test
-	#import source /Users/rob/Sources/dengue/ncbi-curated
-	#import source /Users/rob/Sources/dengue/ncbi-curated-short
+	# Determine serotypes using BLAST-based recogniser
+	run script glue/dengueDoBatchSerotypeRecognition.js
 
-	# Run script to determine serotypes using BLAST-based recogniser
-	run script glue/dengueRecogniseTestSeqs.js
-
-	# Run script to determine serotypes via GLUE's MCLA algorithm
-	run script glue/dengueGenotypeTestSeqs.js
+	# Genotype & lineage assignment via GLUE's MCLA algorithm
+	run script glue/dengueDoBatchGenotyping.js
 
 	exit

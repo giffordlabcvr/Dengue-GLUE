@@ -1,6 +1,6 @@
 var sequenceMap = {};
 
-var whereClause = "source.name = 'yale-test-set'";
+var whereClause = "source.name = 'input-sequences'";
 
 //Do serotype recognition for all ncbi curated sequences
 var recognitionResults;
@@ -13,7 +13,7 @@ glue.inMode("/module/dengueSerotypeRecogniser", function() {
 		
 });
 
-glue.log("INFO", "RESULT WAS ", recognitionResults);
+//glue.log("INFO", "RESULT WAS ", recognitionResults);
 
 _.each(recognitionResults, function(recognitionResult) {
 
