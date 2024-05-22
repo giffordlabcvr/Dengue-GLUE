@@ -1,7 +1,6 @@
 # Basic modules
-create module --fileName modules/dengueGenbankXmlPopulator.xml
-create module --fileName modules/unconstrainedAlignmentImporter.xml
+create module -t tabularUtility dengueTabularUtility
 
-create module -f modules/dengueTabularUtility.xml
-create module -f modules/dengueSideDataImporter.xml
+# Modules with config files
+create module --fileName modules/unconstrainedAlignmentImporter.xml
 

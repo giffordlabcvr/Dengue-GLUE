@@ -1,0 +1,22 @@
+  ### Constrained alignment tree: serotype-level alignments
+
+  create alignment AL_DENV_1 -r REF_MASTER_DENV1
+  alignment AL_DENV_1
+    add member --whereClause "serotype = '1'"
+    exit
+    
+  create alignment AL_DENV_2 -r REF_MASTER_DENV2
+  alignment AL_DENV_2
+    add member --whereClause  "serotype = '2'"
+    exit
+    
+  create alignment AL_DENV_3 -r REF_MASTER_DENV3
+  alignment AL_DENV_3
+    add member --whereClause  "serotype = '3'"
+    exit
+
+  create alignment AL_DENV_4 -r REF_MASTER_DENV4
+  alignment AL_DENV_4
+    add member --whereClause  "serotype = '4'"
+    exit
+

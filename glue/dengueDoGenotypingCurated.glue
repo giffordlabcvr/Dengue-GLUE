@@ -1,6 +1,0 @@
-
-  # Run script to determine serotypes using BLAST-based recogniser
-  run script glue/dengueRecogniseCuratedSeqs.js
-
-  # Run script to determine serotypes via GLUE's MCLA algorithm
-  run script glue/dengueGenotypeCuratedSeqs.js

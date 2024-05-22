@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<textFilePopulator>
+
+    <columnDelimiterRegex>\t</columnDelimiterRegex>
+    
+    <textFileColumn>
+        <identifier>true</identifier>
+        <header>sequenceID</header>
+        <property>sequenceID</property>
+    </textFileColumn>
+
+    <textFileColumn>
+        <header>serotype</header>
+        <property>serotype</property>
+    </textFileColumn>
+
+    <textFileColumn>
+        <header>genotype</header>
+        <property>genotype</property>
+    </textFileColumn>
+
+    <textFileColumn>
+        <header>major_lineage</header>
+        <property>major_lineage</property>
+    </textFileColumn>
+
+    <textFileColumn>
+        <header>minor_lineage</header>
+        <property>minor_lineage</property>
+    </textFileColumn>
+
+    <textFileColumn>
+        <header>minor_sublineage</header>
+        <property>minor_sublineage</property>
+    </textFileColumn>
+
+    <skipMissing>true</skipMissing>
+
+</textFilePopulator>

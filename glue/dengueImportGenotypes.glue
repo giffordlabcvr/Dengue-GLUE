@@ -1,0 +1,12 @@
+
+  # Create side data importer module
+  create module -f modules/dengueSideDataImporterGenotypes.xml
+  
+  # Master references
+  module dengueSideDataImporterGenotypes populate -f tabular/master-references-taxdata.tsv
+  
+  # Yale reference set
+  module dengueSideDataImporterGenotypes populate -f tabular/yale-taxdata-denv1.tsv
+  module dengueSideDataImporterGenotypes populate -f tabular/yale-taxdata-denv2.tsv
+  module dengueSideDataImporterGenotypes populate -f tabular/yale-taxdata-denv3.tsv
+  module dengueSideDataImporterGenotypes populate -f tabular/yale-taxdata-denv4.tsv

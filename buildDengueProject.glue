@@ -1,0 +1,50 @@
+delete project dengue
+
+create project dengue "A GLUE project for Dengue virus (DENV)" --minVersion 1.1.107
+
+run file glue/dengueSchemaExtensions.glue
+ 
+project dengue
+
+  run file glue/dengueProjectSettings.glue
+  run file glue/dengueModules.glue
+
+  # Define dengue virus features
+  run file glue/dengueFeatures.glue
+
+  # Import sources
+  run file glue/dengueImportSources.glue
+
+  # Define references
+  run file glue/references/dengueMasterReferences.glue
+  run file glue/references/dengueGenotypeReferences.glue
+  run file glue/references/dengueMajorLineageReferences.glue
+  run file glue/references/dengueMinorLineageReferences.glue
+
+  # Import Yale genotype information
+  run file glue/dengueImportGenotypes.glue
+
+  # Compute the unconstrained MSAs containing only genotype reference sequences
+  run file glue/dengueCreateUncMsas.glue
+  run file glue/dengueComputeUncMsas.glue
+
+  # Define alignment tree
+  run file glue/dengueAlignmentTree.glue
+
+  # Derive constrained MSAs from unconstrained
+  run file glue/dengueDeriveConstrainedMsas.glue
+
+  # Compute reference phylogenies
+  #run file glue/dengueComputeRefPhylogenies.glue
+
+  # Prepare reference phylogenies
+  run file glue/denguePrepareRefPhylogenies.glue
+
+  # Import reference phylogenies
+  run file glue/dengueImportPhylogenies.glue
+
+  # Validate
+  validate
+
+  exit
+

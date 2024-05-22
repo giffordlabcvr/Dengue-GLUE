@@ -1,0 +1,6 @@
+
+compute alignment AL_UNC_DENV1_YALE dengueMafftAligner
+compute alignment AL_UNC_DENV2_YALE dengueMafftAligner
+compute alignment AL_UNC_DENV3_YALE dengueMafftAligner
+compute alignment AL_UNC_DENV4_YALE dengueMafftAligner
+

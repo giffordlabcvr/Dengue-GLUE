@@ -1,0 +1,10 @@
+
+  # Master references
+  import source sources/ncbi-master-refseqs
+
+  # Yale genotype references
+  import source sources/fasta-refseqs-yale-denv1
+  import source sources/fasta-refseqs-yale-denv2
+  import source sources/fasta-refseqs-yale-denv3
+  import source sources/fasta-refseqs-yale-denv4
+  #import source sources/fasta-refseqs-outgroups

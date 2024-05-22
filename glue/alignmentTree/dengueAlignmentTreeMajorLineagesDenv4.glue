@@ -1,0 +1,30 @@
+  ### Constrained alignment tree: major lineage-level alignments
+
+  # DENV4 major lineages
+
+  alignment AL_DENV_4I
+
+    set field displayName "4I"
+    set field clade_category "genotype"
+  
+	extract child AL_DENV_4I_A -r REF_DENV_4I_A_MN018395
+	demote member AL_DENV_4I_A --whereClause "sequence.major_lineage = '4I_A'"
+
+	extract child AL_DENV_4I_B -r REF_DENV_4I_B_MN018398
+	demote member AL_DENV_4I_B --whereClause "sequence.major_lineage = '4I_B'"
+ 
+	exit
+
+  alignment AL_DENV_4II
+
+    set field displayName "4II"
+    set field clade_category "genotype"
+  
+	extract child AL_DENV_4II_A -r REF_DENV_4II_A_MN018396
+	demote member AL_DENV_4II_A --whereClause "sequence.major_lineage = '4II_A'"
+   
+	extract child AL_DENV_4II_B -r REF_DENV_4II_B_KT276273
+	demote member AL_DENV_4II_B --whereClause "sequence.major_lineage = '4II_B'"
+ 
+	exit
+

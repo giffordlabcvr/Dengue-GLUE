@@ -4,10 +4,16 @@ schema-project dengue
 
   table sequence
 
+    create field gb_serotype VARCHAR 50
     create field serotype VARCHAR 50
     create field genotype VARCHAR 50
+    create field major_lineage VARCHAR 50
+    create field minor_lineage VARCHAR 50	
+    create field minor_sublineage VARCHAR 50	
+    
     create field length INTEGER
     create field pubmed_id INTEGER
+    
     create field gb_create_date DATE
     create field gb_update_date DATE
 

@@ -6,8 +6,38 @@
 	</figTreeAnnotation>
 
 	<figTreeAnnotation>
+		<annotationName>serotype</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.serotype')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
+	<figTreeAnnotation>
 		<annotationName>genotype</annotationName>
 		<valueFreemarkerTemplate>${renderNestedProperty('sequence.genotype')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
+	<figTreeAnnotation>
+		<annotationName>major_lineage</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.major_lineage')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
+	<figTreeAnnotation>
+		<annotationName>minor_lineage</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.minor_lineage')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
+	<figTreeAnnotation>
+		<annotationName>minor_sublineage</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.minor_sublineage')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
+	<figTreeAnnotation>
+		<annotationName>combined</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.serotype')}/${renderNestedProperty('sequence.genotype')}/${renderNestedProperty('sequence.major_lineage')}/${renderNestedProperty('sequence.minor_lineage')}/${renderNestedProperty('sequence.minor_sublineage')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
+	<figTreeAnnotation>
+		<annotationName>combined-with-id</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.sequenceID')}/${renderNestedProperty('sequence.serotype')}/${renderNestedProperty('sequence.genotype')}/${renderNestedProperty('sequence.major_lineage')}/${renderNestedProperty('sequence.minor_lineage')}</valueFreemarkerTemplate>
 	</figTreeAnnotation>
 
 	<figTreeAnnotation>

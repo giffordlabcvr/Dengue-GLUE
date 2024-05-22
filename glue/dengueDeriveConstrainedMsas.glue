@@ -1,0 +1,21 @@
+
+  
+  # Derive constrained alignments from unconstrained alignments
+  
+  alignment AL_DENV_1
+	derive segments AL_UNC_DENV1_YALE --recursive --existingMembersOnly --allMembers --mergeStrategy OVERWRITE
+	exit
+
+  alignment AL_DENV_2
+	derive segments AL_UNC_DENV2_YALE --recursive --existingMembersOnly --allMembers --mergeStrategy OVERWRITE
+	exit
+
+  alignment AL_DENV_3
+	derive segments AL_UNC_DENV3_YALE --recursive --existingMembersOnly --allMembers --mergeStrategy OVERWRITE
+	exit
+
+  alignment AL_DENV_4
+	derive segments AL_UNC_DENV4_YALE --recursive --existingMembersOnly --allMembers --mergeStrategy OVERWRITE
+	exit
+
+

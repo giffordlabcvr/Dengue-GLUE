@@ -1,0 +1,41 @@
+ 
+project dengue
+
+	# Clean up any previously declared extension modules
+	delete module dengueSerotypeRecogniser
+	delete module denv1MaxLikelihoodGenotyper
+	delete module denv1MaxLikelihoodPlacer
+	delete module denv2MaxLikelihoodGenotyper
+	delete module denv2MaxLikelihoodPlacer
+	delete module denv3MaxLikelihoodGenotyper
+	delete module denv3MaxLikelihoodPlacer
+	delete module denv4MaxLikelihoodGenotyper
+	delete module denv4MaxLikelihoodPlacer
+
+	# Create genotyping modules
+	create module -f modules/assignment/dengueSerotypeRecogniser.xml
+	create module -f modules/assignment/denv1MaxLikelihoodGenotyper.xml
+	create module -f modules/assignment/denv1MaxLikelihoodPlacer.xml
+	create module -f modules/assignment/denv2MaxLikelihoodGenotyper.xml
+	create module -f modules/assignment/denv2MaxLikelihoodPlacer.xml
+	create module -f modules/assignment/denv3MaxLikelihoodGenotyper.xml
+	create module -f modules/assignment/denv3MaxLikelihoodPlacer.xml
+	create module -f modules/assignment/denv4MaxLikelihoodGenotyper.xml
+	create module -f modules/assignment/denv4MaxLikelihoodPlacer.xml
+
+	# Import sources
+	delete source yale-test-set
+	import source /Users/rob/Sources/dengue/yale-test-set
+
+    # Previous test set sources
+ 	#import source /Users/rob/Sources/dengue/ncbi-curated-test
+	#import source /Users/rob/Sources/dengue/ncbi-curated
+	#import source /Users/rob/Sources/dengue/ncbi-curated-short
+
+	# Run script to determine serotypes using BLAST-based recogniser
+	run script glue/dengueRecogniseTestSeqs.js
+
+	# Run script to determine serotypes via GLUE's MCLA algorithm
+	run script glue/dengueGenotypeTestSeqs.js
+
+	exit
