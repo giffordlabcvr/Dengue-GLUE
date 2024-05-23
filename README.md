@@ -61,11 +61,21 @@ For detailed instructions on how to use Dengue-GLUE for your comparative genomic
 
 ## Genotyping
 
-To classify DENV1, DENV2, DENV3 or DENV4 sequences via maximum likelihood clade assignment (MLCA)-based genotyping, call the appropriate genotyping module as follows:
+To classify DENV1, DENV2, DENV3 or DENV4 sequences via maximum likelihood clade assignment (MLCA)-based genotyping, call the appropriate genotyping module from the GLUE console, for example:
 
 ```
+Mode path: /
+GLUE> project dengue
+OK
 Mode path: /project/dengue
 GLUE> module denv2MaxLikelihoodGenotyper genotype file -f path/to/sequences/denv2.fasta 
+```
+
+Please note the above command sequence is equivalent to the following:
+
+```
+Mode path: /
+GLUE> project dengue module denv2MaxLikelihoodGenotyper genotype file -f path/to/sequences/denv2.fasta 
 ```
 
 If you need to first determine the serotypes of your input sequences, use Dengue-GLUE's BLAST-based serotype recogniser module as shown:
