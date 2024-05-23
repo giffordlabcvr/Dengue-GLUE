@@ -27,7 +27,7 @@ The Dengue-GLUE base project can be extended with additional layers, openly avai
 
 - **Phylogenetic Structure**: Sequence data in Dengue-GLUE is organized in a phylogenetically-structured manner, allowing users to explore evolutionary relationships easily.
 
-- **Rich Annotations**: Each sequence is annotated with gene features, enabling rigorous comparative genomic analysis related to conservation, adaptation, structural context, and genotype-to-phenotype associations.
+- **Rich Annotations**: Annotated reference sequences enable rigorous comparative genomic analysis related to conservation, adaptation, structural context, and genotype-to-phenotype associations.
 
 - **Automated Genotyping**: Dengue-GLUE can perform automated genotyping of DENV sequences (including subgenomic sequences) following [recently proposed lineage nomenclature](https://dengue-lineages.org), via GLUE's [maximum likelihood clade assignment (MLCA) algorithm](https://doi.org/10.1186/s12859-018-2459-9). 
 
