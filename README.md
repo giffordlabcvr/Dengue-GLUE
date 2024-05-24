@@ -29,7 +29,9 @@ The Dengue-GLUE base project can be extended with additional layers, openly avai
 
 - **Rich Annotations**: Annotated reference sequences enable rigorous comparative genomic analysis related to conservation, adaptation, structural context, and genotype-to-phenotype associations.
 
-- **Automated Genotyping**: Dengue-GLUE can perform automated genotyping of DENV sequences (including subgenomic sequences) following [recently proposed lineage nomenclature](https://dengue-lineages.org), via GLUE's [maximum likelihood clade assignment (MLCA) algorithm](https://doi.org/10.1186/s12859-018-2459-9). 
+- **Automated Genotyping**: Dengue-GLUE can perform automated genotyping of DENV sequences (including subgenomic sequences) following [recently proposed lineage nomenclature](https://dengue-lineages.org), via GLUE's [maximum likelihood clade assignment (MLCA) algorithm](https://doi.org/10.1186/s12859-018-2459-9).
+
+- **Exploratory and operational**: The GLUE framework allows sequence-based resources to be used for exploratory work in a research setting, as well as operational work in a public or animal health setting.
 
 
 ## Installation
