@@ -87,7 +87,7 @@ GLUE> module dengueSerotypeRecogniser recognise file -i path/to/sequences/denv.f
 
 ## Mutation frequencies
 
-Dengue GLUE can provide a detailed frequency distribution of amino acids at a specific position within a DENV coding feature, based on the alignments contained with the project. This can enable insights into the variability and conservation of DENV proteins.
+Dengue-GLUE can provide a detailed frequency distribution of amino acids at a specific position within a DENV coding feature, based on the alignments contained with the project. This can enable insights into the variability and conservation of DENV proteins.
 
 The following command in the GLUE console calculates the amino acid frequencies at a specific position within a feature of a dengue virus type 2 (DENV2) alignment:
 
