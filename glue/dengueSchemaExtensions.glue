@@ -1,5 +1,12 @@
 schema-project dengue
 
+  #~# Custom tables
+  
+  create custom-table isolate_data
+  create custom-table denv_replacement
+  create custom-table denv_replacement_sequence --idFieldLength 200
+
+
   #~# Extensions to sequence table
 
   table sequence
@@ -16,6 +23,9 @@ schema-project dengue
     
     create field gb_create_date DATE
     create field gb_update_date DATE
+    
+    # true if variations are present in the sequence
+    create field variation_present BOOLEAN
 
     exit
 
@@ -36,8 +46,6 @@ schema-project dengue
 
 
   #~# Create schema extension for virus isolates
-  
-  create custom-table isolate_data
 
   table isolate_data
   
@@ -53,7 +61,34 @@ schema-project dengue
     create field collection_month_day INTEGER
     exit
 
-  create link sequence isolate_data
+
+  #~# Create schema extension for replacements
+
+  table denv_replacement
   
+    create field display_name VARCHAR
+    create field codon_label VARCHAR
+    create field codon_label_int INTEGER
+    create field reference_aa VARCHAR
+    create field reference_nt INTEGER
+    create field replacement_aa VARCHAR
+    create field num_seqs INTEGER
+    create field radical_hanada_category_i BOOLEAN
+    create field radical_hanada_category_ii BOOLEAN
+    create field radical_hanada_category_iii BOOLEAN
+    create field grantham_distance_double DOUBLE
+    create field grantham_distance_int INTEGER
+    create field miyata_distance DOUBLE
+    create field parent_feature VARCHAR
+    create field parent_codon_label VARCHAR
+    exit
+
+
+  create link sequence isolate_data
+
+  create link variation denv_replacement -m ONE_TO_ONE
+  create link denv_replacement denv_replacement_sequence -m ONE_TO_MANY
+  create link sequence denv_replacement_sequence -m ONE_TO_MANY
   
   exit
+

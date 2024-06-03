@@ -1,0 +1,26 @@
+# this file expects the core RABV project and NCBI extension to be in place.
+# by the end of the script, new sequence files and placements have been added on disk
+# so that next time the whole thing is rebuilt they will be included.
+
+project rabv
+
+  # synchronize ncbi-curated live source and disk files with NCBI database
+  module ncbiRabvUpdateCuratedSequences
+  	invoke-function syncCurated
+    exit
+
+  # mark new sequences as "incoming"
+  multi-set field sequence -w "source.name = 'ncbi-curated' and ncbi_incoming = null" ncbi_incoming true
+
+  # create placements for the incoming sequences.
+  module ncbiRabvUpdateCuratedSequences
+    invoke-function placeCuratedIncoming
+    exit
+
+  exit
+
+
+project rabv
+  run script ncbiRabvRecordNumIncoming.js
+  multi-set field sequence -w "source.name = 'ncbi-curated'" ncbi_incoming false
+  exit 

@@ -1,0 +1,13 @@
+
+project dengue
+
+	# Add sequences to alignment tree
+	#To do
+
+	# Generate replacements
+	run script glue/generateReplacements/denv1GenerateReplacements.js
+	run script glue/generateReplacements/denv2GenerateReplacements.js
+	run script glue/generateReplacements/denv3GenerateReplacements.js
+	run script glue/generateReplacements/denv4GenerateReplacements.js
+
+	exits
