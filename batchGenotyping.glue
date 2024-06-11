@@ -1,6 +1,6 @@
 # README: this routine expects to read in a directory called 'input-sequences'.
 # The directory should contain DENV sequences in FASTA or GenBank XML format.
-# Before using the script, uupdate the 'import source' line below to point to the
+# Before using the script, update the 'import source' line below to point to the
 # location of the 'input-sequences' directory on your computer.  
 
 # To see results use this command on the GLUE console:

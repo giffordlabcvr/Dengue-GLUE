@@ -10,7 +10,7 @@ _.each(sequenceBatch, function(sequenceBatch) {
 
 	var sequenceID = sequenceBatch.sequenceID;
 	var sourceName ='input-sequences';
-	var serotype	= sequenceBatch.serotype;	
+	var serotype   = sequenceBatch.serotype;	
 	//glue.log("INFO", "ID RESULT WAS ", sequenceID);	
 	//glue.log("INFO", "Serotype RESULT WAS ", serotype);
 
