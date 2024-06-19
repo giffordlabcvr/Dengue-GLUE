@@ -1,6 +1,10 @@
-# Basic modules
-create module -t tabularUtility dengueTabularUtility
 
-# Modules with config files
-create module --fileName modules/unconstrainedAlignmentImporter.xml
+	# Basic modules
+	create module -t tabularUtility dengueTabularUtility
+	create module -f modules/tabularUtilityCsv.xml
+	create module -f modules/tabularUtilityTab.xml
+
+	# Modules with config files
+	create module --fileName modules/unconstrainedAlignmentImporter.xml
+
 

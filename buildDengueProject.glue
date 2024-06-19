@@ -9,6 +9,9 @@ project dengue
   run file glue/dengueProjectSettings.glue
   run file glue/dengueModules.glue
 
+  # Set up ISO countries  
+  run file glue/m49_countries/populateM49All.glue
+
   # Define dengue virus features
   run file glue/dengueFeatures.glue
 
@@ -20,9 +23,6 @@ project dengue
   run file glue/references/dengueGenotypeReferences.glue
   run file glue/references/dengueMajorLineageReferences.glue
   run file glue/references/dengueMinorLineageReferences.glue
-
-  # Import Yale genotype information
-  run file glue/dengueImportGenotypes.glue
 
   # Compute the unconstrained MSAs containing only genotype reference sequences
   run file glue/dengueCreateUncMsas.glue
