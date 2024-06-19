@@ -18,6 +18,9 @@ project dengue
   # Import sources
   run file glue/dengueImportSources.glue
 
+  # Import data
+  run file glue/dengueImportData.glue
+  
   # Define references
   run file glue/references/dengueMasterReferences.glue
   run file glue/references/dengueGenotypeReferences.glue

@@ -6,5 +6,5 @@
 
 	# Modules with config files
 	create module --fileName modules/unconstrainedAlignmentImporter.xml
-
-
+	create module --fileName modules/dengueGenbankXmlPopulator.xml
+	
