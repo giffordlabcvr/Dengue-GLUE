@@ -59,6 +59,40 @@
 				<outputTemplate>${g1?trim}</outputTemplate>
 			</propertyPopulator>
 			<isoCountryPropertyPopulator property="m49_country" codeStyle="ALPHA_3">
+			
+				<valueConverter>
+					<matchPattern>.*Brunei.*</matchPattern>
+					<outputTemplate>BRN</outputTemplate>
+				</valueConverter>
+				<valueConverter>
+					<matchPattern>.*U.S. Virgin Islands.*</matchPattern>
+					<outputTemplate>VIR</outputTemplate>
+				</valueConverter>
+				<valueConverter>
+					<matchPattern>.*Virgin Islands: Saint John.*</matchPattern>
+					<outputTemplate>VIR</outputTemplate>
+				</valueConverter>
+				<valueConverter>
+					<matchPattern>.*Wallis and Futuna.*</matchPattern>
+					<outputTemplate>WLF</outputTemplate>
+				</valueConverter>
+				<valueConverter>
+					<matchPattern>.*Saint Barthelemy.*</matchPattern>
+					<outputTemplate>BLM</outputTemplate>
+				</valueConverter>
+				<valueConverter>
+					<matchPattern>.*East Timor.*</matchPattern>
+					<outputTemplate>TLS</outputTemplate>
+				</valueConverter>
+				<valueConverter>
+					<matchPattern>.*Borneo.*</matchPattern>
+					<outputTemplate>MYS</outputTemplate>
+				</valueConverter>
+				<valueConverter>
+					<matchPattern>.*Saint Martin.*</matchPattern>
+					<outputTemplate>MAF</outputTemplate>
+				</valueConverter>
+
 			</isoCountryPropertyPopulator>
 		</gbQualifier>
 
