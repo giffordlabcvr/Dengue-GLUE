@@ -146,14 +146,6 @@
 		<minimumIdentityPct>70</minimumIdentityPct>
 	  	<minimumBitScore>200</minimumBitScore>
 	  	<minimumTotalAlignLength>100</minimumTotalAlignLength>
-	  	<referenceSequence>REF_DENV_2III_B_FJ898450</referenceSequence>
-	</recognitionCategory>
-
-	<recognitionCategory>
-		<id>2</id>
-		<minimumIdentityPct>70</minimumIdentityPct>
-	  	<minimumBitScore>200</minimumBitScore>
-	  	<minimumTotalAlignLength>100</minimumTotalAlignLength>
 	  	<referenceSequence>REF_DENV_2III_C_EU687212</referenceSequence>
 	</recognitionCategory>
 

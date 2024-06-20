@@ -7,4 +7,16 @@
 	# Modules with config files
 	create module --fileName modules/unconstrainedAlignmentImporter.xml
 	create module --fileName modules/dengueGenbankXmlPopulator.xml
+
+	# Create serotype recognition and genotyping modules
+	create module -f modules/assignment/dengueSerotypeRecogniser.xml
+	create module -f modules/assignment/denv1MaxLikelihoodGenotyper.xml
+	create module -f modules/assignment/denv1MaxLikelihoodPlacer.xml
+	create module -f modules/assignment/denv2MaxLikelihoodGenotyper.xml
+	create module -f modules/assignment/denv2MaxLikelihoodPlacer.xml
+	create module -f modules/assignment/denv3MaxLikelihoodGenotyper.xml
+	create module -f modules/assignment/denv3MaxLikelihoodPlacer.xml
+	create module -f modules/assignment/denv4MaxLikelihoodGenotyper.xml
+	create module -f modules/assignment/denv4MaxLikelihoodPlacer.xml
+	
 	
