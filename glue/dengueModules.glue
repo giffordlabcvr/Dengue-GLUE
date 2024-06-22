@@ -4,7 +4,7 @@
 	create module -f modules/tabularUtilityCsv.xml
 	create module -f modules/tabularUtilityTab.xml
 
-	# Modules with config files
+	# Import modules
 	create module --fileName modules/unconstrainedAlignmentImporter.xml
 	create module --fileName modules/dengueGenbankXmlPopulator.xml
 
@@ -18,5 +18,10 @@
 	create module -f modules/assignment/denv3MaxLikelihoodPlacer.xml
 	create module -f modules/assignment/denv4MaxLikelihoodGenotyper.xml
 	create module -f modules/assignment/denv4MaxLikelihoodPlacer.xml
+
+    # AA replacement analysis modules
+	create module -f modules/denvMiyata1979DistanceCalculator.xml
+	create module -f modules/denvHanada2006ReplacementClassifier.xml
+	create module -f modules/denvGrantham1974DistanceCalculator.xml
 	
 	
