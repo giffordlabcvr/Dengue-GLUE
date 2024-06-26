@@ -30,6 +30,8 @@ schema-project dengue
     exit
 
 
+  #~# Alignment table extensions 
+
   table alignment
   
     create field clade_category VARCHAR 20
