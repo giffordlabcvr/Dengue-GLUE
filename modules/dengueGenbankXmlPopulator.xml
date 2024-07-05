@@ -92,6 +92,19 @@
 					<matchPattern>.*Saint Martin.*</matchPattern>
 					<outputTemplate>MAF</outputTemplate>
 				</valueConverter>
+				<valueConverter>
+					<matchPattern>.*Saint Vincent and the Grenadines.*</matchPattern>
+					<outputTemplate>VCT</outputTemplate>
+				</valueConverter>
+				<valueConverter>
+					<matchPattern>Virgin Islands</matchPattern>
+					<outputTemplate>VGB</outputTemplate>
+				</valueConverter>
+				<valueConverter>
+					<matchPattern>Pacific Ocean</matchPattern>
+					<outputTemplate>VUT</outputTemplate>
+				</valueConverter>
+
 
 			</isoCountryPropertyPopulator>
 		</gbQualifier>
