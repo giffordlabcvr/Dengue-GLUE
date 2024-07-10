@@ -7,7 +7,7 @@
 		<displayName>Serotype</displayName>	
 		<whereClause>displayName = '4'</whereClause>
 		<distanceScalingExponent>-3.0</distanceScalingExponent>
-		<distanceCutoff>0.4</distanceCutoff>
+		<distanceCutoff>0.1</distanceCutoff>
 		<finalCladeCutoff>80.0</finalCladeCutoff>
 	</cladeCategory>
 	
@@ -16,7 +16,7 @@
 		<displayName>Genotype</displayName>	
 		<whereClause>displayName like '4%' and clade_category = 'genotype'</whereClause>
 		<distanceScalingExponent>-3.0</distanceScalingExponent>
-		<distanceCutoff>0.1</distanceCutoff>
+		<distanceCutoff>0.08</distanceCutoff>
 		<finalCladeCutoff>80.0</finalCladeCutoff>
 	</cladeCategory>
 
@@ -25,7 +25,7 @@
 		<displayName>Major lineage</displayName>	
 		<whereClause>displayName like '4%' and clade_category = 'major_lineage'</whereClause>
 		<distanceScalingExponent>-3.0</distanceScalingExponent>
-	    <distanceCutoff>0.08</distanceCutoff>
+	    <distanceCutoff>0.05</distanceCutoff>
 		<finalCladeCutoff>80.0</finalCladeCutoff>		
 	</cladeCategory>
 
@@ -34,7 +34,7 @@
 		<displayName>Minor lineage</displayName>	
 		<whereClause>displayName like '4%' and clade_category = 'minor_lineage'</whereClause>
 		<distanceScalingExponent>-3.0</distanceScalingExponent>
-	    <distanceCutoff>0.05</distanceCutoff>
+	    <distanceCutoff>0.025</distanceCutoff>
 		<finalCladeCutoff>80.0</finalCladeCutoff>		
 	</cladeCategory>
 
@@ -43,7 +43,7 @@
 		<displayName>Minor sublineage</displayName>	
 		<whereClause>displayName like '4%' and clade_category = 'minor_sublineage'</whereClause>
 		<distanceScalingExponent>-3.0</distanceScalingExponent>
-	    <distanceCutoff>0.01</distanceCutoff>
+	    <distanceCutoff>0.015</distanceCutoff>
 		<finalCladeCutoff>80.0</finalCladeCutoff>		
 	</cladeCategory>
 

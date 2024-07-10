@@ -16,7 +16,7 @@
 		<displayName>Genotype</displayName>	
 		<whereClause>displayName like '3%' and clade_category = 'genotype'</whereClause>
 		<distanceScalingExponent>-3.0</distanceScalingExponent>
-		<distanceCutoff>0.1</distanceCutoff>
+		<distanceCutoff>0.06</distanceCutoff>
 		<finalCladeCutoff>80.0</finalCladeCutoff>
 	</cladeCategory>
 
@@ -25,8 +25,8 @@
 		<displayName>Major lineage</displayName>	
 		<whereClause>displayName like '3%' and clade_category = 'major_lineage'</whereClause>
 		<distanceScalingExponent>-3.0</distanceScalingExponent>
-	    <distanceCutoff>0.08</distanceCutoff>
-		<finalCladeCutoff>80.0</finalCladeCutoff>		
+	    <distanceCutoff>0.03</distanceCutoff>
+		<finalCladeCutoff>70.0</finalCladeCutoff>		
 	</cladeCategory>
 
 	<cladeCategory>
@@ -34,17 +34,8 @@
 		<displayName>Minor lineage</displayName>	
 		<whereClause>displayName like '3%' and clade_category = 'minor_lineage'</whereClause>
 		<distanceScalingExponent>-3.0</distanceScalingExponent>
-	    <distanceCutoff>0.05</distanceCutoff>
-		<finalCladeCutoff>80.0</finalCladeCutoff>		
-	</cladeCategory>
-
-	<cladeCategory>
-		<name>minor_sublineage</name>	
-		<displayName>Minor sublineage</displayName>	
-		<whereClause>displayName like '3%' and clade_category = 'minor_sublineage'</whereClause>
-		<distanceScalingExponent>-3.0</distanceScalingExponent>
-	    <distanceCutoff>0.01</distanceCutoff>
-		<finalCladeCutoff>80.0</finalCladeCutoff>		
+	    <distanceCutoff>0.018</distanceCutoff>
+		<finalCladeCutoff>70.0</finalCladeCutoff>		
 	</cladeCategory>
 
 </maxLikelihoodGenotyper>
