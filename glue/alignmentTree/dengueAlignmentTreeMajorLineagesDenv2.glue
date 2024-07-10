@@ -70,3 +70,37 @@
 
 	exit
  
+
+
+  #### Set clade categories in DENV2 major lineages with no minor lineages
+ 
+  alignment AL_DENV_2III_B
+   set field displayName "2III_B"
+   set field clade_category "major_lineage" 
+   exit
+  
+  alignment AL_DENV_2II_B
+   set field displayName "2II_B"
+   set field clade_category "major_lineage" 
+   exit
+ 
+  alignment AL_DENV_2V_B
+   set field displayName "2V_B"
+   set field clade_category "major_lineage" 
+   exit
+ 
+  alignment AL_DENV_2V_C
+   set field displayName "2V_C"
+   set field clade_category "major_lineage" 
+   exit
+ 
+  alignment AL_DENV_2V_D
+   set field displayName "2V_D"
+   set field clade_category "major_lineage" 
+   exit
+ 
+  alignment AL_DENV_2V_E
+   set field displayName "2V_E"
+   set field clade_category "major_lineage" 
+   exit
+

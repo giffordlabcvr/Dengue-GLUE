@@ -112,3 +112,117 @@
 
 	exit
 
+
+  #### Set clade categories in DENV1 major lineages with no minor lineages
+ 
+  alignment AL_DENV_1III_A
+   set field displayName "1III_A"
+   set field clade_category "major_lineage" 
+   exit
+ 
+  alignment AL_DENV_1III_B
+   set field displayName "1III_B"
+   set field clade_category "major_lineage" 
+   exit
+ 
+  alignment AL_DENV_1IV_A
+   set field displayName "1IV_A"
+   set field clade_category "major_lineage" 
+   exit
+ 
+  alignment AL_DENV_1IV_C
+   set field displayName "1IV_C"
+   set field clade_category "major_lineage" 
+   exit
+ 
+  alignment AL_DENV_1I_A
+   set field displayName "1I_A"
+   set field clade_category "major_lineage" 
+   exit
+ 
+  alignment AL_DENV_1I_B
+   set field displayName "1I_B"
+   set field clade_category "major_lineage" 
+   exit
+ 
+  alignment AL_DENV_1I_C
+   set field displayName "1I_C"
+   set field clade_category "major_lineage" 
+   exit
+ 
+  alignment AL_DENV_1I_C
+   set field displayName "1I_C"
+   set field clade_category "major_lineage" 
+   exit
+ 
+  alignment AL_DENV_1I_D
+   set field displayName "1I_D"
+   set field clade_category "major_lineage" 
+   exit
+
+  alignment AL_DENV_1I_F
+   set field displayName "1I_F"
+   set field clade_category "major_lineage" 
+   exit
+
+  alignment AL_DENV_1I_G
+   set field displayName "1I_G"
+   set field clade_category "major_lineage" 
+   exit
+
+  alignment AL_DENV_1I_J
+   set field displayName "1I_J"
+   set field clade_category "major_lineage" 
+   exit
+
+  alignment AL_DENV_1I_J
+   set field displayName "1I_J"
+   set field clade_category "major_lineage" 
+   exit
+
+  alignment AL_DENV_1VI_A
+   set field displayName "1VI_A"
+   set field clade_category "major_lineage" 
+   exit
+
+  alignment AL_DENV_1VI_B
+   set field displayName "1VI_B"
+   set field clade_category "major_lineage" 
+   exit
+
+  alignment AL_DENV_1V_A
+   set field displayName "1V_A"
+   set field clade_category "major_lineage" 
+   exit
+
+  alignment AL_DENV_1V_B
+   set field displayName "1V_B"
+   set field clade_category "major_lineage" 
+   exit
+
+  alignment AL_DENV_1V_C
+   set field displayName "1V_C"
+   set field clade_category "major_lineage" 
+   exit
+
+  alignment AL_DENV_1V_D
+   set field displayName "1V_D"
+   set field clade_category "major_lineage" 
+   exit
+
+  alignment AL_DENV_1V_E
+   set field displayName "1V_E"
+   set field clade_category "major_lineage" 
+   exit
+
+  alignment AL_DENV_1V_F
+   set field displayName "1V_F"
+   set field clade_category "major_lineage" 
+   exit
+
+  alignment AL_DENV_1V_G
+   set field displayName "1V_G"
+   set field clade_category "major_lineage" 
+   exit
+
+

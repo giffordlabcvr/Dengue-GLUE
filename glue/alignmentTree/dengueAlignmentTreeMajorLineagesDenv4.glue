@@ -28,3 +28,10 @@
  
 	exit
 
+
+  #### Set clade categories in DENV4 major lineages with no minor lineages
+  
+  alignment AL_DENV_4II_B
+   set field displayName "4II_B"
+   set field clade_category "major_lineage" 
+   exit

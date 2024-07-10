@@ -135,7 +135,6 @@
 
   #### Set clade categories in DENV2 minor lineages with no level 2 (L2) sub-lineages
 
-
   alignment AL_DENV_2II_A1
     set field displayName "2II_A1"
     set field clade_category "minor_lineage" 
@@ -150,6 +149,11 @@
     set field displayName "2II_C2"
     set field clade_category "minor_lineage" 
 	exit
+	
+  alignment AL_DENV_2III_C2
+   set field displayName "2III_C2"
+   set field clade_category "minor_lineage" 
+   exit
 
   alignment AL_DENV_2II_D1
     set field displayName "2II_D1"

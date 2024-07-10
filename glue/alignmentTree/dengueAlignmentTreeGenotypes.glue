@@ -82,3 +82,30 @@
 	
 	exit
 
+
+
+  #### Set clade categories in genotypes with no major lineages
+
+  alignment AL_DENV_2I
+   set field displayName "2I"
+   set field clade_category "genotype" 
+   exit
+
+  alignment AL_DENV_2IV
+   set field displayName "2IV"
+   set field clade_category "genotype" 
+   exit
+
+  alignment AL_DENV_2VI
+   set field displayName "2VI"
+   set field clade_category "genotype" 
+   exit
+
+  alignment AL_DENV_4III
+   set field displayName "4III"
+   set field clade_category "genotype" 
+   exit
+ 
+
+
+
