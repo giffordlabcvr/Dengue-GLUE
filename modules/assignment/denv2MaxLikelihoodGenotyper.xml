@@ -16,8 +16,8 @@
 		<displayName>Genotype</displayName>	
 		<whereClause>displayName like '2%' and clade_category = 'genotype'</whereClause>
 		<distanceScalingExponent>-3.0</distanceScalingExponent>
-		<distanceCutoff>0.07</distanceCutoff>
-		<finalCladeCutoff>70.0</finalCladeCutoff>
+		<distanceCutoff>0.1</distanceCutoff>
+		<finalCladeCutoff>80.0</finalCladeCutoff>
 	</cladeCategory>
 
 	<cladeCategory>
@@ -25,7 +25,7 @@
 		<displayName>Major lineage</displayName>	
 		<whereClause>displayName like '2%' and clade_category = 'major_lineage'</whereClause>
 		<distanceScalingExponent>-3.0</distanceScalingExponent>
-	    <distanceCutoff>0.05</distanceCutoff>
+	    <distanceCutoff>0.08</distanceCutoff>
 		<finalCladeCutoff>70.0</finalCladeCutoff>		
 	</cladeCategory>
 
