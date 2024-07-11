@@ -2,7 +2,7 @@
 
 ## Overview
 
-<img src="md/dengue-glue-logo.png" align="right" alt="" width="260" />
+<img src="md/dengue-glue-logo.png" align="right" alt="" width="280" />
 
 Dengue-GLUE is a sequence-oriented resource for comparative genomic analysis of dengue virus (DENV), developed using the [GLUE](https://github.com/giffordlabcvr/gluetools) software framework.
 
