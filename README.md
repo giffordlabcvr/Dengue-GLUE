@@ -1,8 +1,8 @@
 # Dengue-GLUE: Phylogenomic Analysis of Dengue Virus
 
-Welcome to the GitHub repository for **Dengue-GLUE**!
-
 <img src="md/dengue-glue-logo.png" align="right" alt="" width="280" />
+
+Welcome to the GitHub repository for **Dengue-GLUE**!
 
 Dengue-GLUE is a sequence-oriented resource for comparative genomic analysis of dengue virus (DENV), developed using the **[GLUE](https://github.com/giffordlabcvr/gluetools)** software framework.
 
@@ -10,7 +10,7 @@ GLUE is an open, integrated software toolkit designed for storing and interpreti
 
 Projects are loaded into the GLUE "engine," forming a relational database that represents the semantic relationships between data items. This foundation supports systematic comparative analyses and the development of sequence-based resources.
 
-**Dengue-GLUE** contains DENV feature definitions, alignments, and reference sequences for all DENV serotypes, genotypes, as well as all major and minor lineages defined **[here](https://dengue-lineages.org)**.
+**Dengue-GLUE** contains DENV feature definitions, alignments, and reference sequences for all DENV serotypes and genotypes, as well as all major and minor lineages defined **[here](https://dengue-lineages.org)**.
 
 This Dengue-GLUE base project can be extended with additional layers, openly available via GitHub. These include **[NCBI-Dengue-GLUE](https://github.com/giffordlabcvr/NCBI-Dengue-GLUE)**: which extends Dengue-GLUE through the incorporation of all DENV sequence data published in NCBI GenBank.
 
