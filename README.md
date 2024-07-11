@@ -1,6 +1,6 @@
 # Dengue-GLUE: Phylogenomic Analysis of Dengue Virus
 
-## Overview
+Welcome to the GitHub repository for **Dengue-GLUE**!
 
 <img src="md/dengue-glue-logo.png" align="right" alt="" width="280" />
 
