@@ -92,7 +92,7 @@ schema-project dengue
   create link denv_replacement denv_replacement_sequence -m ONE_TO_MANY
   create link sequence denv_replacement_sequence -m ONE_TO_MANY
 
-  #~# m49 country/region extension
+  #~# WHO regions / countries etc (M49 standard)
   
   run file glue/m49_countries/m49SchemaExtension.glue 
   create link sequence m49_country -m MANY_TO_ONE
