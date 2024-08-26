@@ -26,6 +26,7 @@ project dengue
   run file glue/references/dengueGenotypeReferences.glue
   run file glue/references/dengueMajorLineageReferences.glue
   run file glue/references/dengueMinorLineageReferences.glue
+  die
 
   # Compute the unconstrained MSAs containing only genotype reference sequences
   run file glue/dengueCreateUncMsas.glue

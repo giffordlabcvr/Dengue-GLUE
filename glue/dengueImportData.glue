@@ -1,6 +1,12 @@
   
-  # Import genotype data
-  run file glue/dengueImportGenotypes.glue
+  # Create side data importer module
+  create module -f modules/dengueSideDataImporterGenotypes.xml
+  
+  # Master references
+  module dengueSideDataImporterGenotypes populate -f tabular/master-references-taxdata.tsv
+  
+  # Yale reference set
+  module dengueSideDataImporterGenotypes populate -f tabular/representative_sequences.tsv
 
   # Link sequences to genotype data
   run script glue/dengueLinkIsolateRefseqs.js
