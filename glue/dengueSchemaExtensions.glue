@@ -17,7 +17,9 @@ schema-project dengue
     create field major_lineage VARCHAR 50
     create field minor_lineage VARCHAR 50	
     create field minor_sublineage VARCHAR 50	
-    
+    create field minor_subsublineage VARCHAR 50	
+    create field outgroup VARCHAR 50	
+
     create field length INTEGER
     create field pubmed_id INTEGER
     
