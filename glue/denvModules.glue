@@ -6,10 +6,10 @@
 
 	# Import modules
 	create module --fileName modules/unconstrainedAlignmentImporter.xml
-	create module --fileName modules/dengueGenbankXmlPopulator.xml
+	create module --fileName modules/denvGenbankXmlPopulator.xml
 
 	# Create serotype recognition and genotyping modules
-	create module -f modules/assignment/dengueSerotypeRecogniser.xml
+	create module -f modules/assignment/denvSerotypeRecogniser.xml
 	create module -f modules/assignment/denv1MaxLikelihoodGenotyper.xml
 	create module -f modules/assignment/denv1MaxLikelihoodPlacer.xml
 	create module -f modules/assignment/denv2MaxLikelihoodGenotyper.xml

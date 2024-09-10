@@ -3,7 +3,7 @@ delete alignment AL_UNC_DENV2_YALE
 delete alignment AL_UNC_DENV3_YALE
 delete alignment AL_UNC_DENV4_YALE
 
-create module -f modules/dengueMafftAligner.xml
+create module -f modules/denvMafftAligner.xml
 
 create alignment AL_UNC_DENV1_YALE 
 alignment AL_UNC_DENV1_YALE add member -w "serotype = '1'"
