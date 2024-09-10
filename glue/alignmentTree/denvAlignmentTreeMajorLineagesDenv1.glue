@@ -99,16 +99,16 @@
 	exit
 	
 
-  alignment AL_DENV_1VI
+  alignment AL_DENV_1VII
 
-    set field displayName "1VI"
+    set field displayName "1VII"
     set field clade_category "genotype"
   
-	extract child AL_DENV_1VI_A -r REF_DENV_1VI_A_KF184975
-	demote member AL_DENV_1VI_A --whereClause "sequence.major_lineage = '1VI_A'"
+	extract child AL_DENV_1VII_A -r REF_DENV_1VII_A_MZ130532
+	demote member AL_DENV_1VII_A --whereClause "sequence.major_lineage = '1VII_A'"
 
-	extract child AL_DENV_1VI_B -r REF_DENV_1VI_B_MG877557
-	demote member AL_DENV_1VI_B --whereClause "sequence.major_lineage = '1VI_B'"
+	extract child AL_DENV_1VII_B -r REF_DENV_1VII_B_MG877557
+	demote member AL_DENV_1VII_B --whereClause "sequence.major_lineage = '1VII_B'"
 
 	exit
 
@@ -180,16 +180,6 @@
    set field clade_category "major_lineage" 
    exit
 
-  alignment AL_DENV_1VI_A
-   set field displayName "1VI_A"
-   set field clade_category "major_lineage" 
-   exit
-
-  alignment AL_DENV_1VI_B
-   set field displayName "1VI_B"
-   set field clade_category "major_lineage" 
-   exit
-
   alignment AL_DENV_1V_A
    set field displayName "1V_A"
    set field clade_category "major_lineage" 
@@ -222,6 +212,16 @@
 
   alignment AL_DENV_1V_G
    set field displayName "1V_G"
+   set field clade_category "major_lineage" 
+   exit
+
+  alignment AL_DENV_1VII_A
+   set field displayName "1VII_A"
+   set field clade_category "major_lineage" 
+   exit
+
+  alignment AL_DENV_1VII_B
+   set field displayName "1VII_B"
    set field clade_category "major_lineage" 
    exit
 

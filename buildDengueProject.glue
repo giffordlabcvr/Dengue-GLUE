@@ -24,15 +24,19 @@ project dengue
   # Define references
   run file glue/references/denvMasterReferences.glue
   run file glue/references/denvGenotypeReferences.glue
-  run file glue/references/denvLineageReferences.glue
+  run file glue/references/denv1LineageReferences.glue
+  run file glue/references/denv2LineageReferences.glue
+  run file glue/references/denv3LineageReferences.glue
+  run file glue/references/denv4LineageReferences.glue
 
   # Compute the unconstrained MSAs containing only genotype reference sequences
-  run file glue/denvCreateUncMsas.glue
-  run file glue/denvComputeUncMsas.glue
+  #run file glue/denvCreateUncMsas.glue
+  #run file glue/denvComputeUncMsas.glue
 
   # Define alignment tree
   run file glue/denvAlignmentTree.glue
-
+  die;
+  
   # Derive constrained MSAs from unconstrained
   run file glue/denvDeriveConstrainedMsas.glue
 

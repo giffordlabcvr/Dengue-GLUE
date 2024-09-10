@@ -17,8 +17,8 @@
 	extract child AL_DENV_1V -r REF_DENV_1V_OQ605987
 	demote member AL_DENV_1V --whereClause "sequence.genotype = '1V'"
 
-	extract child AL_DENV_1VI -r REF_DENV_1VI_KF184975
-	demote member AL_DENV_1VI --whereClause "sequence.genotype = '1VI'"
+	extract child AL_DENV_1VII -r REF_DENV_1VII_KF184975 
+	demote member AL_DENV_1VII --whereClause "sequence.genotype = '1VII'"
 	
 	exit
 
