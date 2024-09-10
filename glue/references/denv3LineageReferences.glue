@@ -1,366 +1,206 @@
-# Genotype DENV_1I
-
-create reference REF_DENV_1I_A_KY586545	fasta-refseqs-yale-denv1	KY586545.1_2004
-create reference REF_DENV_1I_A_MW946160	fasta-refseqs-yale-denv1	MW946160.1_1998
-create reference REF_DENV_1I_A_MW945835	fasta-refseqs-yale-denv1	MW945835.1_1997
-create reference REF_DENV_1I_A_MW946016	fasta-refseqs-yale-denv1	MW946016.1_1995
-create reference REF_DENV_1I_A_FJ196847	fasta-refseqs-yale-denv1	FJ196847.1_1997
-
-create reference REF_DENV_1I_B_KU509258	fasta-refseqs-yale-denv1	KU509258.1_2010
-create reference REF_DENV_1I_B_OK040060	fasta-refseqs-yale-denv1	OK040060.1_2011
-create reference REF_DENV_1I_B_MW946065	fasta-refseqs-yale-denv1	MW946065.1_1996
-create reference REF_DENV_1I_B_AY732483	fasta-refseqs-yale-denv1	AY732483.1_1981
-create reference REF_DENV_1I_B_MW945829	fasta-refseqs-yale-denv1	MW945829.1_1995
-create reference REF_DENV_1I_B_KJ649286	fasta-refseqs-yale-denv1	KJ649286.1_2011-12-31
-
-create reference REF_DENV_1I_C_EU677173	fasta-refseqs-yale-denv1	EU677173.1_2007
-create reference REF_DENV_1I_C_GU131753	fasta-refseqs-yale-denv1	GU131753.1_2008
-create reference REF_DENV_1I_C_EU482789	fasta-refseqs-yale-denv1	EU482789.1_2003
-create reference REF_DENV_1I_C_FJ410269	fasta-refseqs-yale-denv1	FJ410269.1_2008
-create reference REF_DENV_1I_C_GU131792	fasta-refseqs-yale-denv1	GU131792.1_2008
-create reference REF_DENV_1I_C_GQ199805	fasta-refseqs-yale-denv1	GQ199805.1_2007
-
-create reference REF_DENV_1I_D_GQ199775	fasta-refseqs-yale-denv1	GQ199775.1_2007
-create reference REF_DENV_1I_D_FJ639678	fasta-refseqs-yale-denv1	FJ639678.1_2003
-create reference REF_DENV_1I_D_FJ850069	fasta-refseqs-yale-denv1	FJ850069.1_2003
-create reference REF_DENV_1I_D_JQ287664	fasta-refseqs-yale-denv1	JQ287664.1_2004
-create reference REF_DENV_1I_D_FJ882549	fasta-refseqs-yale-denv1	FJ882549.1_2007
-
-create reference REF_DENV_1I_E_MG840570	fasta-refseqs-yale-denv1	MG840570.1_2016
-create reference REF_DENV_1I_E_KC759167	fasta-refseqs-yale-denv1	KC759167.1_2012-01-09
-create reference REF_DENV_1I_E_OQ832613	fasta-refseqs-yale-denv1	OQ832613.1_2020-09
-create reference REF_DENV_1I_E_MN018326	fasta-refseqs-yale-denv1	MN018326.1_2017-09-19
-create reference REF_DENV_1I_E_KY586530	fasta-refseqs-yale-denv1	KY586530.1_2002
-create reference REF_DENV_1I_E_MW265667	fasta-refseqs-yale-denv1	MW265667.1_2016-02-09
-
-create reference REF_DENV_1I_F_FJ196848	fasta-refseqs-yale-denv1	FJ196848.1_1999
-create reference REF_DENV_1I_F_KU509260	fasta-refseqs-yale-denv1	KU509260.1_2008
-create reference REF_DENV_1I_F_MW946075	fasta-refseqs-yale-denv1	MW946075.1_2010
-create reference REF_DENV_1I_F_ON038484	fasta-refseqs-yale-denv1	ON038484.1_2009-12-14
-create reference REF_DENV_1I_F_MW946093	fasta-refseqs-yale-denv1	MW946093.1_1996
-create reference REF_DENV_1I_F_MW946055	fasta-refseqs-yale-denv1	MW946055.1_2003
-
-create reference REF_DENV_1I_G_GU131805	fasta-refseqs-yale-denv1	GU131805.1_2008
-create reference REF_DENV_1I_G_KT827369	fasta-refseqs-yale-denv1	KT827369.1_2011
-create reference REF_DENV_1I_G_GU131811	fasta-refseqs-yale-denv1	GU131811.1_2008
-create reference REF_DENV_1I_G_KY586528	fasta-refseqs-yale-denv1	KY586528.1_2002
-create reference REF_DENV_1I_G_HQ624983	fasta-refseqs-yale-denv1	HQ624983.1_2007
-create reference REF_DENV_1I_G_MW946158	fasta-refseqs-yale-denv1	MW946158.1_1999
-
-create reference REF_DENV_1I_H_ON123666	fasta-refseqs-yale-denv1	ON123666.1_2018
-create reference REF_DENV_1I_H_MW945936	fasta-refseqs-yale-denv1	MW945936.1_2011
-create reference REF_DENV_1I_H_KJ755855	fasta-refseqs-yale-denv1	KJ755855.1_2013-07
-create reference REF_DENV_1I_H_MW946178	fasta-refseqs-yale-denv1	MW946178.1_1997
-create reference REF_DENV_1I_H_MN960676	fasta-refseqs-yale-denv1	MN960676.1_2019-11-16
-create reference REF_DENV_1I_H_GU131678	fasta-refseqs-yale-denv1	GU131678.1_2008
-
-create reference REF_DENV_1I_J_MT397276	fasta-refseqs-yale-denv1	MT397276.1_2015-11
-create reference REF_DENV_1I_J_MW945782	fasta-refseqs-yale-denv1	MW945782.1_2000
-create reference REF_DENV_1I_J_MW793709	fasta-refseqs-yale-denv1	MW793709.1_2018-07
-create reference REF_DENV_1I_J_MG840548	fasta-refseqs-yale-denv1	MG840548.1_2015
-create reference REF_DENV_1I_J_JF459993	fasta-refseqs-yale-denv1	JF459993.1_2002
-create reference REF_DENV_1I_J_MN933656	fasta-refseqs-yale-denv1	MN933656.1_2014-09-23
-
-create reference REF_DENV_1I_K_MN933665	fasta-refseqs-yale-denv1	MN933665.1_2017-07-31
-create reference REF_DENV_1I_K_GU131752	fasta-refseqs-yale-denv1	GU131752.1_2008
-create reference REF_DENV_1I_K_MN933659	fasta-refseqs-yale-denv1	MN933659.1_2015-04-21
-create reference REF_DENV_1I_K_MN639766	fasta-refseqs-yale-denv1	MN639766.1_2018-10
-create reference REF_DENV_1I_K_MW945798	fasta-refseqs-yale-denv1	MW945798.1_1999
-create reference REF_DENV_1I_K_MZ291446	fasta-refseqs-yale-denv1	MZ291446.1_2020-08
-
-# Genotype DENV_1III
-
-create reference REF_DENV_1III_A_EU179860	fasta-refseqs-yale-denv1	EU179860.1_2005
-create reference REF_DENV_1III_A_ON123656	fasta-refseqs-yale-denv1	ON123656.1_2019
-create reference REF_DENV_1III_A_JQ922548	fasta-refseqs-yale-denv1	JQ922548.1_2005
-create reference REF_DENV_1III_A_OP898558	fasta-refseqs-yale-denv1	OP898558.1_2022-10
-
-create reference REF_DENV_1III_B_KJ806950	fasta-refseqs-yale-denv1	KJ806950.2_2013
-create reference REF_DENV_1III_B_KX618706	fasta-refseqs-yale-denv1	KX618706.1_2014
-create reference REF_DENV_1III_B_MK858130	fasta-refseqs-yale-denv1	MK858130.1_2016-10-25
-create reference REF_DENV_1III_B_KX618705	fasta-refseqs-yale-denv1	KX618705.1_2014
-create reference REF_DENV_1III_B_KP406801	fasta-refseqs-yale-denv1	KP406801.1_2004
-
-# Genotype DENV_1IV
-
-create reference REF_DENV_1IV_A_JQ915076	fasta-refseqs-yale-denv1	JQ915076.1_2009-06-09
-create reference REF_DENV_1IV_A_MW265693	fasta-refseqs-yale-denv1	MW265693.1_2012-04-28
-create reference REF_DENV_1IV_A_JN697056	fasta-refseqs-yale-denv1	JN697056.1_2005-01-01
-create reference REF_DENV_1IV_A_OK469341	fasta-refseqs-yale-denv1	OK469341.1_1992
-create reference REF_DENV_1IV_A_OL321180	fasta-refseqs-yale-denv1	OL321180.1_2016-02-08
-create reference REF_DENV_1IV_A_MH921567	fasta-refseqs-yale-denv1	MH921567.1_2016
-
-create reference REF_DENV_1IV_B_MN018297	fasta-refseqs-yale-denv1	MN018297.1_2017-05-08
-create reference REF_DENV_1IV_B_OM281589	fasta-refseqs-yale-denv1	OM281589.1_2019-12
-create reference REF_DENV_1IV_B_OK469344	fasta-refseqs-yale-denv1	OK469344.1_1975
-create reference REF_DENV_1IV_B_MF033231	fasta-refseqs-yale-denv1	MF033231.1_2015-03
-create reference REF_DENV_1IV_B_OM281599	fasta-refseqs-yale-denv1	OM281599.1_2020-12
-create reference REF_DENV_1IV_B_MW945952	fasta-refseqs-yale-denv1	MW945952.1_1974
-
-create reference REF_DENV_1IV_C_KC762630	fasta-refseqs-yale-denv1	KC762630.1_2008-02-06
-create reference REF_DENV_1IV_C_KC762620	fasta-refseqs-yale-denv1	KC762620.1_2007-12-13
-create reference REF_DENV_1IV_C_KT827364	fasta-refseqs-yale-denv1	KT827364.1_2002
-create reference REF_DENV_1IV_C_KC762651	fasta-refseqs-yale-denv1	KC762651.1_2007-12-11
-create reference REF_DENV_1IV_C_KU509261	fasta-refseqs-yale-denv1	KU509261.1_2010
-create reference REF_DENV_1IV_C_JN544410	fasta-refseqs-yale-denv1	JN544410.2_2011-04
-
-# Genotype DENV_1V
-
-create reference REF_DENV_1V_A_EU081258	fasta-refseqs-yale-denv1	EU081258.1_2005
-create reference REF_DENV_1V_A_MT929552	fasta-refseqs-yale-denv1	MT929552.1_2018-04-12
-create reference REF_DENV_1V_A_GQ868601	fasta-refseqs-yale-denv1	GQ868601.1_1985
-create reference REF_DENV_1V_A_OQ605987	fasta-refseqs-yale-denv1	OQ605987.1_2022-03-31
-create reference REF_DENV_1V_A_DQ285559	fasta-refseqs-yale-denv1	DQ285559.1_2004
-create reference REF_DENV_1V_A_JN903578	fasta-refseqs-yale-denv1	JN903578.1_2007-07-26
-
-create reference REF_DENV_1V_B_MZ008452	fasta-refseqs-yale-denv1	MZ008452.1_2014
-create reference REF_DENV_1V_B_JN819415	fasta-refseqs-yale-denv1	JN819415.1_2006
-create reference REF_DENV_1V_B_FJ639735	fasta-refseqs-yale-denv1	FJ639735.1_1997
-create reference REF_DENV_1V_B_MT929160	fasta-refseqs-yale-denv1	MT929160.1_2019-10-07
-create reference REF_DENV_1V_B_OQ445882	fasta-refseqs-yale-denv1	OQ445882.1_2022-08-15
-create reference REF_DENV_1V_B_MZ343259	fasta-refseqs-yale-denv1	MZ343259.1_2015-11
-
-create reference REF_DENV_1V_C_MZ008453	fasta-refseqs-yale-denv1	MZ008453.1_2013
-create reference REF_DENV_1V_C_ON426292	fasta-refseqs-yale-denv1	ON426292.1_2020-01-22
-create reference REF_DENV_1V_C_GU056032	fasta-refseqs-yale-denv1	GU056032.1_1998
-create reference REF_DENV_1V_C_KF955424	fasta-refseqs-yale-denv1	KF955424.1_2007
-create reference REF_DENV_1V_C_EPI_ISL_17689860	fasta-refseqs-yale-denv1	EPI_ISL_17689860_2022-07-08
-create reference REF_DENV_1V_C_Yale-DN00058	fasta-refseqs-yale-denv1	Yale-DN00058_2016-03-15
-
-create reference REF_DENV_1V_D_ON123575	fasta-refseqs-yale-denv1	ON123575.1_2021-08-03
-create reference REF_DENV_1V_D_ON123596	fasta-refseqs-yale-denv1	ON123596.1_2021-08-20
-create reference REF_DENV_1V_D_GQ868570	fasta-refseqs-yale-denv1	GQ868570.1_2008
-create reference REF_DENV_1V_D_OR167130	fasta-refseqs-yale-denv1	OR167130.1_2023-03-03
-create reference REF_DENV_1V_D_Yale-DN00823-1	fasta-refseqs-yale-denv1	Yale-DN00823-1_2022-08-28
-create reference REF_DENV_1V_D_EPI_ISL_17689873	fasta-refseqs-yale-denv1	EPI_ISL_17689873_2023-01-14
-
-create reference REF_DENV_1V_E_KU509249	fasta-refseqs-yale-denv1	KU509249.1_2012
-create reference REF_DENV_1V_E_OR167255	fasta-refseqs-yale-denv1	OR167255.1_2023-03-23
-create reference REF_DENV_1V_E_MT862857	fasta-refseqs-yale-denv1	MT862857.1_2019-05-13
-create reference REF_DENV_1V_E_OQ445884	fasta-refseqs-yale-denv1	OQ445884.1_2022-10-01
-create reference REF_DENV_1V_E_KU509252	fasta-refseqs-yale-denv1	KU509252.1_2010
-create reference REF_DENV_1V_E_FJ639819	fasta-refseqs-yale-denv1	FJ639819.1_2006
-
-create reference REF_DENV_1V_F_FJ639794	fasta-refseqs-yale-denv1	FJ639794.1_2004
-create reference REF_DENV_1V_F_KU509254	fasta-refseqs-yale-denv1	KU509254.1_2011
-create reference REF_DENV_1V_F_KC692517	fasta-refseqs-yale-denv1	KC692517.1_2010-12-29
-create reference REF_DENV_1V_F_KY474306	fasta-refseqs-yale-denv1	KY474306.1_2014
-create reference REF_DENV_1V_F_ON632090	fasta-refseqs-yale-denv1	ON632090.1_2022-03-25
-create reference REF_DENV_1V_F_MW377899	fasta-refseqs-yale-denv1	MW377899.1_2014-12-10
-
-create reference REF_DENV_1V_G_GQ868568	fasta-refseqs-yale-denv1	GQ868568.1_2007
-create reference REF_DENV_1V_G_KJ189303	fasta-refseqs-yale-denv1	KJ189303.1_1998
-create reference REF_DENV_1V_G_GQ868564	fasta-refseqs-yale-denv1	GQ868564.1_2006
-create reference REF_DENV_1V_G_KJ189304	fasta-refseqs-yale-denv1	KJ189304.1_2005
-create reference REF_DENV_1V_G_OA10	fasta-refseqs-yale-denv1	OA10_2012
-create reference REF_DENV_1V_G_OA08	fasta-refseqs-yale-denv1	OA08_2011
-
-# Genotype DENV_1VI
-
-create reference REF_DENV_1VI_A_KF184975	fasta-refseqs-yale-denv1	KF184975.1_2013-04
-create reference REF_DENV_1VI_A_MN577472	fasta-refseqs-yale-denv1	MN577472.1_2019-07
-create reference REF_DENV_1VI_A_MW243006	fasta-refseqs-yale-denv1	MW243006.1_2016-06-19
-create reference REF_DENV_1VI_A_MZ130534	fasta-refseqs-yale-denv1	MZ130534.1_2019-05-28
-create reference REF_DENV_1VI_A_MZ857205	fasta-refseqs-yale-denv1	MZ857205.1_2013
-
-create reference REF_DENV_1VI_B_MG877557	fasta-refseqs-yale-denv1	MG877557.1_2012
-create reference REF_DENV_1VI_B_OQ593389	fasta-refseqs-yale-denv1	OQ593389.1_2017-06-21
-create reference REF_DENV_1VI_B_LC707382	fasta-refseqs-yale-denv1	LC707382.1_2021-06-30
-create reference REF_DENV_1VI_B_OQ593388	fasta-refseqs-yale-denv1	OQ593388.1_2017-06-24
-create reference REF_DENV_1VI_B_OQ593392	fasta-refseqs-yale-denv1	OQ593392.1_2017-04-13
-
-# Genotype DENV_2II
-
-create reference REF_DENV_2II_A_OP684211	fasta-refseqs-yale-denv2	OP684211.1_2019-10-19
-create reference REF_DENV_2II_A_MK783209	fasta-refseqs-yale-denv2	MK783209.1_2018
-create reference REF_DENV_2II_A_OM744110	fasta-refseqs-yale-denv2	OM744110.1_2021-11-16
-create reference REF_DENV_2II_A_JQ922551	fasta-refseqs-yale-denv2	JQ922551.1_2005
-create reference REF_DENV_2II_A_KY937189	fasta-refseqs-yale-denv2	KY937189.1_2015
-
-create reference REF_DENV_2II_B_MN577564	fasta-refseqs-yale-denv2	MN577564.1_2014-06
-create reference REF_DENV_2II_B_GQ398258	fasta-refseqs-yale-denv2	GQ398258.1_1975
-create reference REF_DENV_2II_B_OM317565	fasta-refseqs-yale-denv2	OM317565.1_2020-06-24
-create reference REF_DENV_2II_B_MN577562	fasta-refseqs-yale-denv2	MN577562.1_2013-05
-create reference REF_DENV_2II_B_GQ398259	fasta-refseqs-yale-denv2	GQ398259.1_1976
-create reference REF_DENV_2II_B_OL469512	fasta-refseqs-yale-denv2	OL469512.1_2017-04-30
-
-create reference REF_DENV_2II_C_MW881533	fasta-refseqs-yale-denv2	MW881533.1_2021-02-02
-create reference REF_DENV_2II_C_MW512409	fasta-refseqs-yale-denv2	MW512409.1_2013
-create reference REF_DENV_2II_C_MK783205	fasta-refseqs-yale-denv2	MK783205.1_2018
-create reference REF_DENV_2II_C_MW512467	fasta-refseqs-yale-denv2	MW512467.1_2016
-create reference REF_DENV_2II_C_KF744397	fasta-refseqs-yale-denv2	KF744397.1_2001
-create reference REF_DENV_2II_C_KU509276	fasta-refseqs-yale-denv2	KU509276.1_2008
-
-create reference REF_DENV_2II_D_MK564478	fasta-refseqs-yale-denv2	MK564478.1_2016-04-22
-create reference REF_DENV_2II_D_MN018349	fasta-refseqs-yale-denv2	MN018349.1_2015-05-09
-create reference REF_DENV_2II_D_EU179859	fasta-refseqs-yale-denv2	EU179859.1_2006
-create reference REF_DENV_2II_D_JN851130	fasta-refseqs-yale-denv2	JN851130.1_2005
-create reference REF_DENV_2II_D_MN923111	fasta-refseqs-yale-denv2	MN923111.1_2019-08-24
-create reference REF_DENV_2II_D_ON890351	fasta-refseqs-yale-denv2	ON890351.1_2017-08-07
-
-create reference REF_DENV_2II_E_MN018351	fasta-refseqs-yale-denv2	MN018351.1_2015-05-17
-create reference REF_DENV_2II_E_KX380821	fasta-refseqs-yale-denv2	KX380821.1_2012
-create reference REF_DENV_2II_E_MT921573	fasta-refseqs-yale-denv2	MT921573.1_2004
-create reference REF_DENV_2II_E_MW512414	fasta-refseqs-yale-denv2	MW512414.1_2014
-create reference REF_DENV_2II_E_KX452015	fasta-refseqs-yale-denv2	KX452015.1_2014-01
-create reference REF_DENV_2II_E_OP684198	fasta-refseqs-yale-denv2	OP684198.1_2019-01-20
-
-create reference REF_DENV_2II_F_OP921000	fasta-refseqs-yale-denv2	OP921000.1_2022-07-29
-create reference REF_DENV_2II_F_OP684201	fasta-refseqs-yale-denv2	OP684201.1_2019-08-16
-create reference REF_DENV_2II_F_OQ028230	fasta-refseqs-yale-denv2	OQ028230.1_2020-09-07
-create reference REF_DENV_2II_F_JF327392	fasta-refseqs-yale-denv2	JF327392.1_2009
-create reference REF_DENV_2II_F_ON634755	fasta-refseqs-yale-denv2	ON634755.1_2022-03-06
-create reference REF_DENV_2II_F_MK578532	fasta-refseqs-yale-denv2	MK578532.1_2016-04-01
-
-# Genotype DENV_2III
-
-create reference REF_DENV_2III_A_MW946461	fasta-refseqs-yale-denv2	MW946461.1_1988
-create reference REF_DENV_2III_A_FM210217	fasta-refseqs-yale-denv2	FM210217.1_1999
-create reference REF_DENV_2III_A_KF921931	fasta-refseqs-yale-denv2	KF921931.1_2003
-create reference REF_DENV_2III_A_EU482449	fasta-refseqs-yale-denv2	EU482449.1_2006
-create reference REF_DENV_2III_A_FJ639699	fasta-refseqs-yale-denv2	FJ639699.1_2002
-create reference REF_DENV_2III_A_DQ181801	fasta-refseqs-yale-denv2	DQ181801.1_1990
-
-create reference REF_DENV_2III_B_FJ898450	fasta-refseqs-yale-denv2	FJ898450.1_1990
-create reference REF_DENV_2III_B_EU482721	fasta-refseqs-yale-denv2	EU482721.1_2006
-create reference REF_DENV_2III_B_MN589880	fasta-refseqs-yale-denv2	MN589880.1_1999-04-09
-create reference REF_DENV_2III_B_KC294201	fasta-refseqs-yale-denv2	KC294201.1_2009-02-13
-create reference REF_DENV_2III_B_EU529706	fasta-refseqs-yale-denv2	EU529706.1_2006
-create reference REF_DENV_2III_B_GQ398269	fasta-refseqs-yale-denv2	GQ398269.1_1994
-
-create reference REF_DENV_2III_C_EU687212	fasta-refseqs-yale-denv2	EU687212.1_1998
-create reference REF_DENV_2III_C_EU482726	fasta-refseqs-yale-denv2	EU482726.1_2006
-create reference REF_DENV_2III_C_ON634744	fasta-refseqs-yale-denv2	ON634744.1_2022-03-11
-create reference REF_DENV_2III_C_ON123621	fasta-refseqs-yale-denv2	ON123621.1_2021-02-15
-create reference REF_DENV_2III_C_EPI_ISL_17983090	fasta-refseqs-yale-denv2	EPI_ISL_17983090_2023-05-02
-create reference REF_DENV_2III_C_US-DB329-2022	fasta-refseqs-yale-denv2	US-DB329-2022_2022-08-17
-
-create reference REF_DENV_2III_D_EU726775	fasta-refseqs-yale-denv2	EU726775.1_1996
-create reference REF_DENV_2III_D_ON714337	fasta-refseqs-yale-denv2	ON714337.1_2015-01-29
-create reference REF_DENV_2III_D_ON510270	fasta-refseqs-yale-denv2	ON510270.1_2021-05-10
-create reference REF_DENV_2III_D_MN462632	fasta-refseqs-yale-denv2	MN462632.1_2015-10-04
-create reference REF_DENV_2III_D_US-DB335-2022	fasta-refseqs-yale-denv2	US-DB335-2022_2022-09-27
-create reference REF_DENV_2III_D_EPI_ISL_17689850	fasta-refseqs-yale-denv2	EPI_ISL_17689850_2022-09-10
-
-# Genotype DENV_2V
-
-create reference REF_DENV_2V_A_MZ453007	fasta-refseqs-yale-denv2	MZ453007.1_2019
-create reference REF_DENV_2V_A_OQ028221	fasta-refseqs-yale-denv2	OQ028221.1_2019-11-13
-create reference REF_DENV_2V_A_OQ028229	fasta-refseqs-yale-denv2	OQ028229.1_2017-08-03
-create reference REF_DENV_2V_A_MW946420	fasta-refseqs-yale-denv2	MW946420.1_1996
-create reference REF_DENV_2V_A_JN368476	fasta-refseqs-yale-denv2	JN368476.1_2007
-create reference REF_DENV_2V_A_OP684189	fasta-refseqs-yale-denv2	OP684189.1_2018-09-30
-
-create reference REF_DENV_2V_B_KY586692	fasta-refseqs-yale-denv2	KY586692.1_2001
-create reference REF_DENV_2V_B_MW946460	fasta-refseqs-yale-denv2	MW946460.1_1997
-create reference REF_DENV_2V_B_KY586690	fasta-refseqs-yale-denv2	KY586690.1_1999
-create reference REF_DENV_2V_B_MW946551	fasta-refseqs-yale-denv2	MW946551.1_1997
-create reference REF_DENV_2V_B_MW946473	fasta-refseqs-yale-denv2	MW946473.1_1999
-
-create reference REF_DENV_2V_C_MW946428	fasta-refseqs-yale-denv2	MW946428.1_2001
-create reference REF_DENV_2V_C_MW946279	fasta-refseqs-yale-denv2	MW946279.1_2001
-create reference REF_DENV_2V_C_MW946369	fasta-refseqs-yale-denv2	MW946369.1_1994
-create reference REF_DENV_2V_C_MW946590	fasta-refseqs-yale-denv2	MW946590.1_1997
-create reference REF_DENV_2V_C_MW946509	fasta-refseqs-yale-denv2	MW946509.1_1998
-create reference REF_DENV_2V_C_KY586667	fasta-refseqs-yale-denv2	KY586667.1_2001
-
-create reference REF_DENV_2V_D_MW946284	fasta-refseqs-yale-denv2	MW946284.1_1995
-create reference REF_DENV_2V_D_KY586678	fasta-refseqs-yale-denv2	KY586678.1_2002
-create reference REF_DENV_2V_D_KC964095	fasta-refseqs-yale-denv2	KC964095.1_1998
-create reference REF_DENV_2V_D_KY586688	fasta-refseqs-yale-denv2	KY586688.1_1998
-create reference REF_DENV_2V_D_KY586686	fasta-refseqs-yale-denv2	KY586686.1_2000
-
-create reference REF_DENV_2V_E_FJ639828	fasta-refseqs-yale-denv2	FJ639828.1_2001
-create reference REF_DENV_2V_E_MW946449	fasta-refseqs-yale-denv2	MW946449.1_2014
-create reference REF_DENV_2V_E_MW946595	fasta-refseqs-yale-denv2	MW946595.1_2005
-create reference REF_DENV_2V_E_MW946517	fasta-refseqs-yale-denv2	MW946517.1_2005
-create reference REF_DENV_2V_E_FJ687436	fasta-refseqs-yale-denv2	FJ687436.1_2001
-
 # Genotype DENV_3I
 
-create reference REF_DENV_3I_A_MT006158	fasta-refseqs-yale-denv3	MT006158.1_2018-06-19
-create reference REF_DENV_3I_A_OK605763	fasta-refseqs-yale-denv3	OK605763.1_1985
-create reference REF_DENV_3I_A_MT921575	fasta-refseqs-yale-denv3	MT921575.1_2016
-create reference REF_DENV_3I_A_MF004386	fasta-refseqs-yale-denv3	MF004386.1_2012-10-04
-create reference REF_DENV_3I_A_MN018370	fasta-refseqs-yale-denv3	MN018370.1_2015-07-24
-create reference REF_DENV_3I_A_MN018374	fasta-refseqs-yale-denv3	MN018374.1_2015-09-28
-
-create reference REF_DENV_3I_B_MW946691	fasta-refseqs-yale-denv3	MW946691.1_1992
-create reference REF_DENV_3I_B_JQ920485	fasta-refseqs-yale-denv3	JQ920485.1_1996-10-21
-create reference REF_DENV_3I_B_JQ920480	fasta-refseqs-yale-denv3	JQ920480.1_1996-09-04
-create reference REF_DENV_3I_B_MW946955	fasta-refseqs-yale-denv3	MW946955.1_1978
-create reference REF_DENV_3I_B_FJ898456	fasta-refseqs-yale-denv3	FJ898456.1_1995
-
-create reference REF_DENV_3I_C_MN922037	fasta-refseqs-yale-denv3	MN922037.1_2019-08-02
-create reference REF_DENV_3I_C_MN018389	fasta-refseqs-yale-denv3	MN018389.1_2017-02-15
-create reference REF_DENV_3I_C_KU509279	fasta-refseqs-yale-denv3	KU509279.1_2008
-create reference REF_DENV_3I_C_MN018380	fasta-refseqs-yale-denv3	MN018380.1_2015-09-16
-create reference REF_DENV_3I_C_MN018379	fasta-refseqs-yale-denv3	MN018379.1_2015-10-03
-
-# Genotype DENV_3II
-
-create reference REF_DENV_3II_A_MW946876	fasta-refseqs-yale-denv3	MW946876.1_2003
-create reference REF_DENV_3II_A_MW946934	fasta-refseqs-yale-denv3	MW946934.1_2011
-create reference REF_DENV_3II_A_KY586702	fasta-refseqs-yale-denv3	KY586702.1_2008
-create reference REF_DENV_3II_A_HM631854	fasta-refseqs-yale-denv3	HM631854.1_2008
-create reference REF_DENV_3II_A_KU509280	fasta-refseqs-yale-denv3	KU509280.1_2011
-create reference REF_DENV_3II_A_MZ857226	fasta-refseqs-yale-denv3	MZ857226.1_1991-09-17
-
-create reference REF_DENV_3II_B_MW946664	fasta-refseqs-yale-denv3	MW946664.1_2011
-create reference REF_DENV_3II_B_KT424097	fasta-refseqs-yale-denv3	KT424097.1_2014-08-28
-create reference REF_DENV_3II_B_AY496871	fasta-refseqs-yale-denv3	AY496871.2_2002
-create reference REF_DENV_3II_B_MF682971	fasta-refseqs-yale-denv3	MF682971.1_2013-07-22
-create reference REF_DENV_3II_B_KY586818	fasta-refseqs-yale-denv3	KY586818.1_2007
-
-# Genotype DENV_3III
-
-create reference REF_DENV_3III_A_MH048677	fasta-refseqs-yale-denv3	MH048677.1_2014-12
-create reference REF_DENV_3III_A_FJ882573	fasta-refseqs-yale-denv3	FJ882573.1_1993
-create reference REF_DENV_3III_A_KJ830751	fasta-refseqs-yale-denv3	KJ830751.1_2014-01-26
-create reference REF_DENV_3III_A_KU509283	fasta-refseqs-yale-denv3	KU509283.1_2006
-create reference REF_DENV_3III_A_MG721059	fasta-refseqs-yale-denv3	MG721059.2_2016
-
-create reference REF_DENV_3III_B_MT261977	fasta-refseqs-yale-denv3	MT261977.1_2017-10-12
-create reference REF_DENV_3III_B_OQ948474	fasta-refseqs-yale-denv3	OQ948474.1_2019-09
-create reference REF_DENV_3III_B_FJ644564	fasta-refseqs-yale-denv3	FJ644564.1_2007
-create reference REF_DENV_3III_B_OP895705	fasta-refseqs-yale-denv3	OP895705.1_2018
-create reference REF_DENV_3III_B_MZ544587	fasta-refseqs-yale-denv3	MZ544587.1_2019-03
-create reference REF_DENV_3III_B_EHIE21409Y22	fasta-refseqs-yale-denv3	EHIE21409Y22_2022
-
-create reference REF_DENV_3III_C_FJ882576	fasta-refseqs-yale-denv3	FJ882576.1_1994
-create reference REF_DENV_3III_C_OQ603311	fasta-refseqs-yale-denv3	OQ603311.1_2015
-create reference REF_DENV_3III_C_OQ603310	fasta-refseqs-yale-denv3	OQ603310.1_2015
-create reference REF_DENV_3III_C_Yale-DN00994	fasta-refseqs-yale-denv3	Yale-DN00994_2021-08-12
-create reference REF_DENV_3III_C_EPI_ISL_17689864	fasta-refseqs-yale-denv3	EPI_ISL_17689864_2022-09-02
-create reference REF_DENV_3III_C_EPI_ISL_17689862	fasta-refseqs-yale-denv3	EPI_ISL_17689862_2022-08-25
-
-# Genotype DENV_4I
-
-create reference REF_DENV_4I_A_MN018395	fasta-refseqs-yale-denv4	MN018395.1_2015-10-20
-create reference REF_DENV_4I_A_MW945498	fasta-refseqs-yale-denv4	MW945498.1_2010
-create reference REF_DENV_4I_A_OQ427048	fasta-refseqs-yale-denv4	OQ427048.1_2019-01-15
-create reference REF_DENV_4I_A_MN018394	fasta-refseqs-yale-denv4	MN018394.1_2015-10-03
-create reference REF_DENV_4I_A_OK469358	fasta-refseqs-yale-denv4	OK469358.1_1976
-create reference REF_DENV_4I_A_MN018397	fasta-refseqs-yale-denv4	MN018397.1_2016-02-01
-
-create reference REF_DENV_4I_B_MN018398	fasta-refseqs-yale-denv4	MN018398.1_2016-08-16
-create reference REF_DENV_4I_B_OM639995	fasta-refseqs-yale-denv4	OM639995.1_2021-11-16
-create reference REF_DENV_4I_B_OK605769	fasta-refseqs-yale-denv4	OK605769.1_1983
-create reference REF_DENV_4I_B_JQ922559	fasta-refseqs-yale-denv4	JQ922559.1_1979
-create reference REF_DENV_4I_B_OP984198	fasta-refseqs-yale-denv4	OP984198.1_2018
-
-# Genotype DENV_4II
-
-create reference REF_DENV_4II_A_MN018396	fasta-refseqs-yale-denv4	MN018396.1_2015-11-12
-create reference REF_DENV_4II_A_FJ196849	fasta-refseqs-yale-denv4	FJ196849.1_1978
-create reference REF_DENV_4II_A_OL314740	fasta-refseqs-yale-denv4	OL314740.1_2019-05-30
-create reference REF_DENV_4II_A_MN018393	fasta-refseqs-yale-denv4	MN018393.1_2015-07-25
-create reference REF_DENV_4II_A_OP600512	fasta-refseqs-yale-denv4	OP600512.1_2022-07
-
-create reference REF_DENV_4II_B_KT276273	fasta-refseqs-yale-denv4	KT276273.1_2014-09-08
-create reference REF_DENV_4II_B_OK469362	fasta-refseqs-yale-denv4	OK469362.1_1995
-create reference REF_DENV_4II_B_OQ603316	fasta-refseqs-yale-denv4	OQ603316.1_2013-09-18
-create reference REF_DENV_4II_B_KX812530	fasta-refseqs-yale-denv4	KX812530.1_1976
-create reference REF_DENV_4II_B_US-DB409-2022	fasta-refseqs-yale-denv4	US-DB409-2022_2022-10-26
-create reference REF_DENV_4II_B_Yale-DN00839	fasta-refseqs-yale-denv4	Yale-DN00839_2022-09-10
-
+create reference REF_DENV_3I_A.1.1_MN083246	fasta-refseqs-yale-denv3	MN083246.1_2017-11	MN083246
+create reference REF_DENV_3I_A.1.1_OR393976	fasta-refseqs-yale-denv3	OR393976.1_2019-07-22	OR393976
+create reference REF_DENV_3I_A.1.1_MT006158	fasta-refseqs-yale-denv3	MT006158.1_2018-06-19	MT006158
+create reference REF_DENV_3I_A.1.1_OR394032	fasta-refseqs-yale-denv3	OR394032.1_2019-11-29	OR394032
+create reference REF_DENV_3I_A.1.1_OR393978	fasta-refseqs-yale-denv3	OR393978.1_2019-08-05	OR393978
+create reference REF_DENV_3I_A.1.1_OR393950	fasta-refseqs-yale-denv3	OR393950.1_2019-01-03	OR393950
+create reference REF_DENV_3I_A.1.1_PP766873	fasta-refseqs-yale-denv3	PP766873.1_2023-06-05	PP766873
+create reference REF_DENV_3I_A.1.1_out_MH823209	fasta-refseqs-yale-denv3	MH823209.1_2016	MH823209
+create reference REF_DENV_3I_A.1.2_MF682966	fasta-refseqs-yale-denv3	MF682966.1_2016-09-07	MF682966
+create reference REF_DENV_3I_A.1.2_MF682970	fasta-refseqs-yale-denv3	MF682970.1_2016-09-15	MF682970
+create reference REF_DENV_3I_A.1.2_MF682968	fasta-refseqs-yale-denv3	MF682968.1_2016-09-10	MF682968
+create reference REF_DENV_3I_A.1.2_MW295815	fasta-refseqs-yale-denv3	MW295815.1_2020-09-07	MW295815
+create reference REF_DENV_3I_A.1.2_MW788901	fasta-refseqs-yale-denv3	MW788901.1_2018-08	MW788901
+create reference REF_DENV_3I_A.1.2_out_OR236121	fasta-refseqs-yale-denv3	OR236121.1_2016-02	OR236121
+create reference REF_DENV_3I_A.1_out_MN018377	fasta-refseqs-yale-denv3	MN018377.1_2015-12-22	MN018377
+create reference REF_DENV_3I_A.1_MT006158	fasta-refseqs-yale-denv3	MT006158.1_2018-06-19	MT006158
+create reference REF_DENV_3I_A.1_KY921906	fasta-refseqs-yale-denv3	KY921906.1_2015-06	KY921906
+create reference REF_DENV_3I_A.1_MK894338	fasta-refseqs-yale-denv3	MK894338.1_2018-02-05	MK894338
+create reference REF_DENV_3I_A.1_MF682968	fasta-refseqs-yale-denv3	MF682968.1_2016-09-10	MF682968
+create reference REF_DENV_3I_A.1_OP410996	fasta-refseqs-yale-denv3	OP410996.1_2019-11	OP410996
+create reference REF_DENV_3I_A.1_OQ103317	fasta-refseqs-yale-denv3	OQ103317.1_2022-05-20	OQ103317
+create reference REF_DENV_3I_A.2_out_KY921906	fasta-refseqs-yale-denv3	KY921906.1_2015-06	KY921906
+create reference REF_DENV_3I_A.2_ON116130	fasta-refseqs-yale-denv3	ON116130.1_2021-08	ON116130
+create reference REF_DENV_3I_A.2_MN922035	fasta-refseqs-yale-denv3	MN922035.1_2019-06-23	MN922035
+create reference REF_DENV_3I_A.2_MN018377	fasta-refseqs-yale-denv3	MN018377.1_2015-12-22	MN018377
+create reference REF_DENV_3I_A.2_ON127534	fasta-refseqs-yale-denv3	ON127534.1_2021-08	ON127534
+create reference REF_DENV_3I_A.2_MW396463	fasta-refseqs-yale-denv3	MW396463.1_2019-07-02	MW396463
+create reference REF_DENV_3I_A_MT006158	fasta-refseqs-yale-denv3	MT006158.1_2018-06-19	MT006158
+create reference REF_DENV_3I_A_OK605763	fasta-refseqs-yale-denv3	OK605763.1_1985	OK605763
+create reference REF_DENV_3I_A_MT921575	fasta-refseqs-yale-denv3	MT921575.1_2016	MT921575
+create reference REF_DENV_3I_A_MF004386	fasta-refseqs-yale-denv3	MF004386.1_2012-10-04	MF004386
+create reference REF_DENV_3I_A_MN018370	fasta-refseqs-yale-denv3	MN018370.1_2015-07-24	MN018370
+create reference REF_DENV_3I_A_MN018374	fasta-refseqs-yale-denv3	MN018374.1_2015-09-28	MN018374
+create reference REF_DENV_3I_A_out_AY496879	fasta-refseqs-yale-denv3	AY496879.2_1997	AY496879
+create reference REF_DENV_3I_B_MW946691	fasta-refseqs-yale-denv3	MW946691.1_1992	MW946691
+create reference REF_DENV_3I_B_JQ920485	fasta-refseqs-yale-denv3	JQ920485.1_1996-10-21	JQ920485
+create reference REF_DENV_3I_B_JQ920480	fasta-refseqs-yale-denv3	JQ920480.1_1996-09-04	JQ920480
+create reference REF_DENV_3I_B_MW946955	fasta-refseqs-yale-denv3	MW946955.1_1978	MW946955
+create reference REF_DENV_3I_B_FJ898456	fasta-refseqs-yale-denv3	FJ898456.1_1995	FJ898456
+create reference REF_DENV_3I_B_out_AY496879	fasta-refseqs-yale-denv3	AY496879.2_1997	AY496879
+create reference REF_DENV_3I_C_MN922037	fasta-refseqs-yale-denv3	MN922037.1_2019-08-02	MN922037
+create reference REF_DENV_3I_C_MN018389	fasta-refseqs-yale-denv3	MN018389.1_2017-02-15	MN018389
+create reference REF_DENV_3I_C_KU509279	fasta-refseqs-yale-denv3	KU509279.1_2008	KU509279
+create reference REF_DENV_3I_C_MN018380	fasta-refseqs-yale-denv3	MN018380.1_2015-09-16	MN018380
+create reference REF_DENV_3I_C_MN018379	fasta-refseqs-yale-denv3	MN018379.1_2015-10-03	MN018379
+create reference REF_DENV_3I_C_out_DQ675519	fasta-refseqs-yale-denv3	DQ675519.1_1995	DQ675519
+create reference REF_DENV_3II_A.1_out_KF955461	fasta-refseqs-yale-denv3	KF955461.1_1999	KF955461
+create reference REF_DENV_3II_A.1_EU482462	fasta-refseqs-yale-denv3	EU482462.1_2007	EU482462
+create reference REF_DENV_3II_A.1_EU482456	fasta-refseqs-yale-denv3	EU482456.1_2006	EU482456
+create reference REF_DENV_3II_A.1_EU660411	fasta-refseqs-yale-denv3	EU660411.1_2006	EU660411
+create reference REF_DENV_3II_A.1_FJ432741	fasta-refseqs-yale-denv3	FJ432741.1_2007	FJ432741
+create reference REF_DENV_3II_A.1_OR389038	fasta-refseqs-yale-denv3	OR389038.1_2004	OR389038
+create reference REF_DENV_3II_A.1_EU482452	fasta-refseqs-yale-denv3	EU482452.1_2006	EU482452
+create reference REF_DENV_3II_A.2_out_KF955461	fasta-refseqs-yale-denv3	KF955461.1_1999	KF955461
+create reference REF_DENV_3II_A.2_MW946858	fasta-refseqs-yale-denv3	MW946858.1_2005	MW946858
+create reference REF_DENV_3II_A.2_JF295012	fasta-refseqs-yale-denv3	JF295012.1_2007	JF295012
+create reference REF_DENV_3II_A.2_KF955506	fasta-refseqs-yale-denv3	KF955506.1_2007	KF955506
+create reference REF_DENV_3II_A.2_HM631854	fasta-refseqs-yale-denv3	HM631854.1_2008	HM631854
+create reference REF_DENV_3II_A.2_FJ639715	fasta-refseqs-yale-denv3	FJ639715.1_2008	FJ639715
+create reference REF_DENV_3II_A.2_GU131903	fasta-refseqs-yale-denv3	GU131903.1_2008	GU131903
+create reference REF_DENV_3II_A.3_out_MW946629	fasta-refseqs-yale-denv3	MW946629.1_1998	MW946629
+create reference REF_DENV_3II_A.3_MW946622	fasta-refseqs-yale-denv3	MW946622.1_2006	MW946622
+create reference REF_DENV_3II_A.3_KY586706	fasta-refseqs-yale-denv3	KY586706.1_2006	KY586706
+create reference REF_DENV_3II_A.3_MW946820	fasta-refseqs-yale-denv3	MW946820.1_2003	MW946820
+create reference REF_DENV_3II_A.3_KY586704	fasta-refseqs-yale-denv3	KY586704.1_2008	KY586704
+create reference REF_DENV_3II_A.3_KY586702	fasta-refseqs-yale-denv3	KY586702.1_2008	KY586702
+create reference REF_DENV_3II_A.4_out_MW946753	fasta-refseqs-yale-denv3	MW946753.1_2003	MW946753
+create reference REF_DENV_3II_A.4_MW946718	fasta-refseqs-yale-denv3	MW946718.1_2001	MW946718
+create reference REF_DENV_3II_A.4_KY586724	fasta-refseqs-yale-denv3	KY586724.1_2000	KY586724
+create reference REF_DENV_3II_A.4_MW946863	fasta-refseqs-yale-denv3	MW946863.1_2003	MW946863
+create reference REF_DENV_3II_A.4_KY586721	fasta-refseqs-yale-denv3	KY586721.1_2000	KY586721
+create reference REF_DENV_3II_A.4_MW946651	fasta-refseqs-yale-denv3	MW946651.1_1997	MW946651
+create reference REF_DENV_3II_A.4_MW946819	fasta-refseqs-yale-denv3	MW946819.1_1999	MW946819
+create reference REF_DENV_3II_A.5_out_MW946924	fasta-refseqs-yale-denv3	MW946924.1_1997	MW946924
+create reference REF_DENV_3II_A.5_MN448990	fasta-refseqs-yale-denv3	MN448990.1_2011-12-27	MN448990
+create reference REF_DENV_3II_A.5_MN448977	fasta-refseqs-yale-denv3	MN448977.1_2010-05-18	MN448977
+create reference REF_DENV_3II_A.5_MW946926	fasta-refseqs-yale-denv3	MW946926.1_1999	MW946926
+create reference REF_DENV_3II_A.5_MW946934	fasta-refseqs-yale-denv3	MW946934.1_2011	MW946934
+create reference REF_DENV_3II_A.5_KU509280	fasta-refseqs-yale-denv3	KU509280.1_2011	KU509280
+create reference REF_DENV_3II_A.5_KY586777	fasta-refseqs-yale-denv3	KY586777.1_1999	KY586777
+create reference REF_DENV_3II_A_KY586787	fasta-refseqs-yale-denv3	KY586787.1_2002	KY586787
+create reference REF_DENV_3II_A_MW946675	fasta-refseqs-yale-denv3	MW946675.1_1994	MW946675
+create reference REF_DENV_3II_A_KY586754	fasta-refseqs-yale-denv3	KY586754.1_2001	KY586754
+create reference REF_DENV_3II_A_MW946876	fasta-refseqs-yale-denv3	MW946876.1_2003	MW946876
+create reference REF_DENV_3II_A_MW946934	fasta-refseqs-yale-denv3	MW946934.1_2011	MW946934
+create reference REF_DENV_3II_A_KY586702	fasta-refseqs-yale-denv3	KY586702.1_2008	KY586702
+create reference REF_DENV_3II_A_HM631854	fasta-refseqs-yale-denv3	HM631854.1_2008	HM631854
+create reference REF_DENV_3II_A_KU509280	fasta-refseqs-yale-denv3	KU509280.1_2011	KU509280
+create reference REF_DENV_3II_A_MZ857226	fasta-refseqs-yale-denv3	MZ857226.1_1991-09-17	MZ857226
+create reference REF_DENV_3II_A_out_OK469354	fasta-refseqs-yale-denv3	OK469354.1_1989	OK469354
+create reference REF_DENV_3II_B_MW946664	fasta-refseqs-yale-denv3	MW946664.1_2011	MW946664
+create reference REF_DENV_3II_B_KT424097	fasta-refseqs-yale-denv3	KT424097.1_2014-08-28	KT424097
+create reference REF_DENV_3II_B_AY496871	fasta-refseqs-yale-denv3	AY496871.2_2002	AY496871
+create reference REF_DENV_3II_B_MF682971	fasta-refseqs-yale-denv3	MF682971.1_2013-07-22	MF682971
+create reference REF_DENV_3II_B_KY586818	fasta-refseqs-yale-denv3	KY586818.1_2007	KY586818
+create reference REF_DENV_3II_B_out_KJ737430	fasta-refseqs-yale-denv3	KJ737430.1_1983	KJ737430
+create reference REF_DENV_3III_A.1_out_DQ675533	fasta-refseqs-yale-denv3	DQ675533.1_1999	DQ675533
+create reference REF_DENV_3III_A.1_EU081214	fasta-refseqs-yale-denv3	EU081214.1_2005	EU081214
+create reference REF_DENV_3III_A.1_EU081217	fasta-refseqs-yale-denv3	EU081217.1_2005	EU081217
+create reference REF_DENV_3III_A.1_EU081210	fasta-refseqs-yale-denv3	EU081210.1_2005	EU081210
+create reference REF_DENV_3III_A.1_EU081225	fasta-refseqs-yale-denv3	EU081225.1_2005	EU081225
+create reference REF_DENV_3III_A.1_KU509283	fasta-refseqs-yale-denv3	KU509283.1_2006	KU509283
+create reference REF_DENV_3III_A.2_out_DQ675533	fasta-refseqs-yale-denv3	DQ675533.1_1999	DQ675533
+create reference REF_DENV_3III_A.2_KJ830751	fasta-refseqs-yale-denv3	KJ830751.1_2014-01-26	KJ830751
+create reference REF_DENV_3III_A.2_MH048677	fasta-refseqs-yale-denv3	MH048677.1_2014-12	MH048677
+create reference REF_DENV_3III_A.2_LT996904	fasta-refseqs-yale-denv3	LT996904.1_2007	LT996904
+create reference REF_DENV_3III_A.2_MG721059	fasta-refseqs-yale-denv3	MG721059.2_2016	MG721059
+create reference REF_DENV_3III_A.2_OP410993	fasta-refseqs-yale-denv3	OP410993.1_2008-09	OP410993
+create reference REF_DENV_3III_A_MH048677	fasta-refseqs-yale-denv3	MH048677.1_2014-12	MH048677
+create reference REF_DENV_3III_A_FJ882573	fasta-refseqs-yale-denv3	FJ882573.1_1993	FJ882573
+create reference REF_DENV_3III_A_KJ830751	fasta-refseqs-yale-denv3	KJ830751.1_2014-01-26	KJ830751
+create reference REF_DENV_3III_A_KU509283	fasta-refseqs-yale-denv3	KU509283.1_2006	KU509283
+create reference REF_DENV_3III_A_MG721059	fasta-refseqs-yale-denv3	MG721059.2_2016	MG721059
+create reference REF_DENV_3III_A_out_JQ922555	fasta-refseqs-yale-denv3	JQ922555.1_1966	JQ922555
+create reference REF_DENV_3III_B.1_out_GQ466079	fasta-refseqs-yale-denv3	GQ466079.1_2008	GQ466079
+create reference REF_DENV_3III_B.1_MN018378	fasta-refseqs-yale-denv3	MN018378.1_2015-09-30	MN018378
+create reference REF_DENV_3III_B.1_JQ922557	fasta-refseqs-yale-denv3	JQ922557.1_2005	JQ922557
+create reference REF_DENV_3III_B.1_EHIE21409Y22_2022	fasta-refseqs-yale-denv3	EHIE21409Y22_2022	EHIE21409Y22_2022
+create reference REF_DENV_3III_B.1_MN018375	fasta-refseqs-yale-denv3	MN018375.1_2015-10-23	MN018375
+create reference REF_DENV_3III_B.1_MG721064	fasta-refseqs-yale-denv3	MG721064.1_2016	MG721064
+create reference REF_DENV_3III_B.1_JQ922556	fasta-refseqs-yale-denv3	JQ922556.1_2005	JQ922556
+create reference REF_DENV_3III_B.2_out_KU509286	fasta-refseqs-yale-denv3	KU509286.1_2011	KU509286
+create reference REF_DENV_3III_B.2_MN964273	fasta-refseqs-yale-denv3	MN964273.1_2019-11-09	MN964273
+create reference REF_DENV_3III_B.2_MT261977	fasta-refseqs-yale-denv3	MT261977.1_2017-10-12	MT261977
+create reference REF_DENV_3III_B.2_MW288031	fasta-refseqs-yale-denv3	MW288031.1_2018-11	MW288031
+create reference REF_DENV_3III_B.2_KU509282	fasta-refseqs-yale-denv3	KU509282.1_2009	KU509282
+create reference REF_DENV_3III_B.2_LC379197	fasta-refseqs-yale-denv3	LC379197.1_2017-04-15	LC379197
+create reference REF_DENV_3III_B.3.1_out_KX380841	fasta-refseqs-yale-denv3	KX380841.1_2012	KX380841
+create reference REF_DENV_3III_B.3.1_OQ948474	fasta-refseqs-yale-denv3	OQ948474.1_2019-09	OQ948474
+create reference REF_DENV_3III_B.3.1_ON900159	fasta-refseqs-yale-denv3	ON900159.1_2019-06-01	ON900159
+create reference REF_DENV_3III_B.3.1_OQ821611	fasta-refseqs-yale-denv3	OQ821611.1_2020-11-07	OQ821611
+create reference REF_DENV_3III_B.3.1_OQ821609	fasta-refseqs-yale-denv3	OQ821609.1_2019-11-06	OQ821609
+create reference REF_DENV_3III_B.3.1_OQ821604	fasta-refseqs-yale-denv3	OQ821604.1_2019-01-15	OQ821604
+create reference REF_DENV_3III_B.3.1_MK894340	fasta-refseqs-yale-denv3	MK894340.1_2018-10-16	MK894340
+create reference REF_DENV_3III_B.3.1_MN018385	fasta-refseqs-yale-denv3	MN018385.1_2016-09-20	MN018385
+create reference REF_DENV_3III_B.3.1_ON123658	fasta-refseqs-yale-denv3	ON123658.1_2019	ON123658
+create reference REF_DENV_3III_B.3.2_out_ON123669	fasta-refseqs-yale-denv3	ON123669.1_2018	ON123669
+create reference REF_DENV_3III_B.3.2_OQ857506	fasta-refseqs-yale-denv3	OQ857506.1_2022-10-05	OQ857506
+create reference REF_DENV_3III_B.3.2_OQ836209	fasta-refseqs-yale-denv3	OQ836209.1_2023-01-24	OQ836209
+create reference REF_DENV_3III_B.3.2_OQ821520	fasta-refseqs-yale-denv3	OQ821520.1_2022-08-18	OQ821520
+create reference REF_DENV_3III_B.3.2_OR150747	fasta-refseqs-yale-denv3	OR150747.1_2022-12-23	OR150747
+create reference REF_DENV_3III_B.3.2_OQ821574	fasta-refseqs-yale-denv3	OQ821574.1_2022-11-07	OQ821574
+create reference REF_DENV_3III_B.3.2_OQ821582	fasta-refseqs-yale-denv3	OQ821582.1_2022-11-30	OQ821582
+create reference REF_DENV_3III_B.3.2_OQ821509	fasta-refseqs-yale-denv3	OQ821509.1_2022-08-05	OQ821509
+create reference REF_DENV_3III_B.3.2_OR150749	fasta-refseqs-yale-denv3	OR150749.1_2023-01-06	OR150749
+create reference REF_DENV_3III_B.3_out_JQ922556	fasta-refseqs-yale-denv3	JQ922556.1_2005	JQ922556
+create reference REF_DENV_3III_B.3_OQ948474	fasta-refseqs-yale-denv3	OQ948474.1_2019-09	OQ948474
+create reference REF_DENV_3III_B.3_ON900159	fasta-refseqs-yale-denv3	ON900159.1_2019-06-01	ON900159
+create reference REF_DENV_3III_B.3_ON123655	fasta-refseqs-yale-denv3	ON123655.1_2020	ON123655
+create reference REF_DENV_3III_B.3_OP895705	fasta-refseqs-yale-denv3	OP895705.1_2018	OP895705
+create reference REF_DENV_3III_B.3_OQ721955	fasta-refseqs-yale-denv3	OQ721955.1_2022	OQ721955
+create reference REF_DENV_3III_B_MW192824	fasta-refseqs-yale-denv3	MW192824.1_2017-08	MW192824
+create reference REF_DENV_3III_B_MT261977	fasta-refseqs-yale-denv3	MT261977.1_2017-10-12	MT261977
+create reference REF_DENV_3III_B_OQ948474	fasta-refseqs-yale-denv3	OQ948474.1_2019-09	OQ948474
+create reference REF_DENV_3III_B_EHIE21409Y22_2022	fasta-refseqs-yale-denv3	EHIE21409Y22_2022	EHIE21409Y22_2022
+create reference REF_DENV_3III_B_FJ644564	fasta-refseqs-yale-denv3	FJ644564.1_2007	FJ644564
+create reference REF_DENV_3III_B_OP895705	fasta-refseqs-yale-denv3	OP895705.1_2018	OP895705
+create reference REF_DENV_3III_B_MZ544587	fasta-refseqs-yale-denv3	MZ544587.1_2019-03	MZ544587
+create reference REF_DENV_3III_B_out_JQ922555	fasta-refseqs-yale-denv3	JQ922555.1_1966	JQ922555
+create reference REF_DENV_3III_C.1_out_GQ199886	fasta-refseqs-yale-denv3	GQ199886.1_1998	GQ199886
+create reference REF_DENV_3III_C.1_EU482559	fasta-refseqs-yale-denv3	EU482559.1_1998	EU482559
+create reference REF_DENV_3III_C.1_KF955467	fasta-refseqs-yale-denv3	KF955467.1_2000	KF955467
+create reference REF_DENV_3III_C.1_FJ547077	fasta-refseqs-yale-denv3	FJ547077.1_2000	FJ547077
+create reference REF_DENV_3III_C.1_EU687219	fasta-refseqs-yale-denv3	EU687219.1_1999	EU687219
+create reference REF_DENV_3III_C.1_EU482566	fasta-refseqs-yale-denv3	EU482566.1_1998	EU482566
+create reference REF_DENV_3III_C.1_FJ390375	fasta-refseqs-yale-denv3	FJ390375.1_1999	FJ390375
+create reference REF_DENV_3III_C.1_FJ410178	fasta-refseqs-yale-denv3	FJ410178.1_2002	FJ410178
+create reference REF_DENV_3III_C.1_FJ547074	fasta-refseqs-yale-denv3	FJ547074.1_2000	FJ547074
+create reference REF_DENV_3III_C.1_FJ547081	fasta-refseqs-yale-denv3	FJ547081.1_2001	FJ547081
+create reference REF_DENV_3III_C.1_GQ868578	fasta-refseqs-yale-denv3	GQ868578.1_2007	GQ868578
+create reference REF_DENV_3III_C.1_OQ821502	fasta-refseqs-yale-denv3	OQ821502.1_2021-08-12	OQ821502
+create reference REF_DENV_3III_C.1_EU596494	fasta-refseqs-yale-denv3	EU596494.1_2007	EU596494
+create reference REF_DENV_3III_C.1_OQ603309	fasta-refseqs-yale-denv3	OQ603309.1_2015-09-15	OQ603309
+create reference REF_DENV_3III_C.1_OQ603311	fasta-refseqs-yale-denv3	OQ603311.1_2015	OQ603311
+create reference REF_DENV_3III_C.2.1_out_EU854292	fasta-refseqs-yale-denv3	EU854292.1_2005	EU854292
+create reference REF_DENV_3III_C.2.1_KF971702	fasta-refseqs-yale-denv3	KF971702.1_2009	KF971702
+create reference REF_DENV_3III_C.2.1_HM631856	fasta-refseqs-yale-denv3	HM631856.1_2009	HM631856
+create reference REF_DENV_3III_C.2.1_HM181972	fasta-refseqs-yale-denv3	HM181972.1_2009	HM181972
+create reference REF_DENV_3III_C.2.1_JF920394	fasta-refseqs-yale-denv3	JF920394.1_2009	JF920394
+create reference REF_DENV_3III_C.2.1_MZ008476	fasta-refseqs-yale-denv3	MZ008476.1_2014	MZ008476
+create reference REF_DENV_3III_C.2.1_MW308181	fasta-refseqs-yale-denv3	MW308181.1_2019-08-22	MW308181
+create reference REF_DENV_3III_C.2.1_OM417340	fasta-refseqs-yale-denv3	OM417340.1_2021-09-21	OM417340
+create reference REF_DENV_3III_C.2.1_MZ008474	fasta-refseqs-yale-denv3	MZ008474.1_2013	MZ008474
+create reference REF_DENV_3III_C.2.1_MZ008472	fasta-refseqs-yale-denv3	MZ008472.1_2013	MZ008472
+create reference REF_DENV_3III_C.2.2_out_JX669491	fasta-refseqs-yale-denv3	JX669491.1_2002	JX669491
+create reference REF_DENV_3III_C.2.2_GU131850	fasta-refseqs-yale-denv3	GU131850.1_2006	GU131850
+create reference REF_DENV_3III_C.2.2_GU131876	fasta-refseqs-yale-denv3	GU131876.1_2007	GU131876
+create reference REF_DENV_3III_C.2.2_GU131870	fasta-refseqs-yale-denv3	GU131870.1_2007	GU131870
+create reference REF_DENV_3III_C.2.2_GU131872	fasta-refseqs-yale-denv3	GU131872.1_2007	GU131872
+create reference REF_DENV_3III_C.2.2_GU131861	fasta-refseqs-yale-denv3	GU131861.1_2007	GU131861
+create reference REF_DENV_3III_C.2.2_MH888333	fasta-refseqs-yale-denv3	MH888333.1_2011-01-01	MH888333
+create reference REF_DENV_3III_C.2_out_FJ898440	fasta-refseqs-yale-denv3	FJ898440.1_2003	FJ898440
+create reference REF_DENV_3III_C.2_OQ603310	fasta-refseqs-yale-denv3	OQ603310.1_2015	OQ603310
+create reference REF_DENV_3III_C.2_OK605762	fasta-refseqs-yale-denv3	OK605762.1_2007	OK605762
+create reference REF_DENV_3III_C.2_OM417341	fasta-refseqs-yale-denv3	OM417341.1_2021-09-19	OM417341
+create reference REF_DENV_3III_C.2_OM417340	fasta-refseqs-yale-denv3	OM417340.1_2021-09-21	OM417340
+create reference REF_DENV_3III_C.2_MH888333	fasta-refseqs-yale-denv3	MH888333.1_2011-01-01	MH888333
+create reference REF_DENV_3III_C_FJ882576	fasta-refseqs-yale-denv3	FJ882576.1_1994	FJ882576
+create reference REF_DENV_3III_C_OQ603311	fasta-refseqs-yale-denv3	OQ603311.1_2015	OQ603311
+create reference REF_DENV_3III_C_OM417340	fasta-refseqs-yale-denv3	OM417340.1_2021-09-21	OM417340
+create reference REF_DENV_3III_C_OQ821502	fasta-refseqs-yale-denv3	OQ821502.1_2021-08-12	OQ821502
+create reference REF_DENV_3III_C_OQ603310	fasta-refseqs-yale-denv3	OQ603310.1_2015	OQ603310
+create reference REF_DENV_3III_C_OM417341	fasta-refseqs-yale-denv3	OM417341.1_2021-09-19	OM417341
+create reference REF_DENV_3III_C_out_JQ922555	fasta-refseqs-yale-denv3	JQ922555.1_1966	JQ922555
