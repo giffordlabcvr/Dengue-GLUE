@@ -19,10 +19,10 @@
     set field displayName "2II_F1"
     set field clade_category "minor_lineage" 
  
- 	extract child AL_DENV_2II_F1.1 -r REF_DENV_2II_F.1.1_OL414755
+ 	extract child AL_DENV_2II_F1.1 -r REF_DENV_2II_F.1.1_KX380818 
 	demote member AL_DENV_2II_F1.1 --whereClause "sequence.minor_sublineage = '2II_F.1.1'"
   
-	extract child AL_DENV_2II_F1.2 -r REF_DENV_2II_F.1.2_LC436675
+	extract child AL_DENV_2II_F1.2 -r REF_DENV_2II_F.1.2_MW512403
 	demote member AL_DENV_2II_F1.2 --whereClause "sequence.minor_sublineage = '2II_F.1.2'"
 
 	exit
@@ -47,10 +47,10 @@
     set field displayName "2III_C1"
     set field clade_category "minor_lineage" 
 
-	extract child AL_DENV_2III_C1.1 -r REF_DENV_2III_C.1.1_ON634740
+	extract child AL_DENV_2III_C1.1 -r REF_DENV_2III_C.1.1_MK517773
 	demote member AL_DENV_2III_C1.1 --whereClause "sequence.minor_sublineage = '2III_C.1.1'"
 
-	extract child AL_DENV_2III_C1.2 -r REF_DENV_2III_C.1.2_Yale-DN00400
+	extract child AL_DENV_2III_C1.2 -r REF_DENV_2III_C.1.2_OQ740552
 	demote member AL_DENV_2III_C1.2 --whereClause "sequence.minor_sublineage = '2III_C.1.2'"
 
 	exit
@@ -64,7 +64,7 @@
 	extract child AL_DENV_2III_D1.1 -r REF_DENV_2III_D.1.1_EU596500
 	demote member AL_DENV_2III_D1.1 --whereClause "sequence.minor_sublineage = '2III_D.1.1'"
   
-	extract child AL_DENV_2III_D1.2 -r REF_DENV_2III_D.1.2_EPI_ISL_17689875	
+	extract child AL_DENV_2III_D1.2 -r REF_DENV_2III_D.1.2_OQ821483
 	demote member AL_DENV_2III_D1.2 --whereClause "sequence.minor_sublineage = '2III_D.1.2'"
   
 	extract child AL_DENV_2III_D1.3 -r REF_DENV_2III_D.1.3_FJ906956

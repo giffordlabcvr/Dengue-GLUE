@@ -61,10 +61,9 @@
     set field displayName "2II_F"
     set field clade_category "major_lineage"
   
-	extract child AL_DENV_2II_F1 -r REF_DENV_2II_F.1_OP921000
+	extract child AL_DENV_2II_F1 -r REF_DENV_2II_F.1_MW512447
 	demote member AL_DENV_2II_F1 --whereClause "sequence.minor_lineage = '2II_F.1'"
   
-
 	extract child AL_DENV_2II_F2 -r REF_DENV_2II_F.2_MW512430
 	demote member AL_DENV_2II_F2 --whereClause "sequence.minor_lineage = '2II_F.2'"
 
@@ -92,7 +91,7 @@
 	extract child AL_DENV_2III_C1 -r REF_DENV_2III_C.1_ON634744
 	demote member AL_DENV_2III_C1 --whereClause "sequence.minor_lineage = '2III_C.1'"
 
-	extract child AL_DENV_2III_C2 -r REF_DENV_2III_C.2_US-DB337-2022
+	extract child AL_DENV_2III_C2 -r REF_DENV_2III_C.2_OQ821445
 	demote member AL_DENV_2III_C2 --whereClause "sequence.minor_lineage = '2III_C.2'"
 
 	exit
@@ -118,10 +117,10 @@
     set field displayName "2V_A"
     set field clade_category "major_lineage"
 
-	extract child AL_DENV_2V_A1 -r REF_DENV_2V_A.1_MN018366
+	extract child AL_DENV_2V_A1 -r REF_DENV_2V_A.1_KY586586
 	demote member AL_DENV_2V_A1 --whereClause "sequence.minor_lineage = '2V_A.1'"	
   
-	extract child AL_DENV_2V_A2 -r REF_DENV_2V_A.2_OL414761
+	extract child AL_DENV_2V_A2 -r REF_DENV_2V_A.2_MF459663
 	demote member AL_DENV_2V_A2 --whereClause "sequence.minor_lineage = '2V_A.2'"	
   
 	extract child AL_DENV_2V_A3 -r REF_DENV_2V_A.3_MW946554

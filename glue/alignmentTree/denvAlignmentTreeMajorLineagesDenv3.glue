@@ -42,7 +42,7 @@
 	extract child AL_DENV_3III_B -r REF_DENV_3III_B_MT261977
 	demote member AL_DENV_3III_B --whereClause "sequence.major_lineage = '3III_B'"
   
-	extract child AL_DENV_3III_C -r REF_DENV_3III_C.1_Yale-DN00994
+	extract child AL_DENV_3III_C -r REF_DENV_3III_C_FJ882576
 	demote member AL_DENV_3III_C --whereClause "sequence.major_lineage = '3III_C'"
 
 	exit

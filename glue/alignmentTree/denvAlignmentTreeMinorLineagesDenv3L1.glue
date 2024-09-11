@@ -21,10 +21,10 @@
 	extract child AL_DENV_3II_A1 -r REF_DENV_3II_A.1_EU482456
 	demote member AL_DENV_3II_A1 --whereClause "sequence.minor_lineage = '3II_A.1'"	
 
-	extract child AL_DENV_3II_A2 -r REF_DENV_3II_A.2_MW946819
+	extract child AL_DENV_3II_A2 -r REF_DENV_3II_A.2_MW946858 
 	demote member AL_DENV_3II_A2 --whereClause "sequence.minor_lineage = '3II_A.2'"	
  
-	extract child AL_DENV_3II_A3 -r REF_DENV_3II_A.3_MW946934
+	extract child AL_DENV_3II_A3 -r REF_DENV_3II_A.3_MW946622
 	demote member AL_DENV_3II_A3 --whereClause "sequence.minor_lineage = '3II_A.3'"	
   
 	exit
@@ -65,10 +65,10 @@
     set field displayName "3III_C"
     set field clade_category "major_lineage"
    
-	extract child AL_DENV_3III_C1 -r REF_DENV_3III_C.1_Yale-DN00994
+	extract child AL_DENV_3III_C1 -r REF_DENV_3III_C.1_EU482559
 	demote member AL_DENV_3III_C1 --whereClause "sequence.minor_lineage = '3III_C.1'"	
   
-	extract child AL_DENV_3III_C2 -r REF_DENV_3III_C.2_MZ008474
+	extract child AL_DENV_3III_C2 -r REF_DENV_3III_C.2_OQ603310
 	demote member AL_DENV_3III_C2 --whereClause "sequence.minor_lineage = '3III_C.2'"	
 
 	exit

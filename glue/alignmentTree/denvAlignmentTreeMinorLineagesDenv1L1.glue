@@ -34,11 +34,23 @@
 	extract child AL_DENV_1I_K1 -r REF_DENV_1I_K.1_OM281593
 	demote member AL_DENV_1I_K1 --whereClause "sequence.minor_lineage = '1I_K.1'"
 
-	extract child AL_DENV_1I_K2 -r REF_DENV_1I_K.2_MN556094
+	extract child AL_DENV_1I_K2 -r REF_DENV_1I_K.2_MF033220
 	demote member AL_DENV_1I_K2 --whereClause "sequence.minor_lineage = '1I_K.2'"
 
-	extract child AL_DENV_1I_K3 -r REF_DENV_1I_K.3_KF971870
+	extract child AL_DENV_1I_K3 -r REF_DENV_1I_K.3_MN556094
 	demote member AL_DENV_1I_K3 --whereClause "sequence.minor_lineage = '1I_K.3'"
+
+	extract child AL_DENV_1I_K4 -r REF_DENV_1I_K.4_KC762627
+	demote member AL_DENV_1I_K4 --whereClause "sequence.minor_lineage = '1I_K.4'"
+
+	extract child AL_DENV_1I_K5 -r REF_DENV_1I_K.5_KY586336
+	demote member AL_DENV_1I_K5 --whereClause "sequence.minor_lineage = '1I_K.5'"
+
+	extract child AL_DENV_1I_K6 -r REF_DENV_1I_K.6_MW945860
+	demote member AL_DENV_1I_K6 --whereClause "sequence.minor_lineage = '1I_K.6'"
+
+	extract child AL_DENV_1I_K7 -r REF_DENV_1I_K.6_MW945860
+	demote member AL_DENV_1I_K7 --whereClause "sequence.minor_lineage = '1I_K.7'"
 
 	exit
 

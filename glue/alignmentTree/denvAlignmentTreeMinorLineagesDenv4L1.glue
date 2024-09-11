@@ -5,13 +5,13 @@
     set field displayName "4I_A"
     set field clade_category "major_lineage"
     
-	extract child AL_DENV_4I_A1 -r REF_DENV_4I_A.1_OQ427041
+	extract child AL_DENV_4I_A1 -r REF_DENV_4I_A.1_OK469358
 	demote member AL_DENV_4I_A1 --whereClause "sequence.minor_lineage = '4I_A.1'"	
      
-	extract child AL_DENV_4I_A2 -r REF_DENV_4I_A.2_MN018395
+	extract child AL_DENV_4I_A2 -r REF_DENV_4I_A.2_KY586922
 	demote member AL_DENV_4I_A2 --whereClause "sequence.minor_lineage = '4I_A.2'"	
     
-	extract child AL_DENV_4I_A3 -r REF_DENV_4I_A.3_MN449006
+	extract child AL_DENV_4I_A3 -r REF_DENV_4I_A.3_MW945648
 	demote member AL_DENV_4I_A3 --whereClause "sequence.minor_lineage = '4I_A.3'"	
   
 	exit
@@ -24,7 +24,7 @@
 	extract child AL_DENV_4I_B1 -r REF_DENV_4I_B.1_OP984198
 	demote member AL_DENV_4I_B1 --whereClause "sequence.minor_lineage = '4I_B.1'"	
   
-	extract child AL_DENV_4I_B2 -r REF_DENV_4I_B.2_KU509287
+	extract child AL_DENV_4I_B2 -r REF_DENV_4I_B.2_KX059018
 	demote member AL_DENV_4I_B2 --whereClause "sequence.minor_lineage = '4I_B.2'"	
   
 	exit
@@ -34,7 +34,7 @@
     set field displayName "4II_A"
     set field clade_category "major_lineage"
   
-	extract child AL_DENV_4II_A1 -r REF_DENV_4II_A.1_OL314744
+	extract child AL_DENV_4II_A1 -r REF_DENV_4II_A.1_MH382789
 	demote member AL_DENV_4II_A1 --whereClause "sequence.minor_lineage = '4II_A.1'"	
   
 	extract child AL_DENV_4II_A2 -r REF_DENV_4II_A.2_KC762696
