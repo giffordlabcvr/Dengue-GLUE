@@ -1,9 +1,9 @@
-  delete module denguePhyloUtility
-  delete module dengueFigTreeAnnotationExporter
+  delete module denvPhyloUtility
+  delete module denvFigTreeAnnotationExporter
   
-  create module -f modules/denguePhyloUtility.xml
+  create module -f modules/denvPhyloUtility.xml
   
-  module denguePhyloUtility
+  module denvPhyloUtility
   
 	# midpoint rooting
 
@@ -31,8 +31,8 @@
     
   
   # Export annotations
-  create module -f modules/dengueFigTreeAnnotationExporter.xml
-  module dengueFigTreeAnnotationExporter export figtree-annotation AL_UNC_DENV1_YALE -f trees/AL_UNC_DENV1_YALE.annotations.tsv
-  module dengueFigTreeAnnotationExporter export figtree-annotation AL_UNC_DENV2_YALE -f trees/AL_UNC_DENV2_YALE.annotations.tsv
-  module dengueFigTreeAnnotationExporter export figtree-annotation AL_UNC_DENV3_YALE -f trees/AL_UNC_DENV3_YALE.annotations.tsv
-  module dengueFigTreeAnnotationExporter export figtree-annotation AL_UNC_DENV4_YALE -f trees/AL_UNC_DENV4_YALE.annotations.tsv
+  create module -f modules/denvFigTreeAnnotationExporter.xml
+  module denvFigTreeAnnotationExporter export figtree-annotation AL_UNC_DENV1_YALE -f trees/AL_UNC_DENV1_YALE.annotations.tsv
+  module denvFigTreeAnnotationExporter export figtree-annotation AL_UNC_DENV2_YALE -f trees/AL_UNC_DENV2_YALE.annotations.tsv
+  module denvFigTreeAnnotationExporter export figtree-annotation AL_UNC_DENV3_YALE -f trees/AL_UNC_DENV3_YALE.annotations.tsv
+  module denvFigTreeAnnotationExporter export figtree-annotation AL_UNC_DENV4_YALE -f trees/AL_UNC_DENV4_YALE.annotations.tsv
