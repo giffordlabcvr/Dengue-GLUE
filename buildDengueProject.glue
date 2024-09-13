@@ -40,10 +40,10 @@ project dengue
   run file glue/denvDeriveConstrainedMsas.glue
 
   # Compute reference phylogenies
-  run file glue/denvComputeRefPhylogenies.glue
+  #run file glue/denvComputeRefPhylogenies.glue
 
   # Prepare reference phylogenies
-  run file glue/denvPrepareRefPhylogenies.glue
+  #run file glue/denvPrepareRefPhylogenies.glue
 
   # Import reference phylogenies
   run file glue/denvImportPhylogenies.glue
