@@ -1,0 +1,18 @@
+delete alignment AL_UNC_DENV1_YALE
+delete alignment AL_UNC_DENV2_YALE
+delete alignment AL_UNC_DENV3_YALE
+delete alignment AL_UNC_DENV4_YALE
+
+create module -f modules/denvMafftAligner.xml
+
+create alignment AL_UNC_DENV1_YALE 
+alignment AL_UNC_DENV1_YALE add member -w "serotype = '1'"
+
+create alignment AL_UNC_DENV2_YALE 
+alignment AL_UNC_DENV2_YALE add member -w "serotype = '2'"
+
+create alignment AL_UNC_DENV3_YALE 
+alignment AL_UNC_DENV3_YALE add member -w "serotype = '3'"
+
+create alignment AL_UNC_DENV4_YALE 
+alignment AL_UNC_DENV4_YALE add member -w "serotype = '4'"

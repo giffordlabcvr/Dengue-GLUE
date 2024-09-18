@@ -1,0 +1,104 @@
+schema-project dengue
+
+  #~# Custom tables
+  
+  create custom-table isolate_data
+  create custom-table denv_replacement
+  create custom-table denv_replacement_sequence --idFieldLength 200
+
+
+  #~# Extensions to sequence table
+
+  table sequence
+
+    create field gb_serotype VARCHAR 50
+    create field serotype VARCHAR 50
+    create field genotype VARCHAR 50
+    create field major_lineage VARCHAR 50
+    create field minor_lineage VARCHAR 50	
+    create field minor_sublineage VARCHAR 50	
+    create field minor_subsublineage VARCHAR 50	
+    create field outgroup VARCHAR 50	
+
+    create field length INTEGER
+    create field pubmed_id INTEGER
+    
+    create field gb_create_date DATE
+    create field gb_update_date DATE
+    
+    # true if variations are present in the sequence
+    create field variation_present BOOLEAN
+
+    exit
+
+
+  #~# Alignment table extensions 
+
+  table alignment
+  
+    create field clade_category VARCHAR 20
+    create field phylogeny CLOB
+    
+    exit 
+
+
+  table member_floc_note
+  
+    create field ref_nt_coverage_pct DOUBLE
+    
+    exit
+
+
+  #~# Create schema extension for virus isolates
+
+  table isolate_data
+  
+    create field isolate VARCHAR 100
+    create field isolation_source VARCHAR 200
+    create field molecule_type VARCHAR
+    create field country_iso VARCHAR
+    create field country VARCHAR 200
+    create field place_sampled VARCHAR 100        
+    create field sampled_host_sci_name VARCHAR 150
+    create field collection_year INTEGER 
+    create field collection_month VARCHAR
+    create field collection_month_day INTEGER
+    exit
+
+
+  #~# Create schema extension for replacements
+
+  table denv_replacement
+  
+    create field display_name VARCHAR
+    create field codon_label VARCHAR
+    create field codon_label_int INTEGER
+    create field reference_aa VARCHAR
+    create field reference_nt INTEGER
+    create field replacement_aa VARCHAR
+    create field num_seqs INTEGER
+    create field radical_hanada_category_i BOOLEAN
+    create field radical_hanada_category_ii BOOLEAN
+    create field radical_hanada_category_iii BOOLEAN
+    create field grantham_distance_double DOUBLE
+    create field grantham_distance_int INTEGER
+    create field miyata_distance DOUBLE
+    create field parent_feature VARCHAR
+    create field parent_codon_label VARCHAR
+    exit
+
+
+  create link sequence isolate_data
+
+  create link variation denv_replacement -m ONE_TO_ONE
+  create link denv_replacement denv_replacement_sequence -m ONE_TO_MANY
+  create link sequence denv_replacement_sequence -m ONE_TO_MANY
+
+  #~# WHO regions / countries etc (M49 standard)
+  
+  run file glue/m49_countries/m49SchemaExtension.glue 
+  create link sequence m49_country -m MANY_TO_ONE
+  
+  
+  exit
+

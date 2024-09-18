@@ -1,0 +1,27 @@
+
+	# Basic modules
+	create module -t tabularUtility dengueTabularUtility
+	create module -f modules/tabularUtilityCsv.xml
+	create module -f modules/tabularUtilityTab.xml
+
+	# Import modules
+	create module --fileName modules/unconstrainedAlignmentImporter.xml
+	create module --fileName modules/denvGenbankXmlPopulator.xml
+
+	# Create serotype recognition and genotyping modules
+	create module -f modules/assignment/denvSerotypeRecogniser.xml
+	create module -f modules/assignment/denv1MaxLikelihoodGenotyper.xml
+	create module -f modules/assignment/denv1MaxLikelihoodPlacer.xml
+	create module -f modules/assignment/denv2MaxLikelihoodGenotyper.xml
+	create module -f modules/assignment/denv2MaxLikelihoodPlacer.xml
+	create module -f modules/assignment/denv3MaxLikelihoodGenotyper.xml
+	create module -f modules/assignment/denv3MaxLikelihoodPlacer.xml
+	create module -f modules/assignment/denv4MaxLikelihoodGenotyper.xml
+	create module -f modules/assignment/denv4MaxLikelihoodPlacer.xml
+
+    # AA replacement analysis modules
+	create module -f modules/denvMiyata1979DistanceCalculator.xml
+	create module -f modules/denvHanada2006ReplacementClassifier.xml
+	create module -f modules/denvGrantham1974DistanceCalculator.xml
+	
+	

@@ -1,0 +1,262 @@
+  ### DENV1 constrained alignment tree: minor lineage-level alignments
+
+  alignment AL_DENV_1I_E
+
+    set field displayName "1I_E"
+    set field clade_category "major_lineage"
+
+	extract child AL_DENV_1I_E1 -r REF_DENV_1I_E.1_OQ426604
+	demote member AL_DENV_1I_E1 --whereClause "sequence.minor_lineage = '1I_E.1'"
+
+	extract child AL_DENV_1I_E2 -r REF_DENV_1I_E.2_MW315188
+	demote member AL_DENV_1I_E2 --whereClause "sequence.minor_lineage = '1I_E.2'"
+
+	extract child AL_DENV_1I_E3 -r REF_DENV_1I_E.3_PP269662
+	demote member AL_DENV_1I_E3 --whereClause "sequence.minor_lineage = '1I_E.3'"
+
+	extract child AL_DENV_1I_E4 -r REF_DENV_1I_E.4_PP269752
+	demote member AL_DENV_1I_E4 --whereClause "sequence.minor_lineage = '1I_E.4'"
+ 
+	exit
+  
+  alignment AL_DENV_1I_H
+
+    set field displayName "1I_H"
+    set field clade_category "major_lineage"
+
+	extract child AL_DENV_1I_H1 -r REF_DENV_1I_H.1_ON123666
+	demote member AL_DENV_1I_H1 --whereClause "sequence.minor_lineage = '1I_H.1'"
+
+	extract child AL_DENV_1I_H2 -r REF_DENV_1I_H.2_EU482811
+	demote member AL_DENV_1I_H2 --whereClause "sequence.minor_lineage = '1I_H.2'"
+
+	extract child AL_DENV_1I_H3 -r REF_DENV_1I_H.3_MW946105
+	demote member AL_DENV_1I_H3 --whereClause "sequence.minor_lineage = '1I_H.3'"
+
+	exit
+  
+  alignment AL_DENV_1I_K
+
+    set field displayName "1I_K"
+    set field clade_category "major_lineage"
+
+	extract child AL_DENV_1I_K1 -r REF_DENV_1I_K.1_OM281593
+	demote member AL_DENV_1I_K1 --whereClause "sequence.minor_lineage = '1I_K.1'"
+
+	extract child AL_DENV_1I_K2 -r REF_DENV_1I_K.2_MF033220
+	demote member AL_DENV_1I_K2 --whereClause "sequence.minor_lineage = '1I_K.2'"
+
+	extract child AL_DENV_1I_K3 -r REF_DENV_1I_K.3_MN556094
+	demote member AL_DENV_1I_K3 --whereClause "sequence.minor_lineage = '1I_K.3'"
+
+	extract child AL_DENV_1I_K4 -r REF_DENV_1I_K.4_KC762627
+	demote member AL_DENV_1I_K4 --whereClause "sequence.minor_lineage = '1I_K.4'"
+
+	extract child AL_DENV_1I_K5 -r REF_DENV_1I_K.5_KY586336
+	demote member AL_DENV_1I_K5 --whereClause "sequence.minor_lineage = '1I_K.5'"
+
+	extract child AL_DENV_1I_K6 -r REF_DENV_1I_K.6_MW945860
+	demote member AL_DENV_1I_K6 --whereClause "sequence.minor_lineage = '1I_K.6'"
+
+	extract child AL_DENV_1I_K7 -r REF_DENV_1I_K.7_HM181970
+	demote member AL_DENV_1I_K7 --whereClause "sequence.minor_lineage = '1I_K.7'"
+
+	exit
+
+  alignment AL_DENV_1III_A
+
+    set field displayName "1III_A"
+    set field clade_category "major_lineage"
+
+	extract child AL_DENV_1III_A1 -r REF_DENV_1III_A.1_OP898557
+	demote member AL_DENV_1III_A1 --whereClause "sequence.minor_lineage = '1III_A.1'"
+
+	extract child AL_DENV_1III_A2 -r REF_DENV_1III_A.2_OR235532
+	demote member AL_DENV_1III_A2 --whereClause "sequence.minor_lineage = '1III_A.2'"
+
+	extract child AL_DENV_1III_A3 -r REF_DENV_1III_A.3_MF033212
+	demote member AL_DENV_1III_A3 --whereClause "sequence.minor_lineage = '1III_A.3'"
+
+	extract child AL_DENV_1III_A4 -r REF_DENV_1III_A.4_ON123661
+	demote member AL_DENV_1III_A4 --whereClause "sequence.minor_lineage = '1III_A.4'"
+ 
+	exit
+
+
+  alignment AL_DENV_1IV_B
+
+    set field displayName "1IV_B"
+    set field clade_category "major_lineage"
+
+	extract child AL_DENV_1IV_B1 -r REF_DENV_1IV_B.1_MT832032
+	demote member AL_DENV_1IV_B1 --whereClause "sequence.minor_lineage = '1IV_B.1'"
+
+	extract child AL_DENV_1IV_B2 -r REF_DENV_1IV_B.2_MT832033
+	demote member AL_DENV_1IV_B2 --whereClause "sequence.minor_lineage = '1IV_B.2'"
+ 
+	exit
+
+  alignment AL_DENV_1V_D
+
+    set field displayName "1V_D"
+    set field clade_category "major_lineage"
+
+	extract child AL_DENV_1V_D1 -r REF_DENV_1V_D.1_OQ603259
+	demote member AL_DENV_1V_D1 --whereClause "sequence.minor_lineage = '1V_D.1'"
+
+	extract child AL_DENV_1V_D2 -r REF_DENV_1V_D.2_OR654272
+	demote member AL_DENV_1V_D2 --whereClause "sequence.minor_lineage = '1V_D.2'"
+
+	exit
+
+  alignment AL_DENV_1V_E
+
+    set field displayName "1V_E"
+    set field clade_category "major_lineage"
+
+	extract child AL_DENV_1V_E1 -r REF_DENV_1V_E.1_MT862857
+	demote member AL_DENV_1V_E1 --whereClause "sequence.minor_lineage = '1V_E.1'"
+
+	extract child AL_DENV_1V_E2 -r REF_DENV_1V_E.2_OM833058
+	demote member AL_DENV_1V_E2 --whereClause "sequence.minor_lineage = '1V_E.2'"
+
+	extract child AL_DENV_1V_E3 -r REF_DENV_1V_E.3_OM833059
+	demote member AL_DENV_1V_E3 --whereClause "sequence.minor_lineage = '1V_E.3'"
+
+	extract child AL_DENV_1V_E4 -r REF_DENV_1V_E.4_OQ567790
+	demote member AL_DENV_1V_E4 --whereClause "sequence.minor_lineage = '1V_E.4'"
+
+	exit
+
+
+
+
+  #### Set clade categories in DENV1 minor lineages with no level 2 (L2) sub-lineages
+  
+  alignment AL_DENV_1I_E1
+    set field displayName "1I_E1"
+    set field clade_category "minor_lineage" 
+    exit
+
+  alignment AL_DENV_1I_E2
+    set field displayName "1I_E2"
+    set field clade_category "minor_lineage" 
+    exit
+
+  alignment AL_DENV_1I_E3
+    set field displayName "1I_E3"
+    set field clade_category "minor_lineage" 
+    exit
+
+  alignment AL_DENV_1I_E4
+    set field displayName "1I_E4"
+    set field clade_category "minor_lineage" 
+    exit
+
+  alignment AL_DENV_1I_H1
+    set field displayName "1I_H1"
+    set field clade_category "minor_lineage" 
+    exit
+
+  alignment AL_DENV_1I_H2
+    set field displayName "1I_H2"
+    set field clade_category "minor_lineage" 
+    exit
+
+  alignment AL_DENV_1I_H3
+    set field displayName "1I_H3"
+    set field clade_category "minor_lineage" 
+    exit
+	   
+  alignment AL_DENV_1I_K1
+    set field displayName "1I_K1"
+    set field clade_category "minor_lineage" 
+    exit
+	   
+  alignment AL_DENV_1I_K2
+    set field displayName "1I_K2"
+    set field clade_category "minor_lineage" 
+    exit
+	
+  alignment AL_DENV_1I_K3
+    set field displayName "1I_K3"
+    set field clade_category "minor_lineage" 
+    exit
+	
+  alignment AL_DENV_1I_K4
+    set field displayName "1I_K4"
+    set field clade_category "minor_lineage" 
+    exit
+	
+  alignment AL_DENV_1I_K5
+    set field displayName "1I_K5"
+    set field clade_category "minor_lineage" 
+    exit
+	
+  alignment AL_DENV_1I_K6
+    set field displayName "1I_K6"
+    set field clade_category "minor_lineage" 
+    exit
+	
+  alignment AL_DENV_1I_K7
+    set field displayName "1I_K7"
+    set field clade_category "minor_lineage" 
+    exit
+	
+  alignment AL_DENV_1III_A1
+    set field displayName "1III_A1"
+    set field clade_category "minor_lineage" 
+    exit
+	
+  alignment AL_DENV_1III_A2
+    set field displayName "1III_A2"
+    set field clade_category "minor_lineage" 
+    exit
+	
+  alignment AL_DENV_1III_A3
+    set field displayName "1III_A3"
+    set field clade_category "minor_lineage" 
+    exit
+	
+  alignment AL_DENV_1III_A4
+    set field displayName "1III_A4"
+    set field clade_category "minor_lineage" 
+    exit
+
+  alignment AL_DENV_1IV_B1
+    set field displayName "1IV_B1"
+    set field clade_category "minor_lineage" 
+    exit
+
+  alignment AL_DENV_1IV_B2
+    set field displayName "1IV_B2"
+    set field clade_category "minor_lineage" 
+    exit
+
+  alignment AL_DENV_1V_D2
+    set field displayName "1V_D2"
+    set field clade_category "minor_lineage" 
+    exit
+
+  alignment AL_DENV_1V_E1
+    set field displayName "1V_E1"
+    set field clade_category "minor_lineage" 
+    exit
+
+  alignment AL_DENV_1V_E2
+    set field displayName "1V_E2"
+    set field clade_category "minor_lineage" 
+    exit
+
+  alignment AL_DENV_1V_E3
+    set field displayName "1V_E3"
+    set field clade_category "minor_lineage" 
+    exit
+
+  alignment AL_DENV_1V_E4
+    set field displayName "1V_E4"
+    set field clade_category "minor_lineage" 
+    exit
+
+
+

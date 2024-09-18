@@ -1,0 +1,76 @@
+  #### Alignments representing and containing DENV1 minor sublineages
+
+  alignment AL_DENV_1I_E1
+  
+    set field displayName "1I_E1.1"
+    set field clade_category "minor_sublineage" 
+
+	extract child AL_DENV_1I_E1.1.1 -r REF_DENV_1I_E.1.1_MN912178
+	demote member AL_DENV_1I_E1.1.1 --whereClause "sequence.minor_sublineage = '1I_E.1.1'"	
+  
+	extract child AL_DENV_1I_E1.1.2 -r REF_DENV_1I_E.1.2_MN912167
+	demote member AL_DENV_1I_E1.1.2 --whereClause "sequence.minor_sublineage = '1I_E.1.2'"	
+
+	exit
+
+  alignment AL_DENV_1I_K1
+  
+    set field displayName "1I_K1.1"
+    set field clade_category "minor_sublineage" 
+
+	extract child AL_DENV_1I_K1.1.1 -r REF_DENV_1I_K.1.1_OM281593
+	demote member AL_DENV_1I_K1.1.1 --whereClause "sequence.minor_sublineage = '1I_K.1.1'"	
+  
+	extract child AL_DENV_1I_K1.1.2 -r REF_DENV_1I_K.1.2_MW946238
+	demote member AL_DENV_1I_K1.1.2 --whereClause "sequence.minor_sublineage = '1I_K.1.2'"	
+
+	exit
+
+  alignment AL_DENV_1V_D1.1
+  
+    set field displayName "1V_D1.1"
+    set field clade_category "minor_sublineage" 
+
+	extract child AL_DENV_1V_D1.1.1 -r REF_DENV_1V_D.1.1_OQ821349
+	demote member AL_DENV_1V_D1.1.1 --whereClause "sequence.minor_sublineage = '1V_D1.1.1'"	
+  
+	extract child AL_DENV_1V_D1.1.2 -r REF_DENV_1V_D.1.2_MN449014
+	demote member AL_DENV_1V_D1.1.2 --whereClause "sequence.minor_sublineage = '1V_D1.1.2'"	
+
+	exit
+
+
+
+
+  alignment AL_DENV_1I_E1.1.1
+    set field displayName "1I_E1.1.1"
+    set field clade_category "minor_sublineage" 
+	exit
+
+  alignment AL_DENV_1I_E1.1.2
+    set field displayName "1I_E1.1.2"
+    set field clade_category "minor_sublineage" 
+	exit
+
+  alignment AL_DENV_1I_K1.1.1
+    set field displayName "1I_K1.1.1"
+    set field clade_category "minor_sublineage" 
+	exit
+
+  alignment AL_DENV_1I_K1.1.2
+    set field displayName "1I_K1.1.2"
+    set field clade_category "minor_sublineage" 
+	exit
+
+  alignment AL_DENV_1V_D1.1.1
+    set field displayName "1V_D1.1.1"
+    set field clade_category "minor_sublineage" 
+	exit
+
+  alignment AL_DENV_1V_D1.1.2
+    set field displayName "1V_D1.1.2"
+    set field clade_category "minor_sublineage" 
+	exit
+
+
+
