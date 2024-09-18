@@ -10,19 +10,19 @@ module denvPhyloImporter
   --inputFile trees/denv1ReferencePhylogenyYaleMidpointRerooted.tree NEWICK_BOOTSTRAPS \
   --fieldName phylogeny
 
-  import phylogeny AL_DENV_2 \
-  --recursive \
-  --anyAlignment \
-  --whereClause "sequence.source.name = 'fasta-refseqs-yale-denv2' and referenceMember = false or sequence.source.name = 'ncbi-master-refseqs' and referenceMember = false" \
-  --inputFile trees/denv2ReferencePhylogenyYaleMidpointRerooted.tree NEWICK_BOOTSTRAPS \
-  --fieldName phylogeny
+  #import phylogeny AL_DENV_2 \
+  #--recursive \
+  #--anyAlignment \
+  #--whereClause "sequence.source.name = 'fasta-refseqs-yale-denv2' and referenceMember = false or sequence.source.name = 'ncbi-master-refseqs' and referenceMember = false" \
+  #--inputFile trees/denv2ReferencePhylogenyYaleMidpointRerooted.tree NEWICK_BOOTSTRAPS \
+  #--fieldName phylogeny
 
-  import phylogeny AL_DENV_3 \
-  --recursive \
-  --anyAlignment \
-  --whereClause "sequence.source.name = 'fasta-refseqs-yale-denv3' and referenceMember = false or sequence.source.name = 'ncbi-master-refseqs' and referenceMember = false" \
-  --inputFile trees/denv3ReferencePhylogenyYaleMidpointRerooted.tree NEWICK_BOOTSTRAPS \
-  --fieldName phylogeny
+  #import phylogeny AL_DENV_3 \
+  #--recursive \
+  #--anyAlignment \
+  #--whereClause "sequence.source.name = 'fasta-refseqs-yale-denv3' and referenceMember = false or sequence.source.name = 'ncbi-master-refseqs' and referenceMember = false" \
+  #--inputFile trees/denv3ReferencePhylogenyYaleMidpointRerooted.tree NEWICK_BOOTSTRAPS \
+  #--fieldName phylogeny
 
   import phylogeny AL_DENV_4 \
   --recursive \
