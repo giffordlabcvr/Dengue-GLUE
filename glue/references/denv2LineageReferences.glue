@@ -5,7 +5,6 @@ create reference REF_DENV_2II_A_OP684211	fasta-refseqs-yale-denv2	OP684211.1_201
 create reference REF_DENV_2II_A_AP002_1969	fasta-refseqs-yale-denv2	AP002_1969
 create reference REF_DENV_2II_A_MK783209	fasta-refseqs-yale-denv2	MK783209.1_2018
 create reference REF_DENV_2II_A_OM681318	fasta-refseqs-yale-denv2	OM681318.1_2021-11-16
-create reference REF_DENV_2II_A_JQ922551	fasta-refseqs-yale-denv2	JQ922551.1_2005
 create reference REF_DENV_2II_A_KY937189	fasta-refseqs-yale-denv2	KY937189.1_2015
 
 # Minor Lineage DENV_2II_A.1
@@ -71,7 +70,6 @@ create reference REF_DENV_2II_A.2.2_MN577559	fasta-refseqs-yale-denv2	MN577559.1
 create reference REF_DENV_2II_A.2.2_MN577563	fasta-refseqs-yale-denv2	MN577563.1_2013-05
 create reference REF_DENV_2II_A.2.2_MK473384	fasta-refseqs-yale-denv2	MK473384.1_2016-05-04
 create reference REF_DENV_2II_A.2.2_MH456892	fasta-refseqs-yale-denv2	MH456892.1_2014-10-17
-create reference REF_DENV_2II_A.2.2_KY427084	fasta-refseqs-yale-denv2	KY427084.1_2010-09-01
 create reference REF_DENV_2II_A.2.2_MN577553	fasta-refseqs-yale-denv2	MN577553.1_2017-06
 create reference REF_DENV_2II_A.2.2_MN577554	fasta-refseqs-yale-denv2	MN577554.1_2017-06
 create reference REF_DENV_2II_A.2.2_MH822949	fasta-refseqs-yale-denv2	MH822949.1_2014-10-28
@@ -79,7 +77,6 @@ create reference REF_DENV_2II_A.2.2_MN577557	fasta-refseqs-yale-denv2	MN577557.1
 
 # Major Lineage DENV_2II_B
 create reference REF_DENV_2II_B_MN577564	fasta-refseqs-yale-denv2	MN577564.1_2014-06
-create reference REF_DENV_2II_B_GQ398258	fasta-refseqs-yale-denv2	GQ398258.1_1975
 create reference REF_DENV_2II_B_OM317565	fasta-refseqs-yale-denv2	OM317565.1_2020-06-24
 create reference REF_DENV_2II_B_MN577562	fasta-refseqs-yale-denv2	MN577562.1_2013-05
 create reference REF_DENV_2II_B_GQ398259	fasta-refseqs-yale-denv2	GQ398259.1_1976
@@ -109,7 +106,6 @@ create reference REF_DENV_2II_C.2_MG599628	fasta-refseqs-yale-denv2	MG599628.1_2
 create reference REF_DENV_2II_C.2_MG599621	fasta-refseqs-yale-denv2	MG599621.1_2002
 
 # Major Lineage DENV_2II_D
-create reference REF_DENV_2II_D_MK564478	fasta-refseqs-yale-denv2	MK564478.1_2016-04-22
 create reference REF_DENV_2II_D_MN018349	fasta-refseqs-yale-denv2	MN018349.1_2015-05-09
 create reference REF_DENV_2II_D_EU179859	fasta-refseqs-yale-denv2	EU179859.1_2006
 create reference REF_DENV_2II_D_JN851130	fasta-refseqs-yale-denv2	JN851130.1_2005
@@ -117,11 +113,9 @@ create reference REF_DENV_2II_D_MN923111	fasta-refseqs-yale-denv2	MN923111.1_201
 create reference REF_DENV_2II_D_ON890351	fasta-refseqs-yale-denv2	ON890351.1_2017-08-07
 
 # Minor Lineage DENV_2II_D.1
-create reference REF_DENV_2II_D.1_MK564478	fasta-refseqs-yale-denv2	MK564478.1_2016-04-22
 create reference REF_DENV_2II_D.1_KP012546	fasta-refseqs-yale-denv2	KP012546.1_2014
 create reference REF_DENV_2II_D.1_MZ857214	fasta-refseqs-yale-denv2	MZ857214.1_2014
 create reference REF_DENV_2II_D.1_MZ857208	fasta-refseqs-yale-denv2	MZ857208.1_2013
-create reference REF_DENV_2II_D.1_MW512415	fasta-refseqs-yale-denv2	MW512415.1_2014
 
 # Minor Sublineage DENV_2II_D.1.1
 create reference REF_DENV_2II_D.1.1_KT187557	fasta-refseqs-yale-denv2	KT187557.1_2014
@@ -156,9 +150,7 @@ create reference REF_DENV_2II_D.3_MN018349	fasta-refseqs-yale-denv2	MN018349.1_2
 # Major Lineage DENV_2II_E
 create reference REF_DENV_2II_E_MN018351	fasta-refseqs-yale-denv2	MN018351.1_2015-05-17
 create reference REF_DENV_2II_E_KX380821	fasta-refseqs-yale-denv2	KX380821.1_2012
-create reference REF_DENV_2II_E_MT921573	fasta-refseqs-yale-denv2	MT921573.1_2004
 create reference REF_DENV_2II_E_MW512414	fasta-refseqs-yale-denv2	MW512414.1_2014
-create reference REF_DENV_2II_E_KX452015	fasta-refseqs-yale-denv2	KX452015.1_2014-01
 create reference REF_DENV_2II_E_OP684198	fasta-refseqs-yale-denv2	OP684198.1_2019-01-20
 
 # Minor Lineage DENV_2II_E.1
@@ -180,17 +172,13 @@ create reference REF_DENV_2II_E.2_KU517845	fasta-refseqs-yale-denv2	KU517845.1_2
 # Major Lineage DENV_2II_F
 create reference REF_DENV_2II_F_JN851126	fasta-refseqs-yale-denv2	JN851126.1_2005
 create reference REF_DENV_2II_F_OP921000	fasta-refseqs-yale-denv2	OP921000.1_2022-07-29
-create reference REF_DENV_2II_F_OP684201	fasta-refseqs-yale-denv2	OP684201.1_2019-08-16
 create reference REF_DENV_2II_F_OQ028230	fasta-refseqs-yale-denv2	OQ028230.1_2020-09-07
-create reference REF_DENV_2II_F_JF327392	fasta-refseqs-yale-denv2	JF327392.1_2009
 create reference REF_DENV_2II_F_ON634755	fasta-refseqs-yale-denv2	ON634755.1_2022-03-06
 create reference REF_DENV_2II_F_MK578532	fasta-refseqs-yale-denv2	MK578532.1_2016-04-01
 
 # Minor Lineage DENV_2II_F.1
-create reference REF_DENV_2II_F.1_MW512447	fasta-refseqs-yale-denv2	MW512447.1_2015
 create reference REF_DENV_2II_F.1_OP921000	fasta-refseqs-yale-denv2	OP921000.1_2022-07-29
 create reference REF_DENV_2II_F.1_ON634755	fasta-refseqs-yale-denv2	ON634755.1_2022-03-06
-create reference REF_DENV_2II_F.1_OP684201	fasta-refseqs-yale-denv2	OP684201.1_2019-08-16
 create reference REF_DENV_2II_F.1_OP984834	fasta-refseqs-yale-denv2	OP984834.1_2022-11-20
 
 # Minor Sublineage DENV_2II_F.1.1
@@ -198,7 +186,6 @@ create reference REF_DENV_2II_F.1.1_KX380818	fasta-refseqs-yale-denv2	KX380818.1
 create reference REF_DENV_2II_F.1.1_MW512416	fasta-refseqs-yale-denv2	MW512416.1_2014
 create reference REF_DENV_2II_F.1.1_OP921000	fasta-refseqs-yale-denv2	OP921000.1_2022-07-29
 create reference REF_DENV_2II_F.1.1_ON634755	fasta-refseqs-yale-denv2	ON634755.1_2022-03-06
-create reference REF_DENV_2II_F.1.1_OP684201	fasta-refseqs-yale-denv2	OP684201.1_2019-08-16
 create reference REF_DENV_2II_F.1.1_OP684196	fasta-refseqs-yale-denv2	OP684196.1_2019-01-05
 create reference REF_DENV_2II_F.1.1_OP684180	fasta-refseqs-yale-denv2	OP684180.1_2018-07-02
 
@@ -257,16 +244,13 @@ create reference REF_DENV_2II_F.1.2_MN018356	fasta-refseqs-yale-denv2	MN018356.1
 create reference REF_DENV_2II_F.1.3_PP269908	fasta-refseqs-yale-denv2	PP269908.1_2022-10-11
 create reference REF_DENV_2II_F.1.3_MK411559	fasta-refseqs-yale-denv2	MK411559.1_2016-02-23
 create reference REF_DENV_2II_F.1.3_EPI_ISL_17831898_2023-05-09	fasta-refseqs-yale-denv2	EPI_ISL_17831898_2023-05-09
-create reference REF_DENV_2II_F.1.3_MW512463	fasta-refseqs-yale-denv2	MW512463.1_2016
 create reference REF_DENV_2II_F.1.3_MK564476	fasta-refseqs-yale-denv2	MK564476.1_2017-08-08
 
 # Minor Lineage DENV_2II_F.2
 create reference REF_DENV_2II_F.2_ON890422	fasta-refseqs-yale-denv2	ON890422.1_2019-09-16
 create reference REF_DENV_2II_F.2_OQ028230	fasta-refseqs-yale-denv2	OQ028230.1_2020-09-07
-create reference REF_DENV_2II_F.2_MW512430	fasta-refseqs-yale-denv2	MW512430.1_2014
 create reference REF_DENV_2II_F.2_KX380836	fasta-refseqs-yale-denv2	KX380836.1_2013
 create reference REF_DENV_2II_F.2_MN018353	fasta-refseqs-yale-denv2	MN018353.1_2016-06-15
-create reference REF_DENV_2II_F.2_MW512377	fasta-refseqs-yale-denv2	MW512377.1_2012
 
 # Minor Sublineage DENV_2II_F.2.1
 create reference REF_DENV_2II_F.2.1_MW730819	fasta-refseqs-yale-denv2	MW730819.1_2017-07
@@ -292,7 +276,6 @@ create reference REF_DENV_2III_A_FJ639699	fasta-refseqs-yale-denv2	FJ639699.1_20
 create reference REF_DENV_2III_A_DQ181801	fasta-refseqs-yale-denv2	DQ181801.1_1990
 
 # Minor Lineage DENV_2III_A.1
-create reference REF_DENV_2III_A.1_FM210237	fasta-refseqs-yale-denv2	FM210237.2_2003
 create reference REF_DENV_2III_A.1_FM210217	fasta-refseqs-yale-denv2	FM210217.1_1999
 create reference REF_DENV_2III_A.1_FM210236	fasta-refseqs-yale-denv2	FM210236.2_2004
 create reference REF_DENV_2III_A.1_FM210222	fasta-refseqs-yale-denv2	FM210222.1_2004
@@ -300,7 +283,6 @@ create reference REF_DENV_2III_A.1_FM210235	fasta-refseqs-yale-denv2	FM210235.2_
 
 # Minor Lineage DENV_2III_A.2
 create reference REF_DENV_2III_A.2_EU482449	fasta-refseqs-yale-denv2	EU482449.1_2006
-create reference REF_DENV_2III_A.2_KY670633	fasta-refseqs-yale-denv2	KY670633.1_1995-09
 create reference REF_DENV_2III_A.2_FM210202	fasta-refseqs-yale-denv2	FM210202.1_2004
 create reference REF_DENV_2III_A.2_FM210204	fasta-refseqs-yale-denv2	FM210204.1_2003
 create reference REF_DENV_2III_A.2_FM210227	fasta-refseqs-yale-denv2	FM210227.1_2002
@@ -433,7 +415,6 @@ create reference REF_DENV_2V_A_OP684189	fasta-refseqs-yale-denv2	OP684189.1_2018
 
 # Minor Lineage DENV_2V_A.1
 create reference REF_DENV_2V_A.1_KY586586	fasta-refseqs-yale-denv2	KY586586.1_2006
-create reference REF_DENV_2V_A.1_GU131924	fasta-refseqs-yale-denv2	GU131924.1_2008
 create reference REF_DENV_2V_A.1_MN448918	fasta-refseqs-yale-denv2	MN448918.1_2011-09-21
 create reference REF_DENV_2V_A.1_GQ868624	fasta-refseqs-yale-denv2	GQ868624.1_2007
 create reference REF_DENV_2V_A.1_GU131898	fasta-refseqs-yale-denv2	GU131898.1_2008

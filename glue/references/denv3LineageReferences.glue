@@ -10,7 +10,6 @@ create reference REF_DENV_3I_A_MN018374	fasta-refseqs-yale-denv3	MN018374.1_2015
 
 # Minor Lineage DENV_3I_A.1
 create reference REF_DENV_3I_A.1_MT006158	fasta-refseqs-yale-denv3	MT006158.1_2018-06-19
-create reference REF_DENV_3I_A.1_KY921906	fasta-refseqs-yale-denv3	KY921906.1_2015-06
 create reference REF_DENV_3I_A.1_MK894338	fasta-refseqs-yale-denv3	MK894338.1_2018-02-05
 create reference REF_DENV_3I_A.1_MF682968	fasta-refseqs-yale-denv3	MF682968.1_2016-09-10
 create reference REF_DENV_3I_A.1_OP410996	fasta-refseqs-yale-denv3	OP410996.1_2019-11

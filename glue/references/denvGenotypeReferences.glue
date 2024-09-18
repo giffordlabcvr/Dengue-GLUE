@@ -30,7 +30,6 @@ create reference REF_DENV_1VII_KF184975	fasta-refseqs-yale-denv1	KF184975.1_2013
 create reference REF_DENV_1VII_OQ593389	fasta-refseqs-yale-denv1	OQ593389.1_2017-06-21
 create reference REF_DENV_1VII_LC707382	fasta-refseqs-yale-denv1	LC707382.1_2021-06-30
 create reference REF_DENV_1VII_MZ857205	fasta-refseqs-yale-denv1	MZ857205.1_2013
-create reference REF_DENV_1VII_JQ922546	fasta-refseqs-yale-denv1	JQ922546.1_1971
 
 # DENV2 genotype reference declarations
 
@@ -48,13 +47,11 @@ create reference REF_DENV_2IV_KF744399	fasta-refseqs-yale-denv2	KF744399.1_1998
 create reference REF_DENV_2IV_OK469347	fasta-refseqs-yale-denv2	OK469347.1_1988
 create reference REF_DENV_2III_EU482721	fasta-refseqs-yale-denv2	EU482721.1_2006
 create reference REF_DENV_2III_FM210217	fasta-refseqs-yale-denv2	FM210217.1_1999
-create reference REF_DENV_2III_OK469346	fasta-refseqs-yale-denv2	OK469346.1_1981
 create reference REF_DENV_2III_ON634720	fasta-refseqs-yale-denv2	ON634720.1_2021-02-22
 create reference REF_DENV_2III_EU482449	fasta-refseqs-yale-denv2	EU482449.1_2006
 create reference REF_DENV_2III_OQ821485	fasta-refseqs-yale-denv2	OQ821485.1_2022-07-06
 create reference REF_DENV_2II_OP684211	fasta-refseqs-yale-denv2	OP684211.1_2019-10-19
 create reference REF_DENV_2II_OP921000	fasta-refseqs-yale-denv2	OP921000.1_2022-07-29
-create reference REF_DENV_2II_AP001		fasta-refseqs-yale-denv2	AP001_1969-02-11
 create reference REF_DENV_2II_EU179859	fasta-refseqs-yale-denv2	EU179859.1_2006
 create reference REF_DENV_2II_OM681318	fasta-refseqs-yale-denv2	OM681318.1_2021-11-16
 create reference REF_DENV_2II_OL469512	fasta-refseqs-yale-denv2	OL469512.1_2017-04-30
@@ -78,7 +75,6 @@ create reference REF_DENV_3V_KU050695	fasta-refseqs-yale-denv3	KU050695.1_1956
 create reference REF_DENV_3V_JQ922554	fasta-refseqs-yale-denv3	JQ922554.1_1963
 create reference REF_DENV_3I_MN922037	fasta-refseqs-yale-denv3	MN922037.1_2019-08-02
 create reference REF_DENV_3I_MT006158	fasta-refseqs-yale-denv3	MT006158.1_2018-06-19
-create reference REF_DENV_3I_AY496879	fasta-refseqs-yale-denv3	AY496879.2_1997
 create reference REF_DENV_3I_MN018379	fasta-refseqs-yale-denv3	MN018379.1_2015-10-03
 create reference REF_DENV_3I_MF004386	fasta-refseqs-yale-denv3	MF004386.1_2012-10-04
 create reference REF_DENV_3II_KT424097	fasta-refseqs-yale-denv3	KT424097.1_2014-08-28
@@ -88,7 +84,6 @@ create reference REF_DENV_3II_MW946934	fasta-refseqs-yale-denv3	MW946934.1_2011
 create reference REF_DENV_3II_KY586702	fasta-refseqs-yale-denv3	KY586702.1_2008
 create reference REF_DENV_3II_KF955476	fasta-refseqs-yale-denv3	KF955476.1_1983
 create reference REF_DENV_3III_OQ948474	fasta-refseqs-yale-denv3	OQ948474.1_2019-09
-create reference REF_DENV_3III_JQ922555	fasta-refseqs-yale-denv3	JQ922555.1_1966
 create reference REF_DENV_3III_MG721059	fasta-refseqs-yale-denv3	MG721059.2_2016
 create reference REF_DENV_3III_OM417341	fasta-refseqs-yale-denv3	OM417341.1_2021-09-19
 create reference REF_DENV_3III_OP895705	fasta-refseqs-yale-denv3	OP895705.1_2018
@@ -119,27 +114,4 @@ create reference REF_DENV_4II_OQ821645	fasta-refseqs-yale-denv4	OQ821645.1_2022-
 create reference REF_DENV_4II_OK469362	fasta-refseqs-yale-denv4	OK469362.1_1995
 create reference REF_DENV_4II_OQ603316	fasta-refseqs-yale-denv4	OQ603316.1_2013-09-18
 create reference REF_DENV_4II_OP600512	fasta-refseqs-yale-denv4	OP600512.1_2022-07
-
-# DENV genotype-level outgroups
-
-create reference REF_DENV_I_outgroup_EF457905	fasta-refseqs-yale-denv1	EF457905.1_1972
-create reference REF_DENV_IV_outgroup_EF457905	fasta-refseqs-yale-denv1	EF457905.1_1972
-create reference REF_DENV_II_outgroup_EF457905	fasta-refseqs-yale-denv1	EF457905.1_1972
-create reference REF_DENV_V_outgroup_EF457905	fasta-refseqs-yale-denv1	EF457905.1_1972
-create reference REF_DENV_III_outgroup_EF457905	fasta-refseqs-yale-denv1	EF457905.1_1972
-create reference REF_DENV_VI_outgroup_EF457905	fasta-refseqs-yale-denv1	EF457905.1_1972
-create reference REF_DENV_V_outgroup_OK469347	fasta-refseqs-yale-denv2	OK469347.1_1988
-create reference REF_DENV_IV_outgroup_OK469345	fasta-refseqs-yale-denv2	OK469345.1_1985
-create reference REF_DENV_III_outgroup_AP001	fasta-refseqs-yale-denv2	AP001_1969-02-11
-create reference REF_DENV_II_outgroup_GQ398257	fasta-refseqs-yale-denv2	GQ398257.1_1977
-create reference REF_DENV_I_outgroup_MW946478	fasta-refseqs-yale-denv2	MW946478.1_1974
-create reference REF_DENV_VI_outgroup_KX274130	fasta-refseqs-yale-denv2	KX274130.1_2015
-create reference REF_DENV_V_outgroup_OM258630	fasta-refseqs-yale-denv3	OM258630.1_1953
-create reference REF_DENV_I_outgroup_KU050695	fasta-refseqs-yale-denv3	KU050695.1_1956
-create reference REF_DENV_II_outgroup_JQ922555	fasta-refseqs-yale-denv3	JQ922555.1_1966
-create reference REF_DENV_III_outgroup_OK469356	fasta-refseqs-yale-denv3	OK469356.1_1976
-create reference REF_DENV_IV_outgroup_MZ215848	fasta-refseqs-yale-denv4	MZ215848.1_2007-05-21
-create reference REF_DENV_III_outgroup_JF262779	fasta-refseqs-yale-denv4	JF262779.1_1975
-create reference REF_DENV_I_outgroup_KY586945	fasta-refseqs-yale-denv4	KY586945.1_1998
-create reference REF_DENV_II_outgroup_JF262783	fasta-refseqs-yale-denv4	JF262783.1_1961
 
