@@ -61,12 +61,11 @@
     set field displayName "2II_F"
     set field clade_category "major_lineage"
   
-	extract child AL_DENV_2II_F1 -r REF_DENV_2II_F.1_MW512447
+	extract child AL_DENV_2II_F1 -r REF_DENV_2II_F.1_OP921000
 	demote member AL_DENV_2II_F1 --whereClause "sequence.minor_lineage = '2II_F.1'"
   
-	extract child AL_DENV_2II_F2 -r REF_DENV_2II_F.2_MW512430
+	extract child AL_DENV_2II_F2 -r REF_DENV_2II_F.2_ON890422
 	demote member AL_DENV_2II_F2 --whereClause "sequence.minor_lineage = '2II_F.2'"
-
 
 	exit
 

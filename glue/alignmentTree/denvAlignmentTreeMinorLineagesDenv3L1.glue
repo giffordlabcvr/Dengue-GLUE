@@ -48,7 +48,7 @@
     set field displayName "3III_B"
     set field clade_category "major_lineage"
   
-	extract child AL_DENV_3III_B1 -r REF_DENV_3III_B.1_JQ922556
+	extract child AL_DENV_3III_B1 -r REF_DENV_3III_B.1_MN018378
 	demote member AL_DENV_3III_B1 --whereClause "sequence.minor_lineage = '3III_B.1'"	
   
 	extract child AL_DENV_3III_B2 -r REF_DENV_3III_B.2_KU509282	

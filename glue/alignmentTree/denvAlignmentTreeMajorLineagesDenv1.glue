@@ -87,7 +87,7 @@
 	extract child AL_DENV_1V_D -r REF_DENV_1V_D_ON123575
 	demote member AL_DENV_1V_D --whereClause "sequence.major_lineage = '1V_D'"
 
-	extract child AL_DENV_1V_E -r REF_DENV_1V_E_KU509249
+	extract child AL_DENV_1V_E -r REF_DENV_1V_E_OR167255	
 	demote member AL_DENV_1V_E --whereClause "sequence.major_lineage = '1V_E'"
 
 	extract child AL_DENV_1V_F -r REF_DENV_1V_F_FJ639794

@@ -88,7 +88,7 @@
     set field displayName "1IV_B"
     set field clade_category "major_lineage"
 
-	extract child AL_DENV_1IV_B1 -r REF_DENV_1IV_B.1_KP406803
+	extract child AL_DENV_1IV_B1 -r REF_DENV_1IV_B.1_MT832032
 	demote member AL_DENV_1IV_B1 --whereClause "sequence.minor_lineage = '1IV_B.1'"
 
 	extract child AL_DENV_1IV_B2 -r REF_DENV_1IV_B.2_MT832033

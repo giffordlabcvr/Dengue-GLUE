@@ -39,7 +39,7 @@
 	extract child AL_DENV_2II_C -r REF_DENV_2II_C_MW881533
 	demote member AL_DENV_2II_C --whereClause "sequence.major_lineage = '2II_C'"
 
-	extract child AL_DENV_2II_D -r REF_DENV_2II_D_MK564478
+	extract child AL_DENV_2II_D -r REF_DENV_2II_D_MN018349
 	demote member AL_DENV_2II_D --whereClause "sequence.major_lineage = '2II_D'"
 
 	extract child AL_DENV_2II_E -r REF_DENV_2II_E_MN018351
