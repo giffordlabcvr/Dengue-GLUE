@@ -48,7 +48,7 @@ alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/GU131801.1_2008	GU13
 alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/GU131805.1_2008	GU131805.1_2008	1	1I	1I_G	-	-	1/1I/1I_G/-/-	GU131805.1_2008/1/1I/1I_G/-	-	-	-
 alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/GU131811.1_2008	GU131811.1_2008	1	1I	1I_G	-	-	1/1I/1I_G/-/-	GU131811.1_2008/1/1I/1I_G/-	-	-	-
 alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/GU131824.1_2008	GU131824.1_2008	1	1I	1I_E	1I_E.1	-	1/1I/1I_E/1I_E.1/-	GU131824.1_2008/1/1I/1I_E/1I_E.1	-	-	-
-alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/GU131835.1_2004	GU131835.1_2004	1	1V	1V_E	-	-	1/1V/1V_E/-/-	GU131835.1_2004/1/1V/1V_E/-	-	-	-
+alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/GU131835.1_2004	GU131835.1_2004	1	1V	-	-	-	1/1V/-/-/-	GU131835.1_2004/1/1V/-/-	-	-	-
 alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/GU131948.1_2001	GU131948.1_2001	1	1V	-	-	-	1/1V/-/-/-	GU131948.1_2001/1/1V/-/-	-	-	-
 alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/HM181952.1_2007	HM181952.1_2007	1	1I	1I_H	1I_H.2	-	1/1I/1I_H/1I_H.2/-	HM181952.1_2007/1/1I/1I_H/1I_H.2	-	-	-
 alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/HM181970.1_2008	HM181970.1_2008	1	1I	1I_K	1I_K.7	-	1/1I/1I_K/1I_K.7/-	HM181970.1_2008/1/1I/1I_K/1I_K.7	-	-	-
@@ -62,7 +62,7 @@ alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/JN903578.1_2007-07-2
 alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/JQ048541.1_2011-09	JQ048541.1_2011-09	1	1I	1I_K	1I_K.1	1I_K.1.1	1/1I/1I_K/1I_K.1/1I_K.1.1	JQ048541.1_2011-09/1/1I/1I_K/1I_K.1	-	-	-
 alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/JQ287664.1_2004	JQ287664.1_2004	1	1I	1I_D	-	-	1/1I/1I_D/-/-	JQ287664.1_2004/1/1I/1I_D/-	-	-	-
 alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/JQ915076.1_2009-06-09	JQ915076.1_2009-06-09	1	1IV	1IV_A	-	-	1/1IV/1IV_A/-/-	JQ915076.1_2009-06-09/1/1IV/1IV_A/-	-	-	-
-alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/JQ922544.1_1963	JQ922544.1_1963	1	1V	1V_A	-	-	1/1V/1V_A/-/-	JQ922544.1_1963/1/1V/1V_A/-	-	-	-
+alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/JQ922544.1_1963	JQ922544.1_1963	1	1V	-	-	-	1/1V/-/-/-	JQ922544.1_1963/1/1V/-/-	-	-	-
 alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/JQ922545.1_1982	JQ922545.1_1982	1	1III	1III_B	-	-	1/1III/1III_B/-/-	JQ922545.1_1982/1/1III/1III_B/-	-	-	-
 alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/JQ922546.1_1971	JQ922546.1_1971	1	1VII	-	-	-	1/1VII/-/-/-	JQ922546.1_1971/1/1VII/-/-	-	-	-
 alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/JQ922547.1_1960	JQ922547.1_1960	1	1II	-	-	-	1/1II/-/-/-	JQ922547.1_1960/1/1II/-/-	-	-	-
@@ -79,7 +79,7 @@ alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/KC762630.1_2008-02-0
 alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/KC762631.1_2008-02-15	KC762631.1_2008-02-15	1	1I	1I_K	1I_K.4	-	1/1I/1I_K/1I_K.4/-	KC762631.1_2008-02-15/1/1I/1I_K/1I_K.4	-	-	-
 alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/KC762647.1_2010-03-03	KC762647.1_2010-03-03	1	1I	1I_K	1I_K.4	-	1/1I/1I_K/1I_K.4/-	KC762647.1_2010-03-03/1/1I/1I_K/1I_K.4	-	-	-
 alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/KC762651.1_2007-12-11	KC762651.1_2007-12-11	1	1IV	1IV_C	-	-	1/1IV/1IV_C/-/-	KC762651.1_2007-12-11/1/1IV/1IV_C/-	-	-	-
-alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/KF184975.1_2013-04	KF184975.1_2013-04	1	1VII	-	-	-	1/1VII/-/-/-	KF184975.1_2013-04/1/1VII/-/-	-	-	-
+alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/KF184975.1_2013-04	KF184975.1_2013-04	1	1VII	1VII_A	-	-	1/1VII/1VII_A/-/-	KF184975.1_2013-04/1/1VII/1VII_A/-	-	-	-
 alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/KF289073.1_1956	KF289073.1_1956	1	1V	-	-	-	1/1V/-/-/-	KF289073.1_1956/1/1V/-/-	-	-	-
 alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/KF672760.1_2011	KF672760.1_2011	1	1V	1V_E	1V_E.1	-	1/1V/1V_E/1V_E.1/-	KF672760.1_2011/1/1V/1V_E/1V_E.1	-	-	-
 alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/KF672764.1_2001	KF672764.1_2001	1	1V	1V_H	-	-	1/1V/1V_H/-/-	KF672764.1_2001/1/1V/1V_H/-	-	-	-
@@ -250,7 +250,7 @@ alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/OA08_2011	OA08_2011	
 alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/OA10_2012	OA10_2012	1	1V	1V_G	-	-	1/1V/1V_G/-/-	OA10_2012/1/1V/1V_G/-	-	-	-
 alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/OK040060.1_2011	OK040060.1_2011	1	1I	1I_B	-	-	1/1I/1I_B/-/-	OK040060.1_2011/1/1I/1I_B/-	-	-	-
 alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/OK469341.1_1992	OK469341.1_1992	1	1IV	1IV_A	-	-	1/1IV/1IV_A/-/-	OK469341.1_1992/1/1IV/1IV_A/-	-	-	-
-alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/OK469342.1_1997	OK469342.1_1997	1	1IV	1IV_A	-	-	1/1IV/1IV_A/-/-	OK469342.1_1997/1/1IV/1IV_A/-	-	-	-
+alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/OK469342.1_1997	OK469342.1_1997	1	1IV	-	-	-	1/1IV/-/-/-	OK469342.1_1997/1/1IV/-/-	-	-	-
 alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/OK469344.1_1975	OK469344.1_1975	1	1IV	1IV_B	-	-	1/1IV/1IV_B/-/-	OK469344.1_1975/1/1IV/1IV_B/-	-	-	-
 alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/OK605753.1_1983	OK605753.1_1983	1	1IV	1IV_C	-	-	1/1IV/1IV_C/-/-	OK605753.1_1983/1/1IV/1IV_C/-	-	-	-
 alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/OK605754.1_1997	OK605754.1_1997	1	1V	1V_H	-	-	1/1V/1V_H/-/-	OK605754.1_1997/1/1V/1V_H/-	-	-	-
