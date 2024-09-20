@@ -1,0 +1,7 @@
+  
+  # Import genotype data
+  run file glue/dengueImportGenotypes.glue
+
+  # Link sequences to genotype data
+  run script glue/dengueLinkIsolateRefseqs.js
+

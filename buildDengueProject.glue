@@ -2,51 +2,49 @@ delete project dengue
 
 create project dengue "A GLUE project for Dengue virus (DENV)" --minVersion 1.1.107
 
-run file glue/denvSchemaExtensions.glue
+run file glue/dengueSchemaExtensions.glue
  
 project dengue
 
-  run file glue/denvProjectSettings.glue
-  run file glue/denvModules.glue
+  run file glue/dengueProjectSettings.glue
+  run file glue/dengueModules.glue
 
   # Set up ISO countries  
   run file glue/m49_countries/populateM49All.glue
 
   # Define dengue virus features
-  run file glue/denvFeatures.glue
+  run file glue/dengueFeatures.glue
 
   # Import sources
-  run file glue/denvImportSources.glue
+  run file glue/dengueImportSources.glue
 
   # Import data
-  run file glue/denvImportData.glue
+  run file glue/dengueImportData.glue
   
   # Define references
-  run file glue/references/denvMasterReferences.glue
-  run file glue/references/denvGenotypeReferences.glue
-  run file glue/references/denv1LineageReferences.glue
-  run file glue/references/denv2LineageReferences.glue
-  run file glue/references/denv3LineageReferences.glue
-  run file glue/references/denv4LineageReferences.glue
+  run file glue/references/dengueMasterReferences.glue
+  run file glue/references/dengueGenotypeReferences.glue
+  run file glue/references/dengueMajorLineageReferences.glue
+  run file glue/references/dengueMinorLineageReferences.glue
 
   # Compute the unconstrained MSAs containing only genotype reference sequences
-  run file glue/denvCreateUncMsas.glue
-  run file glue/denvComputeUncMsas.glue
+  run file glue/dengueCreateUncMsas.glue
+  run file glue/dengueComputeUncMsas.glue
 
   # Define alignment tree
-  run file glue/denvAlignmentTree.glue
-  
+  run file glue/dengueAlignmentTree.glue
+
   # Derive constrained MSAs from unconstrained
-  run file glue/denvDeriveConstrainedMsas.glue
+  run file glue/dengueDeriveConstrainedMsas.glue
 
   # Compute reference phylogenies
-  run file glue/denvComputeRefPhylogenies.glue
+  #run file glue/dengueComputeRefPhylogenies.glue
 
   # Prepare reference phylogenies
-  run file glue/denvPrepareRefPhylogenies.glue
+  run file glue/denguePrepareRefPhylogenies.glue
 
   # Import reference phylogenies
-  run file glue/denvImportPhylogenies.glue
+  run file glue/dengueImportPhylogenies.glue
 
   # Validate
   validate

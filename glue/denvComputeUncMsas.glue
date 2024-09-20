@@ -1,6 +1,0 @@
-
-compute alignment AL_UNC_DENV1_YALE denvMafftAligner
-compute alignment AL_UNC_DENV2_YALE denvMafftAligner
-compute alignment AL_UNC_DENV3_YALE denvMafftAligner
-compute alignment AL_UNC_DENV4_YALE denvMafftAligner
-
