@@ -226,7 +226,6 @@ create reference REF_DENV_3III_C.2.1_MZ008474	fasta-refseqs-yale-denv3	MZ008474.
 create reference REF_DENV_3III_C.2.1_MZ008472	fasta-refseqs-yale-denv3	MZ008472.1_2013
 
 # Minor Sublineage DENV_3III_C.2.2
-create reference REF_DENV_3III_C.2.2_out_JX669491	fasta-refseqs-yale-denv3	JX669491.1_2002
 create reference REF_DENV_3III_C.2.2_GU131850	fasta-refseqs-yale-denv3	GU131850.1_2006
 create reference REF_DENV_3III_C.2.2_GU131876	fasta-refseqs-yale-denv3	GU131876.1_2007
 create reference REF_DENV_3III_C.2.2_GU131870	fasta-refseqs-yale-denv3	GU131870.1_2007
