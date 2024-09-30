@@ -11,7 +11,6 @@
 	<referenceSequence>REF_DENV_2II_A_OP684211</referenceSequence>
 	<referenceSequence>REF_DENV_2II_B_MN577564</referenceSequence>
 	<referenceSequence>REF_DENV_2II_C_MW881533</referenceSequence>
-	<referenceSequence>REF_DENV_2II_D_MK564478</referenceSequence>
 	<referenceSequence>REF_DENV_2II_E_MN018351</referenceSequence>
 	<referenceSequence>REF_DENV_2II_F_OP921000</referenceSequence>	
 	<referenceSequence>REF_DENV_2III_A_MW946461</referenceSequence>
@@ -92,13 +91,6 @@
 	  	<referenceSequence>REF_DENV_2II_C_MW881533</referenceSequence>
 	</recognitionCategory>
 
-	<recognitionCategory>
-		<id>2</id>
-		<minimumIdentityPct>70</minimumIdentityPct>
-	  	<minimumBitScore>200</minimumBitScore>
-	  	<minimumTotalAlignLength>100</minimumTotalAlignLength>
-	  	<referenceSequence>REF_DENV_2II_D_MK564478</referenceSequence>
-	</recognitionCategory>
 
 	<recognitionCategory>
 		<id>2</id>
