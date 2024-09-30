@@ -6,7 +6,6 @@
 	<referenceSequence>REF_DENV_1III_EU179860</referenceSequence>	
 	<referenceSequence>REF_DENV_1IV_MW582813</referenceSequence>
 	<referenceSequence>REF_DENV_1V_OQ605987</referenceSequence>
-	<referenceSequence>REF_DENV_1VI_KF184975</referenceSequence>	
 
 	<!-- Dengue serotype 2 reference declarations -->
 	<referenceSequence>REF_DENV_2II_A_OP684211</referenceSequence>
@@ -65,14 +64,6 @@
 	  	<minimumBitScore>200</minimumBitScore>
 	  	<minimumTotalAlignLength>100</minimumTotalAlignLength>
 	  	<referenceSequence>REF_DENV_1V_OQ605987</referenceSequence>
-	</recognitionCategory>
-
-	<recognitionCategory>
-		<id>1</id>
-		<minimumIdentityPct>70</minimumIdentityPct>
-	  	<minimumBitScore>200</minimumBitScore>
-	  	<minimumTotalAlignLength>100</minimumTotalAlignLength>
-	  	<referenceSequence>REF_DENV_1VI_KF184975</referenceSequence>
 	</recognitionCategory>
 
 

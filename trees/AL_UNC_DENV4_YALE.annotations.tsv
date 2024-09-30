@@ -1,100 +1,100 @@
-taxon	sequenceID	serotype	genotype	major_lineage	minor_lineage	minor_sublineage	combined	combined-with-id	isolate	country	collection_year
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/AP009_1973	AP009_1973	4	4IV	-	-	-	4/4IV/-/-/-	AP009_1973/4/4IV/-/-	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/AP010_1975	AP010_1975	4	4IV	-	-	-	4/4IV/-/-/-	AP010_1975/4/4IV/-/-	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/AP011_1975	AP011_1975	4	4IV	-	-	-	4/4IV/-/-/-	AP011_1975/4/4IV/-/-	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/EF457906.1_1975	EF457906.1_1975	4	4IV	-	-	-	4/4IV/-/-/-	EF457906.1_1975/4/4IV/-/-	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/FJ196849.1_1978	FJ196849.1_1978	4	4II	4II_A	-	-	4/4II/4II_A/-/-	FJ196849.1_1978/4/4II/4II_A/-	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/FJ850059.1_1998	FJ850059.1_1998	4	4II	4II_B	4II_B.2	-	4/4II/4II_B/4II_B.2/-	FJ850059.1_1998/4/4II/4II_B/4II_B.2	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/FJ850095.1_2000	FJ850095.1_2000	4	4II	4II_B	4II_B.1	-	4/4II/4II_B/4II_B.1/-	FJ850095.1_2000/4/4II/4II_B/4II_B.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/GQ868583.1_2004	GQ868583.1_2004	4	4II	4II_B	4II_B.1	-	4/4II/4II_B/4II_B.1/-	GQ868583.1_2004/4/4II/4II_B/4II_B.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/JF262780.1_1973	JF262780.1_1973	4	4IV	-	-	-	4/4IV/-/-/-	JF262780.1_1973/4/4IV/-/-	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/JF741967.1_2010-09-26	JF741967.1_2010-09-26	4	4II	4II_A	4II_A.2	-	4/4II/4II_A/4II_A.2/-	JF741967.1_2010-09-26/4/4II/4II_A/4II_A.2	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/JN559741.2_2010-07-21	JN559741.2_2010-07-21	4	4II	4II_B	4II_B.1	4II_B.1.1	4/4II/4II_B/4II_B.1/4II_B.1.1	JN559741.2_2010-07-21/4/4II/4II_B/4II_B.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/JN638572.1_2008	JN638572.1_2008	4	4I	4I_A	4I_A.2	-	4/4I/4I_A/4I_A.2/-	JN638572.1_2008/4/4I/4I_A/4I_A.2	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/JQ922558.1_1962	JQ922558.1_1962	4	4I	-	-	-	4/4I/-/-/-	JQ922558.1_1962/4/4I/-/-	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/JQ922559.1_1979	JQ922559.1_1979	4	4I	4I_B	-	-	4/4I/4I_B/-/-	JQ922559.1_1979/4/4I/4I_B/-	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KC762696.1_2007-08-13	KC762696.1_2007-08-13	4	4II	4II_A	4II_A.2	-	4/4II/4II_A/4II_A.2/-	KC762696.1_2007-08-13/4/4II/4II_A/4II_A.2	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KC762698.1_2008-04-30	KC762698.1_2008-04-30	4	4II	4II_A	4II_A.2	-	4/4II/4II_A/4II_A.2/-	KC762698.1_2008-04-30/4/4II/4II_A/4II_A.2	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KC762699.1_2008-03-28	KC762699.1_2008-03-28	4	4II	4II_A	4II_A.2	-	4/4II/4II_A/4II_A.2/-	KC762699.1_2008-03-28/4/4II/4II_A/4II_A.2	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KJ596660.1_2012-04-03	KJ596660.1_2012-04-03	4	4II	4II_B	4II_B.1	4II_B.1.1	4/4II/4II_B/4II_B.1/4II_B.1.1	KJ596660.1_2012-04-03/4/4II/4II_B/4II_B.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KJ596665.1_2012-03-20	KJ596665.1_2012-03-20	4	4II	4II_B	4II_B.1	4II_B.1.1	4/4II/4II_B/4II_B.1/4II_B.1.1	KJ596665.1_2012-03-20/4/4II/4II_B/4II_B.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KJ596673.1_2012-02-29	KJ596673.1_2012-02-29	4	4II	4II_B	4II_B.1	4II_B.1.1	4/4II/4II_B/4II_B.1/4II_B.1.1	KJ596673.1_2012-02-29/4/4II/4II_B/4II_B.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KP723482.1_2010	KP723482.1_2010	4	4II	4II_A	4II_A.2	-	4/4II/4II_A/4II_A.2/-	KP723482.1_2010/4/4II/4II_A/4II_A.2	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KT276273.1_2014-09-08	KT276273.1_2014-09-08	4	4II	4II_B	-	-	4/4II/4II_B/-/-	KT276273.1_2014-09-08/4/4II/4II_B/-	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KX059015.1_2012-07	KX059015.1_2012-07	4	4I	4I_B	4I_B.2	-	4/4I/4I_B/4I_B.2/-	KX059015.1_2012-07/4/4I/4I_B/4I_B.2	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KX059018.1_2012-04	KX059018.1_2012-04	4	4I	4I_B	4I_B.2	-	4/4I/4I_B/4I_B.2/-	KX059018.1_2012-04/4/4I/4I_B/4I_B.2	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KX059026.1_2013-02	KX059026.1_2013-02	4	4I	4I_B	4I_B.2	-	4/4I/4I_B/4I_B.2/-	KX059026.1_2013-02/4/4I/4I_B/4I_B.2	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KX059029.1_2012-08	KX059029.1_2012-08	4	4I	4I_B	4I_B.2	-	4/4I/4I_B/4I_B.2/-	KX059029.1_2012-08/4/4I/4I_B/4I_B.2	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KX059032.1_2012-09	KX059032.1_2012-09	4	4I	4I_B	4I_B.2	-	4/4I/4I_B/4I_B.2/-	KX059032.1_2012-09/4/4I/4I_B/4I_B.2	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KX812530.1_1976	KX812530.1_1976	4	4II	4II_B	-	-	4/4II/4II_B/-/-	KX812530.1_1976/4/4II/4II_B/-	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KX845005.1_2015	KX845005.1_2015	4	4I	4I_B	4I_B.2	-	4/4I/4I_B/4I_B.2/-	KX845005.1_2015/4/4I/4I_B/4I_B.2	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KY474335.1_2014	KY474335.1_2014	4	4II	4II_B	4II_B.1	-	4/4II/4II_B/4II_B.1/-	KY474335.1_2014/4/4II/4II_B/4II_B.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KY586903.1_2000	KY586903.1_2000	4	4I	4I_A	4I_A.2	-	4/4I/4I_A/4I_A.2/-	KY586903.1_2000/4/4I/4I_A/4I_A.2	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KY586922.1_1998	KY586922.1_1998	4	4I	4I_A	4I_A.2	-	4/4I/4I_A/4I_A.2/-	KY586922.1_1998/4/4I/4I_A/4I_A.2	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KY586942.1_2006	KY586942.1_2006	4	4I	4I_A	4I_A.1	-	4/4I/4I_A/4I_A.1/-	KY586942.1_2006/4/4I/4I_A/4I_A.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KY586944.1_2001	KY586944.1_2001	4	4III	-	-	-	4/4III/-/-/-	KY586944.1_2001/4/4III/-/-	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KY670635.1_2003-10	KY670635.1_2003-10	4	4I	-	-	-	4/4I/-/-/-	KY670635.1_2003-10/4/4I/-/-	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KY921909.1_2016-03	KY921909.1_2016-03	4	4II	4II_A	4II_A.1	-	4/4II/4II_A/4II_A.1/-	KY921909.1_2016-03/4/4II/4II_A/4II_A.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/LC410203.1_2017-06	LC410203.1_2017-06	4	4I	4I_A	4I_A.3	-	4/4I/4I_A/4I_A.3/-	LC410203.1_2017-06/4/4I/4I_A/4I_A.3	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MG272272.1_2016	MG272272.1_2016	4	4I	4I_B	4I_B.1	-	4/4I/4I_B/4I_B.1/-	MG272272.1_2016/4/4I/4I_B/4I_B.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MH382789.1_2016	MH382789.1_2016	4	4II	4II_A	4II_A.1	-	4/4II/4II_A/4II_A.1/-	MH382789.1_2016/4/4II/4II_A/4II_A.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MK858146.2_2016-07-03	MK858146.2_2016-07-03	4	4I	4I_B	4I_B.2	-	4/4I/4I_B/4I_B.2/-	MK858146.2_2016-07-03/4/4I/4I_B/4I_B.2	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MN018393.1_2015-07-25	MN018393.1_2015-07-25	4	4II	4II_A	-	-	4/4II/4II_A/-/-	MN018393.1_2015-07-25/4/4II/4II_A/-	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MN018394.1_2015-10-03	MN018394.1_2015-10-03	4	4I	4I_A	4I_A.1	4I_A.1.2	4/4I/4I_A/4I_A.1/4I_A.1.2	MN018394.1_2015-10-03/4/4I/4I_A/4I_A.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MN018395.1_2015-10-20	MN018395.1_2015-10-20	4	4I	4I_A	4I_A.2	-	4/4I/4I_A/4I_A.2/-	MN018395.1_2015-10-20/4/4I/4I_A/4I_A.2	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MN018396.1_2015-11-12	MN018396.1_2015-11-12	4	4II	4II_A	-	-	4/4II/4II_A/-/-	MN018396.1_2015-11-12/4/4II/4II_A/-	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MN018397.1_2016-02-01	MN018397.1_2016-02-01	4	4I	4I_A	4I_A.3	-	4/4I/4I_A/4I_A.3/-	MN018397.1_2016-02-01/4/4I/4I_A/4I_A.3	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MN018398.1_2016-08-16	MN018398.1_2016-08-16	4	4I	4I_B	4I_B.1	-	4/4I/4I_B/4I_B.1/-	MN018398.1_2016-08-16/4/4I/4I_B/4I_B.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MN449006.1_2012-07-16	MN449006.1_2012-07-16	4	4I	4I_A	4I_A.3	-	4/4I/4I_A/4I_A.3/-	MN449006.1_2012-07-16/4/4I/4I_A/4I_A.3	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MW788999.1_2018-05	MW788999.1_2018-05	4	4I	4I_A	4I_A.3	-	4/4I/4I_A/4I_A.3/-	MW788999.1_2018-05/4/4I/4I_A/4I_A.3	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MW945493.1_1999	MW945493.1_1999	4	4III	-	-	-	4/4III/-/-/-	MW945493.1_1999/4/4III/-/-	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MW945498.1_2010	MW945498.1_2010	4	4I	4I_A	4I_A.1	-	4/4I/4I_A/4I_A.1/-	MW945498.1_2010/4/4I/4I_A/4I_A.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MW945533.1_2013	MW945533.1_2013	4	4I	4I_A	4I_A.2	-	4/4I/4I_A/4I_A.2/-	MW945533.1_2013/4/4I/4I_A/4I_A.2	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MW945553.1_2006	MW945553.1_2006	4	4I	4I_A	4I_A.2	-	4/4I/4I_A/4I_A.2/-	MW945553.1_2006/4/4I/4I_A/4I_A.2	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MW945619.1_1996	MW945619.1_1996	4	4III	-	-	-	4/4III/-/-/-	MW945619.1_1996/4/4III/-/-	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MW945621.1_2001	MW945621.1_2001	4	4III	-	-	-	4/4III/-/-/-	MW945621.1_2001/4/4III/-/-	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MW945648.1_2005	MW945648.1_2005	4	4I	4I_A	4I_A.3	-	4/4I/4I_A/4I_A.3/-	MW945648.1_2005/4/4I/4I_A/4I_A.3	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MW945653.1_2008	MW945653.1_2008	4	4I	4I_A	4I_A.2	-	4/4I/4I_A/4I_A.2/-	MW945653.1_2008/4/4I/4I_A/4I_A.2	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MW945665.1_2002	MW945665.1_2002	4	4I	4I_A	4I_A.2	-	4/4I/4I_A/4I_A.2/-	MW945665.1_2002/4/4I/4I_A/4I_A.2	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MW945727.1_2005	MW945727.1_2005	4	4III	-	-	-	4/4III/-/-/-	MW945727.1_2005/4/4III/-/-	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MZ976860.1_2020-08-03	MZ976860.1_2020-08-03	4	4I	4I_A	4I_A.1	4I_A.1.1	4/4I/4I_A/4I_A.1/4I_A.1.1	MZ976860.1_2020-08-03/4/4I/4I_A/4I_A.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/ncbi-master-refseqs/NC_002640	NC_002640	4	4II	4II_B	-	-	4/4II/4II_B/-/-	NC_002640/4/4II/4II_B/-	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OK469357.1_1963	OK469357.1_1963	4	4I	-	-	-	4/4I/-/-/-	OK469357.1_1963/4/4I/-/-	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OK469358.1_1976	OK469358.1_1976	4	4I	4I_A	4I_A.1	-	4/4I/4I_A/4I_A.1/-	OK469358.1_1976/4/4I/4I_A/4I_A.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OK469362.1_1995	OK469362.1_1995	4	4II	4II_B	-	-	4/4II/4II_B/-/-	OK469362.1_1995/4/4II/4II_B/-	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OK605767.1_1976	OK605767.1_1976	4	4II	4II_B	-	-	4/4II/4II_B/-/-	OK605767.1_1976/4/4II/4II_B/-	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OK605769.1_1983	OK605769.1_1983	4	4I	4I_B	-	-	4/4I/4I_B/-/-	OK605769.1_1983/4/4I/4I_B/-	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OL314740.1_2019-05-30	OL314740.1_2019-05-30	4	4II	4II_A	-	-	4/4II/4II_A/-/-	OL314740.1_2019-05-30/4/4II/4II_A/-	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OL314741.1_2019-06-20	OL314741.1_2019-06-20	4	4II	4II_A	4II_A.1	-	4/4II/4II_A/4II_A.1/-	OL314741.1_2019-06-20/4/4II/4II_A/4II_A.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OM417338.1_2010-10-27	OM417338.1_2010-10-27	4	4II	4II_B	4II_B.2	-	4/4II/4II_B/4II_B.2/-	OM417338.1_2010-10-27/4/4II/4II_B/4II_B.2	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OM417339.1_2011-10-10	OM417339.1_2011-10-10	4	4II	4II_B	4II_B.2	-	4/4II/4II_B/4II_B.2/-	OM417339.1_2011-10-10/4/4II/4II_B/4II_B.2	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OM639995.1_2021-11-16	OM639995.1_2021-11-16	4	4I	4I_B	4I_B.1	-	4/4I/4I_B/4I_B.1/-	OM639995.1_2021-11-16/4/4I/4I_B/4I_B.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OP411002.1_2019-07	OP411002.1_2019-07	4	4II	4II_A	4II_A.1	-	4/4II/4II_A/4II_A.1/-	OP411002.1_2019-07/4/4II/4II_A/4II_A.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OP600478.1_2020-08	OP600478.1_2020-08	4	4II	4II_A	4II_A.1	-	4/4II/4II_A/4II_A.1/-	OP600478.1_2020-08/4/4II/4II_A/4II_A.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OP600512.1_2022-07	OP600512.1_2022-07	4	4II	4II_A	4II_A.1	-	4/4II/4II_A/4II_A.1/-	OP600512.1_2022-07/4/4II/4II_A/4II_A.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OP984198.1_2018	OP984198.1_2018	4	4I	4I_B	4I_B.1	-	4/4I/4I_B/4I_B.1/-	OP984198.1_2018/4/4I/4I_B/4I_B.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OQ426982.1_2018-12-18	OQ426982.1_2018-12-18	4	4I	4I_A	4I_A.1	4I_A.1.1	4/4I/4I_A/4I_A.1/4I_A.1.1	OQ426982.1_2018-12-18/4/4I/4I_A/4I_A.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OQ427041.1_2019-01-07	OQ427041.1_2019-01-07	4	4I	4I_A	4I_A.1	4I_A.1.2	4/4I/4I_A/4I_A.1/4I_A.1.2	OQ427041.1_2019-01-07/4/4I/4I_A/4I_A.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OQ427042.1_2019-01-08	OQ427042.1_2019-01-08	4	4I	4I_A	4I_A.1	4I_A.1.1	4/4I/4I_A/4I_A.1/4I_A.1.1	OQ427042.1_2019-01-08/4/4I/4I_A/4I_A.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OQ427046.1_2019-01-15	OQ427046.1_2019-01-15	4	4I	4I_A	4I_A.1	4I_A.1.2	4/4I/4I_A/4I_A.1/4I_A.1.2	OQ427046.1_2019-01-15/4/4I/4I_A/4I_A.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OQ427047.1_2019-01-15	OQ427047.1_2019-01-15	4	4I	4I_A	4I_A.1	4I_A.1.2	4/4I/4I_A/4I_A.1/4I_A.1.2	OQ427047.1_2019-01-15/4/4I/4I_A/4I_A.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OQ427048.1_2019-01-15	OQ427048.1_2019-01-15	4	4I	4I_A	4I_A.1	4I_A.1.1	4/4I/4I_A/4I_A.1/4I_A.1.1	OQ427048.1_2019-01-15/4/4I/4I_A/4I_A.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OQ427061.1_2018-12-24	OQ427061.1_2018-12-24	4	4I	4I_A	4I_A.1	4I_A.1.1	4/4I/4I_A/4I_A.1/4I_A.1.1	OQ427061.1_2018-12-24/4/4I/4I_A/4I_A.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OQ427062.1_2018-12-25	OQ427062.1_2018-12-25	4	4I	4I_A	4I_A.1	4I_A.1.2	4/4I/4I_A/4I_A.1/4I_A.1.2	OQ427062.1_2018-12-25/4/4I/4I_A/4I_A.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OQ445963.1_2022-08-10	OQ445963.1_2022-08-10	4	4II	4II_B	4II_B.1	4II_B.1.2	4/4II/4II_B/4II_B.1/4II_B.1.2	OQ445963.1_2022-08-10/4/4II/4II_B/4II_B.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OQ445966.1_2022-10-26	OQ445966.1_2022-10-26	4	4II	4II_B	4II_B.1	4II_B.1.2	4/4II/4II_B/4II_B.1/4II_B.1.2	OQ445966.1_2022-10-26/4/4II/4II_B/4II_B.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OQ445967.1_2022-11-03	OQ445967.1_2022-11-03	4	4II	4II_B	4II_B.2	-	4/4II/4II_B/4II_B.2/-	OQ445967.1_2022-11-03/4/4II/4II_B/4II_B.2	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OQ567848.1_2016-03-07	OQ567848.1_2016-03-07	4	4II	4II_B	4II_B.1	4II_B.1.1	4/4II/4II_B/4II_B.1/4II_B.1.1	OQ567848.1_2016-03-07/4/4II/4II_B/4II_B.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OQ567863.1_2020-01-13	OQ567863.1_2020-01-13	4	4II	4II_B	4II_B.1	4II_B.1.1	4/4II/4II_B/4II_B.1/4II_B.1.1	OQ567863.1_2020-01-13/4/4II/4II_B/4II_B.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OQ603316.1_2013-09-18	OQ603316.1_2013-09-18	4	4II	4II_B	4II_B.1	-	4/4II/4II_B/4II_B.1/-	OQ603316.1_2013-09-18/4/4II/4II_B/4II_B.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OQ821645.1_2022-09-10	OQ821645.1_2022-09-10	4	4II	4II_B	4II_B.2	-	4/4II/4II_B/4II_B.2/-	OQ821645.1_2022-09-10/4/4II/4II_B/4II_B.2	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OQ821649.1_2016-03-21	OQ821649.1_2016-03-21	4	4II	4II_A	4II_A.1	-	4/4II/4II_A/4II_A.1/-	OQ821649.1_2016-03-21/4/4II/4II_A/4II_A.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OR162320.1_2022-11-15	OR162320.1_2022-11-15	4	4II	4II_B	4II_B.1	4II_B.1.2	4/4II/4II_B/4II_B.1/4II_B.1.2	OR162320.1_2022-11-15/4/4II/4II_B/4II_B.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OR654276.1_2023-05-31	OR654276.1_2023-05-31	4	4II	4II_B	4II_B.1	4II_B.1.2	4/4II/4II_B/4II_B.1/4II_B.1.2	OR654276.1_2023-05-31/4/4II/4II_B/4II_B.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OR821957.1_2023-10-12	OR821957.1_2023-10-12	4	4II	4II_B	4II_B.2	-	4/4II/4II_B/4II_B.2/-	OR821957.1_2023-10-12/4/4II/4II_B/4II_B.2	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OR977094.1_2023-11-10	OR977094.1_2023-11-10	4	4II	4II_B	4II_B.1	4II_B.1.2	4/4II/4II_B/4II_B.1/4II_B.1.2	OR977094.1_2023-11-10/4/4II/4II_B/4II_B.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/PP269983.1_2011-12-29	PP269983.1_2011-12-29	4	4I	4I_A	4I_A.1	4I_A.1.1	4/4I/4I_A/4I_A.1/4I_A.1.1	PP269983.1_2011-12-29/4/4I/4I_A/4I_A.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/PP530047.1_2014-07	PP530047.1_2014-07	4	4II	4II_B	4II_B.1	4II_B.1.1	4/4II/4II_B/4II_B.1/4II_B.1.1	PP530047.1_2014-07/4/4II/4II_B/4II_B.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/PP530050.1_2015-11-15	PP530050.1_2015-11-15	4	4II	4II_B	4II_B.1	4II_B.1.1	4/4II/4II_B/4II_B.1/4II_B.1.1	PP530050.1_2015-11-15/4/4II/4II_B/4II_B.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/PP530058.1_2015-05-12	PP530058.1_2015-05-12	4	4II	4II_B	4II_B.1	4II_B.1.1	4/4II/4II_B/4II_B.1/4II_B.1.1	PP530058.1_2015-05-12/4/4II/4II_B/4II_B.1	-	-	-
-alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/PP692469.1_2023-12-23	PP692469.1_2023-12-23	4	4II	4II_B	4II_B.2	-	4/4II/4II_B/4II_B.2/-	PP692469.1_2023-12-23/4/4II/4II_B/4II_B.2	-	-	-
+taxon	sequenceID	serotype	genotype	major_lineage	minor_lineage	minor_sublineage	minor_subsublineage	combined	combined-with-id	isolate	country	collection_year
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/AP009_1973	AP009_1973	4	4IV	-	-	-	-	4/4IV/-/-/-/-	AP009_1973/4/4IV/-/-/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/AP010_1975	AP010_1975	4	4IV	-	-	-	-	4/4IV/-/-/-/-	AP010_1975/4/4IV/-/-/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/AP011_1975	AP011_1975	4	4IV	-	-	-	-	4/4IV/-/-/-/-	AP011_1975/4/4IV/-/-/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/EF457906.1_1975	EF457906.1_1975	4	4IV	-	-	-	-	4/4IV/-/-/-/-	EF457906.1_1975/4/4IV/-/-/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/FJ196849.1_1978	FJ196849.1_1978	4	4II	4II_A	-	-	-	4/4II/4II_A/-/-/-	FJ196849.1_1978/4/4II/4II_A/-/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/FJ850059.1_1998	FJ850059.1_1998	4	4II	4II_B	4II_B.2	-	-	4/4II/4II_B/4II_B.2/-/-	FJ850059.1_1998/4/4II/4II_B/4II_B.2/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/FJ850095.1_2000	FJ850095.1_2000	4	4II	4II_B	4II_B.1	-	-	4/4II/4II_B/4II_B.1/-/-	FJ850095.1_2000/4/4II/4II_B/4II_B.1/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/GQ868583.1_2004	GQ868583.1_2004	4	4II	4II_B	4II_B.1	-	-	4/4II/4II_B/4II_B.1/-/-	GQ868583.1_2004/4/4II/4II_B/4II_B.1/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/JF262780.1_1973	JF262780.1_1973	4	4IV	-	-	-	-	4/4IV/-/-/-/-	JF262780.1_1973/4/4IV/-/-/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/JF741967.1_2010-09-26	JF741967.1_2010-09-26	4	4II	4II_A	4II_A.2	-	-	4/4II/4II_A/4II_A.2/-/-	JF741967.1_2010-09-26/4/4II/4II_A/4II_A.2/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/JN559741.2_2010-07-21	JN559741.2_2010-07-21	4	4II	4II_B	4II_B.1	4II_B.1.1	-	4/4II/4II_B/4II_B.1/4II_B.1.1/-	JN559741.2_2010-07-21/4/4II/4II_B/4II_B.1/4II_B.1.1/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/JN638572.1_2008	JN638572.1_2008	4	4I	4I_A	4I_A.2	-	-	4/4I/4I_A/4I_A.2/-/-	JN638572.1_2008/4/4I/4I_A/4I_A.2/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/JQ922558.1_1962	JQ922558.1_1962	4	4I	-	-	-	-	4/4I/-/-/-/-	JQ922558.1_1962/4/4I/-/-/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/JQ922559.1_1979	JQ922559.1_1979	4	4I	4I_B	-	-	-	4/4I/4I_B/-/-/-	JQ922559.1_1979/4/4I/4I_B/-/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KC762696.1_2007-08-13	KC762696.1_2007-08-13	4	4II	4II_A	4II_A.2	-	-	4/4II/4II_A/4II_A.2/-/-	KC762696.1_2007-08-13/4/4II/4II_A/4II_A.2/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KC762698.1_2008-04-30	KC762698.1_2008-04-30	4	4II	4II_A	4II_A.2	-	-	4/4II/4II_A/4II_A.2/-/-	KC762698.1_2008-04-30/4/4II/4II_A/4II_A.2/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KC762699.1_2008-03-28	KC762699.1_2008-03-28	4	4II	4II_A	4II_A.2	-	-	4/4II/4II_A/4II_A.2/-/-	KC762699.1_2008-03-28/4/4II/4II_A/4II_A.2/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KJ596660.1_2012-04-03	KJ596660.1_2012-04-03	4	4II	4II_B	4II_B.1	4II_B.1.1	-	4/4II/4II_B/4II_B.1/4II_B.1.1/-	KJ596660.1_2012-04-03/4/4II/4II_B/4II_B.1/4II_B.1.1/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KJ596665.1_2012-03-20	KJ596665.1_2012-03-20	4	4II	4II_B	4II_B.1	4II_B.1.1	-	4/4II/4II_B/4II_B.1/4II_B.1.1/-	KJ596665.1_2012-03-20/4/4II/4II_B/4II_B.1/4II_B.1.1/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KJ596673.1_2012-02-29	KJ596673.1_2012-02-29	4	4II	4II_B	4II_B.1	4II_B.1.1	-	4/4II/4II_B/4II_B.1/4II_B.1.1/-	KJ596673.1_2012-02-29/4/4II/4II_B/4II_B.1/4II_B.1.1/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KP723482.1_2010	KP723482.1_2010	4	4II	4II_A	4II_A.2	-	-	4/4II/4II_A/4II_A.2/-/-	KP723482.1_2010/4/4II/4II_A/4II_A.2/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KT276273.1_2014-09-08	KT276273.1_2014-09-08	4	4II	4II_B	-	-	-	4/4II/4II_B/-/-/-	KT276273.1_2014-09-08/4/4II/4II_B/-/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KX059015.1_2012-07	KX059015.1_2012-07	4	4I	4I_B	4I_B.2	-	-	4/4I/4I_B/4I_B.2/-/-	KX059015.1_2012-07/4/4I/4I_B/4I_B.2/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KX059018.1_2012-04	KX059018.1_2012-04	4	4I	4I_B	4I_B.2	-	-	4/4I/4I_B/4I_B.2/-/-	KX059018.1_2012-04/4/4I/4I_B/4I_B.2/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KX059026.1_2013-02	KX059026.1_2013-02	4	4I	4I_B	4I_B.2	-	-	4/4I/4I_B/4I_B.2/-/-	KX059026.1_2013-02/4/4I/4I_B/4I_B.2/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KX059029.1_2012-08	KX059029.1_2012-08	4	4I	4I_B	4I_B.2	-	-	4/4I/4I_B/4I_B.2/-/-	KX059029.1_2012-08/4/4I/4I_B/4I_B.2/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KX059032.1_2012-09	KX059032.1_2012-09	4	4I	4I_B	4I_B.2	-	-	4/4I/4I_B/4I_B.2/-/-	KX059032.1_2012-09/4/4I/4I_B/4I_B.2/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KX812530.1_1976	KX812530.1_1976	4	4II	4II_B	-	-	-	4/4II/4II_B/-/-/-	KX812530.1_1976/4/4II/4II_B/-/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KX845005.1_2015	KX845005.1_2015	4	4I	4I_B	4I_B.2	-	-	4/4I/4I_B/4I_B.2/-/-	KX845005.1_2015/4/4I/4I_B/4I_B.2/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KY474335.1_2014	KY474335.1_2014	4	4II	4II_B	4II_B.1	-	-	4/4II/4II_B/4II_B.1/-/-	KY474335.1_2014/4/4II/4II_B/4II_B.1/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KY586903.1_2000	KY586903.1_2000	4	4I	4I_A	4I_A.2	-	-	4/4I/4I_A/4I_A.2/-/-	KY586903.1_2000/4/4I/4I_A/4I_A.2/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KY586922.1_1998	KY586922.1_1998	4	4I	4I_A	4I_A.2	-	-	4/4I/4I_A/4I_A.2/-/-	KY586922.1_1998/4/4I/4I_A/4I_A.2/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KY586942.1_2006	KY586942.1_2006	4	4I	4I_A	4I_A.1	-	-	4/4I/4I_A/4I_A.1/-/-	KY586942.1_2006/4/4I/4I_A/4I_A.1/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KY586944.1_2001	KY586944.1_2001	4	4III	-	-	-	-	4/4III/-/-/-/-	KY586944.1_2001/4/4III/-/-/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KY670635.1_2003-10	KY670635.1_2003-10	4	4I	-	-	-	-	4/4I/-/-/-/-	KY670635.1_2003-10/4/4I/-/-/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/KY921909.1_2016-03	KY921909.1_2016-03	4	4II	4II_A	4II_A.1	-	-	4/4II/4II_A/4II_A.1/-/-	KY921909.1_2016-03/4/4II/4II_A/4II_A.1/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/LC410203.1_2017-06	LC410203.1_2017-06	4	4I	4I_A	4I_A.3	-	-	4/4I/4I_A/4I_A.3/-/-	LC410203.1_2017-06/4/4I/4I_A/4I_A.3/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MG272272.1_2016	MG272272.1_2016	4	4I	4I_B	4I_B.1	-	-	4/4I/4I_B/4I_B.1/-/-	MG272272.1_2016/4/4I/4I_B/4I_B.1/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MH382789.1_2016	MH382789.1_2016	4	4II	4II_A	4II_A.1	-	-	4/4II/4II_A/4II_A.1/-/-	MH382789.1_2016/4/4II/4II_A/4II_A.1/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MK858146.2_2016-07-03	MK858146.2_2016-07-03	4	4I	4I_B	4I_B.2	-	-	4/4I/4I_B/4I_B.2/-/-	MK858146.2_2016-07-03/4/4I/4I_B/4I_B.2/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MN018393.1_2015-07-25	MN018393.1_2015-07-25	4	4II	4II_A	-	-	-	4/4II/4II_A/-/-/-	MN018393.1_2015-07-25/4/4II/4II_A/-/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MN018394.1_2015-10-03	MN018394.1_2015-10-03	4	4I	4I_A	4I_A.1	4I_A.1.2	-	4/4I/4I_A/4I_A.1/4I_A.1.2/-	MN018394.1_2015-10-03/4/4I/4I_A/4I_A.1/4I_A.1.2/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MN018395.1_2015-10-20	MN018395.1_2015-10-20	4	4I	4I_A	4I_A.2	-	-	4/4I/4I_A/4I_A.2/-/-	MN018395.1_2015-10-20/4/4I/4I_A/4I_A.2/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MN018396.1_2015-11-12	MN018396.1_2015-11-12	4	4II	4II_A	-	-	-	4/4II/4II_A/-/-/-	MN018396.1_2015-11-12/4/4II/4II_A/-/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MN018397.1_2016-02-01	MN018397.1_2016-02-01	4	4I	4I_A	4I_A.3	-	-	4/4I/4I_A/4I_A.3/-/-	MN018397.1_2016-02-01/4/4I/4I_A/4I_A.3/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MN018398.1_2016-08-16	MN018398.1_2016-08-16	4	4I	4I_B	4I_B.1	-	-	4/4I/4I_B/4I_B.1/-/-	MN018398.1_2016-08-16/4/4I/4I_B/4I_B.1/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MN449006.1_2012-07-16	MN449006.1_2012-07-16	4	4I	4I_A	4I_A.3	-	-	4/4I/4I_A/4I_A.3/-/-	MN449006.1_2012-07-16/4/4I/4I_A/4I_A.3/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MW788999.1_2018-05	MW788999.1_2018-05	4	4I	4I_A	4I_A.3	-	-	4/4I/4I_A/4I_A.3/-/-	MW788999.1_2018-05/4/4I/4I_A/4I_A.3/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MW945493.1_1999	MW945493.1_1999	4	4III	-	-	-	-	4/4III/-/-/-/-	MW945493.1_1999/4/4III/-/-/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MW945498.1_2010	MW945498.1_2010	4	4I	4I_A	4I_A.1	-	-	4/4I/4I_A/4I_A.1/-/-	MW945498.1_2010/4/4I/4I_A/4I_A.1/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MW945533.1_2013	MW945533.1_2013	4	4I	4I_A	4I_A.2	-	-	4/4I/4I_A/4I_A.2/-/-	MW945533.1_2013/4/4I/4I_A/4I_A.2/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MW945553.1_2006	MW945553.1_2006	4	4I	4I_A	4I_A.2	-	-	4/4I/4I_A/4I_A.2/-/-	MW945553.1_2006/4/4I/4I_A/4I_A.2/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MW945619.1_1996	MW945619.1_1996	4	4III	-	-	-	-	4/4III/-/-/-/-	MW945619.1_1996/4/4III/-/-/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MW945621.1_2001	MW945621.1_2001	4	4III	-	-	-	-	4/4III/-/-/-/-	MW945621.1_2001/4/4III/-/-/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MW945648.1_2005	MW945648.1_2005	4	4I	4I_A	4I_A.3	-	-	4/4I/4I_A/4I_A.3/-/-	MW945648.1_2005/4/4I/4I_A/4I_A.3/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MW945653.1_2008	MW945653.1_2008	4	4I	4I_A	4I_A.2	-	-	4/4I/4I_A/4I_A.2/-/-	MW945653.1_2008/4/4I/4I_A/4I_A.2/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MW945665.1_2002	MW945665.1_2002	4	4I	4I_A	4I_A.2	-	-	4/4I/4I_A/4I_A.2/-/-	MW945665.1_2002/4/4I/4I_A/4I_A.2/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MW945727.1_2005	MW945727.1_2005	4	4III	-	-	-	-	4/4III/-/-/-/-	MW945727.1_2005/4/4III/-/-/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/MZ976860.1_2020-08-03	MZ976860.1_2020-08-03	4	4I	4I_A	4I_A.1	4I_A.1.1	-	4/4I/4I_A/4I_A.1/4I_A.1.1/-	MZ976860.1_2020-08-03/4/4I/4I_A/4I_A.1/4I_A.1.1/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/ncbi-master-refseqs/NC_002640	NC_002640	4	4II	4II_B	-	-	-	4/4II/4II_B/-/-/-	NC_002640/4/4II/4II_B/-/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OK469357.1_1963	OK469357.1_1963	4	4I	-	-	-	-	4/4I/-/-/-/-	OK469357.1_1963/4/4I/-/-/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OK469358.1_1976	OK469358.1_1976	4	4I	4I_A	4I_A.1	-	-	4/4I/4I_A/4I_A.1/-/-	OK469358.1_1976/4/4I/4I_A/4I_A.1/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OK469362.1_1995	OK469362.1_1995	4	4II	4II_B	-	-	-	4/4II/4II_B/-/-/-	OK469362.1_1995/4/4II/4II_B/-/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OK605767.1_1976	OK605767.1_1976	4	4II	4II_B	-	-	-	4/4II/4II_B/-/-/-	OK605767.1_1976/4/4II/4II_B/-/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OK605769.1_1983	OK605769.1_1983	4	4I	4I_B	-	-	-	4/4I/4I_B/-/-/-	OK605769.1_1983/4/4I/4I_B/-/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OL314740.1_2019-05-30	OL314740.1_2019-05-30	4	4II	4II_A	-	-	-	4/4II/4II_A/-/-/-	OL314740.1_2019-05-30/4/4II/4II_A/-/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OL314741.1_2019-06-20	OL314741.1_2019-06-20	4	4II	4II_A	4II_A.1	-	-	4/4II/4II_A/4II_A.1/-/-	OL314741.1_2019-06-20/4/4II/4II_A/4II_A.1/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OM417338.1_2010-10-27	OM417338.1_2010-10-27	4	4II	4II_B	4II_B.2	-	-	4/4II/4II_B/4II_B.2/-/-	OM417338.1_2010-10-27/4/4II/4II_B/4II_B.2/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OM417339.1_2011-10-10	OM417339.1_2011-10-10	4	4II	4II_B	4II_B.2	-	-	4/4II/4II_B/4II_B.2/-/-	OM417339.1_2011-10-10/4/4II/4II_B/4II_B.2/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OM639995.1_2021-11-16	OM639995.1_2021-11-16	4	4I	4I_B	4I_B.1	-	-	4/4I/4I_B/4I_B.1/-/-	OM639995.1_2021-11-16/4/4I/4I_B/4I_B.1/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OP411002.1_2019-07	OP411002.1_2019-07	4	4II	4II_A	4II_A.1	-	-	4/4II/4II_A/4II_A.1/-/-	OP411002.1_2019-07/4/4II/4II_A/4II_A.1/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OP600478.1_2020-08	OP600478.1_2020-08	4	4II	4II_A	4II_A.1	-	-	4/4II/4II_A/4II_A.1/-/-	OP600478.1_2020-08/4/4II/4II_A/4II_A.1/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OP600512.1_2022-07	OP600512.1_2022-07	4	4II	4II_A	4II_A.1	-	-	4/4II/4II_A/4II_A.1/-/-	OP600512.1_2022-07/4/4II/4II_A/4II_A.1/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OP984198.1_2018	OP984198.1_2018	4	4I	4I_B	4I_B.1	-	-	4/4I/4I_B/4I_B.1/-/-	OP984198.1_2018/4/4I/4I_B/4I_B.1/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OQ426982.1_2018-12-18	OQ426982.1_2018-12-18	4	4I	4I_A	4I_A.1	4I_A.1.1	-	4/4I/4I_A/4I_A.1/4I_A.1.1/-	OQ426982.1_2018-12-18/4/4I/4I_A/4I_A.1/4I_A.1.1/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OQ427041.1_2019-01-07	OQ427041.1_2019-01-07	4	4I	4I_A	4I_A.1	4I_A.1.2	-	4/4I/4I_A/4I_A.1/4I_A.1.2/-	OQ427041.1_2019-01-07/4/4I/4I_A/4I_A.1/4I_A.1.2/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OQ427042.1_2019-01-08	OQ427042.1_2019-01-08	4	4I	4I_A	4I_A.1	4I_A.1.1	-	4/4I/4I_A/4I_A.1/4I_A.1.1/-	OQ427042.1_2019-01-08/4/4I/4I_A/4I_A.1/4I_A.1.1/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OQ427046.1_2019-01-15	OQ427046.1_2019-01-15	4	4I	4I_A	4I_A.1	4I_A.1.2	-	4/4I/4I_A/4I_A.1/4I_A.1.2/-	OQ427046.1_2019-01-15/4/4I/4I_A/4I_A.1/4I_A.1.2/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OQ427047.1_2019-01-15	OQ427047.1_2019-01-15	4	4I	4I_A	4I_A.1	4I_A.1.2	-	4/4I/4I_A/4I_A.1/4I_A.1.2/-	OQ427047.1_2019-01-15/4/4I/4I_A/4I_A.1/4I_A.1.2/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OQ427048.1_2019-01-15	OQ427048.1_2019-01-15	4	4I	4I_A	4I_A.1	4I_A.1.1	-	4/4I/4I_A/4I_A.1/4I_A.1.1/-	OQ427048.1_2019-01-15/4/4I/4I_A/4I_A.1/4I_A.1.1/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OQ427061.1_2018-12-24	OQ427061.1_2018-12-24	4	4I	4I_A	4I_A.1	4I_A.1.1	-	4/4I/4I_A/4I_A.1/4I_A.1.1/-	OQ427061.1_2018-12-24/4/4I/4I_A/4I_A.1/4I_A.1.1/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OQ427062.1_2018-12-25	OQ427062.1_2018-12-25	4	4I	4I_A	4I_A.1	4I_A.1.2	-	4/4I/4I_A/4I_A.1/4I_A.1.2/-	OQ427062.1_2018-12-25/4/4I/4I_A/4I_A.1/4I_A.1.2/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OQ445963.1_2022-08-10	OQ445963.1_2022-08-10	4	4II	4II_B	4II_B.1	4II_B.1.2	-	4/4II/4II_B/4II_B.1/4II_B.1.2/-	OQ445963.1_2022-08-10/4/4II/4II_B/4II_B.1/4II_B.1.2/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OQ445966.1_2022-10-26	OQ445966.1_2022-10-26	4	4II	4II_B	4II_B.1	4II_B.1.2	-	4/4II/4II_B/4II_B.1/4II_B.1.2/-	OQ445966.1_2022-10-26/4/4II/4II_B/4II_B.1/4II_B.1.2/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OQ445967.1_2022-11-03	OQ445967.1_2022-11-03	4	4II	4II_B	4II_B.2	-	-	4/4II/4II_B/4II_B.2/-/-	OQ445967.1_2022-11-03/4/4II/4II_B/4II_B.2/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OQ567848.1_2016-03-07	OQ567848.1_2016-03-07	4	4II	4II_B	4II_B.1	4II_B.1.1	-	4/4II/4II_B/4II_B.1/4II_B.1.1/-	OQ567848.1_2016-03-07/4/4II/4II_B/4II_B.1/4II_B.1.1/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OQ567863.1_2020-01-13	OQ567863.1_2020-01-13	4	4II	4II_B	4II_B.1	4II_B.1.1	-	4/4II/4II_B/4II_B.1/4II_B.1.1/-	OQ567863.1_2020-01-13/4/4II/4II_B/4II_B.1/4II_B.1.1/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OQ603316.1_2013-09-18	OQ603316.1_2013-09-18	4	4II	4II_B	4II_B.1	-	-	4/4II/4II_B/4II_B.1/-/-	OQ603316.1_2013-09-18/4/4II/4II_B/4II_B.1/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OQ821645.1_2022-09-10	OQ821645.1_2022-09-10	4	4II	4II_B	4II_B.2	-	-	4/4II/4II_B/4II_B.2/-/-	OQ821645.1_2022-09-10/4/4II/4II_B/4II_B.2/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OQ821649.1_2016-03-21	OQ821649.1_2016-03-21	4	4II	4II_A	4II_A.1	-	-	4/4II/4II_A/4II_A.1/-/-	OQ821649.1_2016-03-21/4/4II/4II_A/4II_A.1/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OR162320.1_2022-11-15	OR162320.1_2022-11-15	4	4II	4II_B	4II_B.1	4II_B.1.2	-	4/4II/4II_B/4II_B.1/4II_B.1.2/-	OR162320.1_2022-11-15/4/4II/4II_B/4II_B.1/4II_B.1.2/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OR654276.1_2023-05-31	OR654276.1_2023-05-31	4	4II	4II_B	4II_B.1	4II_B.1.2	-	4/4II/4II_B/4II_B.1/4II_B.1.2/-	OR654276.1_2023-05-31/4/4II/4II_B/4II_B.1/4II_B.1.2/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OR821957.1_2023-10-12	OR821957.1_2023-10-12	4	4II	4II_B	4II_B.2	-	-	4/4II/4II_B/4II_B.2/-/-	OR821957.1_2023-10-12/4/4II/4II_B/4II_B.2/-/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/OR977094.1_2023-11-10	OR977094.1_2023-11-10	4	4II	4II_B	4II_B.1	4II_B.1.2	-	4/4II/4II_B/4II_B.1/4II_B.1.2/-	OR977094.1_2023-11-10/4/4II/4II_B/4II_B.1/4II_B.1.2/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/PP269983.1_2011-12-29	PP269983.1_2011-12-29	4	4I	4I_A	4I_A.1	4I_A.1.1	-	4/4I/4I_A/4I_A.1/4I_A.1.1/-	PP269983.1_2011-12-29/4/4I/4I_A/4I_A.1/4I_A.1.1/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/PP530047.1_2014-07	PP530047.1_2014-07	4	4II	4II_B	4II_B.1	4II_B.1.1	-	4/4II/4II_B/4II_B.1/4II_B.1.1/-	PP530047.1_2014-07/4/4II/4II_B/4II_B.1/4II_B.1.1/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/PP530050.1_2015-11-15	PP530050.1_2015-11-15	4	4II	4II_B	4II_B.1	4II_B.1.1	-	4/4II/4II_B/4II_B.1/4II_B.1.1/-	PP530050.1_2015-11-15/4/4II/4II_B/4II_B.1/4II_B.1.1/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/PP530058.1_2015-05-12	PP530058.1_2015-05-12	4	4II	4II_B	4II_B.1	4II_B.1.1	-	4/4II/4II_B/4II_B.1/4II_B.1.1/-	PP530058.1_2015-05-12/4/4II/4II_B/4II_B.1/4II_B.1.1/-	-	-	-
+alignment/AL_UNC_DENV4_YALE/member/fasta-refseqs-yale-denv4/PP692469.1_2023-12-23	PP692469.1_2023-12-23	4	4II	4II_B	4II_B.2	-	-	4/4II/4II_B/4II_B.2/-/-	PP692469.1_2023-12-23/4/4II/4II_B/4II_B.2/-/-	-	-	-
