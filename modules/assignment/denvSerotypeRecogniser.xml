@@ -30,7 +30,6 @@
 	<!-- Dengue serotype 4 reference declarations -->
 	<referenceSequence>REF_DENV_4I_MN018398</referenceSequence>
 	<referenceSequence>REF_DENV_4II_KX812530</referenceSequence>
-	<referenceSequence>REF_DENV_4III_KY586945</referenceSequence>
 
 	<!-- Dengue serotype 1 reference declarations -->
 	<recognitionCategory>
@@ -215,14 +214,6 @@
 	  	<minimumBitScore>200</minimumBitScore>
 	  	<minimumTotalAlignLength>100</minimumTotalAlignLength>
 	  	<referenceSequence>REF_DENV_4II_KX812530</referenceSequence>
-	</recognitionCategory>
-
-	<recognitionCategory>
-		<id>4</id>
-		<minimumIdentityPct>70</minimumIdentityPct>
-	  	<minimumBitScore>200</minimumBitScore>
-	  	<minimumTotalAlignLength>100</minimumTotalAlignLength>
-	  	<referenceSequence>REF_DENV_4III_KY586945</referenceSequence>
 	</recognitionCategory>
 
 
