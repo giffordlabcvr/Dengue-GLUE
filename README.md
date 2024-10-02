@@ -16,19 +16,6 @@ This Dengue-GLUE base project can be extended with additional layers, openly ava
 
 For more information please see the **[User Guide](https://github.com/giffordlabcvr/Dengue-GLUE/wiki)**
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Genotyping](#genotyping)
-- [Mutation frequencies](#mutation-frequencies)
-- [Data Sources](#data-sources)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Key Features
 
 - **GLUE Framework Integration**: Built on the GLUE software framework, Dengue-GLUE offers an extensible platform for efficient, standardized, and reproducible computational genomic analysis of dengue virus.
