@@ -27,7 +27,7 @@ For more information please see the **[User Guide](https://github.com/giffordlab
 - **Automated Genotyping**: Dengue-GLUE can perform automated genotyping of DENV sequences (including subgenomic sequences) following [recently proposed lineage nomenclature](https://dengue-lineages.org), via GLUE's [maximum likelihood clade assignment (MLCA) algorithm](https://doi.org/10.1186/s12859-018-2459-9).
 
 - **Exploratory and operational**: The GLUE framework allows sequence-based resources to be used for exploratory work in a research setting, as well as operational work in a public or animal health setting.
-- 
+
 
 ## Installation
 
