@@ -8,3 +8,10 @@
   import source sources/fasta-refseqs-yale-denv3
   import source sources/fasta-refseqs-yale-denv4
   #import source sources/fasta-refseqs-outgroups
+  
+  #import source sources/fasta-testseqs-denv1
+  #import source sources/fasta-testseqs-denv2
+  #import source sources/fasta-testseqs-denv3
+  #import source sources/fasta-testseqs-denv4
+
+
