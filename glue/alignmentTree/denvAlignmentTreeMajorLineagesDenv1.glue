@@ -96,6 +96,14 @@
 	extract child AL_DENV_1V_G -r REF_DENV_1V_G_GQ868568
 	demote member AL_DENV_1V_G --whereClause "sequence.major_lineage = '1V_G'"
 
+	extract child AL_DENV_1V_H -r REF_DENV_1V_H_OR389007
+	demote member AL_DENV_1V_H --whereClause "sequence.major_lineage = '1V_H'"
+
+	extract child AL_DENV_1V_J -r REF_DENV_1V_J_EU482567
+	demote member AL_DENV_1V_J --whereClause "sequence.major_lineage = '1V_J'"
+
+
+
 	exit
 	
 
