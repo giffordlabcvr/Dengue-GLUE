@@ -1,0 +1,75 @@
+  ### DENV3 constrained alignment tree: minor lineage-level alignments
+
+  alignment AL_DENV_3I_A1
+ 
+    set field displayName "3I_A1"
+    set field clade_category "major_lineage"
+  
+	extract child AL_DENV_3I_A1.1 -r REF_DENV_3I_A.1.1_MN083246
+	demote member AL_DENV_3I_A1.1 --whereClause "sequence.minor_lineage = '3I_A.1.1'"	
+  
+	extract child AL_DENV_3I_A1.2 -r REF_DENV_3I_A.1.2_MF682966
+	demote member AL_DENV_3I_A1.2 --whereClause "sequence.minor_lineage = '3I_A.1.2'"	
+  
+	exit
+
+
+  alignment AL_DENV_3III_B3
+ 
+    set field displayName "3III_B.3"
+    set field clade_category "major_lineage"
+  
+	extract child AL_DENV_3III_B3.1 -r REF_DENV_3III_B.3.1_OQ948474
+	demote member AL_DENV_3III_B3.1 --whereClause "sequence.minor_lineage = '3III_B.3.1'"	
+  
+	extract child AL_DENV_3III_B3.2 -r REF_DENV_3III_B.3.2_OQ857506
+	demote member AL_DENV_3III_B3.2 --whereClause "sequence.minor_lineage = '3III_B.3.2'"	
+  
+	exit
+
+  alignment AL_DENV_3III_C2
+ 
+    set field displayName "3III_C.2"
+    set field clade_category "major_lineage"
+  
+	extract child AL_DENV_3III_C2.1 -r REF_DENV_3III_C.2.1_KF971702
+	demote member AL_DENV_3III_C2.1 --whereClause "sequence.minor_lineage = '3III_C.2.1'"	
+    
+	extract child AL_DENV_3III_C2.2 -r REF_DENV_3III_C.2.2_GU131850
+	demote member AL_DENV_3III_C2.2 --whereClause "sequence.minor_lineage = '3III_C.2.2'"	
+
+	exit
+
+
+  #### Set clade categories in DENV3 minor sub-lineages with no level 3 (L3) lineages (sub-lineages)
+
+  alignment AL_DENV_3I_A1.1
+    set field displayName "3I_A.1.1"
+    set field clade_category "minor_sublineage" 
+	exit
+
+  alignment AL_DENV_3I_A1.2
+    set field displayName "3I_A.1.2"
+    set field clade_category "minor_sublineage" 
+	exit
+
+  alignment AL_DENV_3III_B3.1
+    set field displayName "3III_B.3.1"
+    set field clade_category "minor_sublineage" 
+	exit
+
+  alignment AL_DENV_3III_B3.2
+    set field displayName "3III_B.3.2"
+    set field clade_category "minor_sublineage" 
+	exit
+
+  alignment AL_DENV_3III_C2.1
+    set field displayName "3III_C.2.1"
+    set field clade_category "minor_sublineage" 
+	exit
+
+  alignment AL_DENV_3III_C2.2
+    set field displayName "3III_C.2.2"
+    set field clade_category "minor_sublineage" 
+	exit
+

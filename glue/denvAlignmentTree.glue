@@ -20,4 +20,8 @@
   # Minor sub-lineage level
   run file glue/alignmentTree/denvAlignmentTreeMinorLineagesDenv1L2.glue
   run file glue/alignmentTree/denvAlignmentTreeMinorLineagesDenv2L2.glue
+  run file glue/alignmentTree/denvAlignmentTreeMinorLineagesDenv3L2.glue
   run file glue/alignmentTree/denvAlignmentTreeMinorLineagesDenv4L2.glue
+
+  # Minor sub-sub-lineage level
+  run file glue/alignmentTree/denvAlignmentTreeMinorLineagesDenv2L3.glue

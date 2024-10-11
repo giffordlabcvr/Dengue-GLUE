@@ -13,6 +13,19 @@
 
 	exit
 
+  alignment AL_DENV_4II_B1
+  
+    set field displayName "4II_B.1"
+    set field clade_category "minor_lineage" 
+
+	extract child AL_DENV_4II_B1.1 -r REF_DENV_4II_B.1.1_KJ596665
+	demote member AL_DENV_4II_B1.1 --whereClause "sequence.minor_sublineage = '4II_B.1.1'"	
+  
+	extract child AL_DENV_4II_B1.2 -r REF_DENV_4II_B.1.2_OR654276
+	demote member AL_DENV_4II_B1.2 --whereClause "sequence.minor_sublineage = '4II_B.1.2'"	
+
+	exit
+
 
   alignment AL_DENV_4I_A1.1
     set field displayName "4I_A.1.1"
@@ -21,6 +34,16 @@
 
   alignment AL_DENV_4I_A1.2
     set field displayName "4I_A.1.2"
+    set field clade_category "minor_sublineage" 
+	exit
+
+  alignment AL_DENV_4II_B1.1
+    set field displayName "4II_B.1.1"
+    set field clade_category "minor_sublineage" 
+	exit
+
+  alignment AL_DENV_4II_B1.2
+    set field displayName "4II_B.1.2"
     set field clade_category "minor_sublineage" 
 	exit
 
