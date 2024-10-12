@@ -3,7 +3,7 @@
   alignment AL_DENV_1I_E1
   
     set field displayName "1I_E1"
-    set field clade_category "minor_sublineage" 
+    set field clade_category "minor_lineage" 
 
 	extract child AL_DENV_1I_E1.1 -r REF_DENV_1I_E.1.1_MN912178
 	demote member AL_DENV_1I_E1.1 --whereClause "sequence.minor_sublineage = '1I_E.1.1'"	
@@ -16,7 +16,7 @@
   alignment AL_DENV_1I_K1
   
     set field displayName "1I_K1"
-    set field clade_category "minor_sublineage" 
+    set field clade_category "minor_lineage" 
 
 	extract child AL_DENV_1I_K1.1 -r REF_DENV_1I_K.1.1_OM281593
 	demote member AL_DENV_1I_K1.1 --whereClause "sequence.minor_sublineage = '1I_K.1.1'"	
@@ -29,7 +29,7 @@
   alignment AL_DENV_1V_D1
   
     set field displayName "1V_D1"
-    set field clade_category "minor_sublineage" 
+    set field clade_category "minor_lineage" 
 
 	extract child AL_DENV_1V_D1.1 -r REF_DENV_1V_D.1.1_OQ821349
 	demote member AL_DENV_1V_D1.1 --whereClause "sequence.minor_sublineage = '1V_D.1.1'"	
