@@ -125,13 +125,13 @@ alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/MN018333.1_2016-02-2
 alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/MN448635.1_2010-08-03	MN448635.1_2010-08-03	1	1I	1I_K	1I_K.5	-	-	1/1I/1I_K/1I_K.5/-/-	MN448635.1_2010-08-03/1/1I/1I_K/1I_K.5/-/-	-	-	-
 alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/MN448692.1_2012-10-01	MN448692.1_2012-10-01	1	1I	1I_K	1I_K.5	-	-	1/1I/1I_K/1I_K.5/-/-	MN448692.1_2012-10-01/1/1I/1I_K/1I_K.5/-/-	-	-	-
 alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/MN449014.1_2015-04-20	MN449014.1_2015-04-20	1	1V	1V_D	1V_D.1	1V_D.1.2	-	1/1V/1V_D/1V_D.1/1V_D.1.2/-	MN449014.1_2015-04-20/1/1V/1V_D/1V_D.1/1V_D.1.2/-	-	-	-
-alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/MN449016.1_2015-04-08	MN449016.1_2015-04-08	1	1V	1V_D	1V_D.1	-	-	1/1V/1V_D/1V_D.1/-/-	MN449016.1_2015-04-08/1/1V/1V_D/1V_D.1/-/-	-	-	-
+alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/MN449016.1_2015-04-08	MN449016.1_2015-04-08	1	1V	1V_D	1V_D.1	1V_D.1.2	-	1/1V/1V_D/1V_D.1/1V_D.1.2/-	MN449016.1_2015-04-08/1/1V/1V_D/1V_D.1/1V_D.1.2/-	-	-	-
 alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/MN556094.1_2019-09-01	MN556094.1_2019-09-01	1	1I	1I_K	1I_K.3	-	-	1/1I/1I_K/1I_K.3/-/-	MN556094.1_2019-09-01/1/1I/1I_K/1I_K.3/-/-	-	-	-
 alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/MN556095.1_2017-04	MN556095.1_2017-04	1	1V	1V_D	1V_D.1	1V_D.1.2	-	1/1V/1V_D/1V_D.1/1V_D.1.2/-	MN556095.1_2017-04/1/1V/1V_D/1V_D.1/1V_D.1.2/-	-	-	-
 alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/MN577472.1_2019-07	MN577472.1_2019-07	1	1VII	1VII_A	-	-	-	1/1VII/1VII_A/-/-/-	MN577472.1_2019-07/1/1VII/1VII_A/-/-/-	-	-	-
 alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/MN639764.1_2018-10	MN639764.1_2018-10	1	1I	1I_K	1I_K.1	1I_K.1.2	-	1/1I/1I_K/1I_K.1/1I_K.1.2/-	MN639764.1_2018-10/1/1I/1I_K/1I_K.1/1I_K.1.2/-	-	-	-
 alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/MN639765.1_2018-10	MN639765.1_2018-10	1	1I	1I_K	1I_K.1	1I_K.1.2	-	1/1I/1I_K/1I_K.1/1I_K.1.2/-	MN639765.1_2018-10/1/1I/1I_K/1I_K.1/1I_K.1.2/-	-	-	-
-alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/MN639766.1_2018-10	MN639766.1_2018-10	1	1I	1I_K	1I_K.1	-	-	1/1I/1I_K/1I_K.1/-/-	MN639766.1_2018-10/1/1I/1I_K/1I_K.1/-/-	-	-	-
+alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/MN639766.1_2018-10	MN639766.1_2018-10	1	1I	1I_K	1I_K.1	1I_K.1.2	-	1/1I/1I_K/1I_K.1/1I_K.1.2/-	MN639766.1_2018-10/1/1I/1I_K/1I_K.1/1I_K.1.2/-	-	-	-
 alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/MN912152.1_2017-07-18	MN912152.1_2017-07-18	1	1I	1I_E	1I_E.1	1I_E.1.2	-	1/1I/1I_E/1I_E.1/1I_E.1.2/-	MN912152.1_2017-07-18/1/1I/1I_E/1I_E.1/1I_E.1.2/-	-	-	-
 alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/MN912165.1_2017-07-18	MN912165.1_2017-07-18	1	1I	1I_E	1I_E.1	1I_E.1.2	-	1/1I/1I_E/1I_E.1/1I_E.1.2/-	MN912165.1_2017-07-18/1/1I/1I_E/1I_E.1/1I_E.1.2/-	-	-	-
 alignment/AL_UNC_DENV1_YALE/member/fasta-refseqs-yale-denv1/MN912167.1_2017-07-18	MN912167.1_2017-07-18	1	1I	1I_E	1I_E.1	1I_E.1.2	-	1/1I/1I_E/1I_E.1/1I_E.1.2/-	MN912167.1_2017-07-18/1/1I/1I_E/1I_E.1/1I_E.1.2/-	-	-	-
