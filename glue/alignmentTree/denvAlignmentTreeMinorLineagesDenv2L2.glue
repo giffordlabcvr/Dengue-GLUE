@@ -34,10 +34,10 @@
     set field displayName "2II_D1"
     set field clade_category "minor_lineage" 
 
- 	extract child AL_DENV_2II_D1.1 -r REF_DENV_2II_A.2_MN577553
+ 	extract child AL_DENV_2II_D1.1 -r REF_DENV_2II_D.1.1_KT187557
 	demote member AL_DENV_2II_D1.1 --whereClause "sequence.minor_sublineage = '2II_D.1'"
 
-  	extract child AL_DENV_2II_D1.2 -r REF_DENV_2II_A.2_MN577553
+  	extract child AL_DENV_2II_D1.2 -r REF_DENV_2II_D.1.2_OR236087
 	demote member AL_DENV_2II_D1.2 --whereClause "sequence.minor_sublineage = '2II_D.2'"
 
 	exit

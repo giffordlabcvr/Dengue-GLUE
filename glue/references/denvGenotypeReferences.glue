@@ -83,8 +83,6 @@ create reference REF_DENV_3III_OQ948474	fasta-refseqs-yale-denv3	OQ948474.1_2019
 create reference REF_DENV_3III_MG721059	fasta-refseqs-yale-denv3	MG721059.2_2016
 create reference REF_DENV_3III_OM417341	fasta-refseqs-yale-denv3	OM417341.1_2021-09-19
 create reference REF_DENV_3III_OP895705	fasta-refseqs-yale-denv3	OP895705.1_2018
-create reference REF_DENV_3V_JQ922554	fasta-refseqs-yale-denv3	JQ922554.1_1963
-create reference REF_DENV_3V_KM190937	fasta-refseqs-yale-denv3	KM190937.1_1964
 
 # DENV4 genotype reference declarations
 
