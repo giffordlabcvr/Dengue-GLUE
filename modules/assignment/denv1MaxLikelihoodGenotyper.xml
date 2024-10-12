@@ -7,7 +7,7 @@
 		<displayName>Serotype</displayName>	
 		<whereClause>displayName = '1'</whereClause>
 		<distanceScalingExponent>-3.0</distanceScalingExponent>
-		<distanceCutoff>0.4</distanceCutoff>
+		<distanceCutoff>0.1</distanceCutoff>
 		<finalCladeCutoff>65.0</finalCladeCutoff>
 	</cladeCategory>
 
@@ -16,7 +16,7 @@
 		<displayName>Genotype</displayName>	
 		<whereClause>displayName like '1%' and clade_category = 'genotype'</whereClause>
 		<distanceScalingExponent>-3.0</distanceScalingExponent>
-	    <distanceCutoff>0.1</distanceCutoff>
+	    <distanceCutoff>0.06</distanceCutoff>
 		<finalCladeCutoff>65.0</finalCladeCutoff>		
 	</cladeCategory>
 	
@@ -38,6 +38,14 @@
 		<finalCladeCutoff>60.0</finalCladeCutoff>		
 	</cladeCategory>
 
+	<cladeCategory>
+		<name>minor_lineage</name>	
+		<displayName>Minor sublineage</displayName>	
+		<whereClause>displayName like '1%' and clade_category = 'minor_sublineage'</whereClause>
+		<distanceScalingExponent>-3.0</distanceScalingExponent>
+	    <distanceCutoff>0.01</distanceCutoff>
+		<finalCladeCutoff>60.0</finalCladeCutoff>		
+	</cladeCategory>
 
 </maxLikelihoodGenotyper>
 
