@@ -26,6 +26,13 @@
  
 	extract child AL_DENV_3II_A3 -r REF_DENV_3II_A.3_MW946934
 	demote member AL_DENV_3II_A3 --whereClause "sequence.minor_lineage = '3II_A.3'"	
+
+	extract child AL_DENV_3II_A4 -r REF_DENV_3II_A.4_MW946718
+	demote member AL_DENV_3II_A4 --whereClause "sequence.minor_lineage = '3II_A.4'"	
+
+	extract child AL_DENV_3II_A5 -r REF_DENV_3II_A.5_MN448990
+	demote member AL_DENV_3II_A5 --whereClause "sequence.minor_lineage = '3II_A.5'"	
+
   
 	exit
 
@@ -98,6 +105,16 @@
 
   alignment AL_DENV_3II_A3
     set field displayName "3II_A3"
+    set field clade_category "minor_lineage" 
+	exit
+
+  alignment AL_DENV_3II_A4
+    set field displayName "3II_A4"
+    set field clade_category "minor_lineage" 
+	exit
+
+  alignment AL_DENV_3II_A5
+    set field displayName "3II_A5"
     set field clade_category "minor_lineage" 
 	exit
 

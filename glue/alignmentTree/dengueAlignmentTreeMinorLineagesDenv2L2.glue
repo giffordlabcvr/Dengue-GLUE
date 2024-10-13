@@ -1,5 +1,20 @@
   #### Alignments representing and containing minor DENV2 sublineages
 
+
+  alignment AL_DENV_2II_A1
+
+    set field displayName "2II_A1"
+    set field clade_category "minor_lineage"
+
+ 	extract child AL_DENV_2II_A1.1 -r REF_DENV_2II_A.1.1_ON123651
+	demote member AL_DENV_2II_A1.1 --whereClause "sequence.minor_sublineage = '2II_A.1.1'"
+
+ 	extract child AL_DENV_2II_A1.2 -r REF_DENV_2II_A.1.2_MW946433
+	demote member AL_DENV_2II_A1.2 --whereClause "sequence.minor_sublineage = '2II_A.1.2'"
+
+	exit
+
+
   alignment AL_DENV_2II_A2
 
     set field displayName "2II_A2"
@@ -14,6 +29,20 @@
 	exit
 
 
+  alignment AL_DENV_2II_D1
+
+    set field displayName "2II_D1"
+    set field clade_category "minor_lineage" 
+
+ 	extract child AL_DENV_2II_D1.1 -r REF_DENV_2II_D.1.1_KT187557
+	demote member AL_DENV_2II_D1.1 --whereClause "sequence.minor_sublineage = '2II_D.1'"
+
+  	extract child AL_DENV_2II_D1.2 -r REF_DENV_2II_D.1.2_OR236087
+	demote member AL_DENV_2II_D1.2 --whereClause "sequence.minor_sublineage = '2II_D.2'"
+
+	exit
+
+
   alignment AL_DENV_2II_F1
 
     set field displayName "2II_F1"
@@ -24,6 +53,9 @@
   
 	extract child AL_DENV_2II_F1.2 -r REF_DENV_2II_F.1.2_LC436675
 	demote member AL_DENV_2II_F1.2 --whereClause "sequence.minor_sublineage = '2II_F.1.2'"
+
+	extract child AL_DENV_2II_F1.3 -r REF_DENV_2II_F.1.3_PP269908
+	demote member AL_DENV_2II_F1.3 --whereClause "sequence.minor_sublineage = '2II_F.1.3'"
 
 	exit
 
@@ -72,6 +104,24 @@
 
 
 	exit
+
+  alignment AL_DENV_2V_A1
+    set field displayName "2V_A1"
+    set field clade_category "minor_lineage" 
+
+	extract child AL_DENV_2V_A1.1 -r REF_DENV_2V_A.1.1_PP269863
+	demote member AL_DENV_2V_A1.1 --whereClause "sequence.minor_sublineage = '2V_A.1.1'"
+
+	extract child AL_DENV_2V_A1.2 -r REF_DENV_2V_A.1.2_MN923115
+	demote member AL_DENV_2V_A1.2 --whereClause "sequence.minor_sublineage = '2V_A.1.2'"
+
+	extract child AL_DENV_2V_A1.3 -r REF_DENV_2V_A.1.3_MN448732
+	demote member AL_DENV_2V_A1.3 --whereClause "sequence.minor_sublineage = '2V_A.1.3'"
+
+	exit
+
+
+
 
 
 

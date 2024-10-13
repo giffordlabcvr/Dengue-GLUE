@@ -6,13 +6,11 @@
 	<referenceSequence>REF_DENV_1III_EU179860</referenceSequence>	
 	<referenceSequence>REF_DENV_1IV_MW582813</referenceSequence>
 	<referenceSequence>REF_DENV_1V_OQ605987</referenceSequence>
-	<referenceSequence>REF_DENV_1VI_KF184975</referenceSequence>	
 
 	<!-- Dengue serotype 2 reference declarations -->
 	<referenceSequence>REF_DENV_2II_A_OP684211</referenceSequence>
 	<referenceSequence>REF_DENV_2II_B_MN577564</referenceSequence>
 	<referenceSequence>REF_DENV_2II_C_MW881533</referenceSequence>
-	<referenceSequence>REF_DENV_2II_D_MK564478</referenceSequence>
 	<referenceSequence>REF_DENV_2II_E_MN018351</referenceSequence>
 	<referenceSequence>REF_DENV_2II_F_OP921000</referenceSequence>	
 	<referenceSequence>REF_DENV_2III_A_MW946461</referenceSequence>
@@ -32,7 +30,6 @@
 	<!-- Dengue serotype 4 reference declarations -->
 	<referenceSequence>REF_DENV_4I_MN018398</referenceSequence>
 	<referenceSequence>REF_DENV_4II_KX812530</referenceSequence>
-	<referenceSequence>REF_DENV_4III_KY586945</referenceSequence>
 
 	<!-- Dengue serotype 1 reference declarations -->
 	<recognitionCategory>
@@ -67,14 +64,6 @@
 	  	<referenceSequence>REF_DENV_1V_OQ605987</referenceSequence>
 	</recognitionCategory>
 
-	<recognitionCategory>
-		<id>1</id>
-		<minimumIdentityPct>70</minimumIdentityPct>
-	  	<minimumBitScore>200</minimumBitScore>
-	  	<minimumTotalAlignLength>100</minimumTotalAlignLength>
-	  	<referenceSequence>REF_DENV_1VI_KF184975</referenceSequence>
-	</recognitionCategory>
-
 
 	<!-- Dengue serotype 2 reference declarations -->	
 	<recognitionCategory>
@@ -101,13 +90,6 @@
 	  	<referenceSequence>REF_DENV_2II_C_MW881533</referenceSequence>
 	</recognitionCategory>
 
-	<recognitionCategory>
-		<id>2</id>
-		<minimumIdentityPct>70</minimumIdentityPct>
-	  	<minimumBitScore>200</minimumBitScore>
-	  	<minimumTotalAlignLength>100</minimumTotalAlignLength>
-	  	<referenceSequence>REF_DENV_2II_D_MK564478</referenceSequence>
-	</recognitionCategory>
 
 	<recognitionCategory>
 		<id>2</id>
@@ -232,14 +214,6 @@
 	  	<minimumBitScore>200</minimumBitScore>
 	  	<minimumTotalAlignLength>100</minimumTotalAlignLength>
 	  	<referenceSequence>REF_DENV_4II_KX812530</referenceSequence>
-	</recognitionCategory>
-
-	<recognitionCategory>
-		<id>4</id>
-		<minimumIdentityPct>70</minimumIdentityPct>
-	  	<minimumBitScore>200</minimumBitScore>
-	  	<minimumTotalAlignLength>100</minimumTotalAlignLength>
-	  	<referenceSequence>REF_DENV_4III_KY586945</referenceSequence>
 	</recognitionCategory>
 
 

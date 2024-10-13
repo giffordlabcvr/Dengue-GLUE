@@ -42,6 +42,21 @@
   
 	exit
 
+  alignment AL_DENV_4II_B
+   
+    set field displayName "4II_B"
+    set field clade_category "major_lineage"
+  
+	extract child AL_DENV_4II_B1 -r REF_DENV_4II_B.1_OQ445966
+	demote member AL_DENV_4II_B1 --whereClause "sequence.minor_lineage = '4II_B.1'"	
+  
+	extract child AL_DENV_4II_B2 -r REF_DENV_4II_B.2_FJ850059
+	demote member AL_DENV_4II_B2 --whereClause "sequence.minor_lineage = '4II_B.2'"	
+  
+	exit
+
+
+
 
   #### Set clade categories in DENV4 minor lineages with no sublineages
  

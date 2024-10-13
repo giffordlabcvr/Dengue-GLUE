@@ -8,6 +8,9 @@
 	extract child AL_DENV_1I -r REF_DENV_1I_KU509258
 	demote member AL_DENV_1I --whereClause "sequence.genotype = '1I'"
 
+	extract child AL_DENV_1II -r REF_DENV_1II_JQ922547
+	demote member AL_DENV_1II --whereClause "sequence.genotype = '1II'"
+
 	extract child AL_DENV_1III -r REF_DENV_1III_EU179860
 	demote member AL_DENV_1III --whereClause "sequence.genotype = '1III'"
 
@@ -62,6 +65,9 @@
 
 	extract child AL_DENV_3III -r REF_DENV_3III_OQ948474
 	demote member AL_DENV_3III --whereClause "sequence.genotype = '3III'"
+
+	extract child AL_DENV_3V -r REF_DENV_3V_JQ922554
+	demote member AL_DENV_3V --whereClause "sequence.genotype = '3V'"
 	
 	exit
 
@@ -79,32 +85,50 @@
 
 	extract child AL_DENV_4III -r REF_DENV_4III_MW945621
 	demote member AL_DENV_4III --whereClause "sequence.genotype = '4III'"
-	
+
+	extract child AL_DENV_4IV -r REF_DENV_4IV_EF457906
+	demote member AL_DENV_4IV --whereClause "sequence.genotype = '4IV'"
+
 	exit
 
 
 
   #### Set clade categories in genotypes with no major lineages
 
+  alignment AL_DENV_1II
+    set field displayName "1II"
+    set field clade_category "genotype" 
+    exit
+
   alignment AL_DENV_2I
-   set field displayName "2I"
-   set field clade_category "genotype" 
-   exit
+    set field displayName "2I"
+    set field clade_category "genotype" 
+    exit
 
   alignment AL_DENV_2IV
-   set field displayName "2IV"
-   set field clade_category "genotype" 
-   exit
+    set field displayName "2IV"
+    set field clade_category "genotype" 
+    exit
 
   alignment AL_DENV_2VI
-   set field displayName "2VI"
-   set field clade_category "genotype" 
-   exit
-
+    set field displayName "2VI"
+    set field clade_category "genotype" 
+    exit
+    
+  alignment AL_DENV_3V
+    set field displayName "3V"
+    set field clade_category "genotype" 
+    exit
+    
   alignment AL_DENV_4III
-   set field displayName "4III"
-   set field clade_category "genotype" 
-   exit
+    set field displayName "4III"
+    set field clade_category "genotype" 
+    exit
+ 
+  alignment AL_DENV_4IV
+    set field displayName "4IV"
+    set field clade_category "genotype" 
+    exit
  
 
 

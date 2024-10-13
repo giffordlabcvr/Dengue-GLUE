@@ -50,6 +50,12 @@
 
   #### Set clade categories in DENV3 major lineages with no minor lineages
   
+
+  alignment AL_DENV_3I_B
+   set field displayName "3I_B"
+   set field clade_category "major_lineage" 
+   exit
+
   alignment AL_DENV_3I_C
    set field displayName "3I_C"
    set field clade_category "major_lineage" 
@@ -59,11 +65,3 @@
    set field displayName "3II_B"
    set field clade_category "major_lineage" 
    exit
-
-  alignment AL_DENV_3I_B
-   set field displayName "3I_B"
-   set field clade_category "major_lineage" 
-   exit
-
-
-

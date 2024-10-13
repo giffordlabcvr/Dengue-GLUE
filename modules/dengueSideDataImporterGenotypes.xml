@@ -35,6 +35,11 @@
         <property>minor_sublineage</property>
     </textFileColumn>
 
+    <textFileColumn>
+        <header>minor_subsublineage</header>
+        <property>minor_subsublineage</property>
+    </textFileColumn>
+
     <skipMissing>true</skipMissing>
 
 </textFilePopulator>
