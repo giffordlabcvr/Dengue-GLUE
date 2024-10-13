@@ -1,0 +1,109 @@
+  ### Constrained alignment tree: major lineage-level alignments
+
+  # DENV2 major lineages
+
+  alignment AL_DENV_2V
+
+    set field displayName "2V"
+    set field clade_category "genotype"
+  
+	extract child AL_DENV_2V_A -r REF_DENV_2V_A_MZ453007
+	demote member AL_DENV_2V_A --whereClause "sequence.major_lineage = '2V_A'"
+  
+	extract child AL_DENV_2V_B -r REF_DENV_2V_B_KY586692
+	demote member AL_DENV_2V_B --whereClause "sequence.major_lineage = '2V_B'"
+  
+	extract child AL_DENV_2V_C -r REF_DENV_2V_C_MW946428
+	demote member AL_DENV_2V_C --whereClause "sequence.major_lineage = '2V_C'"
+    
+	extract child AL_DENV_2V_D -r REF_DENV_2V_D_MW946284
+	demote member AL_DENV_2V_D --whereClause "sequence.major_lineage = '2V_D'"
+    
+	extract child AL_DENV_2V_E -r REF_DENV_2V_E_FJ639828
+	demote member AL_DENV_2V_E --whereClause "sequence.major_lineage = '2V_E'"
+
+	exit
+
+  
+  alignment AL_DENV_2II
+
+    set field displayName "2II"
+    set field clade_category "genotype"
+
+	extract child AL_DENV_2II_A -r REF_DENV_2II_A_OP684211
+	demote member AL_DENV_2II_A --whereClause "sequence.major_lineage = '2II_A'"
+
+	extract child AL_DENV_2II_B -r REF_DENV_2II_B_MN577564
+	demote member AL_DENV_2II_B --whereClause "sequence.major_lineage = '2II_B'"
+
+	extract child AL_DENV_2II_C -r REF_DENV_2II_C_MW881533
+	demote member AL_DENV_2II_C --whereClause "sequence.major_lineage = '2II_C'"
+
+	extract child AL_DENV_2II_D -r REF_DENV_2II_D_MN018349
+	demote member AL_DENV_2II_D --whereClause "sequence.major_lineage = '2II_D'"
+
+	extract child AL_DENV_2II_E -r REF_DENV_2II_E_MN018351
+	demote member AL_DENV_2II_E --whereClause "sequence.major_lineage = '2II_E'"
+
+	extract child AL_DENV_2II_F -r REF_DENV_2II_F_OP921000
+	demote member AL_DENV_2II_F --whereClause "sequence.major_lineage = '2II_F'"
+
+	exit
+
+
+  alignment AL_DENV_2III
+
+    set field displayName "2III"
+    set field clade_category "genotype"
+  
+	extract child AL_DENV_2III_A -r REF_DENV_2III_A_MW946461
+	demote member AL_DENV_2III_A --whereClause "sequence.major_lineage = '2III_A'"
+
+	extract child AL_DENV_2III_B -r REF_DENV_2III_B_FJ898450
+	demote member AL_DENV_2III_B --whereClause "sequence.major_lineage = '2III_B'"
+
+	extract child AL_DENV_2III_C -r REF_DENV_2III_C_EU687212
+	demote member AL_DENV_2III_C --whereClause "sequence.major_lineage = '2III_C'"
+
+	extract child AL_DENV_2III_D -r REF_DENV_2III_D_EU726775
+	demote member AL_DENV_2III_D --whereClause "sequence.major_lineage = '2III_D'"
+
+	extract child AL_DENV_2III_E -r REF_DENV_2III_E_FJ850085
+	demote member AL_DENV_2III_E --whereClause "sequence.major_lineage = '2III_E'"
+
+	exit
+ 
+
+
+  #### Set clade categories in DENV2 major lineages with no minor lineages
+ 
+  alignment AL_DENV_2III_B
+   set field displayName "2III_B"
+   set field clade_category "major_lineage" 
+   exit
+  
+  alignment AL_DENV_2II_B
+   set field displayName "2II_B"
+   set field clade_category "major_lineage" 
+   exit
+ 
+  alignment AL_DENV_2V_B
+   set field displayName "2V_B"
+   set field clade_category "major_lineage" 
+   exit
+ 
+  alignment AL_DENV_2V_C
+   set field displayName "2V_C"
+   set field clade_category "major_lineage" 
+   exit
+ 
+  alignment AL_DENV_2V_D
+   set field displayName "2V_D"
+   set field clade_category "major_lineage" 
+   exit
+ 
+  alignment AL_DENV_2V_E
+   set field displayName "2V_E"
+   set field clade_category "major_lineage" 
+   exit
+

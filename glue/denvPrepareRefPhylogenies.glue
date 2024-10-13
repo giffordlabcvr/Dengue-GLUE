@@ -1,0 +1,38 @@
+  delete module denvPhyloUtility
+  delete module denvFigTreeAnnotationExporter
+  
+  create module -f modules/denvPhyloUtility.xml
+  
+  module denvPhyloUtility
+  
+	# midpoint rooting
+
+	reroot-phylogeny \
+      --inputFile trees/denv1ReferencePhylogenyYale.tree NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/denv1ReferencePhylogenyYaleMidpointRerooted.tree NEWICK_BOOTSTRAPS
+
+	reroot-phylogeny \
+      --inputFile trees/denv2ReferencePhylogenyYale.tree NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/denv2ReferencePhylogenyYaleMidpointRerooted.tree NEWICK_BOOTSTRAPS
+
+	reroot-phylogeny \
+      --inputFile trees/denv3ReferencePhylogenyYale.tree NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/denv3ReferencePhylogenyYaleMidpointRerooted.tree NEWICK_BOOTSTRAPS
+
+	reroot-phylogeny \
+      --inputFile trees/denv4ReferencePhylogenyYale.tree NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/denv4ReferencePhylogenyYaleMidpointRerooted.tree NEWICK_BOOTSTRAPS
+
+    exit
+    
+  
+  # Export annotations
+  create module -f modules/denvFigTreeAnnotationExporter.xml
+  module denvFigTreeAnnotationExporter export figtree-annotation AL_UNC_DENV1_YALE -f trees/AL_UNC_DENV1_YALE.annotations.tsv
+  module denvFigTreeAnnotationExporter export figtree-annotation AL_UNC_DENV2_YALE -f trees/AL_UNC_DENV2_YALE.annotations.tsv
+  module denvFigTreeAnnotationExporter export figtree-annotation AL_UNC_DENV3_YALE -f trees/AL_UNC_DENV3_YALE.annotations.tsv
+  module denvFigTreeAnnotationExporter export figtree-annotation AL_UNC_DENV4_YALE -f trees/AL_UNC_DENV4_YALE.annotations.tsv
