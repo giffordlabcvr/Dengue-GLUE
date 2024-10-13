@@ -34,7 +34,7 @@
 		<displayName>Minor lineage</displayName>	
 		<whereClause>displayName like '2%' and clade_category = 'minor_lineage'</whereClause>
 		<distanceScalingExponent>-3.0</distanceScalingExponent>
-	    <distanceCutoff>0.025</distanceCutoff>
+	    <distanceCutoff>0.03</distanceCutoff>
 		<finalCladeCutoff>70.0</finalCladeCutoff>		
 	</cladeCategory>
 
@@ -43,9 +43,19 @@
 		<displayName>Minor sublineage</displayName>	
 		<whereClause>displayName like '2%' and clade_category = 'minor_sublineage'</whereClause>
 		<distanceScalingExponent>-3.0</distanceScalingExponent>
-	    <distanceCutoff>0.015</distanceCutoff>
+	    <distanceCutoff>0.025</distanceCutoff>
 		<finalCladeCutoff>70.0</finalCladeCutoff>		
 	</cladeCategory>
+
+	<cladeCategory>
+		<name>minor_subsublineage</name>	
+		<displayName>Minor subsublineage</displayName>	
+		<whereClause>displayName like '2%' and clade_category = 'minor_subsublineage'</whereClause>
+		<distanceScalingExponent>-3.0</distanceScalingExponent>
+	    <distanceCutoff>0.025</distanceCutoff>
+		<finalCladeCutoff>70.0</finalCladeCutoff>		
+	</cladeCategory>
+
 
 </maxLikelihoodGenotyper>
 
