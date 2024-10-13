@@ -7,10 +7,10 @@
     set field clade_category "minor_sublineage"
 
  	extract child AL_DENV_2II_A1.1.1 -r REF_DENV_2II_A.1.1.1_OP684207
-	demote member AL_DENV_2II_A1.1.1 --whereClause "sequence.minor_sublineage = '2II_A.1.1.1'"
+	demote member AL_DENV_2II_A1.1.1 --whereClause "sequence.minor_subsublineage = '2II_A.1.1.1'"
 
  	extract child AL_DENV_2II_A1.1.2 -r REF_DENV_2II_A.1.1.2_MH891768
-	demote member AL_DENV_2II_A1.1.2 --whereClause "sequence.minor_sublineage = '2II_A.1.1.2'"
+	demote member AL_DENV_2II_A1.1.2 --whereClause "sequence.minor_subsublineage = '2II_A.1.1.2'"
 
 	exit
 	
@@ -21,22 +21,22 @@
     set field clade_category "minor_sublineage"
 
  	extract child AL_DENV_2II_F1.1.1 -r REF_DENV_2II_F.1.1.1_OL414749
-	demote member AL_DENV_2II_F1.1.1 --whereClause "sequence.minor_sublineage = '2II_F.1.1.1'"
+	demote member AL_DENV_2II_F1.1.1 --whereClause "sequence.minor_subsublineage = '2II_F.1.1.1'"
 
  	extract child AL_DENV_2II_F1.1.2 -r REF_DENV_2II_F.1.1.2_OM744143
-	demote member AL_DENV_2II_F1.1.2 --whereClause "sequence.minor_sublineage = '2II_F.1.1.2'"
+	demote member AL_DENV_2II_F1.1.2 --whereClause "sequence.minor_subsublineage = '2II_F.1.1.2'"
 
  	extract child AL_DENV_2II_F1.1.3 -r REF_DENV_2II_F.1.1.3_PP564661
-	demote member AL_DENV_2II_F1.1.3 --whereClause "sequence.minor_sublineage = '2II_F.1.1.3'"
+	demote member AL_DENV_2II_F1.1.3 --whereClause "sequence.minor_subsublineage = '2II_F.1.1.3'"
 
  	extract child AL_DENV_2II_F1.1.4 -r REF_DENV_2II_F.1.1.4_PP411252
-	demote member AL_DENV_2II_F1.1.4 --whereClause "sequence.minor_sublineage = '2II_F.1.1.4'"
+	demote member AL_DENV_2II_F1.1.4 --whereClause "sequence.minor_subsublineage = '2II_F.1.1.4'"
 
  	extract child AL_DENV_2II_F1.1.5 -r REF_DENV_2II_F.1.1.5_PP326753
-	demote member AL_DENV_2II_F1.1.5 --whereClause "sequence.minor_sublineage = '2II_F.1.1.5'"
+	demote member AL_DENV_2II_F1.1.5 --whereClause "sequence.minor_subsublineage = '2II_F.1.1.5'"
 
  	extract child AL_DENV_2II_F1.1.6 -r REF_DENV_2II_F.1.1.6_PP082863
-	demote member AL_DENV_2II_F1.1.6 --whereClause "sequence.minor_sublineage = '2II_F.1.1.6'"
+	demote member AL_DENV_2II_F1.1.6 --whereClause "sequence.minor_subsublineage = '2II_F.1.1.6'"
 
 	exit
 
