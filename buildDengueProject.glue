@@ -9,7 +9,7 @@ project dengue
   run file glue/denvProjectSettings.glue
   run file glue/denvModules.glue
 
-  # Set up ISO countries  
+  # Set up M49 standard for country & region data
   run file glue/m49_countries/populateM49All.glue
 
   # Define dengue virus features

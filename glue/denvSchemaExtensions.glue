@@ -35,24 +35,19 @@ schema-project dengue
   #~# Alignment table extensions 
 
   table alignment
-  
     create field clade_category VARCHAR 20
     create field phylogeny CLOB
-    
     exit 
 
 
   table member_floc_note
-  
     create field ref_nt_coverage_pct DOUBLE
-    
     exit
 
 
   #~# Create schema extension for virus isolates
 
-  table isolate_data
-  
+  table isolate_data 
     create field isolate VARCHAR 100
     create field isolation_source VARCHAR 200
     create field molecule_type VARCHAR
@@ -69,7 +64,6 @@ schema-project dengue
   #~# Create schema extension for replacements
 
   table denv_replacement
-  
     create field display_name VARCHAR
     create field codon_label VARCHAR
     create field codon_label_int INTEGER
@@ -87,9 +81,7 @@ schema-project dengue
     create field parent_codon_label VARCHAR
     exit
 
-
   create link sequence isolate_data
-
   create link variation denv_replacement -m ONE_TO_ONE
   create link denv_replacement denv_replacement_sequence -m ONE_TO_MANY
   create link sequence denv_replacement_sequence -m ONE_TO_MANY
