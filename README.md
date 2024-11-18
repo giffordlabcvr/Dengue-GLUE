@@ -33,7 +33,7 @@ For more information please see the **[User Guide](https://github.com/giffordlab
 
 To begin using Dengue-GLUE for comparative genomic analysis, follow these steps:
 
-1. **Install GLUE**: First, install the GLUE software framework, which forms the foundation of Dengue-GLUE. You can either opt for a [Docker-based](https://github.com/giffordlabcvr/Dengue-GLUE/wiki/Docker-Installation) or [native installation](https://github.com/giffordlabcvr/Dengue-GLUE/wiki/Native-Installation) depending on your preferences and system setup.
+1. **Install GLUE**: First, install the GLUE software framework, which forms the foundation of Dengue-GLUE. You can either opt for a **[Docker-based](https://github.com/giffordlabcvr/Dengue-GLUE/wiki/Docker-Installation)** or **[native installation](https://github.com/giffordlabcvr/Dengue-GLUE/wiki/Native-Installation)** depending on your preferences and system setup.
 2. **Download and Install the Dengue-GLUE Project**: Dengue-GLUE can be installed as prebuilt database, or constructed from scratch via a local project build process. The prebuilt database allows for quick setup, while the local build process allows for more customization.
 
 Please see the **[User Guide](https://github.com/giffordlabcvr/Dengue-GLUE/wiki/Usage-Overview)** for guidance on usage.
