@@ -29,15 +29,14 @@ For more information please see the **[User Guide](https://github.com/giffordlab
 - **Exploratory and operational**: The GLUE framework allows sequence-based resources to be used for exploratory work in a research setting, as well as operational work in a public or animal health setting.
 
 
-## Installation
+## Getting Started
 
-Please see the **[User Guide](https://github.com/giffordlabcvr/Dengue-GLUE/wiki)**
+To begin using Dengue-GLUE for comparative genomic analysis, follow these steps:
 
-## Usage
+1. **Install GLUE**: First, install the GLUE software framework, which forms the foundation of Dengue-GLUE. You can either opt for a [[native installation]] or use [Docker](https://github.com/giffordlabcvr/Dengue-GLUE/wiki/Docker-Installation), depending on your preferences and system setup.
+2. **Download and Install the Dengue-GLUE Project**: Dengue-GLUE can be installed as prebuilt database, or constructed from scratch via a local project build process. The prebuilt database allows for quick setup, while the local build process allows for more customization.
 
-GLUE contains an interactive command line environment focused on the development and use of GLUE projects by bioinformaticians. This provides a range of productivity-oriented features such as automatic command completion, command history and interactive paging through tabular data. 
-
-For detailed instructions on how to use Dengue-GLUE for your comparative genomic analysis, refer to the GLUE's **[reference documentation](http://glue-tools.cvr.gla.ac.uk/)**.
+Please see the **[User Guide](https://github.com/giffordlabcvr/Dengue-GLUE/wiki/Usage-Overview)** for guidance on usage.
 
 ## Data Sources
 
