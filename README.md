@@ -13,6 +13,8 @@ Projects are loaded into the GLUE "engine," forming a relational database that r
 
 Dengue-GLUE contains DENV feature definitions, alignments, and reference sequences for all DENV serotypes and genotypes, as well as all major and minor lineages defined at **[dengue-lineages.org](https://dengue-lineages.org)**.
 
+For more details, please see the **[User Guide](https://github.com/giffordlabcvr/Dengue-GLUE/wiki)**.
+
 * * * * *
 
 ### Extension Layers
