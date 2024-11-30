@@ -1,4 +1,4 @@
-  # Delete modules
+  # Clean-up - delete pre-existing module instance if it exists
   delete module denvNucsRaxmlPhylogenyGenerator
   
   # Create all the modules we need
