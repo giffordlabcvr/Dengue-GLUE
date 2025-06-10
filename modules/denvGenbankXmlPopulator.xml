@@ -49,7 +49,7 @@
 			</propertyPopulator>
 		</gbQualifier>
 
-		<gbQualifier name="country">
+		<gbQualifier name="geo_loc_name">
 			<propertyPopulator property="isolate_data.country">
 				<matchPattern>([^:]+)</matchPattern>
 				<outputTemplate>${g1}</outputTemplate>
