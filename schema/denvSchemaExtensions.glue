@@ -23,9 +23,6 @@ schema-project dengue
     create field gb_create_date DATE
     create field gb_update_date DATE
     
-    # true if variations are present in the sequence
-    create field variation_present BOOLEAN
-
     exit
 
 
