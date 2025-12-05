@@ -2,7 +2,7 @@ delete project dengue
 
 create project dengue "A GLUE project for Dengue virus (DENV)" --minVersion 1.1.107
 
-run file glue/denvSchemaExtensions.glue
+run file schema/denvSchemaExtensions.glue
  
 project dengue
 
